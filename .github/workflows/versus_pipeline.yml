@@ -48,10 +48,20 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-versus-models-
 
+      - name: Cache Python Virtualenv
+        id: cache-venv
+        uses: actions/cache@v4
+        with:
+          path: .venv
+          key: ${{ runner.os }}-venv-${{ hashFiles('requirements.txt') }}
+
       - name: Install Python Dependencies
+        if: steps.cache-venv.outputs.cache-hit != 'true'
         run: |
+          python -m venv .venv
+          source .venv/bin/activate
           python -m pip install --upgrade pip --quiet
-          pip install --prefer-binary -r requirements.txt --quiet
+          pip install --prefer-binary --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt --quiet
 
       - name: Run Ingestion Pipeline
         env:
@@ -70,6 +80,7 @@ jobs:
           ENABLE_LOCAL_FALLBACK: 'true'
           DRY_RUN: 'false'
         run: |
+          source .venv/bin/activate
           python src/main.py
 
   # ============================================================================
