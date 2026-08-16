@@ -95,7 +95,12 @@ class LLMSynthesisEngine:
         now_iso = datetime.now(timezone.utc).isoformat()
 
         sorted_articles = sorted(cluster.articles, key=lambda a: a.credibility, reverse=True)
-        hero_image = getattr(sorted_articles[0], "hero_image_url", None) or "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1080&q=80"
+        first_img = getattr(sorted_articles[0], "hero_image_url", None)
+        if first_img and isinstance(first_img, str) and first_img.strip().startswith("http"):
+            hero_image = first_img.strip()
+        else:
+            from src.extractors.article_extractor import article_extractor
+            hero_image = article_extractor._get_category_fallback_image(cluster.category, article_id)
 
         perspectives_data = raw_json.get("perspectives", [])
         validated_perspectives: List[PerspectiveModel] = []
