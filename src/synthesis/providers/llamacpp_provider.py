@@ -1,6 +1,7 @@
 """
-Local Llama.cpp CPU Inference Provider (Llama-3.2-1B / Qwen2.5-1.5B GGUF).
+Local Llama.cpp CPU Inference Provider (Google Gemma / Llama / Qwen GGUF).
 Runs 100% offline on standard 2-vCPU / 7GB RAM GitHub Actions runners with zero cloud API keys.
+Supports Gemma 2/4-bit and 4B-class instruction-tuned models with automatic chat template adaptation.
 """
 
 from typing import Optional, Dict, Any
@@ -18,15 +19,25 @@ from src.synthesis.prompt_templates import (
 from src.utils.logger import logger
 
 MODEL_DIR = Path(".models")
-MODEL_FILENAME = "Llama-3.2-1B-Instruct-Q4_K_M.gguf"
-MODEL_URL = "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+
+# Default: Google Gemma 4-Bit Instruction-Tuned (Q4_K_M)
+DEFAULT_MODEL_FILENAME = os.getenv(
+    "LOCAL_GGUF_MODEL_FILENAME",
+    "gemma-2-2b-it-Q4_K_M.gguf"
+)
+DEFAULT_MODEL_URL = os.getenv(
+    "LOCAL_GGUF_MODEL_URL",
+    "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q4_K_M.gguf"
+)
 
 
 class LlamaCppProvider:
     def __init__(self):
         self._llm = None
         self._is_initialized = False
-        self.model_path = MODEL_DIR / MODEL_FILENAME
+        self.model_filename = DEFAULT_MODEL_FILENAME
+        self.model_url = DEFAULT_MODEL_URL
+        self.model_path = MODEL_DIR / self.model_filename
 
     @property
     def is_available(self) -> bool:
@@ -43,12 +54,12 @@ class LlamaCppProvider:
         MODEL_DIR.mkdir(parents=True, exist_ok=True)
         try:
             import urllib.request
-            logger.info(f"Downloading lightweight CPU model {MODEL_FILENAME} (~750MB)...")
-            urllib.request.urlretrieve(MODEL_URL, str(self.model_path))
-            logger.info("Model download complete.")
+            logger.info(f"Downloading Google Gemma GGUF model '{self.model_filename}' from {self.model_url}...")
+            urllib.request.urlretrieve(self.model_url, str(self.model_path))
+            logger.info("Gemma model download complete.")
             return True
         except Exception as e:
-            logger.warning(f"Could not download GGUF model: {e}")
+            logger.warning(f"Could not download Gemma GGUF model: {e}")
             return False
 
     def _init_llm(self) -> bool:
@@ -65,19 +76,19 @@ class LlamaCppProvider:
 
         try:
             from llama_cpp import Llama
-            logger.info(f"Loading {MODEL_FILENAME} into memory on 2 CPU threads...")
+            logger.info(f"Loading Gemma model '{self.model_filename}' into memory on 2 CPU threads...")
             self._llm = Llama(
                 model_path=str(self.model_path),
-                n_ctx=3072,
+                n_ctx=3584,
                 n_threads=2,
                 n_batch=512,
                 verbose=False
             )
             self._is_initialized = True
-            logger.info("Local llama.cpp model loaded successfully.")
+            logger.info("Local Gemma llama.cpp model loaded successfully.")
             return True
         except Exception as e:
-            logger.warning(f"Failed to load llama.cpp model: {e}")
+            logger.warning(f"Failed to load Gemma llama.cpp model: {e}")
             self._is_initialized = True
             self._llm = None
             return False
@@ -100,23 +111,23 @@ class LlamaCppProvider:
         ]
 
         try:
-            logger.info(f"Synthesizing cluster {cluster.cluster_id} via local llama.cpp CPU...")
+            logger.info(f"Synthesizing cluster {cluster.cluster_id} via local Gemma CPU...")
             response = self._llm.create_chat_completion(
                 messages=messages,
-                temperature=0.3,
+                temperature=0.25,
                 max_tokens=1024,
                 response_format={"type": "json_object"}
             )
 
             content = response["choices"][0]["message"]["content"].strip()
             
-            # Parse JSON
+            # Extract JSON
             match = re.search(r"\{[\s\S]*\}", content)
             if match:
                 return json.loads(match.group(0))
             return json.loads(content)
         except Exception as e:
-            logger.warning(f"llama.cpp local synthesis failed: {e}")
+            logger.warning(f"Gemma local synthesis failed: {e}")
             return None
 
 
