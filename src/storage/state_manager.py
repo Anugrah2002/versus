@@ -114,19 +114,37 @@ class StateManager:
         try:
             self._prune_expired_state()
             doc_ref = self._firestore_db.collection(settings.FIRESTORE_COLLECTION_SYSTEM).document("pipeline_state")
-            recent_hashes = list(self.seen_url_hashes)[-5000:]
+            recent_hashes = list(self.seen_url_hashes)[-3000:]
             
-            # Store state as compact JSON strings to prevent Firestore 40,000 index entry limits
+            # Compact active stories: round centroid vector floats to 4 decimals and cap to most recent 75
+            compact_active_stories = {}
+            # Sort active stories by published_at desc
+            sorted_stories = sorted(
+                self.active_stories.items(),
+                key=lambda item: item[1].published_at,
+                reverse=True
+            )[:75]
+
+            for k, v in sorted_stories:
+                story_dict = v.model_dump()
+                if story_dict.get("centroid_vector"):
+                    story_dict["centroid_vector"] = [round(x, 4) for x in story_dict["centroid_vector"]]
+                compact_active_stories[k] = story_dict
+
+            # Store state as compact JSON strings (< 200 KB total, far below Firestore 1MB document limit)
             payload = {
                 "seen_hashes_json": json.dumps(recent_hashes),
                 "feed_states_json": json.dumps(self.feed_states),
-                "active_stories_json": json.dumps({k: v.model_dump() for k, v in self.active_stories.items()}),
+                "active_stories_json": json.dumps(compact_active_stories),
                 "seen_hashes_count": len(self.seen_url_hashes),
-                "active_stories_count": len(self.active_stories),
+                "active_stories_count": len(compact_active_stories),
                 "last_synced_at": datetime.now(timezone.utc).isoformat()
             }
             doc_ref.set(payload)
-            logger.info(f"Saved pipeline state to Firestore _system/pipeline_state ({len(recent_hashes)} hashes, {len(self.active_stories)} active stories).")
+            logger.info(
+                f"Saved pipeline state to Firestore _system/pipeline_state "
+                f"({len(recent_hashes)} hashes, {len(compact_active_stories)} active stories, ~{len(json.dumps(payload)) // 1024} KB)."
+            )
         except Exception as e:
             logger.error(f"Failed to save state to Firestore: {e}")
 
@@ -143,6 +161,16 @@ class StateManager:
                 pass
         for k in expired_keys:
             del self.active_stories[k]
+
+        # Ensure active_stories memory footprint is bounded
+        if len(self.active_stories) > 100:
+            sorted_keys = sorted(
+                self.active_stories.keys(),
+                key=lambda k: self.active_stories[k].published_at,
+                reverse=True
+            )
+            for k in sorted_keys[100:]:
+                del self.active_stories[k]
 
     def is_url_seen(self, url_hash: str) -> bool:
         return url_hash in self.seen_url_hashes
