@@ -1,31 +1,64 @@
 """
 Local Rule-Based Heuristic Synthesizer (Zero-Cost Failsafe Fallback).
 Guarantees the ingestion pipeline never crashes even if offline or out of API quota.
+Extracts complete, grammatically sound lead sentences and key takeaways.
 """
 
 from typing import Dict, Any, List
+import re
 from src.storage.models import StoryCluster, ClusterClassification, ExtractedArticle
 from src.utils.logger import logger
 
 
 class LocalFallbackSynthesizer:
-    def _extract_lead_summary(self, body: str, max_words: int = 70) -> str:
-        words = body.split()
-        if len(words) <= max_words:
-            return body
-        return " ".join(words[:max_words]) + "."
+    def _split_into_sentences(self, text: str) -> List[str]:
+        cleaned = re.sub(r"\s+", " ", text).strip()
+        raw_sentences = re.split(r"(?<=[.!?])\s+", cleaned)
+        valid = []
+        for s in raw_sentences:
+            s_clean = s.strip()
+            if len(s_clean.split()) >= 5:
+                valid.append(s_clean)
+        return valid
+
+    def _extract_lead_summary(self, body: str, max_words: int = 75) -> str:
+        sentences = self._split_into_sentences(body)
+        if not sentences:
+            return body[:300].strip()
+
+        collected = []
+        total_words = 0
+
+        for s in sentences:
+            w_count = len(s.split())
+            if total_words + w_count <= max_words or not collected:
+                collected.append(s)
+                total_words += w_count
+            else:
+                break
+
+        return " ".join(collected)
 
     def _extract_key_points(self, body: str) -> List[str]:
-        sentences = [s.strip() for s in body.replace("\n", " ").split(".") if len(s.strip().split()) >= 6]
+        sentences = self._split_into_sentences(body)
         bullets = []
-        for s in sentences[:2]:
-            clean_bullet = s[:75].strip()
-            if not clean_bullet.endswith("."):
-                clean_bullet += "."
-            bullets.append(clean_bullet)
+        for s in sentences[1:4]:
+            if len(s) > 110:
+                # Trim at word boundary if sentence is excessively long
+                words = s.split()
+                truncated = " ".join(words[:14]) + "."
+                bullets.append(truncated)
+            else:
+                bullets.append(s)
+            if len(bullets) == 2:
+                break
+
+        if not bullets and sentences:
+            bullets.append(sentences[0])
 
         while len(bullets) < 2:
             bullets.append("Key analytical takeaway and operational overview.")
+
         return bullets[:2]
 
     def synthesize_cluster(self, cluster: StoryCluster) -> Dict[str, Any]:
@@ -39,7 +72,7 @@ class LocalFallbackSynthesizer:
         )
 
         title = primary.title
-        summary = self._extract_lead_summary(primary.cleaned_body, max_words=70)
+        summary = self._extract_lead_summary(primary.cleaned_body, max_words=75)
         divergence = 88 if is_debate else 0
         consensus = 12 if is_debate else 100
 
@@ -55,8 +88,8 @@ class LocalFallbackSynthesizer:
                 "sourceDomain": art_a.domain,
                 "biasTag": art_a.default_bias,
                 "sourceCredibility": art_a.credibility,
-                "stanceTitle": art_a.title[:85],
-                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=65),
+                "stanceTitle": art_a.title[:90],
+                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=70),
                 "keyPoints": self._extract_key_points(art_a.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
@@ -68,8 +101,8 @@ class LocalFallbackSynthesizer:
                 "sourceDomain": art_b.domain,
                 "biasTag": art_b.default_bias,
                 "sourceCredibility": art_b.credibility,
-                "stanceTitle": art_b.title[:85],
-                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=65),
+                "stanceTitle": art_b.title[:90],
+                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=70),
                 "keyPoints": self._extract_key_points(art_b.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
@@ -81,8 +114,8 @@ class LocalFallbackSynthesizer:
                 "sourceDomain": primary.domain,
                 "biasTag": primary.default_bias,
                 "sourceCredibility": primary.credibility,
-                "stanceTitle": primary.title[:85],
-                "summary": self._extract_lead_summary(primary.cleaned_body, max_words=65),
+                "stanceTitle": primary.title[:90],
+                "summary": self._extract_lead_summary(primary.cleaned_body, max_words=70),
                 "keyPoints": self._extract_key_points(primary.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
