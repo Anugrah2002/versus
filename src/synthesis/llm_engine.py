@@ -119,7 +119,7 @@ class LLMSynthesisEngine:
                     sourceDomain=p.get("sourceDomain", sorted_articles[min(idx, len(sorted_articles)-1)].domain),
                     biasTag=p.get("biasTag", sorted_articles[min(idx, len(sorted_articles)-1)].default_bias),
                     sourceCredibility=int(p.get("sourceCredibility", 92)),
-                    stanceTitle=p.get("stanceTitle", "")[:100],
+                    stanceTitle=(p.get("stanceTitle") or sorted_articles[min(idx, len(sorted_articles)-1)].title)[:250],
                     summary=p.get("summary", ""),
                     keyPoints=p.get("keyPoints", [])[:2],
                     quote=p.get("quote", ""),
