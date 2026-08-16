@@ -1,7 +1,7 @@
 """
 Local Rule-Based Heuristic Synthesizer (Zero-Cost Failsafe Fallback).
 Guarantees the ingestion pipeline never crashes even if offline or out of API quota.
-Extracts complete, grammatically sound lead sentences and key takeaways.
+Extracts complete, grammatically sound lead sentences and key takeaways (90-120 words).
 """
 
 from typing import Dict, Any, List
@@ -21,10 +21,10 @@ class LocalFallbackSynthesizer:
                 valid.append(s_clean)
         return valid
 
-    def _extract_lead_summary(self, body: str, max_words: int = 75) -> str:
+    def _extract_lead_summary(self, body: str, max_words: int = 115) -> str:
         sentences = self._split_into_sentences(body)
         if not sentences:
-            return body[:300].strip()
+            return body[:500].strip()
 
         collected = []
         total_words = 0
@@ -42,15 +42,14 @@ class LocalFallbackSynthesizer:
     def _extract_key_points(self, body: str) -> List[str]:
         sentences = self._split_into_sentences(body)
         bullets = []
-        for s in sentences[1:4]:
-            if len(s) > 110:
-                # Trim at word boundary if sentence is excessively long
+        for s in sentences[1:5]:
+            if len(s) > 130:
                 words = s.split()
-                truncated = " ".join(words[:14]) + "."
+                truncated = " ".join(words[:16]) + "."
                 bullets.append(truncated)
             else:
                 bullets.append(s)
-            if len(bullets) == 2:
+            if len(bullets) == 3:
                 break
 
         if not bullets and sentences:
@@ -59,7 +58,7 @@ class LocalFallbackSynthesizer:
         while len(bullets) < 2:
             bullets.append("Key analytical takeaway and operational overview.")
 
-        return bullets[:2]
+        return bullets[:3]
 
     def synthesize_cluster(self, cluster: StoryCluster) -> Dict[str, Any]:
         logger.info(f"Using local rule-based heuristic synthesizer for cluster {cluster.cluster_id}")
@@ -72,7 +71,7 @@ class LocalFallbackSynthesizer:
         )
 
         title = primary.title
-        summary = self._extract_lead_summary(primary.cleaned_body, max_words=75)
+        summary = self._extract_lead_summary(primary.cleaned_body, max_words=115)
         divergence = 88 if is_debate else 0
         consensus = 12 if is_debate else 100
 
@@ -89,7 +88,7 @@ class LocalFallbackSynthesizer:
                 "biasTag": art_a.default_bias,
                 "sourceCredibility": art_a.credibility,
                 "stanceTitle": art_a.title[:90],
-                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=70),
+                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=100),
                 "keyPoints": self._extract_key_points(art_a.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
@@ -102,7 +101,7 @@ class LocalFallbackSynthesizer:
                 "biasTag": art_b.default_bias,
                 "sourceCredibility": art_b.credibility,
                 "stanceTitle": art_b.title[:90],
-                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=70),
+                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=100),
                 "keyPoints": self._extract_key_points(art_b.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
@@ -115,23 +114,21 @@ class LocalFallbackSynthesizer:
                 "biasTag": primary.default_bias,
                 "sourceCredibility": primary.credibility,
                 "stanceTitle": primary.title[:90],
-                "summary": self._extract_lead_summary(primary.cleaned_body, max_words=70),
+                "summary": self._extract_lead_summary(primary.cleaned_body, max_words=100),
                 "keyPoints": self._extract_key_points(primary.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
             })
 
-        tags = [cluster.category.split("&")[0].strip(), "News", "Analysis"]
-
         return {
-            "title": title,
+            "title": title[:95],
             "summary": summary,
             "category": cluster.category,
             "divergenceScore": divergence,
             "consensusScore": consensus,
-            "tags": tags,
-            "perspectives": perspectives
+            "perspectives": perspectives,
+            "tags": [cluster.category, "Verified News", "Trending"]
         }
 
 
-local_fallback_synthesizer = LocalFallbackSynthesizer()
+fallback_synthesizer = LocalFallbackSynthesizer()

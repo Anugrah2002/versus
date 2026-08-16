@@ -120,7 +120,7 @@ class LLMSynthesisEngine:
         article = ArticleModel(
             id=article_id,
             title=raw_json.get("title", cluster.articles[0].title)[:120],
-            summary=raw_json.get("summary", "")[:700],
+            summary=raw_json.get("summary", "")[:1200],
             category=raw_json.get("category", cluster.category),
             publishedAt=now_iso,
             divergenceScore=divergence,
