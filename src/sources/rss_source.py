@@ -115,8 +115,7 @@ class RSSFeedSource(BaseFeedSource):
                         canonical_url = self._normalize_url(link)
                         url_hash = self._generate_url_hash(canonical_url)
 
-                        force_reprocess = os.getenv("FORCE_REPROCESS", "false").lower() in ("1", "true", "yes")
-                        if not force_reprocess and state_manager.is_url_seen(url_hash):
+                        if state_manager.is_url_seen(url_hash):
                             continue
 
                         title = entry.get("title", "").strip()
