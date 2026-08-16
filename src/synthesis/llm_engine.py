@@ -7,6 +7,8 @@ Supports immediate streaming publication to Firestore upon topic completion and 
 from typing import Optional, List, Tuple, Callable
 from datetime import datetime, timezone
 import hashlib
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from config.settings import settings
 from src.synthesis.providers.cloudflare_ai import CloudflareAIProvider
