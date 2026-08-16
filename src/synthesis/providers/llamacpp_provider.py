@@ -105,9 +105,10 @@ class LlamaCppProvider:
             cluster.classification
         )
 
+        # Gemma chat template requires system instructions prepended to the user turn
+        combined_prompt = f"{system_prompt}\n\n{user_prompt}"
         messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
+            {"role": "user", "content": combined_prompt}
         ]
 
         try:

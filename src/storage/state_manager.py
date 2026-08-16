@@ -240,7 +240,7 @@ class StateManager:
             centroid_vector=cluster.centroid_vector,
             domains=list(set(p.sourceDomain for p in article.perspectives)),
             is_single_perspective=article.isSinglePerspective,
-            published_at=article.publishedAt.isoformat()
+            published_at=article.publishedAt.isoformat() if hasattr(article.publishedAt, "isoformat") else str(article.publishedAt)
         )
 
     def register_active_story(self, article: ArticleModel, cluster: StoryCluster):
