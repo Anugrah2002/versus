@@ -4,6 +4,7 @@
 !.env.example
 serviceAccountKey.json
 firebase_credentials.json
+firebase_service_account.json
 *.pem
 *.key
 
