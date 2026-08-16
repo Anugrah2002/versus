@@ -138,6 +138,23 @@ class RSSFeedSource(BaseFeedSource):
 
                         raw_summary = entry.get("summary", entry.get("description", ""))
 
+                        # Extract image from RSS media_content, media_thumbnail, enclosures, or img tags
+                        rss_image_url = None
+                        if entry.get("media_content"):
+                            rss_image_url = entry.get("media_content", [{}])[0].get("url")
+                        elif entry.get("media_thumbnail"):
+                            rss_image_url = entry.get("media_thumbnail", [{}])[0].get("url")
+                        elif entry.get("enclosures"):
+                            for enc in entry.get("enclosures", []):
+                                if "image" in enc.get("type", "").lower() or enc.get("href", "").lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
+                                    rss_image_url = enc.get("href")
+                                    break
+
+                        if not rss_image_url and raw_summary:
+                            img_match = re.search(r'<img[^>]+src=["\'](https?://[^"\']+)["\']', raw_summary, re.IGNORECASE)
+                            if img_match:
+                                rss_image_url = img_match.group(1)
+
                         candidates.append(
                             RawCandidate(
                                 url=link,
@@ -150,7 +167,8 @@ class RSSFeedSource(BaseFeedSource):
                                 credibility=feed.credibility,
                                 default_bias=feed.defaultBias,
                                 published_at=published_at,
-                                raw_summary=raw_summary
+                                raw_summary=raw_summary,
+                                image_url=rss_image_url
                             )
                         )
 

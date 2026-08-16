@@ -44,6 +44,7 @@ try:
         default_bias: str
         published_at: Optional[datetime] = None
         raw_summary: str = ""
+        image_url: Optional[str] = None
         discovered_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
 
     class ExtractedArticle(BaseModel):
@@ -160,6 +161,7 @@ except ImportError:
         default_bias: str
         published_at: Optional[datetime] = None
         raw_summary: str = ""
+        image_url: Optional[str] = None
         discovered_at: datetime = field(default_factory=lambda: datetime.now(timezone.utc))
 
     @dataclass
