@@ -98,10 +98,14 @@ class LocalQwenAuditor:
         return self._evaluate_semantic_coherence(title, p1_title, p1_sum, p2_title, p2_sum)
 
     def _call_qwen_ollama(self, title: str, summary: str, p1_t: str, p1_s: str, p2_t: str, p2_s: str) -> Optional[Dict[str, Any]]:
-        prompt = f"""You are an elite editorial auditor for a news intelligence app.
-Analyze whether the two perspectives below belong to the SAME specific news event and present genuine contrasting viewpoints, or if they are two totally separate stories mistakenly grouped together.
+        prompt = f"""You are an elite editorial auditor for a news intelligence app called Versus.
+Versus features 'Dual Views' that provide multi-perspective coverage on news stories, controversies, policies, and ongoing global developments.
 
-Overall Story Title: {title}
+A valid Dual View includes:
+1. Perspectives on the same specific news event OR the same overarching policy/geopolitical/industry theme (e.g. India's Space Ambitions: Innovation & Lunar Missions vs Security/Geopolitical Risks; AI Regulation: Fostering Innovation vs Safety Concerns; Energy Transition: Green Tech Growth vs Grid Costs).
+2. Contrasting, balanced, or complementary angles (Positive vs Negative, Opportunities vs Risks, Pro vs Con, Domestic vs International).
+
+Story Title: {title}
 Main Summary: {summary}
 
 Perspective 1:
@@ -113,17 +117,17 @@ Title: {p2_t}
 Content: {p2_s}
 
 Decide one action:
-- "KEEP_DUAL": Both perspectives genuinely address the SAME core news story or controversy from different viewpoints.
-- "SPLIT_TO_BRIEFS": Perspectives describe two completely DIFFERENT unrelated news events (e.g. one is about sports, another about space).
-- "CONVERT_TO_BRIEF": Perspective 1 is valid, but Perspective 2 is redundant, off-topic, or too generic.
-- "DELETE": Content is spam, corrupted, or nonsensical.
+- "KEEP_DUAL": Both perspectives explore the same news topic, policy, entity, or theme from different or complementary angles (Positive vs Negative, Opportunities vs Risks, Pro vs Con).
+- "SPLIT_TO_BRIEFS": The two perspectives are about completely UNRELATED, disjointed subjects from different domains (e.g., one about Everest climbing, the other about residential housing mortgages).
+- "CONVERT_TO_BRIEF": One perspective is valid, but the other is empty, broken, gibberish, or < 15 words.
+- "DELETE": Both perspectives are spam, corrupted, or nonsensical.
 
 Respond ONLY with a JSON object:
 {{
   "is_coherent": true/false,
   "action": "KEEP_DUAL" | "SPLIT_TO_BRIEFS" | "CONVERT_TO_BRIEF" | "DELETE",
   "confidence": 0.0 - 1.0,
-  "reason": "Brief explanation of topic alignment or discrepancy"
+  "reason": "Brief explanation of topical alignment or mismatch"
 }}
 """
         req_data = {
@@ -142,12 +146,11 @@ Respond ONLY with a JSON object:
             with urllib.request.urlopen(req, timeout=15) as resp:
                 res = json.loads(resp.read().decode("utf-8"))
                 text = res.get("response", "").strip()
-                # Extract JSON block
                 json_match = re.search(r"\{.*\}", text, re.DOTALL)
                 if json_match:
                     parsed = json.loads(json_match.group(0))
                     return {
-                        "is_coherent": bool(parsed.get("is_coherent", False)),
+                        "is_coherent": bool(parsed.get("is_coherent", True)),
                         "action": parsed.get("action", DebateAuditAction.KEEP_DUAL),
                         "reason": parsed.get("reason", "Qwen audit judgment"),
                         "confidence": float(parsed.get("confidence", 0.9))
@@ -157,10 +160,10 @@ Respond ONLY with a JSON object:
         return None
 
     def _call_qwen_llamacpp(self, title: str, summary: str, p1_t: str, p1_s: str, p2_t: str, p2_s: str) -> Optional[Dict[str, Any]]:
-        prompt = f"""You are an elite editorial auditor for a news intelligence app.
-Analyze whether the two perspectives below belong to the SAME specific news event and present genuine contrasting viewpoints, or if they are two totally separate stories mistakenly grouped together.
+        prompt = f"""You are an elite editorial auditor for a news intelligence app called Versus.
+A valid Dual View explores the same event, policy, entity, or theme from different angles (Positive vs Negative, Opportunities vs Risks, Pro vs Con).
 
-Overall Story Title: {title}
+Story Title: {title}
 Main Summary: {summary}
 
 Perspective 1:
@@ -172,10 +175,10 @@ Title: {p2_t}
 Content: {p2_s}
 
 Decide one action:
-- "KEEP_DUAL": Both perspectives genuinely address the SAME core news story or controversy from different viewpoints.
-- "SPLIT_TO_BRIEFS": Perspectives describe two completely DIFFERENT unrelated news events.
-- "CONVERT_TO_BRIEF": Perspective 1 is valid, but Perspective 2 is redundant, off-topic, or too generic.
-- "DELETE": Content is spam, corrupted, or nonsensical.
+- "KEEP_DUAL": Both perspectives explore the same topic/theme/entity from different angles (e.g. Progress vs Risks, Pro vs Con).
+- "SPLIT_TO_BRIEFS": Perspectives describe completely UNRELATED subjects from different domains (e.g. Everest climbing vs Housing mortgages).
+- "CONVERT_TO_BRIEF": One perspective is valid, but the second is empty, broken, or < 15 words.
+- "DELETE": Spam or corrupted.
 
 Respond ONLY with a JSON object:
 {{"is_coherent": true/false, "action": "KEEP_DUAL"|"SPLIT_TO_BRIEFS"|"CONVERT_TO_BRIEF"|"DELETE", "confidence": 0.9, "reason": "Brief reason"}}
@@ -196,7 +199,7 @@ Respond ONLY with a JSON object:
             if json_match:
                 parsed = json.loads(json_match.group(0))
                 return {
-                    "is_coherent": bool(parsed.get("is_coherent", False)),
+                    "is_coherent": bool(parsed.get("is_coherent", True)),
                     "action": parsed.get("action", DebateAuditAction.KEEP_DUAL),
                     "reason": parsed.get("reason", "Qwen GGUF audit judgment"),
                     "confidence": float(parsed.get("confidence", 0.9))
@@ -208,11 +211,12 @@ Respond ONLY with a JSON object:
     def _evaluate_semantic_coherence(self, title: str, p1_t: str, p1_s: str, p2_t: str, p2_s: str) -> Dict[str, Any]:
         """High-precision entity and lexical topic overlap evaluator."""
         def extract_tokens(text: str) -> set:
-            words = re.findall(r"\b[a-zA-Z]{4,}\b", text.lower())
+            words = re.findall(r"\b[a-zA-Z]{3,}\b", text.lower())
             stop_words = {
                 "that", "this", "with", "from", "have", "were", "they", "will", "what", "when",
                 "where", "which", "about", "their", "there", "would", "could", "should", "other",
-                "after", "first", "state", "report", "news", "said", "says", "while", "also"
+                "after", "first", "state", "report", "news", "said", "says", "while", "also",
+                "into", "more", "over", "such", "than", "them", "then", "these", "some"
             }
             return set(w for w in words if w not in stop_words)
 
@@ -220,30 +224,22 @@ Respond ONLY with a JSON object:
         tokens_p1 = extract_tokens(f"{p1_t} {p1_s}")
         tokens_p2 = extract_tokens(f"{p2_t} {p2_s}")
 
-        # Check keyword intersection between perspectives
-        common_between_p1_p2 = tokens_p1.intersection(tokens_p2)
+        # Check keyword/entity intersections
+        common_p1_p2 = tokens_p1.intersection(tokens_p2)
         p1_title_overlap = tokens_title.intersection(tokens_p1)
         p2_title_overlap = tokens_title.intersection(tokens_p2)
 
-        # If Perspective 1 and Perspective 2 share meaningful entities or key concepts
-        if len(common_between_p1_p2) >= 2 or (len(p1_title_overlap) >= 2 and len(p2_title_overlap) >= 2):
+        # If both perspectives share concepts OR both connect to the story title theme
+        if len(common_p1_p2) >= 1 or (len(p1_title_overlap) >= 1 and len(p2_title_overlap) >= 1):
             return {
                 "is_coherent": True,
                 "action": DebateAuditAction.KEEP_DUAL,
-                "reason": f"Shared topical entities detected: {list(common_between_p1_p2)[:4]}",
+                "reason": f"Topical connection detected: {list(common_p1_p2 or (p1_title_overlap | p2_title_overlap))[:4]}",
                 "confidence": 0.92
             }
 
-        # Check if the title has "vs" or "and" linking two distinct items
-        if " vs " in title.lower() or " vs. " in title.lower():
-            return {
-                "is_coherent": False,
-                "action": DebateAuditAction.SPLIT_TO_BRIEFS,
-                "reason": "Title shows disjointed topic fusion without semantic entity overlap.",
-                "confidence": 0.88
-            }
-
-        if len(p1_title_overlap) >= 2 and len(p2_title_overlap) < 1:
+        # Check for completely disjointed topic indicators (e.g., fusion of 2 unrelated headlines)
+        if len(p1_title_overlap) >= 2 and len(p2_title_overlap) == 0 and len(common_p1_p2) == 0:
             return {
                 "is_coherent": False,
                 "action": DebateAuditAction.CONVERT_TO_BRIEF,
@@ -254,8 +250,8 @@ Respond ONLY with a JSON object:
         return {
             "is_coherent": True,
             "action": DebateAuditAction.KEEP_DUAL,
-            "reason": "Contextually acceptable debate structure.",
-            "confidence": 0.80
+            "reason": "Thematic multi-perspective alignment.",
+            "confidence": 0.82
         }
 
 
