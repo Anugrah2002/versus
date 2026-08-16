@@ -51,7 +51,7 @@ try:
         FIREBASE_SERVICE_ACCOUNT_PATH: Optional[str] = Field(default=None)
         FIREBASE_SERVICE_ACCOUNT_JSON: Optional[str] = Field(default=None)
         FIRESTORE_PROJECT_ID: Optional[str] = Field(default="versus-news")
-        FIRESTORE_COLLECTION_ARTICLES: str = Field(default="articles")
+        FIRESTORE_COLLECTION_ARTICLES: str = Field(default="articles_gemma_test")
         FIRESTORE_COLLECTION_SYSTEM: str = Field(default="_system")
 
         FEEDS_CONFIG_PATH: str = Field(default="config/feeds.yaml")
@@ -117,7 +117,7 @@ except ImportError:
             self.FIREBASE_SERVICE_ACCOUNT_PATH = os.getenv("FIREBASE_SERVICE_ACCOUNT_PATH")
             self.FIREBASE_SERVICE_ACCOUNT_JSON = os.getenv("FIREBASE_SERVICE_ACCOUNT_JSON")
             self.FIRESTORE_PROJECT_ID = os.getenv("FIRESTORE_PROJECT_ID", "versus-news")
-            self.FIRESTORE_COLLECTION_ARTICLES = os.getenv("FIRESTORE_COLLECTION_ARTICLES", "articles")
+            self.FIRESTORE_COLLECTION_ARTICLES = os.getenv("FIRESTORE_COLLECTION_ARTICLES", "articles_gemma_test")
             self.FIRESTORE_COLLECTION_SYSTEM = os.getenv("FIRESTORE_COLLECTION_SYSTEM", "_system")
 
             self.FEEDS_CONFIG_PATH = os.getenv("FEEDS_CONFIG_PATH", "config/feeds.yaml")

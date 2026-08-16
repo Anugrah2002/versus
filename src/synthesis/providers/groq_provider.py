@@ -17,7 +17,7 @@ class GroqAIProvider:
     def __init__(self):
         self.api_key = settings.GROQ_API_KEY
         self.model = settings.GROQ_MODEL
-        self._is_rate_limited = False
+        self._is_rate_limited = True
 
     @property
     def is_configured(self) -> bool:

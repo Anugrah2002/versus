@@ -19,8 +19,8 @@ class CloudflareAIProvider:
         self.account_id = settings.CLOUDFLARE_ACCOUNT_ID
         self.api_token = settings.CLOUDFLARE_API_TOKEN
         self.model = settings.CLOUDFLARE_AI_MODEL
-        self._is_rate_limited = False
-        self._rate_limit_reason = ""
+        self._is_rate_limited = True
+        self._rate_limit_reason = "Simulated 429 / Quota Exhaustion for Gemma Test"
 
     @property
     def is_configured(self) -> bool:
