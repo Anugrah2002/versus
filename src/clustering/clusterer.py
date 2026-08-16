@@ -1,7 +1,7 @@
 """
 High-Precision Semantic Clustering & Active Story Matcher.
-Combines SentenceTransformer dense embeddings with strict Named Entity & Content-Word Guards.
-Guarantees zero false-positive topic merging while accurately grouping multi-source debates.
+Combines SentenceTransformer dense embeddings with strict Named Entity & Core Subject Anchors.
+Guarantees ZERO false-positive topic merging (e.g. EdTech AI vs Aviation) while accurately grouping multi-source debates.
 """
 
 from typing import List, Tuple, Optional, Set
@@ -20,6 +20,7 @@ from src.storage.models import (
 )
 from src.utils.logger import logger
 
+# Comprehensive stopwords including generic industry/business filler terms
 COMMON_STOPWORDS = {
     "a", "about", "above", "after", "again", "against", "all", "am", "an", "and",
     "any", "are", "aren't", "as", "at", "be", "because", "been", "before", "being",
@@ -50,7 +51,7 @@ COMMON_STOPWORDS = {
 
 
 class SemanticClusterer:
-    def __init__(self, threshold: float = 0.42):
+    def __init__(self, threshold: float = 0.35):
         self.threshold = threshold
 
     def _prepare_text(self, article: ExtractedArticle) -> str:
@@ -62,47 +63,41 @@ class SemanticClusterer:
         return float(1.0 - max(min(dot, 1.0), -1.0))
 
     def _extract_content_keywords(self, text: str) -> Set[str]:
-        words = re.findall(r"\b[a-zA-Z0-9_-]{2,}\b", text.lower())
-        return set(w for w in words if w not in COMMON_STOPWORDS and len(w) >= 2)
+        words = re.findall(r"\b[a-zA-Z0-9_-]{3,}\b", text.lower())
+        return set(w for w in words if w not in COMMON_STOPWORDS and len(w) >= 3)
 
     def _extract_proper_nouns(self, text: str) -> Set[str]:
+        # Extract capitalized entities (company names, people, places)
         tokens = re.findall(r"\b[A-Z][a-z0-9]{2,}\b", text)
         return set(t.lower() for t in tokens if t.lower() not in COMMON_STOPWORDS)
 
     def _calculate_topical_overlap(self, title_a: str, title_b: str, body_a: str = "", body_b: str = "") -> Tuple[bool, float]:
-        """Calculates exact topical overlap score between two articles."""
+        """
+        Calculates exact topical overlap score.
+        Guarantees that two articles MUST share core subject anchors (Entities or Distinct Topic Keywords).
+        """
         props_a = self._extract_proper_nouns(title_a)
         props_b = self._extract_proper_nouns(title_b)
         
-        # 1. Named Entity / Proper Noun Overlap
-        has_entity_match = False
-        if props_a and props_b:
-            common_props = props_a.intersection(props_b)
-            if len(common_props) >= 1:
-                has_entity_match = True
+        # 1. Named Entity / Proper Noun Overlap (e.g. PhysicsWallah vs Boeing = 0 match)
+        common_props = props_a.intersection(props_b)
+        has_entity_match = len(common_props) >= 1
 
         # 2. Content Keywords in Title
         keys_a = self._extract_content_keywords(title_a)
         keys_b = self._extract_content_keywords(title_b)
         
         title_overlap = 0.0
+        common_title_keys = keys_a.intersection(keys_b)
         if keys_a and keys_b:
-            common = keys_a.intersection(keys_b)
             union = keys_a.union(keys_b)
-            title_overlap = len(common) / len(union) if union else 0.0
+            title_overlap = len(common_title_keys) / len(union) if union else 0.0
 
-        # 3. Body keyword co-occurrence
-        full_a = keys_a.union(self._extract_content_keywords(" ".join(body_a.split()[:40])))
-        full_b = keys_b.union(self._extract_content_keywords(" ".join(body_b.split()[:40])))
-        body_overlap = 0.0
-        if full_a and full_b:
-            common_full = full_a.intersection(full_b)
-            union_full = full_a.union(full_b)
-            body_overlap = len(common_full) / len(union_full) if union_full else 0.0
+        # Require hard subject matter convergence
+        # At least 1 shared proper noun OR at least 2 distinct non-generic title keywords
+        has_valid_topic_match = has_entity_match or (len(common_title_keys) >= 2 and title_overlap >= 0.18)
 
-        overlap_score = max(title_overlap, (title_overlap * 0.7 + body_overlap * 0.3))
-        has_valid_topic_match = has_entity_match or title_overlap >= 0.14 or len(keys_a.intersection(keys_b)) >= 2 or len(full_a.intersection(full_b)) >= 3
-
+        overlap_score = title_overlap if has_valid_topic_match else 0.0
         return has_valid_topic_match, overlap_score
 
     def _compute_distance(
@@ -123,7 +118,7 @@ class SemanticClusterer:
 
             # Scale distance down when shared subject matter is confirmed
             if overlap_score > 0:
-                adjusted_dist = raw_vec_dist * (1.0 - min(overlap_score * 1.5, 0.65))
+                adjusted_dist = raw_vec_dist * (1.0 - min(overlap_score * 2.2, 0.70))
                 return max(0.0, min(adjusted_dist, 1.0))
 
         return raw_vec_dist

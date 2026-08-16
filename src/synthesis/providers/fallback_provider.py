@@ -132,3 +132,4 @@ class LocalFallbackSynthesizer:
 
 
 fallback_synthesizer = LocalFallbackSynthesizer()
+local_fallback_synthesizer = fallback_synthesizer
