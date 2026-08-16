@@ -5,7 +5,7 @@ Calls Cloudflare Workers AI REST API directly with zero SDK dependencies.
 
 import json
 import re
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, Union
 
 from config.settings import settings
 from src.synthesis.prompt_templates import SYSTEM_PROMPT_DEBATE, SYSTEM_PROMPT_SINGLE, build_synthesis_prompt
@@ -23,9 +23,17 @@ class CloudflareAIProvider:
     def is_configured(self) -> bool:
         return bool(self.account_id and self.api_token)
 
-    def _extract_json_from_response(self, text: str) -> Optional[Dict[str, Any]]:
-        clean = re.sub(r"^```(?:json)?", "", text.strip(), flags=re.MULTILINE)
-        clean = re.sub(r"```$", "", clean.strip(), flags=re.MULTILINE)
+    def _extract_json_from_response(self, raw_input: Union[str, Dict[str, Any]]) -> Optional[Dict[str, Any]]:
+        if isinstance(raw_input, dict):
+            return raw_input
+
+        if not isinstance(raw_input, str):
+            return None
+
+        clean = raw_input.strip()
+        clean = re.sub(r"^```(?:json)?", "", clean, flags=re.MULTILINE)
+        clean = re.sub(r"```$", "", clean, flags=re.MULTILINE).strip()
+
         try:
             return json.loads(clean)
         except Exception:
@@ -65,21 +73,30 @@ class CloudflareAIProvider:
 
         try:
             import requests
-            response = requests.post(url, headers=headers, json=payload, timeout=20)
+            response = requests.post(url, headers=headers, json=payload, timeout=25)
             if response.status_code != 200:
                 logger.warning(f"Cloudflare AI returned HTTP {response.status_code}: {response.text[:150]}")
                 return None
 
             res_data = response.json()
-            result_text = res_data.get("result", {}).get("response", "")
-            if not result_text:
+            # Handle both result dict and result string
+            result_obj = res_data.get("result", {})
+            if isinstance(result_obj, dict):
+                result_data = result_obj.get("response", result_obj)
+            else:
+                result_data = result_obj
+
+            if not result_data:
                 return None
 
-            parsed_json = self._extract_json_from_response(result_text)
-            if parsed_json and "title" in parsed_json and "perspectives" in parsed_json:
+            parsed_json = self._extract_json_from_response(result_data)
+            if parsed_json and isinstance(parsed_json, dict) and "title" in parsed_json and "perspectives" in parsed_json:
                 return parsed_json
 
             return None
         except Exception as e:
             logger.warning(f"Cloudflare Workers AI call failed: {e}")
             return None
+
+
+cloudflare_ai = CloudflareAIProvider()
