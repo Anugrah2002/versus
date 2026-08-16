@@ -25,7 +25,7 @@ jobs:
   audit-dual-views:
     name: Qwen Dual-View Coherence & Quality Audit
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: Checkout Repository
@@ -62,8 +62,8 @@ jobs:
           LIMIT="${{ inputs.limit || '250' }}"
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             echo "Running in DRY-RUN mode (Limit: $LIMIT)..."
-            python scripts/audit_dual_views.py --dry-run --limit "$LIMIT"
+            python scripts/audit_dual_views.py --dry-run --limit "$LIMIT" --batch-size 15 --max-runtime 900
           else
             echo "Running in LIVE APPLY mode (Limit: $LIMIT)..."
-            python scripts/audit_dual_views.py --apply --limit "$LIMIT"
+            python scripts/audit_dual_views.py --apply --limit "$LIMIT" --batch-size 15 --max-runtime 900
           fi

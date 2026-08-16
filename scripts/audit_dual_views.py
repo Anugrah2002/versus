@@ -23,6 +23,8 @@ def main():
     parser.add_argument("--dry-run", action="store_true", default=False, help="Preview actions without modifying Firestore")
     parser.add_argument("--apply", action="store_true", default=False, help="Commit updates/deletions directly to Firestore")
     parser.add_argument("--limit", type=int, default=250, help="Maximum number of dual view articles to audit")
+    parser.add_argument("--batch-size", type=int, default=15, help="Number of documents to process per batch before committing to Firestore")
+    parser.add_argument("--max-runtime", type=int, default=800, help="Maximum execution time budget in seconds before graceful exit")
     parser.add_argument("--ollama-url", type=str, default="http://localhost:11434", help="Local Ollama endpoint URL")
 
     args = parser.parse_args()
@@ -34,7 +36,12 @@ def main():
     auditor = LocalQwenAuditor(ollama_url=args.ollama_url)
     workflow = FirestoreDebateAuditWorkflow(auditor=auditor)
 
-    stats = workflow.run_audit(dry_run=is_dry_run, limit=args.limit)
+    stats = workflow.run_audit(
+        dry_run=is_dry_run,
+        limit=args.limit,
+        batch_size=args.batch_size,
+        max_runtime_seconds=args.max_runtime
+    )
 
     if is_dry_run:
         print("\n[NOTE] Ran in DRY-RUN mode. No Firestore documents were modified.")

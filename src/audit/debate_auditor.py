@@ -263,10 +263,16 @@ class FirestoreDebateAuditWorkflow:
     def __init__(self, auditor: Optional[LocalQwenAuditor] = None):
         self.auditor = auditor or LocalQwenAuditor()
 
-    def run_audit(self, dry_run: bool = True, limit: int = 200) -> Dict[str, Any]:
+    def run_audit(
+        self,
+        dry_run: bool = True,
+        limit: int = 200,
+        batch_size: int = 15,
+        max_runtime_seconds: int = 800
+    ) -> Dict[str, Any]:
         """
-        Scans Firestore Dual View articles, evaluates coherence using Qwen,
-        and applies remediations (Convert to Brief, Split, Delete, or Keep).
+        Scans Firestore Dual View articles in batches, evaluates coherence with Qwen,
+        and applies batch writes to Firestore while gracefully respecting time budgets.
         """
         if not firestore_sync.initialize():
             logger.error("Failed to connect to Firestore.")
@@ -275,12 +281,26 @@ class FirestoreDebateAuditWorkflow:
         db = firestore_sync.db
         articles_col = db.collection("articles")
 
+        start_time = time.time()
         logger.info("=" * 65)
-        logger.info(f"🔎 Starting Qwen Dual-View Debate Quality Audit (Dry-Run: {dry_run})")
+        logger.info(f"🔎 Starting Qwen Dual-View Audit (Dry-Run: {dry_run}, Limit: {limit}, Batch Size: {batch_size})")
         logger.info("=" * 65)
 
-        docs = articles_col.where("isSinglePerspective", "==", False).limit(limit).stream()
-        
+        # 1. Eager Batch Read: Read all target docs into memory immediately to close gRPC stream
+        try:
+            logger.info("Fetching target dual-view documents from Firestore into memory...")
+            docs_stream = articles_col.where("isSinglePerspective", "==", False).limit(limit).stream()
+            all_docs = list(docs_stream)
+            total_docs = len(all_docs)
+            logger.info(f"Successfully loaded {total_docs} dual-view documents in memory.")
+        except Exception as e:
+            logger.error(f"Error fetching documents from Firestore: {e}")
+            return {"error": str(e)}
+
+        if not all_docs:
+            logger.info("No dual-view documents found to audit.")
+            return {"total_scanned": 0, "status": "completed"}
+
         stats = {
             "total_scanned": 0,
             "kept_dual": 0,
@@ -290,84 +310,123 @@ class FirestoreDebateAuditWorkflow:
             "actions_log": []
         }
 
-        for doc in docs:
-            stats["total_scanned"] += 1
-            doc_id = doc.id
-            d = doc.to_dict()
-            title = d.get("title", "")
-            summary = d.get("summary", "")
-            perspectives = d.get("perspectives", [])
+        # 2. Process documents in batches of `batch_size`
+        num_batches = (total_docs + batch_size - 1) // batch_size
+        logger.info(f"Processing {total_docs} documents across {num_batches} batches...")
 
-            # Evaluate with Qwen Auditor
-            evaluation = self.auditor.evaluate_debate_coherence(title, summary, perspectives)
-            action = evaluation["action"]
-            reason = evaluation["reason"]
+        for batch_idx in range(num_batches):
+            # Check time budget safety before starting the batch
+            elapsed = time.time() - start_time
+            if elapsed >= max_runtime_seconds:
+                logger.warning(
+                    f"⏱️ Time budget reached ({elapsed:.1f}s >= {max_runtime_seconds}s). "
+                    f"Stopping gracefully after {stats['total_scanned']} documents."
+                )
+                break
 
-            log_entry = {
-                "doc_id": doc_id,
-                "title": title[:55],
-                "action": action,
-                "reason": reason,
-                "confidence": evaluation.get("confidence", 0.0)
-            }
-            stats["actions_log"].append(log_entry)
+            batch_docs = all_docs[batch_idx * batch_size : (batch_idx + 1) * batch_size]
+            logger.info(f"\n--- 📦 Processing Batch {batch_idx + 1}/{num_batches} ({len(batch_docs)} articles) ---")
 
-            if action == DebateAuditAction.KEEP_DUAL:
-                stats["kept_dual"] += 1
-                logger.info(f"✅ [KEEP DUAL] [{doc_id}] {title[:48]}... (Reason: {reason})")
+            firestore_batch = db.batch()
+            has_pending_writes = False
 
-            elif action == DebateAuditAction.CONVERT_TO_BRIEF:
-                stats["converted_to_brief"] += 1
-                logger.warning(f"🔄 [CONVERT TO BRIEF] [{doc_id}] {title[:48]}... (Reason: {reason})")
-                if not dry_run:
-                    doc.reference.update({
-                        "isSinglePerspective": True,
-                        "divergenceScore": 0,
-                        "consensusScore": 100
-                    })
+            for doc in batch_docs:
+                doc_id = doc.id
+                stats["total_scanned"] += 1
+                try:
+                    d = doc.to_dict() or {}
+                    title = d.get("title", "")
+                    summary = d.get("summary", "")
+                    perspectives = d.get("perspectives", [])
 
-            elif action == DebateAuditAction.SPLIT_TO_BRIEFS:
-                stats["split_to_briefs"] += 1
-                logger.warning(f"✂️ [SPLIT TO BRIEFS] [{doc_id}] {title[:48]}... (Reason: {reason})")
-                if not dry_run:
-                    # Convert primary doc to brief
-                    doc.reference.update({
-                        "isSinglePerspective": True,
-                        "divergenceScore": 0,
-                        "consensusScore": 100
-                    })
-                    # Create second perspective as its own independent brief
-                    if len(perspectives) >= 2:
-                        p2 = perspectives[1]
-                        p2_id = f"{doc_id}_split"
-                        articles_col.document(p2_id).set({
-                            "id": p2_id,
-                            "title": p2.get("stanceTitle", title),
-                            "summary": p2.get("summary", summary),
-                            "category": d.get("category", "General"),
-                            "publishedAt": d.get("publishedAt", datetime.now(timezone.utc).isoformat()),
-                            "divergenceScore": 0,
-                            "consensusScore": 100,
-                            "heroImageUrl": d.get("heroImageUrl", ""),
-                            "isSinglePerspective": True,
-                            "perspectives": [p2],
-                            "tags": d.get("tags", []),
-                            "likesCount": 0,
-                            "commentsCount": 0,
-                            "sharesCount": 0,
-                            "bookmarksCount": 0,
-                            "readTimeMinutes": 2
-                        })
+                    # Individual LLM evaluation with local Qwen
+                    evaluation = self.auditor.evaluate_debate_coherence(title, summary, perspectives)
+                    action = evaluation["action"]
+                    reason = evaluation["reason"]
 
-            elif action == DebateAuditAction.DELETE:
-                stats["deleted"] += 1
-                logger.error(f"🗑️ [DELETE STUB] [{doc_id}] {title[:48]}... (Reason: {reason})")
-                if not dry_run:
-                    doc.reference.delete()
+                    log_entry = {
+                        "doc_id": doc_id,
+                        "title": title[:55],
+                        "action": action,
+                        "reason": reason,
+                        "confidence": evaluation.get("confidence", 0.0)
+                    }
+                    stats["actions_log"].append(log_entry)
 
+                    if action == DebateAuditAction.KEEP_DUAL:
+                        stats["kept_dual"] += 1
+                        logger.info(f"✅ [KEEP DUAL] [{doc_id}] {title[:48]}... (Reason: {reason})")
+
+                    elif action == DebateAuditAction.CONVERT_TO_BRIEF:
+                        stats["converted_to_brief"] += 1
+                        logger.warning(f"🔄 [CONVERT TO BRIEF] [{doc_id}] {title[:48]}... (Reason: {reason})")
+                        if not dry_run:
+                            firestore_batch.update(doc.reference, {
+                                "isSinglePerspective": True,
+                                "divergenceScore": 0,
+                                "consensusScore": 100
+                            })
+                            has_pending_writes = True
+
+                    elif action == DebateAuditAction.SPLIT_TO_BRIEFS:
+                        stats["split_to_briefs"] += 1
+                        logger.warning(f"✂️ [SPLIT TO BRIEFS] [{doc_id}] {title[:48]}... (Reason: {reason})")
+                        if not dry_run:
+                            # 1. Update primary doc in batch
+                            firestore_batch.update(doc.reference, {
+                                "isSinglePerspective": True,
+                                "divergenceScore": 0,
+                                "consensusScore": 100
+                            })
+                            # 2. Create second perspective as its own independent brief
+                            if len(perspectives) >= 2:
+                                p2 = perspectives[1]
+                                p2_id = f"{doc_id}_split"
+                                p2_ref = articles_col.document(p2_id)
+                                firestore_batch.set(p2_ref, {
+                                    "id": p2_id,
+                                    "title": p2.get("stanceTitle", title),
+                                    "summary": p2.get("summary", summary),
+                                    "category": d.get("category", "General"),
+                                    "publishedAt": d.get("publishedAt", datetime.now(timezone.utc).isoformat()),
+                                    "divergenceScore": 0,
+                                    "consensusScore": 100,
+                                    "heroImageUrl": d.get("heroImageUrl", ""),
+                                    "isSinglePerspective": True,
+                                    "perspectives": [p2],
+                                    "tags": d.get("tags", []),
+                                    "likesCount": 0,
+                                    "commentsCount": 0,
+                                    "sharesCount": 0,
+                                    "bookmarksCount": 0,
+                                    "readTimeMinutes": 2
+                                })
+                            has_pending_writes = True
+
+                    elif action == DebateAuditAction.DELETE:
+                        stats["deleted"] += 1
+                        logger.error(f"🗑️ [DELETE STUB] [{doc_id}] {title[:48]}... (Reason: {reason})")
+                        if not dry_run:
+                            firestore_batch.delete(doc.reference)
+                            has_pending_writes = True
+
+                except Exception as doc_err:
+                    logger.error(f"Error evaluating doc {doc_id}: {doc_err}")
+                    continue
+
+            # 3. Single Atomic Batch Write Call to Firestore
+            if not dry_run and has_pending_writes:
+                try:
+                    logger.info(f"💾 Committing Batch {batch_idx + 1} atomic updates to Firestore...")
+                    firestore_batch.commit()
+                    logger.info(f"✅ Batch {batch_idx + 1} committed successfully.")
+                except Exception as commit_err:
+                    logger.error(f"❌ Error committing batch {batch_idx + 1}: {commit_err}")
+
+        total_time = time.time() - start_time
         logger.info("=" * 65)
-        logger.info("📊 Qwen Dual-View Audit Summary:")
-        logger.info(f"  • Total Debates Scanned: {stats['total_scanned']}")
+        logger.info(f"📊 Qwen Dual-View Audit Summary (Completed in {total_time:.1f}s):")
+        logger.info(f"  • Total Debates Scanned: {stats['total_scanned']}/{total_docs}")
         logger.info(f"  • Authentic Debates Kept: {stats['kept_dual']}")
         logger.info(f"  • Converted to Briefs: {stats['converted_to_brief']}")
         logger.info(f"  • Disjointed Topics Split: {stats['split_to_briefs']}")
