@@ -25,6 +25,10 @@ from src.storage.firestore_sync import firestore_sync
 from src.utils.logger import logger
 
 
+from src.synthesis.providers.llamacpp_provider import LlamaCppProvider
+from src.synthesis.providers.fallback_provider import local_fallback_synthesizer
+
+
 class DebateAuditAction:
     KEEP_DUAL = "KEEP_DUAL"
     CONVERT_TO_BRIEF = "CONVERT_TO_BRIEF"
@@ -37,6 +41,7 @@ class LocalQwenAuditor:
         self.ollama_url = ollama_url
         self.model_name = model_name
         self._is_ollama_available = None
+        self.llamacpp = LlamaCppProvider()
 
     def check_ollama(self) -> bool:
         if self._is_ollama_available is not None:
@@ -46,13 +51,12 @@ class LocalQwenAuditor:
             with urllib.request.urlopen(req, timeout=2) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 models = [m.get("name", "") for m in data.get("models", [])]
-                # Check for any available qwen model or use first available
                 for m in models:
                     if "qwen" in m.lower():
                         self.model_name = m
                         break
                 self._is_ollama_available = True
-                logger.info(f"Connected to local Ollama. Using model: '{self.model_name}'")
+                logger.info(f"Connected to local Ollama synthesizer. Using model: '{self.model_name}'")
                 return True
         except Exception:
             self._is_ollama_available = False
@@ -78,13 +82,19 @@ class LocalQwenAuditor:
         p2_title = p2.get("stanceTitle", "")
         p2_sum = p2.get("summary", "")
 
-        # 1. First attempt: Local Qwen via Ollama if running
+        # 1. Primary: Local Qwen via Ollama (same local Qwen engine)
         if self.check_ollama():
             qwen_res = self._call_qwen_ollama(title, summary, p1_title, p1_sum, p2_title, p2_sum)
             if qwen_res:
                 return qwen_res
 
-        # 2. Heuristic Semantic Overlap Fallback (Zero dependency offline evaluator)
+        # 2. Secondary: Local Qwen via Llama.cpp GGUF
+        if self.llamacpp.is_available:
+            qwen_gguf_res = self._call_qwen_llamacpp(title, summary, p1_title, p1_sum, p2_title, p2_sum)
+            if qwen_gguf_res:
+                return qwen_gguf_res
+
+        # 3. Tertiary: Local Synthesizer Semantic & Entity Overlap Fallback
         return self._evaluate_semantic_coherence(title, p1_title, p1_sum, p2_title, p2_sum)
 
     def _call_qwen_ollama(self, title: str, summary: str, p1_t: str, p1_s: str, p2_t: str, p2_s: str) -> Optional[Dict[str, Any]]:
@@ -144,6 +154,55 @@ Respond ONLY with a JSON object:
                     }
         except Exception as e:
             logger.debug(f"Ollama Qwen call failed, falling back: {e}")
+        return None
+
+    def _call_qwen_llamacpp(self, title: str, summary: str, p1_t: str, p1_s: str, p2_t: str, p2_s: str) -> Optional[Dict[str, Any]]:
+        prompt = f"""You are an elite editorial auditor for a news intelligence app.
+Analyze whether the two perspectives below belong to the SAME specific news event and present genuine contrasting viewpoints, or if they are two totally separate stories mistakenly grouped together.
+
+Overall Story Title: {title}
+Main Summary: {summary}
+
+Perspective 1:
+Title: {p1_t}
+Content: {p1_s}
+
+Perspective 2:
+Title: {p2_t}
+Content: {p2_s}
+
+Decide one action:
+- "KEEP_DUAL": Both perspectives genuinely address the SAME core news story or controversy from different viewpoints.
+- "SPLIT_TO_BRIEFS": Perspectives describe two completely DIFFERENT unrelated news events.
+- "CONVERT_TO_BRIEF": Perspective 1 is valid, but Perspective 2 is redundant, off-topic, or too generic.
+- "DELETE": Content is spam, corrupted, or nonsensical.
+
+Respond ONLY with a JSON object:
+{{"is_coherent": true/false, "action": "KEEP_DUAL"|"SPLIT_TO_BRIEFS"|"CONVERT_TO_BRIEF"|"DELETE", "confidence": 0.9, "reason": "Brief reason"}}
+"""
+        try:
+            if not self.llamacpp._init_llm():
+                return None
+            res = self.llamacpp._llm.create_chat_completion(
+                messages=[
+                    {"role": "system", "content": "You are a precise editorial auditor. Respond only in strict JSON."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.1,
+                max_tokens=250
+            )
+            text = res["choices"][0]["message"]["content"].strip()
+            json_match = re.search(r"\{.*\}", text, re.DOTALL)
+            if json_match:
+                parsed = json.loads(json_match.group(0))
+                return {
+                    "is_coherent": bool(parsed.get("is_coherent", False)),
+                    "action": parsed.get("action", DebateAuditAction.KEEP_DUAL),
+                    "reason": parsed.get("reason", "Qwen GGUF audit judgment"),
+                    "confidence": float(parsed.get("confidence", 0.9))
+                }
+        except Exception as e:
+            logger.debug(f"Llama.cpp Qwen call failed, falling back: {e}")
         return None
 
     def _evaluate_semantic_coherence(self, title: str, p1_t: str, p1_s: str, p2_t: str, p2_s: str) -> Dict[str, Any]:
