@@ -50,7 +50,8 @@ async def run_pipeline(
     # Step 1: Ingest Feed Candidates
     source = MockFeedSource() if use_mock else RSSFeedSource()
     logger.info(f"Ingesting candidate articles from source: {source.name}...")
-    candidates = await source.fetch_candidates(state_manager, max_feeds=max_feeds)
+    effective_max_feeds = 10 if os.getenv("FORCE_REPROCESS", "false").lower() in ("1", "true", "yes") else max_feeds
+    candidates = await source.fetch_candidates(state_manager, max_feeds=effective_max_feeds)
 
     # Edge Case: Fast Exit when 0 new articles found
     if not candidates:

@@ -69,6 +69,7 @@ jobs:
           SIMILARITY_DISTANCE_THRESHOLD: '0.38'
           DATA_RETENTION_DAYS: '30'
           ENABLE_LOCAL_FALLBACK: 'true'
+          FORCE_REPROCESS: 'true'
           DRY_RUN: 'false'
         run: |
           python src/main.py
