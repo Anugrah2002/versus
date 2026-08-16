@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Versus Master Curated RSS Feeds (150+ Verticals)</title>
+    <dateCreated>2026-08-16T13:01:00+05:30</dateCreated>
+    <docs>https://versus.news</docs>
+  </head>
+  <body>
+    <!-- Trending & Breaking News -->
+    <outline text="Trending &amp; Breaking" title="Trending &amp; Breaking">
+      <outline type="rss" text="Hindustan Times Trending" xmlUrl="https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml" category="World Affairs" domain="hindustantimes.com" credibility="92" defaultBias="Trending News" />
+      <outline type="rss" text="NDTV Trending News" xmlUrl="https://feeds.feedburner.com/ndtvnews-trending-news" category="World Affairs" domain="ndtv.com" credibility="93" defaultBias="Trending &amp; Viral" />
+      <outline type="rss" text="NDTV Top Stories" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories" category="World Affairs" domain="ndtv.com" credibility="94" defaultBias="National Headlines" />
+      <outline type="rss" text="Times of India Top Stories" xmlUrl="https://timesofindia.indiatimes.com/rssfeedstopstories.cms" category="World Affairs" domain="timesofindia.indiatimes.com" credibility="90" defaultBias="Mainstream National" />
+      <outline type="rss" text="India Today Latest" xmlUrl="https://www.indiatoday.in/rss/home" category="World Affairs" domain="indiatoday.in" credibility="91" defaultBias="National Perspective" />
+      <outline type="rss" text="Indian Express National" xmlUrl="https://indianexpress.com/section/india/feed/" category="World Affairs" domain="indianexpress.com" credibility="95" defaultBias="Independent Journalism" />
+      <outline type="rss" text="Indian Express Explained" xmlUrl="https://indianexpress.com/section/explained/feed/" category="World Affairs" domain="indianexpress.com" credibility="96" defaultBias="Contextual Analysis" />
+      <outline type="rss" text="The Hindu National" xmlUrl="https://www.thehindu.com/news/national/feeder/default.rss" category="World Affairs" domain="thehindu.com" credibility="96" defaultBias="Public Interest" />
+      <outline type="rss" text="The Print" xmlUrl="https://theprint.in/feed/" category="World Affairs" domain="theprint.in" credibility="93" defaultBias="Policy &amp; Strategic" />
+      <outline type="rss" text="Scroll.in" xmlUrl="https://scroll.in/feed" category="World Affairs" domain="scroll.in" credibility="92" defaultBias="Critical &amp; Social" />
+      <outline type="rss" text="The Wire" xmlUrl="https://thewire.in/feed/" category="World Affairs" domain="thewire.in" credibility="91" defaultBias="Skeptical Critique" />
+    </outline>
+
+    <!-- Tech, AI & Startups -->
+    <outline text="Tech &amp; AI" title="Tech &amp; AI">
+      <outline type="rss" text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" category="Tech &amp; AI" domain="techcrunch.com" credibility="95" defaultBias="Innovation &amp; Growth" />
+      <outline type="rss" text="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" category="Tech &amp; AI" domain="theverge.com" credibility="94" defaultBias="Consumer Impact &amp; Culture" />
+      <outline type="rss" text="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" category="Tech &amp; AI" domain="arstechnica.com" credibility="96" defaultBias="Technical Depth &amp; Security" />
+      <outline type="rss" text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" category="Tech &amp; AI" domain="technologyreview.com" credibility="97" defaultBias="Academic Research" />
+      <outline type="rss" text="VentureBeat" xmlUrl="https://venturebeat.com/feed/" category="Tech &amp; AI" domain="venturebeat.com" credibility="92" defaultBias="Enterprise AI &amp; Capital" />
+      <outline type="rss" text="Wired Tech" xmlUrl="https://www.wired.com/feed/category/gear/latest/rss" category="Tech &amp; AI" domain="wired.com" credibility="94" defaultBias="Tech Society" />
+      <outline type="rss" text="Hacker News Best" xmlUrl="https://hnrss.org/best" category="Tech &amp; AI" domain="news.ycombinator.com" credibility="90" defaultBias="Open Source" />
+      <outline type="rss" text="Gizmodo" xmlUrl="https://gizmodo.com/feed" category="Tech &amp; AI" domain="gizmodo.com" credibility="90" defaultBias="Consumer Skepticism" />
+      <outline type="rss" text="CNET" xmlUrl="https://www.cnet.com/rss/news/" category="Tech &amp; AI" domain="cnet.com" credibility="92" defaultBias="Mainstream Tech" />
+      <outline type="rss" text="ZDNet" xmlUrl="https://www.zdnet.com/news/rss.xml" category="Tech &amp; AI" domain="zdnet.com" credibility="91" defaultBias="Enterprise Infrastructure" />
+      <outline type="rss" text="The Register" xmlUrl="https://www.theregister.com/headlines.atom" category="Tech &amp; AI" domain="theregister.com" credibility="92" defaultBias="Critical Tech" />
+      <outline type="rss" text="9to5Mac" xmlUrl="https://9to5mac.com/feed/" category="Tech &amp; AI" domain="9to5mac.com" credibility="92" defaultBias="Apple Ecosystem" />
+      <outline type="rss" text="9to5Google" xmlUrl="https://9to5google.com/feed/" category="Tech &amp; AI" domain="9to5google.com" credibility="92" defaultBias="Google Ecosystem" />
+      <outline type="rss" text="Tom's Hardware" xmlUrl="https://www.tomshardware.com/feeds/all" category="Tech &amp; AI" domain="tomshardware.com" credibility="93" defaultBias="Hardware Depth" />
+      <outline type="rss" text="Gadgets 360 NDTV" xmlUrl="https://feeds.feedburner.com/gadgets360-latest" category="Tech &amp; AI" domain="gadgets360.com" credibility="91" defaultBias="Hardware &amp; Apps" />
+      <outline type="rss" text="YourStory" xmlUrl="https://yourstory.com/feed" category="Tech &amp; AI" domain="yourstory.com" credibility="90" defaultBias="Startup Ecosystem" />
+      <outline type="rss" text="Inc42" xmlUrl="https://inc42.com/feed/" category="Tech &amp; AI" domain="inc42.com" credibility="90" defaultBias="VC &amp; Indian Tech" />
+      <outline type="rss" text="Entrackr" xmlUrl="https://entrackr.com/feed/" category="Tech &amp; AI" domain="entrackr.com" credibility="93" defaultBias="Financials &amp; Valuations" />
+      <outline type="rss" text="Medianama" xmlUrl="https://www.medianama.com/feed/" category="Tech &amp; AI" domain="medianama.com" credibility="95" defaultBias="Digital Policy" />
+      <outline type="rss" text="LiveMint Tech" xmlUrl="https://www.livemint.com/rss/technology" category="Tech &amp; AI" domain="livemint.com" credibility="93" defaultBias="Tech Business" />
+    </outline>
+
+    <!-- Work & Economy -->
+    <outline text="Work &amp; Economy" title="Work &amp; Economy">
+      <outline type="rss" text="LiveMint Economy" xmlUrl="https://www.livemint.com/rss/economy" category="Work &amp; Economy" domain="livemint.com" credibility="93" defaultBias="Indian Macro" />
+      <outline type="rss" text="Economic Times Economy" xmlUrl="https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms" category="Work &amp; Economy" domain="economictimes.indiatimes.com" credibility="92" defaultBias="Corporate Realism" />
+      <outline type="rss" text="Business Standard Economy" xmlUrl="https://www.business-standard.com/rss/economy-policy-102.rss" category="Work &amp; Economy" domain="business-standard.com" credibility="92" defaultBias="Macro Prudence" />
+      <outline type="rss" text="Moneycontrol Economy" xmlUrl="https://www.moneycontrol.com/rss/economy.xml" category="Work &amp; Economy" domain="moneycontrol.com" credibility="91" defaultBias="Market Momentum" />
+      <outline type="rss" text="Moneycontrol Markets" xmlUrl="https://www.moneycontrol.com/rss/marketreports.xml" category="Work &amp; Economy" domain="moneycontrol.com" credibility="91" defaultBias="Retail Investor" />
+      <outline type="rss" text="Financial Times" xmlUrl="https://www.ft.com/?format=rss" category="Work &amp; Economy" domain="ft.com" credibility="96" defaultBias="Global Capital" />
+      <outline type="rss" text="Bloomberg Markets" xmlUrl="https://feeds.bloomberg.com/markets/news.rss" category="Work &amp; Economy" domain="bloomberg.com" credibility="95" defaultBias="Institutional Finance" />
+      <outline type="rss" text="Reuters Business" xmlUrl="https://www.reutersagency.com/feed/?best-topics=business-finance&amp;post_type=best" category="Work &amp; Economy" domain="reuters.com" credibility="97" defaultBias="Factual Trade" />
+      <outline type="rss" text="Wall Street Journal Business" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" category="Work &amp; Economy" domain="wsj.com" credibility="95" defaultBias="Fiscal Focus" />
+      <outline type="rss" text="CNBC Economy" xmlUrl="https://www.cnbc.com/id/20910258/device/rss/rss.html" category="Work &amp; Economy" domain="cnbc.com" credibility="91" defaultBias="Investor Sentiment" />
+      <outline type="rss" text="Harvard Business Review" xmlUrl="https://feeds.hbr.org/harvardbusiness" category="Work &amp; Economy" domain="hbr.org" credibility="96" defaultBias="Workplace Strategy" />
+      <outline type="rss" text="Quartz Economy" xmlUrl="https://qz.com/feed" category="Work &amp; Economy" domain="qz.com" credibility="91" defaultBias="Future of Work" />
+      <outline type="rss" text="MarketWatch Top Stories" xmlUrl="https://feeds.content.dowjones.io/public/rss/mw_topstories" category="Work &amp; Economy" domain="marketwatch.com" credibility="92" defaultBias="Market Analysis" />
+      <outline type="rss" text="The Ken" xmlUrl="https://the-ken.com/feed/" category="Work &amp; Economy" domain="the-ken.com" credibility="95" defaultBias="Analytical Journalism" />
+    </outline>
+
+    <!-- Business & Policy -->
+    <outline text="Business &amp; Policy" title="Business &amp; Policy">
+      <outline type="rss" text="The Hindu Business Line" xmlUrl="https://www.thehindubusinessline.com/economy/policy/feeder/default.rss" category="Business &amp; Policy" domain="thehindubusinessline.com" credibility="94" defaultBias="Fiscal Balance" />
+      <outline type="rss" text="Financial Express Economy" xmlUrl="https://www.financialexpress.com/about/economy/feed/" category="Business &amp; Policy" domain="financialexpress.com" credibility="91" defaultBias="Industry Growth" />
+      <outline type="rss" text="NDTV Profit" xmlUrl="https://feeds.feedburner.com/ndtvprofit-latest" category="Business &amp; Policy" domain="ndtvprofit.com" credibility="92" defaultBias="Corporate Markets" />
+      <outline type="rss" text="Brookings Institution" xmlUrl="https://www.brookings.edu/feed/" category="Business &amp; Policy" domain="brookings.edu" credibility="96" defaultBias="Think Tank Policy" />
+      <outline type="rss" text="Observer Research Foundation" xmlUrl="https://www.orfonline.org/feed" category="Business &amp; Policy" domain="orfonline.org" credibility="94" defaultBias="Foreign Policy" />
+      <outline type="rss" text="The Economist Finance" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" category="Business &amp; Policy" domain="economist.com" credibility="96" defaultBias="Free Market" />
+      <outline type="rss" text="Business Today" xmlUrl="https://www.businesstoday.in/rssfeeds/?id=home" category="Business &amp; Policy" domain="businesstoday.in" credibility="90" defaultBias="Corporate Policy" />
+    </outline>
+
+    <!-- Space & Science -->
+    <outline text="Space &amp; Science" title="Space &amp; Science">
+      <outline type="rss" text="NASA Breaking News" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" category="Space &amp; Science" domain="nasa.gov" credibility="99" defaultBias="Official Space" />
+      <outline type="rss" text="Space.com" xmlUrl="https://www.space.com/feeds/all" category="Space &amp; Science" domain="space.com" credibility="93" defaultBias="Aerospace" />
+      <outline type="rss" text="Nature News" xmlUrl="https://www.nature.com/nature.rss" category="Space &amp; Science" domain="nature.com" credibility="99" defaultBias="Peer-Reviewed Science" />
+      <outline type="rss" text="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml" category="Space &amp; Science" domain="sciencedaily.com" credibility="94" defaultBias="Research Breakthroughs" />
+      <outline type="rss" text="New Scientist" xmlUrl="https://www.newscientist.com/feed/home/?cmpid=RSS|NSNS" category="Space &amp; Science" domain="newscientist.com" credibility="94" defaultBias="Science Exploration" />
+      <outline type="rss" text="Scientific American" xmlUrl="https://www.scientificamerican.com/feed/rss/" category="Space &amp; Science" domain="scientificamerican.com" credibility="95" defaultBias="Science &amp; Society" />
+      <outline type="rss" text="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed/" category="Space &amp; Science" domain="quantamagazine.org" credibility="98" defaultBias="Fundamental Physics" />
+      <outline type="rss" text="The Hindu Sci-Tech" xmlUrl="https://www.thehindu.com/sci-tech/feeder/default.rss" category="Space &amp; Science" domain="thehindu.com" credibility="95" defaultBias="Scientific Reporting" />
+      <outline type="rss" text="Down To Earth Science" xmlUrl="https://www.downtoearth.org.in/rss/science-technology" category="Space &amp; Science" domain="downtoearth.org.in" credibility="93" defaultBias="Ecological Science" />
+    </outline>
+
+    <!-- Automotive & Energy -->
+    <outline text="Automotive &amp; Energy" title="Automotive &amp; Energy">
+      <outline type="rss" text="Electrek" xmlUrl="https://electrek.co/feed/" category="Automotive &amp; Energy" domain="electrek.co" credibility="92" defaultBias="EV Adoption" />
+      <outline type="rss" text="CleanTechnica" xmlUrl="https://cleantechnica.com/feed/" category="Automotive &amp; Energy" domain="cleantechnica.com" credibility="91" defaultBias="Renewable Momentum" />
+      <outline type="rss" text="Autocar India" xmlUrl="https://www.autocarindia.com/rss/news" category="Automotive &amp; Energy" domain="autocarindia.com" credibility="92" defaultBias="Automotive &amp; Consumer" />
+      <outline type="rss" text="InsideEVs" xmlUrl="https://insideevs.com/rss/news/all/" category="Automotive &amp; Energy" domain="insideevs.com" credibility="91" defaultBias="EV Technology" />
+      <outline type="rss" text="OilPrice Energy" xmlUrl="https://oilprice.com/rss/main" category="Automotive &amp; Energy" domain="oilprice.com" credibility="90" defaultBias="Traditional Energy" />
+      <outline type="rss" text="Canary Media" xmlUrl="https://www.canarymedia.com/rss" category="Automotive &amp; Energy" domain="canarymedia.com" credibility="94" defaultBias="Clean Grid" />
+      <outline type="rss" text="HT Auto" xmlUrl="https://auto.hindustantimes.com/rss/news" category="Automotive &amp; Energy" domain="hindustantimes.com" credibility="91" defaultBias="Auto Launch" />
+      <outline type="rss" text="ZigWheels" xmlUrl="https://www.zigwheels.com/rss/news.xml" category="Automotive &amp; Energy" domain="zigwheels.com" credibility="90" defaultBias="Auto Review" />
+    </outline>
+
+    <!-- World Affairs & Geopolitics -->
+    <outline text="World Affairs" title="World Affairs">
+      <outline type="rss" text="Foreign Policy" xmlUrl="https://foreignpolicy.com/feed/" category="World Affairs" domain="foreignpolicy.com" credibility="95" defaultBias="Strategic Diplomacy" />
+      <outline type="rss" text="Foreign Affairs" xmlUrl="https://www.foreignaffairs.com/rss.xml" category="World Affairs" domain="foreignaffairs.com" credibility="97" defaultBias="Global Order" />
+      <outline type="rss" text="Al Jazeera English" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" category="World Affairs" domain="aljazeera.com" credibility="91" defaultBias="Regional Stance" />
+      <outline type="rss" text="The Diplomat" xmlUrl="https://thediplomat.com/feed/" category="World Affairs" domain="thediplomat.com" credibility="94" defaultBias="Asia-Pacific" />
+      <outline type="rss" text="The Hindu World" xmlUrl="https://www.thehindu.com/news/international/feeder/default.rss" category="World Affairs" domain="thehindu.com" credibility="95" defaultBias="Diplomacy" />
+      <outline type="rss" text="AP News World" xmlUrl="https://apnews.com/hub/world-news.rss" category="World Affairs" domain="apnews.com" credibility="98" defaultBias="Wire Neutral" />
+      <outline type="rss" text="Reuters World" xmlUrl="https://www.reutersagency.com/feed/?best-topics=world-at-large&amp;post_type=best" category="World Affairs" domain="reuters.com" credibility="97" defaultBias="Global Wire" />
+      <outline type="rss" text="Council on Foreign Relations" xmlUrl="https://www.cfr.org/rss.xml" category="World Affairs" domain="cfr.org" credibility="96" defaultBias="International Law" />
+      <outline type="rss" text="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" category="World Affairs" domain="dw.com" credibility="94" defaultBias="European Global" />
+      <outline type="rss" text="The Guardian World" xmlUrl="https://www.theguardian.com/world/rss" category="World Affairs" domain="theguardian.com" credibility="94" defaultBias="Progressive Global" />
+    </outline>
+  </body>
+</opml>

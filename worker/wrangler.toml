@@ -1,0 +1,12 @@
+name = "versus-edge-api"
+main = "src/index.ts"
+compatibility_date = "2024-02-01"
+
+[vars]
+FIREBASE_PROJECT_ID = "versus-news"
+CACHE_TTL_SECONDS = "300" # 5 minutes edge cache
+
+# Optional KV namespace for ultra-fast snapshot caching if desired
+# [[kv_namespaces]]
+# binding = "FEED_CACHE_KV"
+# id = "your_kv_namespace_id"

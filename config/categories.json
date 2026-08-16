@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "id": "tech_ai",
+      "name": "Tech & AI",
+      "slug": "tech-ai",
+      "description": "Artificial Intelligence, Quantum Computing, Chips, Software & Big Tech",
+      "accentColor": "#00F0FF",
+      "keywords": ["ai", "artificial intelligence", "data center", "gpu", "nvidia", "apple", "google", "meta", "microsoft", "openai", "semiconductor", "quantum", "software", "cybersecurity", "robotics"]
+    },
+    {
+      "id": "work_economy",
+      "name": "Work & Economy",
+      "slug": "work-economy",
+      "description": "Employment, Remote Work, Corporate Strategy, Macroeconomics & Labor",
+      "accentColor": "#FF007A",
+      "keywords": ["work", "jobs", "labor", "economy", "inflation", "gdp", "rbi", "fed", "recession", "layoffs", "remote work", "4-day work week", "salaries", "startups", "unemployment"]
+    },
+    {
+      "id": "business_policy",
+      "name": "Business & Policy",
+      "slug": "business-policy",
+      "description": "Government Regulations, Subsidies, Trade, Taxes & Corporate Law",
+      "accentColor": "#FFB800",
+      "keywords": ["policy", "regulation", "subsidy", "trade", "tariffs", "antitrust", "ftc", "sec", "corporate", "mergers", "finance", "tax", "banking", "markets"]
+    },
+    {
+      "id": "space_science",
+      "name": "Space & Science",
+      "slug": "space-science",
+      "description": "Space Exploration, Astronomy, Physics, Biology & Scientific Discovery",
+      "accentColor": "#00E5A3",
+      "keywords": ["isro", "nasa", "space", "satellite", "moon", "mars", "rocket", "physics", "telescope", "james webb", "astronomy", "dna", "crispr", "genetics", "scientific"]
+    },
+    {
+      "id": "automotive_energy",
+      "name": "Automotive & Energy",
+      "slug": "automotive-energy",
+      "description": "Electric Vehicles, Clean Energy, Power Grids, Oil & Nuclear Power",
+      "accentColor": "#7000FF",
+      "keywords": ["ev", "electric vehicles", "battery", "lithium", "solar", "wind", "nuclear", "power grid", "clean energy", "oil", "renewables", "tesla", "automotive"]
+    },
+    {
+      "id": "world_affairs",
+      "name": "World Affairs",
+      "slug": "world-affairs",
+      "description": "Geopolitics, Global Treaties, International Security & Diplomacy",
+      "accentColor": "#FF3366",
+      "keywords": ["geopolitics", "diplomacy", "treaty", "un", "nato", "trade deal", "foreign policy", "global security", "sanctions", "bilateral", "defense"]
+    },
+    {
+      "id": "science_society",
+      "name": "Science & Society",
+      "slug": "science-society",
+      "description": "Healthcare, Public Health, Bioethics, Social Trends & Education",
+      "accentColor": "#00C2FF",
+      "keywords": ["health", "medicine", "pharma", "clinical trial", "vaccine", "bioethics", "mental health", "education", "lifestyle", "society"]
+    }
+  ]
+}

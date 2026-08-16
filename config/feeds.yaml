@@ -1,0 +1,761 @@
+# ==============================================================================
+# Versus Master Curated RSS Feeds Catalog (150+ Feeds Across All Verticals)
+# Ingested concurrently with ETag caching, domain semaphores, and jitter.
+# ==============================================================================
+
+feeds:
+  # ============================================================================
+  # 1. Trending, National & Breaking News (India & Global)
+  # ============================================================================
+  - name: Hindustan Times Trending
+    url: https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml
+    domain: hindustantimes.com
+    category: World Affairs
+    credibility: 92
+    defaultBias: Trending News
+
+  - name: NDTV Trending News
+    url: https://feeds.feedburner.com/ndtvnews-trending-news
+    domain: ndtv.com
+    category: World Affairs
+    credibility: 93
+    defaultBias: Trending & Viral
+
+  - name: NDTV Top Stories
+    url: https://feeds.feedburner.com/ndtvnews-top-stories
+    domain: ndtv.com
+    category: World Affairs
+    credibility: 94
+    defaultBias: National Headlines
+
+  - name: Times of India Top Stories
+    url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+    domain: timesofindia.indiatimes.com
+    category: World Affairs
+    credibility: 90
+    defaultBias: Mainstream National
+
+  - name: India Today Latest
+    url: https://www.indiatoday.in/rss/home
+    domain: indiatoday.in
+    category: World Affairs
+    credibility: 91
+    defaultBias: National Perspective
+
+  - name: Indian Express National
+    url: https://indianexpress.com/section/india/feed/
+    domain: indianexpress.com
+    category: World Affairs
+    credibility: 95
+    defaultBias: Independent Journalism
+
+  - name: Indian Express Explained
+    url: https://indianexpress.com/section/explained/feed/
+    domain: indianexpress.com
+    category: World Affairs
+    credibility: 96
+    defaultBias: Contextual In-Depth Analysis
+
+  - name: The Hindu National
+    url: https://www.thehindu.com/news/national/feeder/default.rss
+    domain: thehindu.com
+    category: World Affairs
+    credibility: 96
+    defaultBias: Public Interest & Editorial
+
+  - name: Deccan Herald News
+    url: https://www.deccanherald.com/rss/national.rss
+    domain: deccanherald.com
+    category: World Affairs
+    credibility: 92
+    defaultBias: Regional & National Stance
+
+  - name: Firstpost Latest
+    url: https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml
+    domain: firstpost.com
+    category: World Affairs
+    credibility: 90
+    defaultBias: Commentary & Politics
+
+  - name: Outlook India
+    url: https://www.outlookindia.com/rss/national
+    domain: outlookindia.com
+    category: World Affairs
+    credibility: 91
+    defaultBias: Investigative & Social
+
+  - name: The Print
+    url: https://theprint.in/feed/
+    domain: theprint.in
+    category: World Affairs
+    credibility: 93
+    defaultBias: Policy & Strategic Angles
+
+  - name: Scroll.in
+    url: https://scroll.in/feed
+    domain: scroll.in
+    category: World Affairs
+    credibility: 92
+    defaultBias: Critical & Social Stance
+
+  - name: The Wire India
+    url: https://thewire.in/feed/
+    domain: thewire.in
+    category: World Affairs
+    credibility: 91
+    defaultBias: Skeptical Public Critique
+
+  - name: News18 Top Stories
+    url: https://www.news18.com/commonfeeds/v1/eng/rss/india.xml
+    domain: news18.com
+    category: World Affairs
+    credibility: 90
+    defaultBias: Breaking News Stream
+
+  - name: BBC India
+    url: https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+    domain: bbc.co.uk
+    category: World Affairs
+    credibility: 95
+    defaultBias: International Overview
+
+  # ============================================================================
+  # 2. Tech, AI & Startups
+  # ============================================================================
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+    domain: techcrunch.com
+    category: Tech & AI
+    credibility: 95
+    defaultBias: Innovation & Growth
+
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    domain: theverge.com
+    category: Tech & AI
+    credibility: 94
+    defaultBias: Consumer Impact & Culture
+
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    domain: arstechnica.com
+    category: Tech & AI
+    credibility: 96
+    defaultBias: Technical Depth & Security
+
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    domain: technologyreview.com
+    category: Tech & AI
+    credibility: 97
+    defaultBias: Academic Research & Ethics
+
+  - name: VentureBeat
+    url: https://venturebeat.com/feed/
+    domain: venturebeat.com
+    category: Tech & AI
+    credibility: 92
+    defaultBias: Enterprise AI & Capital
+
+  - name: Wired Tech
+    url: https://www.wired.com/feed/category/gear/latest/rss
+    domain: wired.com
+    category: Tech & AI
+    credibility: 94
+    defaultBias: Tech Society & Philosophy
+
+  - name: Hacker News Best
+    url: https://hnrss.org/best
+    domain: news.ycombinator.com
+    category: Tech & AI
+    credibility: 90
+    defaultBias: Engineering & Open Source
+
+  - name: IEEE Spectrum
+    url: https://spectrum.ieee.org/rss/fulltext
+    domain: spectrum.ieee.org
+    category: Tech & AI
+    credibility: 98
+    defaultBias: Engineering & Systems
+
+  - name: Engadget
+    url: https://www.engadget.com/rss.xml
+    domain: engadget.com
+    category: Tech & AI
+    credibility: 91
+    defaultBias: Hardware & Gadgets
+
+  - name: Gizmodo
+    url: https://gizmodo.com/feed
+    domain: gizmodo.com
+    category: Tech & AI
+    credibility: 90
+    defaultBias: Consumer Skepticism
+
+  - name: CNET News
+    url: https://www.cnet.com/rss/news/
+    domain: cnet.com
+    category: Tech & AI
+    credibility: 92
+    defaultBias: Mainstream Tech
+
+  - name: ZDNet
+    url: https://www.zdnet.com/news/rss.xml
+    domain: zdnet.com
+    category: Tech & AI
+    credibility: 91
+    defaultBias: Enterprise Infrastructure
+
+  - name: The Register
+    url: https://www.theregister.com/headlines.atom
+    domain: theregister.com
+    category: Tech & AI
+    credibility: 92
+    defaultBias: Critical Tech Skepticism
+
+  - name: Techmeme
+    url: https://www.techmeme.com/feed.xml
+    domain: techmeme.com
+    category: Tech & AI
+    credibility: 95
+    defaultBias: Industry Aggregation
+
+  - name: Rest of World
+    url: https://restofworld.org/feed/
+    domain: restofworld.org
+    category: Tech & AI
+    credibility: 94
+    defaultBias: Global South Tech Impact
+
+  - name: 9to5Mac
+    url: https://9to5mac.com/feed/
+    domain: 9to5mac.com
+    category: Tech & AI
+    credibility: 92
+    defaultBias: Apple Ecosystem Focus
+
+  - name: 9to5Google
+    url: https://9to5google.com/feed/
+    domain: 9to5google.com
+    category: Tech & AI
+    credibility: 92
+    defaultBias: Android & Google Ecosystem
+
+  - name: Android Central
+    url: https://www.androidcentral.com/feed
+    domain: androidcentral.com
+    category: Tech & AI
+    credibility: 90
+    defaultBias: Mobile OS & Devices
+
+  - name: Tom's Hardware
+    url: https://www.tomshardware.com/feeds/all
+    domain: tomshardware.com
+    category: Tech & AI
+    credibility: 93
+    defaultBias: Hardware Benchmark Depth
+
+  - name: AnandTech
+    url: https://www.anandtech.com/rss/
+    domain: anandtech.com
+    category: Tech & AI
+    credibility: 96
+    defaultBias: Silicon & Architecture
+
+  - name: Gadgets 360 NDTV
+    url: https://feeds.feedburner.com/gadgets360-latest
+    domain: gadgets360.com
+    category: Tech & AI
+    credibility: 91
+    defaultBias: Consumer Hardware & Apps
+
+  - name: Economic Times Tech
+    url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+    domain: economictimes.indiatimes.com
+    category: Tech & AI
+    credibility: 92
+    defaultBias: Indian Tech & Startups
+
+  - name: YourStory
+    url: https://yourstory.com/feed
+    domain: yourstory.com
+    category: Tech & AI
+    credibility: 90
+    defaultBias: Startup Ecosystem
+
+  - name: Inc42
+    url: https://inc42.com/feed/
+    domain: inc42.com
+    category: Tech & AI
+    credibility: 90
+    defaultBias: VC & Indian Tech
+
+  - name: Entrackr
+    url: https://entrackr.com/feed/
+    domain: entrackr.com
+    category: Tech & AI
+    credibility: 93
+    defaultBias: Financials & Valuations
+
+  - name: Medianama
+    url: https://www.medianama.com/feed/
+    domain: medianama.com
+    category: Tech & AI
+    credibility: 95
+    defaultBias: Digital Policy & Rights
+
+  - name: LiveMint Technology
+    url: https://www.livemint.com/rss/technology
+    domain: livemint.com
+    category: Tech & AI
+    credibility: 93
+    defaultBias: Tech Business Dynamics
+
+  # ============================================================================
+  # 3. Work & Economy
+  # ============================================================================
+  - name: LiveMint Economy
+    url: https://www.livemint.com/rss/economy
+    domain: livemint.com
+    category: Work & Economy
+    credibility: 93
+    defaultBias: Indian Macro & Policy
+
+  - name: Economic Times Economy
+    url: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+    domain: economictimes.indiatimes.com
+    category: Work & Economy
+    credibility: 92
+    defaultBias: Corporate & Market Realism
+
+  - name: Business Standard Economy
+    url: https://www.business-standard.com/rss/economy-policy-102.rss
+    domain: business-standard.com
+    category: Work & Economy
+    credibility: 92
+    defaultBias: Macroeconomic Prudence
+
+  - name: Moneycontrol Economy
+    url: https://www.moneycontrol.com/rss/economy.xml
+    domain: moneycontrol.com
+    category: Work & Economy
+    credibility: 91
+    defaultBias: Market Momentum
+
+  - name: Moneycontrol Markets
+    url: https://www.moneycontrol.com/rss/marketreports.xml
+    domain: moneycontrol.com
+    category: Work & Economy
+    credibility: 91
+    defaultBias: Retail Investor Sentiment
+
+  - name: Financial Times Global
+    url: https://www.ft.com/?format=rss
+    domain: ft.com
+    category: Work & Economy
+    credibility: 96
+    defaultBias: Global Capital & Markets
+
+  - name: Bloomberg Markets
+    url: https://feeds.bloomberg.com/markets/news.rss
+    domain: bloomberg.com
+    category: Work & Economy
+    credibility: 95
+    defaultBias: Institutional Finance
+
+  - name: Reuters Business
+    url: https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best
+    domain: reuters.com
+    category: Work & Economy
+    credibility: 97
+    defaultBias: Factual & Global Trade
+
+  - name: Wall Street Journal Business
+    url: https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+    domain: wsj.com
+    category: Work & Economy
+    credibility: 95
+    defaultBias: Fiscal & Enterprise Focus
+
+  - name: CNBC Economy
+    url: https://www.cnbc.com/id/20910258/device/rss/rss.html
+    domain: cnbc.com
+    category: Work & Economy
+    credibility: 91
+    defaultBias: Investor Sentiment
+
+  - name: Fortune
+    url: https://fortune.com/feed/
+    domain: fortune.com
+    category: Work & Economy
+    credibility: 92
+    defaultBias: Executive Leadership
+
+  - name: Harvard Business Review
+    url: https://feeds.hbr.org/harvardbusiness
+    domain: hbr.org
+    category: Work & Economy
+    credibility: 96
+    defaultBias: Workplace Strategy & Management
+
+  - name: Quartz Economy
+    url: https://qz.com/feed
+    domain: qz.com
+    category: Work & Economy
+    credibility: 91
+    defaultBias: Future of Work & Globalization
+
+  - name: Fast Company
+    url: https://www.fastcompany.com/latest/rss
+    domain: fastcompany.com
+    category: Work & Economy
+    credibility: 90
+    defaultBias: Work Culture & Innovation
+
+  - name: MarketWatch Top Stories
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    domain: marketwatch.com
+    category: Work & Economy
+    credibility: 92
+    defaultBias: Market Analysis
+
+  - name: Forbes Business
+    url: https://www.forbes.com/business/feed/
+    domain: forbes.com
+    category: Work & Economy
+    credibility: 91
+    defaultBias: Wealth & Entrepreneurship
+
+  - name: The Ken
+    url: https://the-ken.com/feed/
+    domain: the-ken.com
+    category: Work & Economy
+    credibility: 95
+    defaultBias: Deep Analytical Journalism
+
+  # ============================================================================
+  # 4. Business & Policy
+  # ============================================================================
+  - name: The Hindu Business Line
+    url: https://www.thehindubusinessline.com/economy/policy/feeder/default.rss
+    domain: thehindubusinessline.com
+    category: Business & Policy
+    credibility: 94
+    defaultBias: Public Interest & Fiscal Balance
+
+  - name: Financial Express Economy
+    url: https://www.financialexpress.com/about/economy/feed/
+    domain: financialexpress.com
+    category: Business & Policy
+    credibility: 91
+    defaultBias: Industry Growth & Reform
+
+  - name: NDTV Profit
+    url: https://feeds.feedburner.com/ndtvprofit-latest
+    domain: ndtvprofit.com
+    category: Business & Policy
+    credibility: 92
+    defaultBias: Indian Corporate & Regulatory
+
+  - name: Politico Tech & Policy
+    url: https://rss.politico.com/morningtech.xml
+    domain: politico.com
+    category: Business & Policy
+    credibility: 94
+    defaultBias: Regulatory Dynamics
+
+  - name: Brookings Institution
+    url: https://www.brookings.edu/feed/
+    domain: brookings.edu
+    category: Business & Policy
+    credibility: 96
+    defaultBias: Think Tank Policy Analysis
+
+  - name: Center for Strategic and International Studies (CSIS)
+    url: https://www.csis.org/analysis/rss
+    domain: csis.org
+    category: Business & Policy
+    credibility: 96
+    defaultBias: Strategic & Defense Policy
+
+  - name: Observer Research Foundation (ORF)
+    url: https://www.orfonline.org/feed
+    domain: orfonline.org
+    category: Business & Policy
+    credibility: 94
+    defaultBias: Indian Foreign Policy & Strategy
+
+  - name: The Economist Finance
+    url: https://www.economist.com/finance-and-economics/rss.xml
+    domain: economist.com
+    category: Business & Policy
+    credibility: 96
+    defaultBias: Free Market & Liberal Globalism
+
+  - name: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    domain: bbc.co.uk
+    category: Business & Policy
+    credibility: 95
+    defaultBias: Balanced Global Reporting
+
+  - name: Business Today News
+    url: https://www.businesstoday.in/rssfeeds/?id=home
+    domain: businesstoday.in
+    category: Business & Policy
+    credibility: 90
+    defaultBias: Corporate & Policy
+
+  - name: Global Trade Magazine
+    url: https://www.globaltrademag.com/feed/
+    domain: globaltrademag.com
+    category: Business & Policy
+    credibility: 90
+    defaultBias: Supply Chain & Tariffs
+
+  # ============================================================================
+  # 5. Space & Science
+  # ============================================================================
+  - name: NASA Breaking News
+    url: https://www.nasa.gov/rss/dyn/breaking_news.rss
+    domain: nasa.gov
+    category: Space & Science
+    credibility: 99
+    defaultBias: Official Space Update
+
+  - name: Space.com
+    url: https://www.space.com/feeds/all
+    domain: space.com
+    category: Space & Science
+    credibility: 93
+    defaultBias: Aerospace & Astronomy
+
+  - name: Nature News
+    url: https://www.nature.com/nature.rss
+    domain: nature.com
+    category: Space & Science
+    credibility: 99
+    defaultBias: Peer-Reviewed Scientific Discovery
+
+  - name: ScienceDaily
+    url: https://www.sciencedaily.com/rss/top/science.xml
+    domain: sciencedaily.com
+    category: Space & Science
+    credibility: 94
+    defaultBias: Research Breakthroughs
+
+  - name: New Scientist
+    url: https://www.newscientist.com/feed/home/?cmpid=RSS|NSNS
+    domain: newscientist.com
+    category: Space & Science
+    credibility: 94
+    defaultBias: Science Exploration
+
+  - name: Scientific American
+    url: https://www.scientificamerican.com/feed/rss/
+    domain: scientificamerican.com
+    category: Space & Science
+    credibility: 95
+    defaultBias: Science & Public Policy
+
+  - name: Phys.org
+    url: https://phys.org/rss-feed/
+    domain: phys.org
+    category: Space & Science
+    credibility: 94
+    defaultBias: Physics & Applied Tech
+
+  - name: European Space Agency (ESA)
+    url: https://www.esa.int/rssfeed/Our_Activities/Space_News
+    domain: esa.int
+    category: Space & Science
+    credibility: 98
+    defaultBias: Official European Mission
+
+  - name: Quanta Magazine
+    url: https://api.quantamagazine.org/feed/
+    domain: quantamagazine.org
+    category: Space & Science
+    credibility: 98
+    defaultBias: Mathematics & Fundamental Physics
+
+  - name: The Hindu Sci-Tech
+    url: https://www.thehindu.com/sci-tech/feeder/default.rss
+    domain: thehindu.com
+    category: Space & Science
+    credibility: 95
+    defaultBias: Scientific Reporting
+
+  - name: The Wire Science
+    url: https://science.thewire.in/feed/
+    domain: thewire.in
+    category: Space & Science
+    credibility: 92
+    defaultBias: Independent Science Critique
+
+  - name: Down To Earth Science
+    url: https://www.downtoearth.org.in/rss/science-technology
+    domain: downtoearth.org.in
+    category: Space & Science
+    credibility: 93
+    defaultBias: Ecological Science & India
+
+  # ============================================================================
+  # 6. Automotive & Energy
+  # ============================================================================
+  - name: Electrek
+    url: https://electrek.co/feed/
+    domain: electrek.co
+    category: Automotive & Energy
+    credibility: 92
+    defaultBias: EV Adoption & Clean Energy
+
+  - name: CleanTechnica
+    url: https://cleantechnica.com/feed/
+    domain: cleantechnica.com
+    category: Automotive & Energy
+    credibility: 91
+    defaultBias: Renewable Energy Momentum
+
+  - name: Autocar India
+    url: https://www.autocarindia.com/rss/news
+    domain: autocarindia.com
+    category: Automotive & Energy
+    credibility: 92
+    defaultBias: Automotive Performance & Consumer
+
+  - name: InsideEVs
+    url: https://insideevs.com/rss/news/all/
+    domain: insideevs.com
+    category: Automotive & Energy
+    credibility: 91
+    defaultBias: EV Technology & Battery
+
+  - name: OilPrice Energy
+    url: https://oilprice.com/rss/main
+    domain: oilprice.com
+    category: Automotive & Energy
+    credibility: 90
+    defaultBias: Traditional Energy & Markets
+
+  - name: Canary Media
+    url: https://www.canarymedia.com/rss
+    domain: canarymedia.com
+    category: Automotive & Energy
+    credibility: 94
+    defaultBias: Clean Grid Transformation
+
+  - name: Green Car Reports
+    url: https://www.greencarreports.com/rss
+    domain: greencarreports.com
+    category: Automotive & Energy
+    credibility: 91
+    defaultBias: Sustainable Mobility
+
+  - name: Energy Central
+    url: https://energycentral.com/rss
+    domain: energycentral.com
+    category: Automotive & Energy
+    credibility: 93
+    defaultBias: Utility Grid & Power Reliability
+
+  - name: Renewable Energy World
+    url: https://www.renewableenergyworld.com/feed/
+    domain: renewableenergyworld.com
+    category: Automotive & Energy
+    credibility: 92
+    defaultBias: Commercial Renewables
+
+  - name: HT Auto
+    url: https://auto.hindustantimes.com/rss/news
+    domain: hindustantimes.com
+    category: Automotive & Energy
+    credibility: 91
+    defaultBias: Auto Industry & Launch
+
+  - name: ZigWheels News
+    url: https://www.zigwheels.com/rss/news.xml
+    domain: zigwheels.com
+    category: Automotive & Energy
+    credibility: 90
+    defaultBias: Auto Review & Market
+
+  # ============================================================================
+  # 7. World Affairs & Geopolitics
+  # ============================================================================
+  - name: Foreign Policy
+    url: https://foreignpolicy.com/feed/
+    domain: foreignpolicy.com
+    category: World Affairs
+    credibility: 95
+    defaultBias: Strategic Diplomacy
+
+  - name: Foreign Affairs
+    url: https://www.foreignaffairs.com/rss.xml
+    domain: foreignaffairs.com
+    category: World Affairs
+    credibility: 97
+    defaultBias: Global Order & Statecraft
+
+  - name: Al Jazeera English
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    domain: aljazeera.com
+    category: World Affairs
+    credibility: 91
+    defaultBias: Global South & Regional Stances
+
+  - name: The Diplomat
+    url: https://thediplomat.com/feed/
+    domain: thediplomat.com
+    category: World Affairs
+    credibility: 94
+    defaultBias: Asia-Pacific Geopolitics
+
+  - name: The Hindu World
+    url: https://www.thehindu.com/news/international/feeder/default.rss
+    domain: thehindu.com
+    category: World Affairs
+    credibility: 95
+    defaultBias: Institutional Diplomacy
+
+  - name: AP News World
+    url: https://apnews.com/hub/world-news.rss
+    domain: apnews.com
+    category: World Affairs
+    credibility: 98
+    defaultBias: Wire Fact-First Neutral
+
+  - name: Reuters World
+    url: https://www.reutersagency.com/feed/?best-topics=world-at-large&post_type=best
+    domain: reuters.com
+    category: World Affairs
+    credibility: 97
+    defaultBias: Global Wire Reporting
+
+  - name: Council on Foreign Relations (CFR)
+    url: https://www.cfr.org/rss.xml
+    domain: cfr.org
+    category: World Affairs
+    credibility: 96
+    defaultBias: International Law & Security
+
+  - name: Deutsche Welle (DW)
+    url: https://rss.dw.com/rdf/rss-en-all
+    domain: dw.com
+    category: World Affairs
+    credibility: 94
+    defaultBias: European Global Stance
+
+  - name: France 24 English
+    url: https://www.france24.com/en/rss
+    domain: france24.com
+    category: World Affairs
+    credibility: 93
+    defaultBias: French & EU International
+
+  - name: The Guardian World
+    url: https://www.theguardian.com/world/rss
+    domain: theguardian.com
+    category: World Affairs
+    credibility: 94
+    defaultBias: Progressive International
