@@ -1,0 +1,103 @@
+name: Versus Unified Production Pipeline
+
+on:
+  schedule:
+    # Runs every 30 minutes 24/7
+    - cron: '*/30 * * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      deploy_worker:
+        description: 'Also deploy Cloudflare Edge Worker API?'
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: versus-pipeline
+  cancel-in-progress: false
+
+jobs:
+  # ============================================================================
+  # 1. 30-Minute RSS Ingestion & Dual-Perspective Synthesis Engine
+  # ============================================================================
+  ingest-and-synthesize:
+    name: RSS Ingestion & Dual-Perspective Synthesis
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Cache Embedding Model Weights
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface/hub
+          key: ${{ runner.os }}-hf-minilm-v2
+          restore-keys: |
+            ${{ runner.os }}-hf-minilm-
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip --quiet
+          pip install --prefer-binary -r requirements.txt --quiet
+
+      - name: Run Ingestion Pipeline
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_AI_MODEL: '@cf/meta/llama-3.1-8b-instruct-fp8-fast'
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          FIRESTORE_PROJECT_ID: ${{ secrets.FIRESTORE_PROJECT_ID || 'versus-news' }}
+          MAX_FEEDS_CONCURRENT: '35'
+          PER_DOMAIN_MAX_CONCURRENT: '2'
+          SIMILARITY_DISTANCE_THRESHOLD: '0.38'
+          DATA_RETENTION_DAYS: '30'
+          ENABLE_LOCAL_FALLBACK: 'true'
+          DRY_RUN: 'false'
+        run: |
+          python src/main.py
+
+  # ============================================================================
+  # 2. Cloudflare Edge Worker API Deployment (Runs on worker change / manual trigger)
+  # ============================================================================
+  deploy-edge-worker:
+    name: Deploy Cloudflare Edge API Worker
+    runs-on: ubuntu-latest
+    needs: [] # Can run in parallel or independently
+    if: |
+      (github.event_name == 'push' && contains(github.event.head_commit.modified, 'worker/')) ||
+      (github.event_name == 'workflow_dispatch' && inputs.deploy_worker == true)
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: worker/package.json
+
+      - name: Install Worker Dependencies
+        working-directory: worker
+        run: npm ci
+
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiAuthenticationType: 'apiToken'
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: 'worker'
