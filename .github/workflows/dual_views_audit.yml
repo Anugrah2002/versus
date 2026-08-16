@@ -37,10 +37,30 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
+      - name: Cache Ollama & Local Models
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.ollama/models
+            .models/
+          key: ${{ runner.os }}-ollama-qwen-v1
+          restore-keys: |
+            ${{ runner.os }}-ollama-qwen-
+
+      - name: Cache Python Virtualenv
+        id: cache-venv
+        uses: actions/cache@v4
+        with:
+          path: .venv
+          key: ${{ runner.os }}-audit-venv-${{ hashFiles('requirements.txt') }}
+
       - name: Install Python Dependencies
+        if: steps.cache-venv.outputs.cache-hit != 'true'
         run: |
+          python -m venv .venv
+          source .venv/bin/activate
           python -m pip install --upgrade pip --quiet
-          pip install -r requirements.txt --quiet
+          pip install --prefer-binary -r requirements.txt --quiet
 
       - name: Install & Start Local Ollama (Qwen)
         run: |
@@ -49,8 +69,8 @@ jobs:
           echo "Starting Ollama daemon in background..."
           ollama serve &
           sleep 4
-          echo "Pulling lightweight fast Qwen 2.5 model for audit..."
-          ollama pull qwen2.5:1.5b || ollama pull qwen2.5:3b || echo "Ollama pull finished."
+          echo "Verifying / Pulling fast Qwen 2.5 model for audit..."
+          ollama pull qwen2.5:1.5b || ollama pull qwen2.5:3b || echo "Ollama pull ready."
 
       - name: Execute Dual-View Quality Audit
         env:
@@ -59,6 +79,7 @@ jobs:
           FIRESTORE_COLLECTION_ARTICLES: 'articles'
           ENABLE_LOCAL_FALLBACK: 'true'
         run: |
+          source .venv/bin/activate
           LIMIT="${{ inputs.limit || '250' }}"
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             echo "Running in DRY-RUN mode (Limit: $LIMIT)..."
