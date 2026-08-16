@@ -165,6 +165,24 @@ class LLMSynthesisEngine:
             tags=raw_json.get("tags", [cluster.category])
         )
 
+        # Quality Gatekeeper: Enforce 25-word minimum summary threshold
+        summary_words = len(article.summary.split())
+        if summary_words < 25:
+            # Fallback to extracting lead from primary source
+            extracted_lead = self.fallback._extract_lead_summary(cluster.articles[0].cleaned_body, max_words=55)
+            if len(extracted_lead.split()) >= 25:
+                article.summary = extracted_lead
+                for p in article.perspectives:
+                    if len(p.summary.split()) < 25:
+                        p.summary = extracted_lead
+            else:
+                logger.warning(f"Discarding cluster {cluster.cluster_id}: Summary has only {summary_words} words (min threshold: 25 words)")
+                return None
+
+        for p in article.perspectives:
+            if len(p.summary.split()) < 25:
+                p.summary = article.summary
+
         return article
 
     def synthesize_and_publish_single(
