@@ -186,6 +186,7 @@ class LLMSynthesisEngine:
 
         batch_start = time.time()
         max_batch_seconds = 420  # 7 minutes watchdog ceiling
+        results: List[Tuple[ArticleModel, StoryCluster]] = []
 
         with ThreadPoolExecutor(max_workers=max_concurrent) as executor:
             future_to_cluster = {

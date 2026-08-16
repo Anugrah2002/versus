@@ -237,10 +237,12 @@ class StateManager:
             article_id=article.id,
             title=article.title,
             category=article.category,
-            centroid_vector=cluster.centroid_vector,
+            divergence_score=getattr(article, "divergenceScore", 0),
+            centroid_vector=cluster.centroid_vector or [],
             domains=list(set(p.sourceDomain for p in article.perspectives)),
             is_single_perspective=article.isSinglePerspective,
-            published_at=article.publishedAt.isoformat() if hasattr(article.publishedAt, "isoformat") else str(article.publishedAt)
+            published_at=article.publishedAt.isoformat() if hasattr(article.publishedAt, "isoformat") else str(article.publishedAt),
+            last_updated_at=datetime.now(timezone.utc).isoformat()
         )
 
     def register_active_story(self, article: ArticleModel, cluster: StoryCluster):

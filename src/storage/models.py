@@ -114,12 +114,12 @@ try:
         article_id: str
         title: str
         category: str
-        divergence_score: int
-        is_single_perspective: bool
-        centroid_vector: List[float]
-        published_at: str
+        divergence_score: int = Field(default=0)
+        is_single_perspective: bool = Field(default=False)
+        centroid_vector: List[float] = Field(default_factory=list)
+        published_at: str = Field(default="")
         domains: List[str] = Field(default_factory=list)
-        last_updated_at: str
+        last_updated_at: str = Field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
 
     class PipelineSummary(BaseModel):
         run_timestamp: str
@@ -242,10 +242,10 @@ except ImportError:
         article_id: str
         title: str
         category: str
-        divergence_score: int
-        is_single_perspective: bool
-        centroid_vector: List[float]
-        published_at: str
+        divergence_score: int = 0
+        is_single_perspective: bool = False
+        centroid_vector: List[float] = field(default_factory=list)
+        published_at: str = ""
         domains: List[str] = field(default_factory=list)
         last_updated_at: str = ""
 
