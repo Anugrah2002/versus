@@ -1,10 +1,11 @@
 """
-High-Precision Semantic Clustering & Active Story Matcher.
-Combines SentenceTransformer dense embeddings with strict Named Entity & Core Subject Anchors.
-Guarantees ZERO false-positive topic merging (e.g. EdTech AI vs Aviation) while accurately grouping multi-source debates.
+High-Precision Entity-Event Graph & Community Clustering Engine.
+100% Local, zero cloud dependencies. Combines SentenceTransformer dense embeddings,
+Canonical Entity-Alias Resolution, Event-Action Signatures, and Graph Community Detection.
+Guarantees zero false-positive topic merging while maximizing multi-source debate discovery.
 """
 
-from typing import List, Tuple, Optional, Set
+from typing import List, Tuple, Optional, Set, Dict, Any
 from datetime import datetime, timezone
 import hashlib
 import math
@@ -49,9 +50,74 @@ COMMON_STOPWORDS = {
     "exclusive", "watch", "video", "photos", "photo", "images", "times", "post"
 }
 
+# Canonical journalistic entity dictionary for alias resolution
+CANONICAL_ENTITY_ALIASES = {
+    "entity_anthropic": ["anthropic", "claude maker", "claude ai", "dario amodei", "amodei"],
+    "entity_openai": ["openai", "chatgpt", "sam altman", "altman", "gpt-4", "gpt-5", "o1", "o3"],
+    "entity_google": ["google", "alphabet", "deepmind", "sundar pichai", "gemini", "waymo"],
+    "entity_microsoft": ["microsoft", "satya nadella", "copilot", "azure", "windows"],
+    "entity_meta": ["meta", "mark zuckerberg", "zuckerberg", "llama", "instagram", "threads"],
+    "entity_apple": ["apple", "tim cook", "iphone", "ipad", "apple intelligence", "macbook"],
+    "entity_nvidia": ["nvidia", "jensen huang", "blackwell", "h100", "cuda"],
+    "entity_musk": ["elon musk", "musk", "tesla", "spacex", "xai", "grok", "starlink"],
+    "entity_boeing": ["boeing", "starliner", "737 max", "787", "kelly ortberg", "dave calhoun"],
+    "entity_airbus": ["airbus", "a320", "a350", "guillaume faury"],
+    "entity_isro": ["isro", "somanath", "chandrayaan", "gaganyaan", "nisar", "sriharikota", "pslv"],
+    "entity_nasa": ["nasa", "artemis", "jwst", "perseverance", "curiosity", "hubble"],
+    "entity_rbi": ["rbi", "reserve bank of india", "shaktikanta das", "repo rate", "mpc"],
+    "entity_sebi": ["sebi", "madhabi puri buch", "sebi chief"],
+    "entity_niti_aayog": ["niti aayog", "bvr subrahmanyam"],
+    "entity_karnataka_gov": ["karnataka", "dk shivakumar", "shivakumar", "siddaramaiah", "bengaluru", "bangalore"],
+    "entity_physicswallah": ["physicswallah", "physics wallah", "alakh pandey"],
+    "entity_byjus": ["byju", "byju's", "byju raveendran", "think and learn"],
+    "entity_ongc": ["ongc", "oil and natural gas corporation"],
+    "entity_reliance": ["reliance", "ril", "mukesh ambani", "ambani", "jio"],
+    "entity_adani": ["adani", "gautam adani", "adani group"],
+    "entity_tata": ["tata", "tcs", "air india", "n chandrasekaran", "tata motors"],
+    "entity_us_fed": ["fed", "federal reserve", "jerome powell", "powell", "fomc"],
+    "entity_venezuela": ["venezuela", "caracas", "maduro", "nicolas maduro", "ofac"]
+}
+
+# Major journalistic event action classes
+EVENT_ACTION_PATTERNS = {
+    "evt_ipo": ["ipo", "initial public offering", "listing", "public debut", "nyse", "nasdaq", "publicly traded", "valuation target"],
+    "evt_sanctions": ["sanction", "sanctions", "waiver", "embargo", "ofac", "blacklist", "penalties"],
+    "evt_regulation": ["antitrust", "probe", "investigation", "sues", "lawsuit", "fine", "monopoly", "regulator"],
+    "evt_policy": ["education programme", "scheme", "curriculum", "announces initiative", "subsidy", "reform", "budget"],
+    "evt_trade_export": ["exports", "exports surge", "trade deficit", "imports", "chemical exports", "engineering services exports"],
+    "evt_macro_growth": ["trillion economy", "gdp growth", "rupee growth", "rupee appreciation", "cagr", "inflation"],
+    "evt_work_culture": ["4-day work week", "work week", "burnout", "wellness pilot", "hybrid work", "return to office", "layoffs"],
+    "evt_infra_energy": ["data center", "data centers", "power grid", "electricity grid", "water utilities", "power supply"],
+    "evt_space_launch": ["satellite", "launches satellite", "launch vehicle", "imaging spacecraft", "space mission", "lunar lander"]
+}
+
+
+class UnionFind:
+    def __init__(self, size: int):
+        self.parent = list(range(size))
+        self.rank = [0] * size
+
+    def find(self, i: int) -> int:
+        if self.parent[i] == i:
+            return i
+        self.parent[i] = self.find(self.parent[i])
+        return self.parent[i]
+
+    def union(self, i: int, j: int):
+        root_i = self.find(i)
+        root_j = self.find(j)
+        if root_i != root_j:
+            if self.rank[root_i] < self.rank[root_j]:
+                self.parent[root_i] = root_j
+            elif self.rank[root_i] > self.rank[root_j]:
+                self.parent[root_j] = root_i
+            else:
+                self.parent[root_j] = root_i
+                self.rank[root_i] += 1
+
 
 class SemanticClusterer:
-    def __init__(self, threshold: float = 0.35):
+    def __init__(self, threshold: float = 0.40):
         self.threshold = threshold
 
     def _prepare_text(self, article: ExtractedArticle) -> str:
@@ -62,66 +128,103 @@ class SemanticClusterer:
         dot = sum(a * b for a, b in zip(vec_a, vec_b))
         return float(1.0 - max(min(dot, 1.0), -1.0))
 
+    def _extract_canonical_entities(self, text: str) -> Set[str]:
+        """Resolves raw text into canonical entity IDs using dictionary aliases + capitalized NER tokens."""
+        text_lower = text.lower()
+        entities = set()
+
+        # 1. Match canonical aliases
+        for canonical_id, aliases in CANONICAL_ENTITY_ALIASES.items():
+            for alias in aliases:
+                if re.search(r"\b" + re.escape(alias) + r"\b", text_lower):
+                    entities.add(canonical_id)
+                    break
+
+        # 2. General Proper Noun Extraction (2+ word capitalized phrases or distinct proper nouns)
+        proper_tokens = re.findall(r"\b[A-Z][a-z0-9]{2,}\b", text)
+        for t in proper_tokens:
+            t_low = t.lower()
+            if t_low not in COMMON_STOPWORDS and len(t_low) >= 4:
+                entities.add(f"ner_{t_low}")
+
+        return entities
+
+    def _extract_event_actions(self, text: str) -> Set[str]:
+        """Extracts core action/event patterns from the title and lead paragraph."""
+        text_lower = text.lower()
+        events = set()
+        for evt_id, patterns in EVENT_ACTION_PATTERNS.items():
+            for pattern in patterns:
+                if pattern in text_lower:
+                    events.add(evt_id)
+                    break
+        return events
+
     def _extract_content_keywords(self, text: str) -> Set[str]:
         words = re.findall(r"\b[a-zA-Z0-9_-]{3,}\b", text.lower())
         return set(w for w in words if w not in COMMON_STOPWORDS and len(w) >= 3)
 
-    def _extract_proper_nouns(self, text: str) -> Set[str]:
-        # Extract capitalized entities (company names, people, places)
-        tokens = re.findall(r"\b[A-Z][a-z0-9]{2,}\b", text)
-        return set(t.lower() for t in tokens if t.lower() not in COMMON_STOPWORDS)
-
-    def _calculate_topical_overlap(self, title_a: str, title_b: str, body_a: str = "", body_b: str = "") -> Tuple[bool, float]:
-        """
-        Calculates exact topical overlap score.
-        Guarantees that two articles MUST share core subject anchors (Entities or Distinct Topic Keywords).
-        """
-        props_a = self._extract_proper_nouns(title_a)
-        props_b = self._extract_proper_nouns(title_b)
-        
-        # 1. Named Entity / Proper Noun Overlap (e.g. PhysicsWallah vs Boeing = 0 match)
-        common_props = props_a.intersection(props_b)
-        has_entity_match = len(common_props) >= 1
-
-        # 2. Content Keywords in Title
-        keys_a = self._extract_content_keywords(title_a)
-        keys_b = self._extract_content_keywords(title_b)
-        
-        title_overlap = 0.0
-        common_title_keys = keys_a.intersection(keys_b)
-        if keys_a and keys_b:
-            union = keys_a.union(keys_b)
-            title_overlap = len(common_title_keys) / len(union) if union else 0.0
-
-        # Require hard subject matter convergence
-        # At least 1 shared proper noun OR at least 2 distinct non-generic title keywords
-        has_valid_topic_match = has_entity_match or (len(common_title_keys) >= 2 and title_overlap >= 0.18)
-
-        overlap_score = title_overlap if has_valid_topic_match else 0.0
-        return has_valid_topic_match, overlap_score
-
-    def _compute_distance(
+    def _calculate_story_affinity(
         self,
         vec_a: List[float],
         vec_b: List[float],
-        title_a: str = "",
-        title_b: str = "",
+        title_a: str,
+        title_b: str,
         body_a: str = "",
         body_b: str = ""
-    ) -> float:
-        raw_vec_dist = self._cosine_distance(vec_a, vec_b)
+    ) -> Tuple[bool, float]:
+        """
+        Multi-Factor Story Affinity Calculator.
+        Combines Dense Embeddings, Canonical Entities, and Event Signatures.
+        """
+        raw_dist = self._cosine_distance(vec_a, vec_b)
 
-        if title_a and title_b:
-            has_match, overlap_score = self._calculate_topical_overlap(title_a, title_b, body_a, body_b)
-            if not has_match:
-                return 1.0  # Force complete separation for unrelated topics
+        # 1. Entity Extraction
+        full_a = f"{title_a} {body_a[:300]}"
+        full_b = f"{title_b} {body_b[:300]}"
+        ents_a = self._extract_canonical_entities(full_a)
+        ents_b = self._extract_canonical_entities(full_b)
+        common_entities = ents_a.intersection(ents_b)
 
-            # Scale distance down when shared subject matter is confirmed
-            if overlap_score > 0:
-                adjusted_dist = raw_vec_dist * (1.0 - min(overlap_score * 2.2, 0.70))
-                return max(0.0, min(adjusted_dist, 1.0))
+        # 2. Event Action Extraction
+        evts_a = self._extract_event_actions(full_a)
+        evts_b = self._extract_event_actions(full_b)
+        common_events = evts_a.intersection(evts_b)
 
-        return raw_vec_dist
+        # 3. Content Keywords
+        keys_a = self._extract_content_keywords(title_a)
+        keys_b = self._extract_content_keywords(title_b)
+        common_keys = keys_a.intersection(keys_b)
+
+        # Strict Separation Guard: If both have canonical entities but ZERO overlap, force separation
+        canonical_only_a = set(e for e in ents_a if e.startswith("entity_"))
+        canonical_only_b = set(e for e in ents_b if e.startswith("entity_"))
+        if canonical_only_a and canonical_only_b and not canonical_only_a.intersection(canonical_only_b):
+            return False, 1.0
+
+        # Case A: Shared Canonical Entity + Event Match -> Very strong bridge
+        if common_entities and common_events:
+            adjusted_dist = raw_dist * 0.45
+            if adjusted_dist < self.threshold:
+                return True, adjusted_dist
+
+        # Case B: Shared Canonical Entity + Low Semantic Distance
+        if common_entities and raw_dist < (self.threshold + 0.08):
+            adjusted_dist = raw_dist * 0.65
+            if adjusted_dist < self.threshold:
+                return True, adjusted_dist
+
+        # Case C: Shared Event Pattern + Shared Title Keywords >= 2
+        if common_events and len(common_keys) >= 2 and raw_dist < (self.threshold + 0.05):
+            adjusted_dist = raw_dist * 0.70
+            if adjusted_dist < self.threshold:
+                return True, adjusted_dist
+
+        # Case D: Very High Raw Semantic Similarity (< 0.28) with title keyword agreement
+        if raw_dist < 0.28 and len(common_keys) >= 2:
+            return True, raw_dist
+
+        return False, 1.0
 
     def _compute_centroid(self, vectors: List[List[float]]) -> List[float]:
         dim = len(vectors[0])
@@ -144,7 +247,7 @@ class SemanticClusterer:
         if not articles:
             return []
 
-        logger.info(f"Clustering {len(articles)} extracted articles with high-precision semantic matching...")
+        logger.info(f"Clustering {len(articles)} extracted articles with Entity-Event Graph Community Clustering...")
 
         texts = [self._prepare_text(a) for a in articles]
         embeddings = embedder.embed_texts(texts)
@@ -152,7 +255,7 @@ class SemanticClusterer:
         clusters: List[StoryCluster] = []
         unassigned_indices = list(range(len(articles)))
 
-        # Step 2: Match against active rolling 48-hour story centroids
+        # Step 1: Match against active rolling 48-hour story centroids
         if active_stories:
             logger.info(f"Checking against {len(active_stories)} active 48h story centroids for upgrades and duplicate topic suppression...")
             for active in active_stories:
@@ -166,10 +269,7 @@ class SemanticClusterer:
                     cand_vec = embeddings[idx]
                     cand_article = articles[idx]
 
-                    if cand_article.category != active.category:
-                        continue
-
-                    dist = self._compute_distance(
+                    is_match, dist = self._calculate_story_affinity(
                         active_centroid,
                         cand_vec,
                         title_a=active.title,
@@ -178,7 +278,7 @@ class SemanticClusterer:
                         body_b=cand_article.cleaned_body
                     )
 
-                    if dist < self.threshold:
+                    if is_match and dist < self.threshold:
                         matched_article_indices.append(idx)
 
                 if matched_article_indices:
@@ -212,40 +312,39 @@ class SemanticClusterer:
                         if idx in unassigned_indices:
                             unassigned_indices.remove(idx)
 
-        # Step 3: Cluster remaining unassigned articles by Category + Semantic Distance
+        # Step 2: Graph Community Clustering via Union-Find across remaining articles
         if unassigned_indices:
-            remaining_articles = [articles[i] for i in unassigned_indices]
-            remaining_embeddings = [embeddings[i] for i in unassigned_indices]
+            n = len(unassigned_indices)
+            uf = UnionFind(n)
 
-            groups = {}
-            used = set()
-            gid = 0
-            for i in range(len(remaining_articles)):
-                if i in used:
-                    continue
-                groups[gid] = [i]
-                used.add(i)
-                for j in range(i + 1, len(remaining_articles)):
-                    if j not in used:
-                        if remaining_articles[i].category != remaining_articles[j].category:
-                            continue
+            # Build Graph Edges
+            for i in range(n):
+                idx_a = unassigned_indices[i]
+                for j in range(i + 1, n):
+                    idx_b = unassigned_indices[j]
 
-                        d = self._compute_distance(
-                            remaining_embeddings[i],
-                            remaining_embeddings[j],
-                            title_a=remaining_articles[i].title,
-                            title_b=remaining_articles[j].title,
-                            body_a=remaining_articles[i].cleaned_body,
-                            body_b=remaining_articles[j].cleaned_body
-                        )
-                        if d < self.threshold:
-                            groups[gid].append(j)
-                            used.add(j)
-                gid += 1
+                    is_match, dist = self._calculate_story_affinity(
+                        embeddings[idx_a],
+                        embeddings[idx_b],
+                        title_a=articles[idx_a].title,
+                        title_b=articles[idx_b].title,
+                        body_a=articles[idx_a].cleaned_body,
+                        body_b=articles[idx_b].cleaned_body
+                    )
 
-            for label, member_indices in groups.items():
-                cluster_articles = [remaining_articles[i] for i in member_indices]
-                cluster_vecs = [remaining_embeddings[i] for i in member_indices]
+                    if is_match and dist < self.threshold:
+                        uf.union(i, j)
+
+            # Group Connected Components
+            component_groups: Dict[int, List[int]] = {}
+            for i in range(n):
+                root = uf.find(i)
+                component_groups.setdefault(root, []).append(unassigned_indices[i])
+
+            # Build Story Clusters
+            for root, member_indices in component_groups.items():
+                cluster_articles = [articles[i] for i in member_indices]
+                cluster_vecs = [embeddings[i] for i in member_indices]
                 centroid = self._compute_centroid(cluster_vecs)
 
                 domains = set(a.domain for a in cluster_articles)

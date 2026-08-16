@@ -112,3 +112,44 @@ def test_delayed_perspective_upgrade_matching():
     assert len(clusters) == 1
     assert clusters[0].classification == ClusterClassification.UPGRADE_STORY
     assert clusters[0].matched_existing_article_id == "art-work-001"
+
+
+def test_alias_and_graph_multi_source_clustering():
+    clusterer = SemanticClusterer(threshold=0.40)
+    articles = [
+        create_mock_article(
+            "a1",
+            "Anthropic Weighs $2 Trillion Valuation IPO for September",
+            "bloomberg.com",
+            "Tech & AI",
+            "Claude AI maker Anthropic is preparing for a public market debut on NASDAQ."
+        ),
+        create_mock_article(
+            "a2",
+            "Claude Maker Explores Initial Public Offering on Wall Street",
+            "reuters.com",
+            "Work & Economy",  # Different category!
+            "The AI startup led by Dario Amodei considers IPO listing amidst booming enterprise compute demand."
+        ),
+        create_mock_article(
+            "a3",
+            "Boeing 737 MAX Deliveries Resume Following FAA Regulatory Clearance",
+            "wsj.com",
+            "World Affairs",
+            "Aviation regulators cleared Boeing to ramp commercial jetliner assembly."
+        )
+    ]
+
+    clusters = clusterer.cluster_articles(articles, active_stories=[])
+    assert len(clusters) == 2  # Anthropic cluster + Boeing cluster
+
+    anthropic_cluster = next((c for c in clusters if any("bloomberg.com" in a.domain for a in c.articles)), None)
+    assert anthropic_cluster is not None
+    assert len(anthropic_cluster.articles) == 2
+    assert anthropic_cluster.classification == ClusterClassification.NEW_DEBATE
+    assert set(a.domain for a in anthropic_cluster.articles) == {"bloomberg.com", "reuters.com"}
+
+    boeing_cluster = next((c for c in clusters if any("wsj.com" in a.domain for a in c.articles)), None)
+    assert boeing_cluster is not None
+    assert len(boeing_cluster.articles) == 1
+    assert boeing_cluster.classification == ClusterClassification.SINGLE_REPORT
