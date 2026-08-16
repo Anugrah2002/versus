@@ -215,6 +215,9 @@ class StateManager:
     def mark_url_seen(self, url_hash: str):
         self.seen_url_hashes.add(url_hash)
 
+    def get_feed_state(self, feed_url: str) -> Optional[Dict[str, str]]:
+        return self.feed_states.get(feed_url)
+
     def get_feed_etag(self, feed_url: str) -> Optional[str]:
         return self.feed_states.get(feed_url, {}).get("etag")
 
