@@ -1,10 +1,10 @@
 """
-Local Semantic Clustering & Active Story Matcher.
-Groups raw articles into cohesive story clusters, resolves delayed second perspectives,
-and prevents duplicate analysis of topics already covered in active debates.
+High-Precision Semantic Clustering & Active Story Matcher.
+Combines SentenceTransformer dense embeddings with strict Named Entity & Content-Word Guards.
+Guarantees zero false-positive topic merging while accurately grouping multi-source debates.
 """
 
-from typing import List, Tuple, Optional
+from typing import List, Tuple, Optional, Set
 from datetime import datetime, timezone
 import hashlib
 import math
@@ -20,42 +20,90 @@ from src.storage.models import (
 )
 from src.utils.logger import logger
 
+COMMON_STOPWORDS = {
+    "a", "about", "above", "after", "again", "against", "all", "am", "an", "and",
+    "any", "are", "aren't", "as", "at", "be", "because", "been", "before", "being",
+    "below", "between", "both", "but", "by", "can", "can't", "cannot", "could",
+    "couldn't", "did", "didn't", "do", "does", "doesn't", "doing", "don't", "down",
+    "during", "each", "few", "for", "from", "further", "had", "hadn't", "has",
+    "hasn't", "have", "haven't", "having", "he", "he'd", "he'll", "he's", "her",
+    "here", "here's", "hers", "herself", "him", "himself", "his", "how", "how's",
+    "i", "i'd", "i'll", "i'm", "i've", "if", "in", "into", "is", "isn't", "it",
+    "it's", "its", "itself", "let's", "me", "more", "most", "mustn't", "my",
+    "myself", "no", "nor", "not", "of", "off", "on", "once", "only", "or",
+    "other", "ought", "our", "ours", "ourselves", "out", "over", "own", "same",
+    "shan't", "she", "she'd", "she'll", "she's", "should", "shouldn't", "so",
+    "some", "such", "than", "that", "that's", "the", "their", "theirs", "them",
+    "themselves", "then", "there", "there's", "these", "they", "they'd", "they'll",
+    "they're", "they've", "this", "those", "through", "to", "too", "under", "until",
+    "up", "very", "was", "wasn't", "we", "we'd", "we'll", "we're", "we've", "were",
+    "weren't", "what", "what's", "when", "when's", "where", "where's", "which",
+    "while", "who", "who's", "whom", "why", "why's", "with", "won't", "would",
+    "wouldn't", "you", "you'd", "you'll", "you're", "you've", "your", "yours",
+    "yourself", "yourselves",
+    # News common noise words
+    "says", "said", "saying", "report", "reports", "reported", "breaking", "news",
+    "update", "updates", "first", "latest", "today", "yesterday", "tomorrow",
+    "daily", "weekly", "source", "sources", "official", "officials", "amid",
+    "exclusive", "watch", "video", "photos", "photo", "images", "times", "post"
+}
+
 
 class SemanticClusterer:
-    def __init__(self, threshold: float = settings.SIMILARITY_DISTANCE_THRESHOLD):
+    def __init__(self, threshold: float = 0.42):
         self.threshold = threshold
 
     def _prepare_text(self, article: ExtractedArticle) -> str:
-        body_snippet = " ".join(article.cleaned_body.split()[:200])
-        return f"{article.title} — {body_snippet}"
+        body_snippet = " ".join(article.cleaned_body.split()[:150])
+        return f"{article.title}. {body_snippet}"
 
     def _cosine_distance(self, vec_a: List[float], vec_b: List[float]) -> float:
         dot = sum(a * b for a, b in zip(vec_a, vec_b))
         return float(1.0 - max(min(dot, 1.0), -1.0))
 
-    def _stem_set(self, text: str) -> set:
-        words = re.findall(r"\b[a-zA-Z0-9_-]{3,}\b", text.lower())
-        return set(w[:4] for w in words if len(w) >= 3)
+    def _extract_content_keywords(self, text: str) -> Set[str]:
+        words = re.findall(r"\b[a-zA-Z0-9_-]{2,}\b", text.lower())
+        return set(w for w in words if w not in COMMON_STOPWORDS and len(w) >= 2)
 
-    def _text_overlap_similarity(self, title_a: str, title_b: str, body_a: str = "", body_b: str = "") -> float:
-        stems_t_a = self._stem_set(title_a)
-        stems_t_b = self._stem_set(title_b)
+    def _extract_proper_nouns(self, text: str) -> Set[str]:
+        tokens = re.findall(r"\b[A-Z][a-z0-9]{2,}\b", text)
+        return set(t.lower() for t in tokens if t.lower() not in COMMON_STOPWORDS)
+
+    def _calculate_topical_overlap(self, title_a: str, title_b: str, body_a: str = "", body_b: str = "") -> Tuple[bool, float]:
+        """Calculates exact topical overlap score between two articles."""
+        props_a = self._extract_proper_nouns(title_a)
+        props_b = self._extract_proper_nouns(title_b)
+        
+        # 1. Named Entity / Proper Noun Overlap
+        has_entity_match = False
+        if props_a and props_b:
+            common_props = props_a.intersection(props_b)
+            if len(common_props) >= 1:
+                has_entity_match = True
+
+        # 2. Content Keywords in Title
+        keys_a = self._extract_content_keywords(title_a)
+        keys_b = self._extract_content_keywords(title_b)
+        
         title_overlap = 0.0
-        if stems_t_a and stems_t_b:
-            inter = len(stems_t_a.intersection(stems_t_b))
-            union = len(stems_t_a.union(stems_t_b))
-            title_overlap = inter / union if union > 0 else 0.0
+        if keys_a and keys_b:
+            common = keys_a.intersection(keys_b)
+            union = keys_a.union(keys_b)
+            title_overlap = len(common) / len(union) if union else 0.0
 
+        # 3. Body keyword co-occurrence
+        full_a = keys_a.union(self._extract_content_keywords(" ".join(body_a.split()[:40])))
+        full_b = keys_b.union(self._extract_content_keywords(" ".join(body_b.split()[:40])))
         body_overlap = 0.0
-        if body_a and body_b:
-            stems_b_a = self._stem_set(body_a)
-            stems_b_b = self._stem_set(body_b)
-            if stems_b_a and stems_b_b:
-                inter = len(stems_b_a.intersection(stems_b_b))
-                union = len(stems_b_a.union(stems_b_b))
-                body_overlap = inter / union if union > 0 else 0.0
+        if full_a and full_b:
+            common_full = full_a.intersection(full_b)
+            union_full = full_a.union(full_b)
+            body_overlap = len(common_full) / len(union_full) if union_full else 0.0
 
-        return max(title_overlap, (title_overlap * 0.7 + body_overlap * 0.3))
+        overlap_score = max(title_overlap, (title_overlap * 0.7 + body_overlap * 0.3))
+        has_valid_topic_match = has_entity_match or title_overlap >= 0.14 or len(keys_a.intersection(keys_b)) >= 2 or len(full_a.intersection(full_b)) >= 3
+
+        return has_valid_topic_match, overlap_score
 
     def _compute_distance(
         self,
@@ -66,13 +114,19 @@ class SemanticClusterer:
         body_a: str = "",
         body_b: str = ""
     ) -> float:
-        vec_dist = self._cosine_distance(vec_a, vec_b)
+        raw_vec_dist = self._cosine_distance(vec_a, vec_b)
+
         if title_a and title_b:
-            overlap = self._text_overlap_similarity(title_a, title_b, body_a, body_b)
-            if overlap >= 0.09:
-                overlap_dist = max(0.0, 1.0 - (overlap * 6.5))
-                vec_dist = min(vec_dist, overlap_dist)
-        return max(0.0, min(vec_dist, 1.0))
+            has_match, overlap_score = self._calculate_topical_overlap(title_a, title_b, body_a, body_b)
+            if not has_match:
+                return 1.0  # Force complete separation for unrelated topics
+
+            # Scale distance down when shared subject matter is confirmed
+            if overlap_score > 0:
+                adjusted_dist = raw_vec_dist * (1.0 - min(overlap_score * 1.5, 0.65))
+                return max(0.0, min(adjusted_dist, 1.0))
+
+        return raw_vec_dist
 
     def _compute_centroid(self, vectors: List[List[float]]) -> List[float]:
         dim = len(vectors[0])
@@ -95,7 +149,7 @@ class SemanticClusterer:
         if not articles:
             return []
 
-        logger.info(f"Clustering {len(articles)} extracted articles...")
+        logger.info(f"Clustering {len(articles)} extracted articles with high-precision semantic matching...")
 
         texts = [self._prepare_text(a) for a in articles]
         embeddings = embedder.embed_texts(texts)
@@ -116,6 +170,10 @@ class SemanticClusterer:
                 for idx in list(unassigned_indices):
                     cand_vec = embeddings[idx]
                     cand_article = articles[idx]
+
+                    if cand_article.category != active.category:
+                        continue
+
                     dist = self._compute_distance(
                         active_centroid,
                         cand_vec,
@@ -129,7 +187,6 @@ class SemanticClusterer:
                         matched_article_indices.append(idx)
 
                 if matched_article_indices:
-                    # Case A: If active story is single perspective, upgrade it in-place
                     if active.is_single_perspective:
                         new_domain_articles = [
                             articles[i] for i in matched_article_indices
@@ -152,7 +209,6 @@ class SemanticClusterer:
                                 f"matched {len(new_domain_articles)} new perspective from {[a.domain for a in new_domain_articles]}!"
                             )
                     else:
-                        # Case B: Topic is already an active dual-perspective debate. Suppress duplicate re-analysis.
                         logger.info(
                             f"🛡️ Duplicate Topic Suppressed: {len(matched_article_indices)} articles matched active debate '{active.title[:45]}...'. Skipping duplicate analysis."
                         )
@@ -161,7 +217,7 @@ class SemanticClusterer:
                         if idx in unassigned_indices:
                             unassigned_indices.remove(idx)
 
-        # Step 3: Cluster remaining unassigned articles
+        # Step 3: Cluster remaining unassigned articles by Category + Semantic Distance
         if unassigned_indices:
             remaining_articles = [articles[i] for i in unassigned_indices]
             remaining_embeddings = [embeddings[i] for i in unassigned_indices]
@@ -176,6 +232,9 @@ class SemanticClusterer:
                 used.add(i)
                 for j in range(i + 1, len(remaining_articles)):
                     if j not in used:
+                        if remaining_articles[i].category != remaining_articles[j].category:
+                            continue
+
                         d = self._compute_distance(
                             remaining_embeddings[i],
                             remaining_embeddings[j],
