@@ -49,6 +49,8 @@ export default {
       response = await handleGetArticleById(articleId, env);
     } else if (pathname === '/api/categories') {
       response = handleGetCategories();
+    } else if (pathname === '/api/image-proxy') {
+      return handleImageProxy(searchParams, ctx);
     } else {
       return jsonResponse({ error: 'Endpoint not found' }, 404);
     }
@@ -138,6 +140,47 @@ function handleGetCategories(): Response {
       { id: 'science_society', name: 'Science & Society', slug: 'science-society', accentColor: '#00C2FF' },
     ],
   });
+}
+
+async function handleImageProxy(searchParams: URLSearchParams, ctx: ExecutionContext): Promise<Response> {
+  const imageUrl = searchParams.get('url');
+  if (!imageUrl) {
+    return jsonResponse({ error: 'Missing url parameter' }, 400);
+  }
+
+  try {
+    const targetUrl = new URL(imageUrl);
+    const originHost = targetUrl.hostname;
+
+    // Fetch image from origin server-side to bypass client hotlink protection
+    const imageRes = await fetch(imageUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'Referer': `https://${originHost}/`,
+      },
+    });
+
+    if (!imageRes.ok) {
+      // Return 302 redirect to fallback placeholder if upstream image is dead
+      return Response.redirect('https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1080&q=80', 302);
+    }
+
+    const contentType = imageRes.headers.get('Content-Type') || 'image/jpeg';
+    const proxyRes = new Response(imageRes.body, {
+      status: 200,
+      headers: {
+        'Content-Type': contentType,
+        'Access-Control-Allow-Origin': '*',
+        'Cache-Control': 'public, max-age=604800, s-maxage=604800, immutable',
+        'X-Image-Proxy': 'Cloudflare-Edge',
+      },
+    });
+
+    return proxyRes;
+  } catch (err: any) {
+    return Response.redirect('https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1080&q=80', 302);
+  }
 }
 
 function parseFirestoreDocument(doc: any): any {
