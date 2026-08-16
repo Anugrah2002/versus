@@ -41,6 +41,8 @@ class LlamaCppProvider:
 
     @property
     def is_available(self) -> bool:
+        if not os.getenv("ENABLE_LOCAL_LLAMACPP", "false").lower() in ("1", "true", "yes"):
+            return False
         try:
             import llama_cpp
             return True

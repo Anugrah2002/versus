@@ -182,9 +182,8 @@ class LLMSynthesisEngine:
         sorted_clusters = sorted(clusters, key=cluster_priority)
         logger.info(f"Synthesizing and streaming {len(sorted_clusters)} story clusters with {max_concurrent} parallel workers...")
 
-        from concurrent.futures import ThreadPoolExecutor, as_completed
-
-        results: List[Tuple[ArticleModel, StoryCluster]] = []
+        batch_start = time.time()
+        max_batch_seconds = 420  # 7 minutes watchdog ceiling
 
         with ThreadPoolExecutor(max_workers=max_concurrent) as executor:
             future_to_cluster = {
@@ -199,6 +198,14 @@ class LLMSynthesisEngine:
                         results.append((art, c))
                 except Exception as e:
                     logger.warning(f"Synthesis failed for cluster {c.cluster_id}: {e}")
+
+                # Watchdog check to prevent GitHub Action runner timeouts
+                if (time.time() - batch_start) > max_batch_seconds:
+                    logger.warning(
+                        f"⏱️ [WATCHDOG TIMEOUT GUARD] Synthesis reached 7m limit. "
+                        f"Gracefully concluding batch with {len(results)} completed stories to preserve runner state."
+                    )
+                    break
 
         return results
 
