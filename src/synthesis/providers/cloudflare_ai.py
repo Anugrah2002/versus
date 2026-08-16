@@ -1,6 +1,7 @@
 """
 Cloudflare Workers AI Provider for Dual-Perspective Stance Synthesis.
 Calls Cloudflare Workers AI REST API directly with zero SDK dependencies.
+Includes Circuit Breaker to instantly skip Cloudflare for the rest of the run upon HTTP 429 / Quota Exhaustion.
 """
 
 import json
@@ -18,9 +19,13 @@ class CloudflareAIProvider:
         self.account_id = settings.CLOUDFLARE_ACCOUNT_ID
         self.api_token = settings.CLOUDFLARE_API_TOKEN
         self.model = settings.CLOUDFLARE_AI_MODEL
+        self._is_rate_limited = False
+        self._rate_limit_reason = ""
 
     @property
     def is_configured(self) -> bool:
+        if self._is_rate_limited:
+            return False
         return bool(self.account_id and self.api_token)
 
     def _extract_json_from_response(self, raw_input: Union[str, Dict[str, Any]]) -> Optional[Dict[str, Any]]:
@@ -68,18 +73,28 @@ class CloudflareAIProvider:
                 {"role": "user", "content": user_prompt}
             ],
             "temperature": 0.2,
-            "max_tokens": 900
+            "max_tokens": 1024
         }
 
         try:
             import requests
             response = requests.post(url, headers=headers, json=payload, timeout=25)
+
+            # Circuit Breaker: If rate-limited (429) or quota exhausted (402/403), trip breaker immediately
+            if response.status_code in (429, 402, 403) or "neurons" in response.text.lower():
+                self._is_rate_limited = True
+                self._rate_limit_reason = f"HTTP {response.status_code}: {response.text[:120]}"
+                logger.warning(
+                    f"⚡ [CIRCUIT BREAKER TRIPPED] Cloudflare AI daily neuron quota exhausted or rate-limited. "
+                    f"Skipping Cloudflare for all subsequent stories in this batch. Reason: {self._rate_limit_reason}"
+                )
+                return None
+
             if response.status_code != 200:
                 logger.warning(f"Cloudflare AI returned HTTP {response.status_code}: {response.text[:150]}")
                 return None
 
             res_data = response.json()
-            # Handle both result dict and result string
             result_obj = res_data.get("result", {})
             if isinstance(result_obj, dict):
                 result_data = result_obj.get("response", result_obj)
@@ -97,6 +112,3 @@ class CloudflareAIProvider:
         except Exception as e:
             logger.warning(f"Cloudflare Workers AI call failed: {e}")
             return None
-
-
-cloudflare_ai = CloudflareAIProvider()

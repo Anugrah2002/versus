@@ -1,6 +1,7 @@
 """
 Google Gemini 2.0/1.5 Flash Provider (Tertiary AI Fallback).
 1,500 free requests/day with structured JSON response.
+Includes Circuit Breaker for instant skipping on HTTP 429.
 """
 
 import json
@@ -16,9 +17,12 @@ class GeminiAIProvider:
     def __init__(self):
         self.api_key = settings.GEMINI_API_KEY
         self.model = settings.GEMINI_MODEL
+        self._is_rate_limited = False
 
     @property
     def is_configured(self) -> bool:
+        if self._is_rate_limited:
+            return False
         return bool(self.api_key)
 
     def synthesize_cluster(self, cluster: StoryCluster) -> Optional[Dict[str, Any]]:
@@ -46,20 +50,28 @@ class GeminiAIProvider:
             "generationConfig": {
                 "temperature": 0.2,
                 "responseMimeType": "application/json",
-                "maxOutputTokens": 900
+                "maxOutputTokens": 1024
             }
         }
 
         try:
             import requests
             response = requests.post(url, headers=headers, json=payload, timeout=15)
+            if response.status_code in (429, 402, 403):
+                self._is_rate_limited = True
+                logger.warning(
+                    f"⚡ [CIRCUIT BREAKER TRIPPED] Gemini Flash API rate-limited (HTTP {response.status_code}). "
+                    f"Skipping Gemini for subsequent stories in this batch."
+                )
+                return None
+
             if response.status_code != 200:
                 logger.warning(f"Gemini API returned HTTP {response.status_code}: {response.text[:150]}")
                 return None
 
             data = response.json()
-            raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(raw_text)
+            content = data["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(content)
         except Exception as e:
             logger.warning(f"Gemini API call failed: {e}")
             return None

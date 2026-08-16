@@ -1,6 +1,7 @@
 """
 Groq High-Speed Llama-3.3-70B Provider (Secondary AI Fallback).
 14,400 free requests/day with JSON object enforcement.
+Includes Circuit Breaker for instant skipping on HTTP 429.
 """
 
 import json
@@ -16,9 +17,12 @@ class GroqAIProvider:
     def __init__(self):
         self.api_key = settings.GROQ_API_KEY
         self.model = settings.GROQ_MODEL
+        self._is_rate_limited = False
 
     @property
     def is_configured(self) -> bool:
+        if self._is_rate_limited:
+            return False
         return bool(self.api_key and self.api_key.startswith("gsk_"))
 
     def synthesize_cluster(self, cluster: StoryCluster) -> Optional[Dict[str, Any]]:
@@ -46,12 +50,20 @@ class GroqAIProvider:
             ],
             "response_format": {"type": "json_object"},
             "temperature": 0.2,
-            "max_tokens": 900
+            "max_tokens": 1024
         }
 
         try:
             import requests
             response = requests.post(url, headers=headers, json=payload, timeout=15)
+            if response.status_code in (429, 402, 403):
+                self._is_rate_limited = True
+                logger.warning(
+                    f"⚡ [CIRCUIT BREAKER TRIPPED] Groq API rate-limited (HTTP {response.status_code}). "
+                    f"Skipping Groq for subsequent stories in this batch."
+                )
+                return None
+
             if response.status_code != 200:
                 logger.warning(f"Groq API returned HTTP {response.status_code}: {response.text[:150]}")
                 return None
@@ -60,5 +72,5 @@ class GroqAIProvider:
             content = data["choices"][0]["message"]["content"]
             return json.loads(content)
         except Exception as e:
-            logger.warning(f"Groq AI call failed: {e}")
+            logger.warning(f"Groq API call failed: {e}")
             return None
