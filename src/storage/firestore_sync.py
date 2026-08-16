@@ -1,7 +1,7 @@
 """
 Firebase Firestore Synchronization Engine.
-Performs atomic batch writes to the 'articles' collection, updates delayed perspectives,
-and runs rolling 30-day TTL data retention cleanup.
+Performs immediate single-document writes as stories complete synthesis,
+atomic batch commits, delayed perspective upgrades, and rolling 30-day TTL data retention cleanup.
 """
 
 from typing import List, Optional, Tuple, Dict, Any
@@ -47,6 +47,40 @@ class FirestoreSyncEngine:
     @property
     def db(self):
         return self._db
+
+    def commit_single_article(self, article: ArticleModel, cluster: StoryCluster) -> bool:
+        """Immediately publishes a synthesized story to Firestore."""
+        if settings.DRY_RUN or not self._db:
+            logger.info(f"[DRY RUN -> FIRESTORE] Published article '{article.title[:55]}...' ({article.category} | Divergence: {article.divergenceScore}%)")
+            return True
+
+        try:
+            col_ref = self._db.collection(settings.FIRESTORE_COLLECTION_ARTICLES)
+            doc_ref = col_ref.document(article.id)
+
+            if cluster.classification == ClusterClassification.UPGRADE_STORY:
+                # Update existing single-perspective document in-place to dual perspectives
+                doc_ref.update({
+                    "title": article.title,
+                    "summary": article.summary,
+                    "divergenceScore": article.divergenceScore,
+                    "consensusScore": article.consensusScore,
+                    "isSinglePerspective": False,
+                    "perspectives": [p.model_dump() for p in article.perspectives],
+                    "tags": article.tags,
+                    "lastUpgradedAt": datetime.now(timezone.utc).isoformat()
+                })
+                logger.info(f"✨ [FIRESTORE UPGRADE] Story '{article.title[:45]}...' upgraded in-place to dual perspectives.")
+            else:
+                # Insert or overwrite new article document
+                doc_data = article.to_firestore_dict()
+                doc_ref.set(doc_data)
+                logger.info(f"🚀 [FIRESTORE PUBLISH] Published story '{article.title[:45]}...' ({article.category} | Divergence: {article.divergenceScore}%)")
+
+            return True
+        except Exception as e:
+            logger.error(f"Failed to publish single article {article.id} to Firestore: {e}")
+            return False
 
     def commit_batch(
         self,

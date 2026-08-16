@@ -1,9 +1,10 @@
 """
 Multi-Provider LLM Orchestrator for Versus Dual-Perspective Synthesis.
 Executes cascading failover: Cloudflare AI -> Groq -> Gemini -> Local Fallback.
+Supports immediate streaming publication to Firestore upon topic completion and duplicate topic suppression.
 """
 
-from typing import Optional, List, Tuple
+from typing import Optional, List, Tuple, Callable
 from datetime import datetime, timezone
 import hashlib
 
@@ -12,12 +13,14 @@ from src.synthesis.providers.cloudflare_ai import CloudflareAIProvider
 from src.synthesis.providers.groq_provider import GroqAIProvider
 from src.synthesis.providers.gemini_provider import GeminiAIProvider
 from src.synthesis.providers.fallback_provider import local_fallback_synthesizer
+from src.storage.firestore_sync import firestore_sync
 from src.storage.models import (
     StoryCluster,
     ArticleModel,
     PerspectiveModel,
     PerspectiveType,
-    ClusterClassification
+    ClusterClassification,
+    ActiveStoryState
 )
 from src.utils.logger import logger
 
@@ -137,10 +140,25 @@ class LLMSynthesisEngine:
 
         return article
 
+    def synthesize_and_publish_single(
+        self,
+        cluster: StoryCluster,
+        on_published: Optional[Callable[[ArticleModel, StoryCluster], None]] = None
+    ) -> Optional[ArticleModel]:
+        """Synthesizes a cluster and immediately writes it to Firestore."""
+        article = self.synthesize(cluster)
+        if article:
+            # Publish immediately to Firestore as each topic finishes
+            firestore_sync.commit_single_article(article, cluster)
+            if on_published:
+                on_published(article, cluster)
+        return article
+
     def synthesize_batch(
         self,
         clusters: List[StoryCluster],
-        max_concurrent: int = 8
+        max_concurrent: int = 8,
+        on_published: Optional[Callable[[ArticleModel, StoryCluster], None]] = None
     ) -> List[Tuple[ArticleModel, StoryCluster]]:
         if not clusters:
             return []
@@ -154,7 +172,7 @@ class LLMSynthesisEngine:
             return 2
 
         sorted_clusters = sorted(clusters, key=cluster_priority)
-        logger.info(f"Synthesizing {len(sorted_clusters)} story clusters with {max_concurrent} parallel workers...")
+        logger.info(f"Synthesizing and streaming {len(sorted_clusters)} story clusters with {max_concurrent} parallel workers...")
 
         from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -162,7 +180,8 @@ class LLMSynthesisEngine:
 
         with ThreadPoolExecutor(max_workers=max_concurrent) as executor:
             future_to_cluster = {
-                executor.submit(self.synthesize, c): c for c in sorted_clusters
+                executor.submit(self.synthesize_and_publish_single, c, on_published): c
+                for c in sorted_clusters
             }
             for future in as_completed(future_to_cluster):
                 c = future_to_cluster[future]
@@ -177,4 +196,3 @@ class LLMSynthesisEngine:
 
 
 synthesis_engine = LLMSynthesisEngine()
-

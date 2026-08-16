@@ -105,23 +105,21 @@ async def run_pipeline(
     active_stories = state_manager.get_active_stories_list()
     clusters = clusterer.cluster_articles(extracted_articles, active_stories)
 
-    # Step 4: AI Dual-Perspective Synthesis (Parallel Batch Execution)
-    synthesized_pairs = synthesis_engine.synthesize_batch(clusters, max_concurrent=8)
-    debates_count = 0
-    singles_count = 0
-    upgrades_count = 0
+    # Step 4: AI Dual-Perspective Synthesis & Immediate Streaming Publication
+    def on_story_completed(art: ArticleModel, cluster: StoryCluster):
+        state_manager.register_active_story(art, cluster)
 
-    for article_model, c in synthesized_pairs:
-        state_manager.register_active_story(article_model, c)
-        if c.classification == ClusterClassification.NEW_DEBATE:
-            debates_count += 1
-        elif c.classification == ClusterClassification.UPGRADE_STORY:
-            upgrades_count += 1
-        else:
-            singles_count += 1
+    synthesized_pairs = synthesis_engine.synthesize_batch(
+        clusters,
+        max_concurrent=8,
+        on_published=on_story_completed
+    )
 
-    # Step 5: Firebase Firestore Batch Write & TTL Cleanup
-    committed_count = firestore_sync.commit_batch(synthesized_pairs)
+    debates_count = sum(1 for _, c in synthesized_pairs if c.classification == ClusterClassification.NEW_DEBATE)
+    upgrades_count = sum(1 for _, c in synthesized_pairs if c.classification == ClusterClassification.UPGRADE_STORY)
+    singles_count = sum(1 for _, c in synthesized_pairs if c.classification == ClusterClassification.SINGLE_REPORT)
+
+    # Step 5: Rolling 30-Day TTL Data Retention Cleanup
     firestore_sync.cleanup_expired_articles()
 
     # Step 6: Save Updated Pipeline State

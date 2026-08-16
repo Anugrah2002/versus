@@ -1,6 +1,7 @@
 """
 Local Semantic Clustering & Active Story Matcher.
-Groups raw articles into cohesive story clusters and detects delayed second perspectives.
+Groups raw articles into cohesive story clusters, resolves delayed second perspectives,
+and prevents duplicate analysis of topics already covered in active debates.
 """
 
 from typing import List, Tuple, Optional
@@ -102,14 +103,14 @@ class SemanticClusterer:
         clusters: List[StoryCluster] = []
         unassigned_indices = list(range(len(articles)))
 
-        # Step 2: Match against active rolling 48-hour story centroids (Delayed Viewpoint 2 Resolution)
+        # Step 2: Match against active rolling 48-hour story centroids
         if active_stories:
-            logger.info(f"Checking against {len(active_stories)} active 48h story centroids...")
+            logger.info(f"Checking against {len(active_stories)} active 48h story centroids for upgrades and duplicate topic suppression...")
             for active in active_stories:
-                if not active.is_single_perspective:
+                active_centroid = active.centroid_vector
+                if not active_centroid:
                     continue
 
-                active_centroid = active.centroid_vector
                 matched_article_indices = []
 
                 for idx in list(unassigned_indices):
@@ -124,31 +125,41 @@ class SemanticClusterer:
                         body_b=cand_article.cleaned_body
                     )
 
-                    if dist < self.threshold and cand_article.domain not in active.domains:
+                    if dist < self.threshold:
                         matched_article_indices.append(idx)
 
                 if matched_article_indices:
-                    matched_articles = [articles[i] for i in matched_article_indices]
-                    cluster_id = f"upg_{active.article_id}_{int(datetime.now(timezone.utc).timestamp())}"
-                    
-                    clusters.append(
-                        StoryCluster(
-                            cluster_id=cluster_id,
-                            classification=ClusterClassification.UPGRADE_STORY,
-                            category=active.category,
-                            articles=matched_articles,
-                            centroid_vector=active_centroid,
-                            matched_existing_article_id=active.article_id
+                    # Case A: If active story is single perspective, upgrade it in-place
+                    if active.is_single_perspective:
+                        new_domain_articles = [
+                            articles[i] for i in matched_article_indices
+                            if articles[i].domain not in active.domains
+                        ]
+                        if new_domain_articles:
+                            cluster_id = f"upg_{active.article_id}_{int(datetime.now(timezone.utc).timestamp())}"
+                            clusters.append(
+                                StoryCluster(
+                                    cluster_id=cluster_id,
+                                    classification=ClusterClassification.UPGRADE_STORY,
+                                    category=active.category,
+                                    articles=new_domain_articles,
+                                    centroid_vector=active_centroid,
+                                    matched_existing_article_id=active.article_id
+                                )
+                            )
+                            logger.info(
+                                f"✨ Delayed Perspective Match: Story '{active.title[:45]}...' "
+                                f"matched {len(new_domain_articles)} new perspective from {[a.domain for a in new_domain_articles]}!"
+                            )
+                    else:
+                        # Case B: Topic is already an active dual-perspective debate. Suppress duplicate re-analysis.
+                        logger.info(
+                            f"🛡️ Duplicate Topic Suppressed: {len(matched_article_indices)} articles matched active debate '{active.title[:45]}...'. Skipping duplicate analysis."
                         )
-                    )
-
-                    logger.info(
-                        f"✨ Delayed Perspective Match: Story '{active.title[:45]}...' "
-                        f"matched {len(matched_articles)} new perspective from {[a.domain for a in matched_articles]}!"
-                    )
 
                     for idx in matched_article_indices:
-                        unassigned_indices.remove(idx)
+                        if idx in unassigned_indices:
+                            unassigned_indices.remove(idx)
 
         # Step 3: Cluster remaining unassigned articles
         if unassigned_indices:
