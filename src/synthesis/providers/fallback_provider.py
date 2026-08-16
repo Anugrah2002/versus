@@ -21,10 +21,10 @@ class LocalFallbackSynthesizer:
                 valid.append(s_clean)
         return valid
 
-    def _extract_lead_summary(self, body: str, max_words: int = 115) -> str:
+    def _extract_lead_summary(self, body: str, max_words: int = 55) -> str:
         sentences = self._split_into_sentences(body)
         if not sentences:
-            return body[:500].strip()
+            return body[:300].strip()
 
         collected = []
         total_words = 0
@@ -43,13 +43,13 @@ class LocalFallbackSynthesizer:
         sentences = self._split_into_sentences(body)
         bullets = []
         for s in sentences[1:5]:
-            if len(s) > 130:
+            if len(s) > 110:
                 words = s.split()
-                truncated = " ".join(words[:16]) + "."
+                truncated = " ".join(words[:14]) + "."
                 bullets.append(truncated)
             else:
                 bullets.append(s)
-            if len(bullets) == 3:
+            if len(bullets) == 2:
                 break
 
         if not bullets and sentences:
@@ -58,7 +58,7 @@ class LocalFallbackSynthesizer:
         while len(bullets) < 2:
             bullets.append("Key analytical takeaway and operational overview.")
 
-        return bullets[:3]
+        return bullets[:2]
 
     def synthesize_cluster(self, cluster: StoryCluster) -> Dict[str, Any]:
         logger.info(f"Using local rule-based heuristic synthesizer for cluster {cluster.cluster_id}")
@@ -71,7 +71,7 @@ class LocalFallbackSynthesizer:
         )
 
         title = primary.title
-        summary = self._extract_lead_summary(primary.cleaned_body, max_words=115)
+        summary = self._extract_lead_summary(primary.cleaned_body, max_words=55)
         divergence = 88 if is_debate else 0
         consensus = 12 if is_debate else 100
 
@@ -87,8 +87,8 @@ class LocalFallbackSynthesizer:
                 "sourceDomain": art_a.domain,
                 "biasTag": art_a.default_bias,
                 "sourceCredibility": art_a.credibility,
-                "stanceTitle": art_a.title[:90],
-                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=100),
+                "stanceTitle": art_a.title[:120],
+                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=55),
                 "keyPoints": self._extract_key_points(art_a.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
@@ -100,8 +100,8 @@ class LocalFallbackSynthesizer:
                 "sourceDomain": art_b.domain,
                 "biasTag": art_b.default_bias,
                 "sourceCredibility": art_b.credibility,
-                "stanceTitle": art_b.title[:90],
-                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=100),
+                "stanceTitle": art_b.title[:120],
+                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=55),
                 "keyPoints": self._extract_key_points(art_b.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""
@@ -113,8 +113,8 @@ class LocalFallbackSynthesizer:
                 "sourceDomain": primary.domain,
                 "biasTag": primary.default_bias,
                 "sourceCredibility": primary.credibility,
-                "stanceTitle": primary.title[:90],
-                "summary": self._extract_lead_summary(primary.cleaned_body, max_words=100),
+                "stanceTitle": primary.title[:120],
+                "summary": self._extract_lead_summary(primary.cleaned_body, max_words=55),
                 "keyPoints": self._extract_key_points(primary.cleaned_body),
                 "quote": "",
                 "quoteAuthor": ""

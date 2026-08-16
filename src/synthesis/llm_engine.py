@@ -105,6 +105,18 @@ class LLMSynthesisEngine:
         perspectives_data = raw_json.get("perspectives", [])
         validated_perspectives: List[PerspectiveModel] = []
 
+        def _trim_summary(text: str, max_words: int = 55) -> str:
+            if not text:
+                return ""
+            words = text.split()
+            if len(words) <= max_words:
+                return text.strip()
+            truncated = " ".join(words[:max_words])
+            last_dot = max(truncated.rfind("."), truncated.rfind("!"), truncated.rfind("?"))
+            if last_dot > len(truncated) * 0.6:
+                return truncated[:last_dot + 1].strip()
+            return truncated.strip() + "."
+
         for idx, p in enumerate(perspectives_data):
             p_type = p.get("type", "viewpoint1" if idx == 0 else "viewpoint2")
             if cluster.classification == ClusterClassification.SINGLE_REPORT:
@@ -120,7 +132,7 @@ class LLMSynthesisEngine:
                     biasTag=p.get("biasTag", sorted_articles[min(idx, len(sorted_articles)-1)].default_bias),
                     sourceCredibility=int(p.get("sourceCredibility", 92)),
                     stanceTitle=(p.get("stanceTitle") or sorted_articles[min(idx, len(sorted_articles)-1)].title)[:250],
-                    summary=p.get("summary", ""),
+                    summary=_trim_summary(p.get("summary", "")),
                     keyPoints=p.get("keyPoints", [])[:2],
                     quote=p.get("quote", ""),
                     quoteAuthor=p.get("quoteAuthor", ""),
@@ -135,7 +147,7 @@ class LLMSynthesisEngine:
         article = ArticleModel(
             id=article_id,
             title=raw_json.get("title", cluster.articles[0].title)[:120],
-            summary=raw_json.get("summary", "")[:1200],
+            summary=_trim_summary(raw_json.get("summary", "") or validated_perspectives[0].summary),
             category=raw_json.get("category", cluster.category),
             publishedAt=now_iso,
             divergenceScore=divergence,
