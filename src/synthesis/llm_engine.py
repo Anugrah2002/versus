@@ -137,5 +137,44 @@ class LLMSynthesisEngine:
 
         return article
 
+    def synthesize_batch(
+        self,
+        clusters: List[StoryCluster],
+        max_concurrent: int = 8
+    ) -> List[Tuple[ArticleModel, StoryCluster]]:
+        if not clusters:
+            return []
+
+        # Prioritize debates and upgrades first
+        def cluster_priority(c: StoryCluster) -> int:
+            if c.classification == ClusterClassification.NEW_DEBATE:
+                return 0
+            if c.classification == ClusterClassification.UPGRADE_STORY:
+                return 1
+            return 2
+
+        sorted_clusters = sorted(clusters, key=cluster_priority)
+        logger.info(f"Synthesizing {len(sorted_clusters)} story clusters with {max_concurrent} parallel workers...")
+
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
+        results: List[Tuple[ArticleModel, StoryCluster]] = []
+
+        with ThreadPoolExecutor(max_workers=max_concurrent) as executor:
+            future_to_cluster = {
+                executor.submit(self.synthesize, c): c for c in sorted_clusters
+            }
+            for future in as_completed(future_to_cluster):
+                c = future_to_cluster[future]
+                try:
+                    art = future.result()
+                    if art:
+                        results.append((art, c))
+                except Exception as e:
+                    logger.warning(f"Synthesis failed for cluster {c.cluster_id}: {e}")
+
+        return results
+
 
 synthesis_engine = LLMSynthesisEngine()
+
