@@ -102,7 +102,7 @@ async def run_pipeline(
         state_manager.mark_url_seen(art.url_hash)
 
     # Step 3: Local Semantic Clustering & Active Story Matching
-    active_stories = state_manager.get_active_stories_list()
+    active_stories = state_manager.get_active_stories()
     clusters = clusterer.cluster_articles(extracted_articles, active_stories)
 
     # Step 4: AI Dual-Perspective Synthesis & Immediate Streaming Publication

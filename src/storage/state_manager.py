@@ -243,9 +243,15 @@ class StateManager:
             published_at=article.publishedAt.isoformat()
         )
 
+    def register_active_story(self, article: ArticleModel, cluster: StoryCluster):
+        self.register_article_story(article, cluster)
+
     def get_active_stories(self) -> List[ActiveStoryState]:
         self._prune_expired_state()
         return list(self.active_stories.values())
+
+    def get_active_stories_list(self) -> List[ActiveStoryState]:
+        return self.get_active_stories()
 
 
 state_manager = StateManager()
