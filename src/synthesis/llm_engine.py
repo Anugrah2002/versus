@@ -70,7 +70,15 @@ class LLMSynthesisEngine:
                 provider_name = "Google Gemini Flash"
                 self.total_ai_calls += 1
 
-        # 4. Failsafe Fallback: Local Rule-Based Synthesizer
+        # 4. Quaternary: Local Llama.cpp CPU (Llama-3.2-1B / Qwen2.5-1.5B)
+        if not raw_json:
+            from src.synthesis.providers.llamacpp_provider import llamacpp_provider
+            raw_json = llamacpp_provider.synthesize_cluster(cluster)
+            if raw_json:
+                provider_name = "Local Llama.cpp CPU (Llama-3.2-1B)"
+                self.total_ai_calls += 1
+
+        # 5. Failsafe Fallback: Local Rule-Based NLP Synthesizer
         if not raw_json and settings.ENABLE_LOCAL_FALLBACK:
             raw_json = self.fallback.synthesize_cluster(cluster)
             provider_name = "Local Heuristic Fallback"

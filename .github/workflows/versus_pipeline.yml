@@ -38,13 +38,15 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
-      - name: Cache Embedding Model Weights
+      - name: Cache Embedding & GGUF Model Weights
         uses: actions/cache@v4
         with:
-          path: ~/.cache/huggingface/hub
-          key: ${{ runner.os }}-hf-minilm-v2
+          path: |
+            ~/.cache/huggingface/hub
+            .models/
+          key: ${{ runner.os }}-versus-models-v1
           restore-keys: |
-            ${{ runner.os }}-hf-minilm-
+            ${{ runner.os }}-versus-models-
 
       - name: Install Python Dependencies
         run: |
