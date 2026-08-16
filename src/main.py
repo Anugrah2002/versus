@@ -118,6 +118,7 @@ async def run_pipeline(
     debates_count = sum(1 for _, c in synthesized_pairs if c.classification == ClusterClassification.NEW_DEBATE)
     upgrades_count = sum(1 for _, c in synthesized_pairs if c.classification == ClusterClassification.UPGRADE_STORY)
     singles_count = sum(1 for _, c in synthesized_pairs if c.classification == ClusterClassification.SINGLE_REPORT)
+    committed_count = len(synthesized_pairs)
 
     # Step 5: Rolling 30-Day TTL Data Retention Cleanup
     firestore_sync.cleanup_expired_articles()

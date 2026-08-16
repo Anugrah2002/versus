@@ -133,7 +133,13 @@ class FirestoreSyncEngine:
             ).isoformat()
 
             col_ref = self._db.collection(settings.FIRESTORE_COLLECTION_ARTICLES)
-            old_docs = col_ref.where("publishedAt", "<", cutoff_date).limit(50).stream()
+            try:
+                from google.cloud.firestore_v1.base_query import FieldFilter
+                query = col_ref.where(filter=FieldFilter("publishedAt", "<", cutoff_date))
+            except Exception:
+                query = col_ref.where("publishedAt", "<", cutoff_date)
+
+            old_docs = query.limit(50).stream()
 
             deleted_count = 0
             batch = self._db.batch()

@@ -70,11 +70,37 @@ class StateManager:
             doc = doc_ref.get()
             if doc.exists:
                 data = doc.to_dict() or {}
-                self.seen_url_hashes.update(data.get("seen_hashes", []))
-                self.feed_states.update(data.get("feed_states", {}))
-                stories_data = data.get("active_stories", {})
-                for k, v in stories_data.items():
-                    self.active_stories[k] = ActiveStoryState(**v)
+                # Load seen_hashes (supports both JSON string and legacy array)
+                if "seen_hashes_json" in data:
+                    try:
+                        self.seen_url_hashes.update(json.loads(data["seen_hashes_json"]))
+                    except Exception:
+                        pass
+                elif "seen_hashes" in data:
+                    self.seen_url_hashes.update(data.get("seen_hashes", []))
+
+                # Load feed_states
+                if "feed_states_json" in data:
+                    try:
+                        self.feed_states.update(json.loads(data["feed_states_json"]))
+                    except Exception:
+                        pass
+                else:
+                    self.feed_states.update(data.get("feed_states", {}))
+
+                # Load active_stories
+                if "active_stories_json" in data:
+                    try:
+                        stories_data = json.loads(data["active_stories_json"])
+                        for k, v in stories_data.items():
+                            self.active_stories[k] = ActiveStoryState(**v)
+                    except Exception:
+                        pass
+                elif "active_stories" in data:
+                    stories_data = data.get("active_stories", {})
+                    for k, v in stories_data.items():
+                        self.active_stories[k] = ActiveStoryState(**v)
+
                 logger.info(
                     f"Synced pipeline state from Firestore: {len(self.seen_url_hashes)} seen hashes, "
                     f"{len(self.active_stories)} active stories."
@@ -88,15 +114,19 @@ class StateManager:
         try:
             self._prune_expired_state()
             doc_ref = self._firestore_db.collection(settings.FIRESTORE_COLLECTION_SYSTEM).document("pipeline_state")
-            recent_hashes = list(self.seen_url_hashes)[-4000:]
+            recent_hashes = list(self.seen_url_hashes)[-5000:]
+            
+            # Store state as compact JSON strings to prevent Firestore 40,000 index entry limits
             payload = {
-                "seen_hashes": recent_hashes,
-                "feed_states": self.feed_states,
-                "active_stories": {k: v.model_dump() for k, v in self.active_stories.items()},
+                "seen_hashes_json": json.dumps(recent_hashes),
+                "feed_states_json": json.dumps(self.feed_states),
+                "active_stories_json": json.dumps({k: v.model_dump() for k, v in self.active_stories.items()}),
+                "seen_hashes_count": len(self.seen_url_hashes),
+                "active_stories_count": len(self.active_stories),
                 "last_synced_at": datetime.now(timezone.utc).isoformat()
             }
             doc_ref.set(payload)
-            logger.info("Saved pipeline state to Firestore _system/pipeline_state.")
+            logger.info(f"Saved pipeline state to Firestore _system/pipeline_state ({len(recent_hashes)} hashes, {len(self.active_stories)} active stories).")
         except Exception as e:
             logger.error(f"Failed to save state to Firestore: {e}")
 
