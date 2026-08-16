@@ -75,7 +75,7 @@ class LLMSynthesisEngine:
             from src.synthesis.providers.llamacpp_provider import llamacpp_provider
             raw_json = llamacpp_provider.synthesize_cluster(cluster)
             if raw_json:
-                provider_name = "Local Llama.cpp CPU (Llama-3.2-1B)"
+                provider_name = "Local Llama.cpp CPU (Qwen-2.5-3B)"
                 self.total_ai_calls += 1
 
         # 5. Failsafe Fallback: Local Rule-Based NLP Synthesizer

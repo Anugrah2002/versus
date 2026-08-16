@@ -43,7 +43,8 @@ jobs:
         with:
           path: |
             ~/.cache/huggingface/hub
-          key: ${{ runner.os }}-versus-models-v1
+            .models/
+          key: ${{ runner.os }}-versus-models-v2
           restore-keys: |
             ${{ runner.os }}-versus-models-
 

@@ -1,7 +1,7 @@
 """
-Local Llama.cpp CPU Inference Provider (Google Gemma / Llama / Qwen GGUF).
+Local Llama.cpp CPU Inference Provider (Qwen 2.5 3B Instruct GGUF).
 Runs 100% offline on standard 2-vCPU / 7GB RAM GitHub Actions runners with zero cloud API keys.
-Supports Gemma 2/4-bit and 4B-class instruction-tuned models with automatic chat template adaptation.
+Delivers 7B-class reasoning and native structured JSON editorial synthesis.
 """
 
 from typing import Optional, Dict, Any
@@ -20,14 +20,14 @@ from src.utils.logger import logger
 
 MODEL_DIR = Path(".models")
 
-# Default: Google Gemma 4-Bit Instruction-Tuned (Q4_K_M)
+# Default: Qwen 2.5 3B Instruct (Q4_K_M) - Gold standard for 3B class reasoning & JSON schema
 DEFAULT_MODEL_FILENAME = os.getenv(
     "LOCAL_GGUF_MODEL_FILENAME",
-    "gemma-2-2b-it-Q4_K_M.gguf"
+    "qwen2.5-3b-instruct-q4_k_m.gguf"
 )
 DEFAULT_MODEL_URL = os.getenv(
     "LOCAL_GGUF_MODEL_URL",
-    "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q4_K_M.gguf"
+    "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/resolve/main/qwen2.5-3b-instruct-q4_k_m.gguf"
 )
 
 
@@ -56,12 +56,12 @@ class LlamaCppProvider:
         MODEL_DIR.mkdir(parents=True, exist_ok=True)
         try:
             import urllib.request
-            logger.info(f"Downloading Google Gemma GGUF model '{self.model_filename}' from {self.model_url}...")
+            logger.info(f"Downloading Qwen 2.5 3B Instruct GGUF model '{self.model_filename}' from {self.model_url}...")
             urllib.request.urlretrieve(self.model_url, str(self.model_path))
-            logger.info("Gemma model download complete.")
+            logger.info("Qwen 2.5 3B model download complete.")
             return True
         except Exception as e:
-            logger.warning(f"Could not download Gemma GGUF model: {e}")
+            logger.warning(f"Could not download Qwen 2.5 3B GGUF model: {e}")
             return False
 
     def _init_llm(self) -> bool:
@@ -78,7 +78,7 @@ class LlamaCppProvider:
 
         try:
             from llama_cpp import Llama
-            logger.info(f"Loading Gemma model '{self.model_filename}' into memory on 2 CPU threads...")
+            logger.info(f"Loading Qwen 2.5 3B model '{self.model_filename}' into memory on 2 CPU threads...")
             self._llm = Llama(
                 model_path=str(self.model_path),
                 n_ctx=3584,
@@ -87,10 +87,10 @@ class LlamaCppProvider:
                 verbose=False
             )
             self._is_initialized = True
-            logger.info("Local Gemma llama.cpp model loaded successfully.")
+            logger.info("Local Qwen 2.5 3B llama.cpp model loaded successfully.")
             return True
         except Exception as e:
-            logger.warning(f"Failed to load Gemma llama.cpp model: {e}")
+            logger.warning(f"Failed to load Qwen 2.5 3B llama.cpp model: {e}")
             self._is_initialized = True
             self._llm = None
             return False
@@ -107,30 +107,29 @@ class LlamaCppProvider:
             cluster.classification
         )
 
-        # Gemma chat template requires system instructions prepended to the user turn
-        combined_prompt = f"{system_prompt}\n\n{user_prompt}"
         messages = [
-            {"role": "user", "content": combined_prompt}
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
         ]
 
         try:
-            logger.info(f"Synthesizing cluster {cluster.cluster_id} via local Gemma CPU...")
+            logger.info(f"Synthesizing cluster {cluster.cluster_id} via local Qwen 2.5 3B CPU...")
             response = self._llm.create_chat_completion(
                 messages=messages,
-                temperature=0.25,
+                temperature=0.2,
                 max_tokens=1024,
                 response_format={"type": "json_object"}
             )
 
             content = response["choices"][0]["message"]["content"].strip()
             
-            # Extract JSON
+            # Extract JSON cleanly
             match = re.search(r"\{[\s\S]*\}", content)
             if match:
                 return json.loads(match.group(0))
             return json.loads(content)
         except Exception as e:
-            logger.warning(f"Gemma local synthesis failed: {e}")
+            logger.warning(f"Qwen 2.5 3B local synthesis failed: {e}")
             return None
 
 
