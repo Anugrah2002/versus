@@ -39,7 +39,7 @@ class LocalFallbackSynthesizer:
         )
 
         title = primary.title
-        summary = self._extract_lead_summary(primary.cleaned_body, max_words=25)
+        summary = self._extract_lead_summary(primary.cleaned_body, max_words=70)
         divergence = 88 if is_debate else 0
         consensus = 12 if is_debate else 100
 
