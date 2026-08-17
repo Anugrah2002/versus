@@ -101,9 +101,10 @@ class LocalQwenAuditor:
         prompt = f"""You are an elite editorial auditor for a news intelligence app called Versus.
 Versus features 'Dual Views' that provide multi-perspective coverage on news stories, controversies, policies, and ongoing global developments.
 
-A valid Dual View includes:
-1. Perspectives on the same specific news event OR the same overarching policy/geopolitical/industry theme (e.g. India's Space Ambitions: Innovation & Lunar Missions vs Security/Geopolitical Risks; AI Regulation: Fostering Innovation vs Safety Concerns; Energy Transition: Green Tech Growth vs Grid Costs).
-2. Contrasting, balanced, or complementary angles (Positive vs Negative, Opportunities vs Risks, Pro vs Con, Domestic vs International).
+IMPORTANT RULE:
+Default to "KEEP_DUAL". Dual Views SHOULD include different positive/negative aspects, risks vs innovation, or different lenses on the same general topic/country/entity (e.g. India's space missions vs space security risks, or AI investment vs AI ethics).
+
+ONLY choose "SPLIT_TO_BRIEFS" or "CONVERT_TO_BRIEF" if the two perspectives are completely UNRELATED and from totally disjoint domains (for example: Everest climbing body landmark paired with AI code plugin, or High school class paired with Mercedes car ad).
 
 Story Title: {title}
 Main Summary: {summary}
@@ -117,10 +118,10 @@ Title: {p2_t}
 Content: {p2_s}
 
 Decide one action:
-- "KEEP_DUAL": Both perspectives explore the same news topic, policy, entity, or theme from different or complementary angles (Positive vs Negative, Opportunities vs Risks, Pro vs Con).
-- "SPLIT_TO_BRIEFS": The two perspectives are about completely UNRELATED, disjointed subjects from different domains (e.g., one about Everest climbing, the other about residential housing mortgages).
-- "CONVERT_TO_BRIEF": One perspective is valid, but the other is empty, broken, gibberish, or < 15 words.
-- "DELETE": Both perspectives are spam, corrupted, or nonsensical.
+- "KEEP_DUAL": DEFAULT. The perspectives address the same event, topic, sector, country, or theme from different or complementary angles (Positive vs Negative, Opportunities vs Risks, Pro vs Con).
+- "SPLIT_TO_BRIEFS": STRICTLY for totally UNRELATED topics from completely disjoint domains (e.g. Everest vs AI software).
+- "CONVERT_TO_BRIEF": One perspective is valid, but the second is empty, broken, or contains < 15 words.
+- "DELETE": Spam, broken, or corrupted content.
 
 Respond ONLY with a JSON object:
 {{
