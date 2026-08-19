@@ -1,0 +1,889 @@
+{
+  "page": 15,
+  "total_pages": 15,
+  "total_articles": 300,
+  "has_more": false,
+  "articles": [
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "AI - SYSTEMS Cerebras CS-4 rack systems juice chips for every last drop of AI performanceNext-gen systems double per-chip performance while cramming 3x as many into a rack - Security Copilot tricked into telling reseachers how to hack itselfHow to social engineer an AI's reasoning engine - AI and ml Payments giant Stripe is about.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Security Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day.",
+            "After 20 years of failure, it's time to smash anotherWord up - GNOME can."
+          ],
+          "stanceTitle": "NASA estimates the size of the hole SpaceX made in the moon",
+          "type": "directReport",
+          "sourceName": "The Register",
+          "id": "p_art_d6f94ddb78_1",
+          "summary": "AI - SYSTEMS Cerebras CS-4 rack systems juice chips for every last drop of AI performanceNext-gen systems double per-chip performance while cramming 3x as many into a rack - Security Copilot tricked into telling reseachers how to hack itselfHow to social engineer an AI's reasoning engine - AI and ml Payments giant Stripe is about.",
+          "quoteAuthor": "",
+          "biasTag": "Critical Tech Skepticism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theregister.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "NASA estimates the size of the hole SpaceX made in the moon",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:27.047106+00:00",
+      "id": "art_d6f94ddb78",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://image.theregister.com/5289450.jpg?imageId=5289450&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Akhilesh Yadav attacks Centre over E20 petrol, cites CEA\u2019s reported backing for E10. Akhilesh Yadav cited CEA Ananta Nageswaran\u2019s reported remarks on E20 and and questioned the government\u2019s position on the fuel; \u201cWho is right: the government or the adviser?\u201d Mr.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Akhilesh Yadav cited CEA Ananta Nageswaran\u2019s reported remarks on E20 and and questioned the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Akhilesh Yadav attacks Centre over E20 petrol, cites CEA\u2019s reported backing for E10",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_bfb3fa020f_1",
+          "summary": "Akhilesh Yadav attacks Centre over E20 petrol, cites CEA\u2019s reported backing for E10. Akhilesh Yadav cited CEA Ananta Nageswaran\u2019s reported remarks on E20 and and questioned the government\u2019s position on the fuel; \u201cWho is right: the government or the adviser?\u201d Mr.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Akhilesh Yadav attacks Centre over E20 petrol, cites CEA\u2019s reported backing for E10",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:27.003077+00:00",
+      "id": "art_bfb3fa020f",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/hlvn42/article71363789.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000188B.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "CBI arrests Deputy Controller of Accounts in l&B Ministry on graft charge. The accused has been identified as Sandeep Choudhary, against whom the CBI registered a case on August 18 following a complaint alleging that he had demanded \u20b915 lakh for the expeditious renewal of a contract",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The accused has been identified as Sandeep Choudhary, against whom the CBI registered a.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "CBI arrests Deputy Controller of Accounts in l&B Ministry on graft charge",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_b8ac891b74_1",
+          "summary": "CBI arrests Deputy Controller of Accounts in l&B Ministry on graft charge. The accused has been identified as Sandeep Choudhary, against whom the CBI registered a case on August 18 following a complaint alleging that he had demanded \u20b915 lakh for the expeditious renewal of a contract",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "CBI arrests Deputy Controller of Accounts in l&B Ministry on graft charge",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:27.000880+00:00",
+      "id": "art_b8ac891b74",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/hqhchc/article70854949.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-19T10:37:16.660538+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- The Tamil Nadu government withdrew its order preventing students from protests within 24 hours - The directive targeted programs by Left-wing parties and the Tamil Nadu Cockroach Janta Party - Last week, Chief Justice Surya Kant emphasised students\u2019 fundamental right to protest regardless of views The Tamil Nadu Higher Education Department has withdrawn a.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.880546+00:00",
+      "id": "art_1f1ba8ae5a",
+      "title": "In U-Turn, Vijay Government Withdraws Order Barring Students From Protesting",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The withdrawal came today, two days after the circular was issued and amid strong.",
+            "The Directorate of Collegiate Education had issued the original circular on August 17, referring."
+          ],
+          "stanceTitle": "In U-Turn, Vijay Government Withdraws Order Barring Students From Protesting",
+          "type": "directReport",
+          "summary": "- The Tamil Nadu government withdrew its order preventing students from protests within 24 hours - The directive targeted programs by Left-wing parties and the Tamil Nadu Cockroach Janta Party - Last week, Chief Justice Surya Kant emphasised students\u2019 fundamental right to protest regardless of views The Tamil Nadu Higher Education Department has withdrawn a.",
+          "id": "p_art_1f1ba8ae5a_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ioj0qi/article71363855.ece/alternates/LANDSCAPE_1200/BVR_9300_01.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Data centres will not touch Visakhapatnam\u2019s drinking water, Lokesh tells Andhra Assembly. Answering a question during the Monsoon session, the IT Minister said the State\u2019s planned 6.5 GW of data centres would draw about 3 tmc ft a year from Polavaram\u2019s industrial allocation",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Answering a question during the Monsoon session, the IT Minister said the State\u2019s planned.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Data centres will not touch Visakhapatnam\u2019s drinking water, Lokesh tells Andhra Assembly",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_fc316cd4c5_1",
+          "summary": "Data centres will not touch Visakhapatnam\u2019s drinking water, Lokesh tells Andhra Assembly. Answering a question during the Monsoon session, the IT Minister said the State\u2019s planned 6.5 GW of data centres would draw about 3 tmc ft a year from Polavaram\u2019s industrial allocation",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Data centres will not touch Visakhapatnam\u2019s drinking water, Lokesh tells Andhra Assembly",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.850271+00:00",
+      "id": "art_fc316cd4c5",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d57z9s/article71363868.ece/alternates/LANDSCAPE_1200/DSC_5522.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "West Bengal government seeks custodial interrogation of Abhishek Banerjee's aide in land-grabbing case. The top court, on August 6, had stayed the arrest of Sumit Roy in connection with the land-grabbing case. It, however, directed him to cooperate fully with the ongoing investigation.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The top court, on August 6, had stayed the arrest of Sumit Roy in connection with the land-grabbing case.",
+            "It, however, directed him to cooperate fully with the ongoing investigation."
+          ],
+          "stanceTitle": "West Bengal government seeks custodial interrogation of Abhishek Banerjee's aide in land-grabbing case",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_8a3f142644_1",
+          "summary": "West Bengal government seeks custodial interrogation of Abhishek Banerjee's aide in land-grabbing case. The top court, on August 6, had stayed the arrest of Sumit Roy in connection with the land-grabbing case. It, however, directed him to cooperate fully with the ongoing investigation.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "West Bengal government seeks custodial interrogation of Abhishek Banerjee's aide in land-grabbi",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.813337+00:00",
+      "id": "art_8a3f142644",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/26f1wc/article71363795.ece/alternates/LANDSCAPE_1200/PTI08_10_2026_000049B.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "21 students fall ill after drinking water containing excess chlorine near Pollachi. Chlorine was added to the school\u2019s water tank recently. However, as the water level was low, the concentration of chlorine was high, causing irritation among the students who drank the water",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Chlorine was added to the school\u2019s water tank recently.",
+            "However, as the water level was low, the concentration of chlorine was high, causing."
+          ],
+          "stanceTitle": "21 students fall ill after drinking water containing excess chlorine near Pollachi",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_400f70b09b_1",
+          "summary": "21 students fall ill after drinking water containing excess chlorine near Pollachi. Chlorine was added to the school\u2019s water tank recently. However, as the water level was low, the concentration of chlorine was high, causing irritation among the students who drank the water",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "21 students fall ill after drinking water containing excess chlorine near Pollachi",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.710013+00:00",
+      "id": "art_400f70b09b",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/3ilvl9/article71363893.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UU73K0853_R1521039841_1_54d0efcd-4163-4c7f-aaff-16c3055a2438.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Lassi seller earning \u20b980,000 builds two-storey house: \u2018Hamare paas makan hi nahi tha\u2019 During a street interview, a man who sells lassi for a living shared how he built a house for his family in Uttar Pradesh. His story has inspired many.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "His story has inspired many.",
+            "A moving street interview shared by digital creator Upen Verma has captured the internet's."
+          ],
+          "stanceTitle": "Lassi seller earning  \u20b980,000 builds two-storey house: \u2018Hamare paas makan hi nahi tha\u2019",
+          "type": "directReport",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_6da439e418_1",
+          "summary": "Lassi seller earning \u20b980,000 builds two-storey house: \u2018Hamare paas makan hi nahi tha\u2019 During a street interview, a man who sells lassi for a living shared how he built a house for his family in Uttar Pradesh. His story has inspired many.",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Lassi seller earning  \u20b980,000 builds two-storey house: \u2018Hamare paas makan hi nahi tha\u2019",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.613107+00:00",
+      "id": "art_6da439e418",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/Lassi_Seller_Two_Storey_House_Viral_Video_Insta_1787115600661_1787115600938_77af924e-2753-4fee-b5a9-8f00fe82016b.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Burglar sues shopkeeper for $10 million after breaking into his store, getting shot A burglar who was shot three times while breaking into a granite shop is now suing the business owner, his intended target, for $10 million.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A burglar who was shot three times while breaking into a granite shop is.",
+            "Kenneth Voyles broke into Touchstone Granite & Marble in Portland, Oregon on March 6, 2023."
+          ],
+          "stanceTitle": "Burglar sues shopkeeper for $10 million after breaking into his store, getting shot",
+          "type": "directReport",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_dbb389fcc6_1",
+          "summary": "Burglar sues shopkeeper for $10 million after breaking into his store, getting shot A burglar who was shot three times while breaking into a granite shop is now suing the business owner, his intended target, for $10 million.",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Burglar sues shopkeeper for $10 million after breaking into his store, getting shot",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.468258+00:00",
+      "id": "art_dbb389fcc6",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/dsddsdc_1740036369116_1787119399120_3a20535c-4f76-48f2-990a-c417fd95a397.png"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "West Bengal teen living in pond airlifted to Mumbai after Anant Ambani steps in The teen from West Bengal's Murshidabad was taken to Mumbai for special evaluation and treatment. A video of a teen from West Bengal who lived in different ponds to get momentary relief from a medical condition shocked the internet.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A video of a teen from West Bengal who lived in different ponds to.",
+            "Soon after the clip went viral, Anant Ambani offered medical aid to the boy\u2019s."
+          ],
+          "stanceTitle": "West Bengal teen living in pond airlifted to Mumbai after Anant Ambani steps in",
+          "type": "directReport",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_862fb2454f_1",
+          "summary": "West Bengal teen living in pond airlifted to Mumbai after Anant Ambani steps in The teen from West Bengal's Murshidabad was taken to Mumbai for special evaluation and treatment. A video of a teen from West Bengal who lived in different ponds to get momentary relief from a medical condition shocked the internet.",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "West Bengal teen living in pond airlifted to Mumbai after Anant Ambani steps in",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.363872+00:00",
+      "id": "art_862fb2454f",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/West_Bengal_Living_In_Pond_Mumbai_Anant_Ambani_1787122256800_1787122270836_9406a695-3b25-4d14-9b7c-16d9fcace9be.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "An entrepreneur has claimed that he was stopped for additional questioning because of his.",
+            "Manoj Ahirwar said that despite the fact that Timor Leste has visa on arrival."
+          ],
+          "stanceTitle": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste",
+          "type": "directReport",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_024d54d5d5_1",
+          "summary": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticke",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.250099+00:00",
+      "id": "art_024d54d5d5",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/Manoj_Ahirwar_1787122615834_1787122628528_11bfd5e1-a7da-46f5-93aa-08d2afe1f7b9.png"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "\u2018They put my needs ahead of their own\u2019: Grateful son buys Bhopal home for parents who braved years of financial hardship Ajay Amrawanshi, in a conversation with hindustantimes.com, recalled how his parents always put his needs first, despite their financial struggles. How do you repay parents who sacrificed everything for your future?",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "How do you repay parents who sacrificed everything for your future?",
+            "For Instagram creator Ajay Amrawanshi, the answer was surprising them with a brand-new home in Bhopal."
+          ],
+          "stanceTitle": "\u2018They put my needs ahead of their own\u2019: Grateful son buys Bhopal home for parents who braved years of financial hardship",
+          "type": "directReport",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_58d8abff9d_1",
+          "summary": "\u2018They put my needs ahead of their own\u2019: Grateful son buys Bhopal home for parents who braved years of financial hardship Ajay Amrawanshi, in a conversation with hindustantimes.com, recalled how his parents always put his needs first, despite their financial struggles. How do you repay parents who sacrificed everything for your future?",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "\u2018They put my needs ahead of their own\u2019: Grateful son buys Bhopal home for parents who braved ye",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T07:50:26.116442+00:00",
+      "id": "art_58d8abff9d",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/Son_Bhopal_Parents_House_Viral_Instagram_1787122729916_1787122737312_878e77a1-4fbf-4407-ac9e-8ddd797bdc88.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Liberia agrees to take 1,200 deportees from U.S.. The deportees will be received within a year, with the first batch of 20 expected on August 20, 2026, Liberia's Information Minister Jerolinmek Piah",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Liberia agrees to take 1,200 deportees from U.S.",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.327040+00:00",
+      "id": "art_50b47a0524",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The deportees will be received within a year, with the first batch of 20.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Liberia agrees to take 1,200 deportees from U.S.",
+          "type": "directReport",
+          "sourceName": "The Hindu World",
+          "id": "p_art_50b47a0524_1",
+          "summary": "Liberia agrees to take 1,200 deportees from U.S.. The deportees will be received within a year, with the first batch of 20 expected on August 20, 2026, Liberia's Information Minister Jerolinmek Piah",
+          "quoteAuthor": "",
+          "biasTag": "Institutional Diplomacy",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d67fos/article71363239.ece/alternates/LANDSCAPE_1200/2026-08-18T205345Z_845450769_RC281NAZ8ORB_RTRMADP_3_USA-TRUMP-MIGRATION-LIBERIA.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "A China Strategy That Lasts",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.296695+00:00",
+      "id": "art_88d1b0d917",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It has done so by integrating national security, economic security, energy policy, and environmental policy.",
+            "In sectors as varied as automobiles, chemicals, and solar panels, the Chinese government\u2019s policies."
+          ],
+          "stanceTitle": "A China Strategy That Lasts",
+          "type": "directReport",
+          "sourceName": "Foreign Affairs",
+          "id": "p_art_88d1b0d917_1",
+          "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
+          "quoteAuthor": "",
+          "biasTag": "Global Order & Statecraft",
+          "sourceDomain": "foreignaffairs.com",
+          "quote": "",
+          "sourceCredibility": 97,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/18/2025-10-21T071723Z_2041563590_RC2MFHA25KIA_RTRMADP_3_CHINA-ECONOMY.JPG?itok=kynd26aF"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Treat health as a public good, not a market opportunity. On World Humanitarian Day, let it be underscored that the measure of health systems should not be how much profit they can generate, but whether a person with the least power can receive timely, affordable, respectful care",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Treat health as a public good, not a market opportunity",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.292576+00:00",
+      "id": "art_ef121b7969",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "On World Humanitarian Day, let it be underscored that the measure of health systems.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Treat health as a public good, not a market opportunity",
+          "type": "directReport",
+          "sourceName": "The Hindu Sci-Tech",
+          "id": "p_art_ef121b7969_1",
+          "summary": "Treat health as a public good, not a market opportunity. On World Humanitarian Day, let it be underscored that the measure of health systems should not be how much profit they can generate, but whether a person with the least power can receive timely, affordable, respectful care",
+          "quoteAuthor": "",
+          "biasTag": "Scientific Reporting",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/7msghz/article71361918.ece/alternates/LANDSCAPE_1200/05_RVM_1806.jpg"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Big Relief For Mumbai Homeowners: BMC Clears OC Amnesty Scheme For Thousands Of Buildings. Mumbai homeowners get relief as BMC clears OC Amnesty Scheme for eligible buildings",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Big Relief For Mumbai Homeowners: BMC Clears OC Amnesty Scheme For Thousands Of Buildings",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.266242+00:00",
+      "id": "art_baaab265e9",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Mumbai homeowners get relief as BMC clears OC Amnesty Scheme for eligible buildings",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Big Relief For Mumbai Homeowners: BMC Clears OC Amnesty Scheme For Thousands Of Buildings",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_baaab265e9_1",
+          "summary": "Big Relief For Mumbai Homeowners: BMC Clears OC Amnesty Scheme For Thousands Of Buildings. Mumbai homeowners get relief as BMC clears OC Amnesty Scheme for eligible buildings",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/tdc4e19s_bmc-clears-oc-amnesty-scheme-for-thousands-of-buildings_625x300_19_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "World Photography Day 2026: All About Date, Theme, History, Significance & How To Celebrate. The idea of World Photography Day as an annual celebration was proposed in 2009.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "World Photography Day 2026: All About Date, Theme, History, Significance & How To Celebrate",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.242195+00:00",
+      "id": "art_e95f65cb3c",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The idea of World Photography Day as an annual celebration was proposed in 2009.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "World Photography Day 2026: All About Date, Theme, History, Significance & How To Celebrate",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_e95f65cb3c_1",
+          "summary": "World Photography Day 2026: All About Date, Theme, History, Significance & How To Celebrate. The idea of World Photography Day as an annual celebration was proposed in 2009.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0tjf1268_pic_625x300_18_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price. TBO Tek operates a global B2B travel distribution platform focused on consolidating the fragmented outbound travel market.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target ",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.235859+00:00",
+      "id": "art_81c9d5506c",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "TBO Tek operates a global B2B travel distribution platform focused on consolidating the fragmented.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_81c9d5506c_1",
+          "summary": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price. TBO Tek operates a global B2B travel distribution platform focused on consolidating the fragmented outbound travel market.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-03/j9ep6f1s_tbo-tek_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "TCS, Infosys, Wipro Face CLSA Downgrade; These Midcap IT Stocks Stay Top Picks \u2014 Check Target Price. CLSA's more constructive view is reserved for mid-tier IT companies that it believes are better positioned to benefit from major shifts in technology spending and AI adoption.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "TCS, Infosys, Wipro Face CLSA Downgrade; These Midcap IT Stocks Stay Top Picks \u2014 Check Target P",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.152761+00:00",
+      "id": "art_8a25a640ef",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "CLSA's more constructive view is reserved for mid-tier IT companies that it believes are.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "TCS, Infosys, Wipro Face CLSA Downgrade; These Midcap IT Stocks Stay Top Picks \u2014 Check Target Price",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_8a25a640ef_1",
+          "summary": "TCS, Infosys, Wipro Face CLSA Downgrade; These Midcap IT Stocks Stay Top Picks \u2014 Check Target Price. CLSA's more constructive view is reserved for mid-tier IT companies that it believes are better positioned to benefit from major shifts in technology spending and AI adoption.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-05/lofjel0s_it-stocks_625x300_19_May_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "'24,000 Non-Citizens Voted Illegally': Trump Flags Poll Fraud To Push For 'Save America Act'. The findings feed into Trump's long-running campaign for the SAVE America Act.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "'24,000 Non-Citizens Voted Illegally': Trump Flags Poll Fraud To Push For 'Save America Act'",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T05:05:47.149825+00:00",
+      "id": "art_e5ef5f0067",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The findings feed into Trump's long-running campaign for the SAVE America Act.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "'24,000 Non-Citizens Voted Illegally': Trump Flags Poll Fraud To Push For 'Save America Act'",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_e5ef5f0067_1",
+          "summary": "'24,000 Non-Citizens Voted Illegally': Trump Flags Poll Fraud To Push For 'Save America Act'. The findings feed into Trump's long-running campaign for the SAVE America Act.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/rfhppj0s_donald-trump_625x300_19_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    }
+  ]
+}

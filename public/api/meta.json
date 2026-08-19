@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-19T16:10:44.947086+00:00",
+  "page_size": 20,
+  "duals": {
+    "total_articles": 8,
+    "total_pages": 1
+  },
+  "updates": {
+    "total_articles": 300,
+    "total_pages": 15
+  },
+  "foryou": {
+    "total_articles": 300,
+    "total_pages": 15
+  }
+}

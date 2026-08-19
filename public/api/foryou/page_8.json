@@ -1,0 +1,888 @@
+{
+  "page": 8,
+  "total_pages": 15,
+  "total_articles": 300,
+  "has_more": true,
+  "articles": [
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "NASA images show crater on the moon caused by SpaceX Falcon 9 crash They were taken by the Lunar Reconnaissance Orbiter. In the early hours of August 5, the upper stage of a SpaceX Falcon 9 rocket crashed into the lunar surface.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "In the early hours of August 5, the upper stage of a SpaceX Falcon 9 rocket crashed into the lunar surface.",
+            "Now, NASA has released a series of images captured by the Lunar Reconnaissance Orbiter."
+          ],
+          "stanceTitle": "NASA images show crater on the moon caused by SpaceX Falcon 9 crash",
+          "type": "directReport",
+          "summary": "NASA images show crater on the moon caused by SpaceX Falcon 9 crash They were taken by the Lunar Reconnaissance Orbiter. In the early hours of August 5, the upper stage of a SpaceX Falcon 9 rocket crashed into the lunar surface.",
+          "id": "p_art_1db1af159f_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "engadget.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.517630+00:00",
+      "id": "art_1db1af159f",
+      "title": "NASA images show crater on the moon caused by SpaceX Falcon 9 crash",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.engadget.com/img/gallery/nasa-images-show-crater-on-the-moon-caused-by-spacex-falcon-9-crash/l-intro-1787140739.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The Pakistani government challenged on Wednesday a Supreme Court order to move jailed former Prime Minister Imran Khan to a private hospital, a petition filed with the court showed.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The move could dash the hopes of Khan's party and family, who have been.",
+            "Khan, 73, has been in jail in the garrison city of Rawalpindi since August."
+          ],
+          "stanceTitle": "Pakistan Challenges Supreme Court Order To Move Imran Khan To Hospital",
+          "type": "directReport",
+          "summary": "The Pakistani government challenged on Wednesday a Supreme Court order to move jailed former Prime Minister Imran Khan to a private hospital, a petition filed with the court showed.",
+          "id": "p_art_c7028686ec_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.407789+00:00",
+      "id": "art_c7028686ec",
+      "title": "Pakistan Challenges Supreme Court Order To Move Imran Khan To Hospital",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2024-01/5gkcbqjg_imran-khan_625x300_23_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Anwesha Saikia had left home with a friend on Saturday - She later fell ill and was taken to Jorhat Medical College and Hospital, where she died - Three women were questioned about a gathering where drugs were allegedly used The death of a young woman in Assam's Jorhat has triggered an investigation into.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Anwesha Saikia, from Pokamura Na-pamua village in Jorhat, had left home with a friend on Saturday.",
+            "She later fell ill and was taken to Jorhat Medical College and Hospital, where she died."
+          ],
+          "stanceTitle": "Drug Overdose, Assault? Assam Woman Dies After Party At Friend's Home",
+          "type": "directReport",
+          "summary": "- Anwesha Saikia had left home with a friend on Saturday - She later fell ill and was taken to Jorhat Medical College and Hospital, where she died - Three women were questioned about a gathering where drugs were allegedly used The death of a young woman in Assam's Jorhat has triggered an investigation into.",
+          "id": "p_art_02aa3812b6_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.403341+00:00",
+      "id": "art_02aa3812b6",
+      "title": "Drug Overdose, Assault? Assam Woman Dies After Party At Friend's Home",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2020-01/7qbdof68_assam-police-generic-pti-_625x300_26_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- The Centre added 11 new international ports for e-visa holder entry into India - New additions include two airports and nine land ports, totaling 88 entry points - E-visas are not available for Pakistani nationals, who must apply for regular visas The Centre has notified 11 additional international ports, including the India-Pakistan border in.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "With the latest addition -- which included two airports and nine land ports --.",
+            "All foreigners, except Pakistanis, will be allowed to avail themselves of the benefit of."
+          ],
+          "stanceTitle": "India's Newly Added Ports For E-Visa Holders",
+          "type": "directReport",
+          "summary": "- The Centre added 11 new international ports for e-visa holder entry into India - New additions include two airports and nine land ports, totaling 88 entry points - E-visas are not available for Pakistani nationals, who must apply for regular visas The Centre has notified 11 additional international ports, including the India-Pakistan border in.",
+          "id": "p_art_34bfeafdf8_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.400428+00:00",
+      "id": "art_34bfeafdf8",
+      "title": "India's Newly Added Ports For E-Visa Holders",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2025-03/8ggau3vo_-attari-wagah-border_625x300_11_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Nine individuals were booked for assaulting tourists over clothing at Sinhagad Fort on August 16 - Dispute began when a family was questioned about an 8-year-old girl wearing shorts by alleged group members - The attackers claimed to be part of the Fort Conservation Society and enforced moral policing on visitors Pune and its.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Over the years, these forts have served as popular tourist spots, with thousands of.",
+            "But last weekend, one such leisurely trip turned out to be a source of."
+          ],
+          "stanceTitle": "Tourists Thrashed, Harassed For 2 Hours Over 8-Year-Old's Shorts At Pune Fort",
+          "type": "directReport",
+          "summary": "- Nine individuals were booked for assaulting tourists over clothing at Sinhagad Fort on August 16 - Dispute began when a family was questioned about an 8-year-old girl wearing shorts by alleged group members - The attackers claimed to be part of the Fort Conservation Society and enforced moral policing on visitors Pune and its.",
+          "id": "p_art_afeb394077_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.307456+00:00",
+      "id": "art_afeb394077",
+      "title": "Tourists Thrashed, Harassed For 2 Hours Over 8-Year-Old's Shorts At Pune Fort",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2ter3u44_pune-fort-tourist_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- A Bengal tiger attacked and dragged a horse near Garjiya in Uttarakhand - The incident occurred close to Jim Corbett National Park, a popular tourist spot - Corbett National Park hosts over 260 Bengal tigers, the highest in any Indian reserve A dramatic tiger attack was caught on camera in Uttarakhand's Garjiya area near.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The incident took place in the afternoon near an intersection outside the Corbett National.",
+            "Visuals from the incident show the massive tiger clamping its jaws around the horse's."
+          ],
+          "stanceTitle": "Video: Tiger Drags Horse Away In Front Of Tourists Near Jim Corbett Park",
+          "type": "directReport",
+          "summary": "- A Bengal tiger attacked and dragged a horse near Garjiya in Uttarakhand - The incident occurred close to Jim Corbett National Park, a popular tourist spot - Corbett National Park hosts over 260 Bengal tigers, the highest in any Indian reserve A dramatic tiger attack was caught on camera in Uttarakhand's Garjiya area near.",
+          "id": "p_art_d214801a8c_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.289620+00:00",
+      "id": "art_d214801a8c",
+      "title": "Video: Tiger Drags Horse Away In Front Of Tourists Near Jim Corbett Park",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/vh2j4qbk_tiger-attack_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- One person died and six were injured in a CNG cylinder explosion in Delhi - The incident occurred at a fuel pump in the city - Rescue teams and police quickly responded to the explosion site Three people were killed and three others were injured after a CNG cylinder of a truck exploded at.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The incident happened near the Tikri Kalan Metro Station in Delhi.",
+            "All the victims who got killed were workers of the CNG pump."
+          ],
+          "stanceTitle": "3 Killed, 3 Injured As CNG Cylinder Explodes At Fuel Pump In Delhi",
+          "type": "directReport",
+          "summary": "- One person died and six were injured in a CNG cylinder explosion in Delhi - The incident occurred at a fuel pump in the city - Rescue teams and police quickly responded to the explosion site Three people were killed and three others were injured after a CNG cylinder of a truck exploded at.",
+          "id": "p_art_11d269cc0a_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.258777+00:00",
+      "id": "art_11d269cc0a",
+      "title": "3 Killed, 3 Injured As CNG Cylinder Explodes At Fuel Pump In Delhi",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0p81ge74_cng-pump-explosion_625x300_19_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Several minor girls faced sexual harassment at a private military school in Nagpur - The school director was arrested following a police complaint by a teenage survivor - Girls were allegedly coerced into sexual acts under the guise of military training A spate of incidents of sexual harassment has emerged from a private military.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The director of the military school has been arrested.",
+            "The action followed a police complaint by a teenage survivor alleging sexual and mental."
+          ],
+          "stanceTitle": "Minors Sexually Abused At Private Military School In Nagpur, Director Arrested",
+          "type": "directReport",
+          "summary": "- Several minor girls faced sexual harassment at a private military school in Nagpur - The school director was arrested following a police complaint by a teenage survivor - Girls were allegedly coerced into sexual acts under the guise of military training A spate of incidents of sexual harassment has emerged from a private military.",
+          "id": "p_art_4a58356553_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.195102+00:00",
+      "id": "art_4a58356553",
+      "title": "Minors Sexually Abused At Private Military School In Nagpur, Director Arrested",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ofttu8mc_military-training-school_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Sikhs form Punjab's largest electorate but face declining population growth and youth migration - Akal Takht leaders urge Sikhs to marry by 30 and have at least three children to boost numbers - Sikh population share dropped from 62.95% in 1991 to 57.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "However, a large segment of the youth migrating abroad for studies or jobs, along.",
+            "Another reason prompting the Akal Takht heads to encourage Sikhs to have more children."
+          ],
+          "stanceTitle": "Migration, Fertility: Why Akal Takht Is Urging Sikhs To Have More Children",
+          "type": "directReport",
+          "summary": "- Sikhs form Punjab's largest electorate but face declining population growth and youth migration - Akal Takht leaders urge Sikhs to marry by 30 and have at least three children to boost numbers - Sikh population share dropped from 62.95% in 1991 to 57.",
+          "id": "p_art_19249823b7_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.171339+00:00",
+      "id": "art_19249823b7",
+      "title": "Migration, Fertility: Why Akal Takht Is Urging Sikhs To Have More Children",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-06/a5tukkjg_akal-takht_625x300_29_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Iran may attack US military targets in Europe if Trump escalates Middle East conflict - British Cyprus airbase and Bulgaria's Bezmer base are identified as potential Iranian targets - Iran is losing control of Hormuz Strait as most vessels use UN-authorised Omani route Iran is considering attacking US military targets in Europe if US.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "According to the report, a British air base in Cyprus that was targeted by.",
+            "The attack, at the time, was the first on the British military facility and."
+          ],
+          "stanceTitle": "Iran Considers Hitting US Military Targets In Europe If Trump Escalates War: Report",
+          "type": "directReport",
+          "summary": "- Iran may attack US military targets in Europe if Trump escalates Middle East conflict - British Cyprus airbase and Bulgaria's Bezmer base are identified as potential Iranian targets - Iran is losing control of Hormuz Strait as most vessels use UN-authorised Omani route Iran is considering attacking US military targets in Europe if US.",
+          "id": "p_art_21dcf5a26a_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:52.034469+00:00",
+      "id": "art_21dcf5a26a",
+      "title": "Iran Considers Hitting US Military Targets In Europe If Trump Escalates War: Report",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-03/3lvntccc_trump-mojtaba-afp_625x300_05_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Satyendar Jain said he was in jail and not in charge when the Rs 1,546-crore tender was issued in 2022 - Jain noted upgrading existing sewage plants is cheaper and faster than new construction - Anti-Corruption Branch alleged tender manipulation and limited online publication only Satyendar Jain, former Delhi minister of the Aam Aadmi.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "He said he was in jail at the time and was not in charge of any ministry though he was technically a minister.",
+            "He was relieved of the portfolio after he was arrested on May 30, 2022,."
+          ],
+          "stanceTitle": "\"Was In Jail When Tender Floated\": Satyendar Jain To Court After Arrest In Corruption Case",
+          "type": "directReport",
+          "summary": "- Satyendar Jain said he was in jail and not in charge when the Rs 1,546-crore tender was issued in 2022 - Jain noted upgrading existing sewage plants is cheaper and faster than new construction - Anti-Corruption Branch alleged tender manipulation and limited online publication only Satyendar Jain, former Delhi minister of the Aam Aadmi.",
+          "id": "p_art_0a3ed50815_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.999143+00:00",
+      "id": "art_0a3ed50815",
+      "title": "\"Was In Jail When Tender Floated\": Satyendar Jain To Court After Arrest In Corruption Case",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/kq0dc6p_satyendar-jain_625x300_18_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Prime Minister Narendra Modi is the undisputed leader among all his Cabinet members in terms of his social media performance, sources have told NDTV as the rankings were disclosed at the Cabinet meeting on Wednesday. India is Meta's largest market by users, with hundreds of millions of people using Facebook, Instagram and WhatsApp.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "India is Meta's largest market by users, with hundreds of millions of people using.",
+            "Ministers were briefed on their social media performance, sources said."
+          ],
+          "stanceTitle": "In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track",
+          "type": "directReport",
+          "summary": "Prime Minister Narendra Modi is the undisputed leader among all his Cabinet members in terms of his social media performance, sources have told NDTV as the rankings were disclosed at the Cabinet meeting on Wednesday. India is Meta's largest market by users, with hundreds of millions of people using Facebook, Instagram and WhatsApp.",
+          "id": "p_art_dcbb4c7e51_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.921783+00:00",
+      "id": "art_dcbb4c7e51",
+      "title": "In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/5ctdda4o_pm-cabinet_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Former NPCI chief Santanu Paul says India should keep UPI free for ordinary citizens - Any change must carefully protect consumers and small businesses, he warns - He suggests a charge limited to large merchants may eventually be acceptable Standing amid the crowded lanes of Chandni Chowk, one of India's largest commercial hubs where.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Street vendors, shopkeepers, wholesalers and customers routinely complete transactions using the Unified Payments Interface.",
+            "The success of UPI has been built on a simple promise: instant payments that."
+          ],
+          "stanceTitle": "Should India Keep UPI Free For Consumers? Ex-Payments Body Board Member Explains",
+          "type": "directReport",
+          "summary": "- Former NPCI chief Santanu Paul says India should keep UPI free for ordinary citizens - Any change must carefully protect consumers and small businesses, he warns - He suggests a charge limited to large merchants may eventually be acceptable Standing amid the crowded lanes of Chandni Chowk, one of India's largest commercial hubs where.",
+          "id": "p_art_1276cd3e52_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.914933+00:00",
+      "id": "art_1276cd3e52",
+      "title": "Should India Keep UPI Free For Consumers? Ex-Payments Body Board Member Explains",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-06/pp6t9d8s_upi-payment-_625x300_01_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Mohanlal announced seven new film projects with prominent Malayalam filmmakers - He will work with Vishnu Mohan, Priyadarshan, Dileesh Pothan, and others - Projects include L367 and Priyadarshan\u2019s 100th film Mohanlal has announced an exciting lineup of seven films with some of Malayalam cinema's prominent filmmakers.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The 66-year-old actor, in his latest post on X, revealed that he will next.",
+            "\"Exciting stories, exciting journeys and some very special filmmakers,\" Mohanlal wrote while sharing the."
+          ],
+          "stanceTitle": "Mohanlal Announces 7 New Films With Priyadarshan, Jeethu Joseph, And Others",
+          "type": "directReport",
+          "summary": "- Mohanlal announced seven new film projects with prominent Malayalam filmmakers - He will work with Vishnu Mohan, Priyadarshan, Dileesh Pothan, and others - Projects include L367 and Priyadarshan\u2019s 100th film Mohanlal has announced an exciting lineup of seven films with some of Malayalam cinema's prominent filmmakers.",
+          "id": "p_art_b4a11d2085_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.821430+00:00",
+      "id": "art_b4a11d2085",
+      "title": "Mohanlal Announces 7 New Films With Priyadarshan, Jeethu Joseph, And Others",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/l3uj7ab_mohanlal_625x300_18_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- An Indian woman in Australia was fined A$1,800 after shower steam triggered a fire alarm - She took a five-minute shower without the exhaust fan, causing the building alarm to sound - The woman questioned the placement of the fire detector near the bathroom An Indian woman living in Australia has sparked an online.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Vamika opened up about the incident in an Instagram video, saying she was stunned by what happened.",
+            "She said that she had taken a shower for around five minutes and had."
+          ],
+          "stanceTitle": "Indian Woman In Australia Fined Rs 1.3 Lakh After Shower Steam Sets Off Alarm",
+          "type": "directReport",
+          "summary": "- An Indian woman in Australia was fined A$1,800 after shower steam triggered a fire alarm - She took a five-minute shower without the exhaust fan, causing the building alarm to sound - The woman questioned the placement of the fire detector near the bathroom An Indian woman living in Australia has sparked an online.",
+          "id": "p_art_3809592e2f_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.700336+00:00",
+      "id": "art_3809592e2f",
+      "title": "Indian Woman In Australia Fined Rs 1.3 Lakh After Shower Steam Sets Off Alarm",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/flberp8g_indian-woman-in-australia_625x300_18_August_26.jpeg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "IPL Star Breaks Down After Scoring Half-Century, Pays Tribute To Late Mother - Watch Nitish Rana broke down in tears after completing his half-century during the Delhi Premier League (DPL) 2026 match between West Delhi Lions and South Delhi Superstarz at the Arun Jaitley Stadium.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- NDTV Sports Desk - Updated: August 18, 2026 08:56 pm IST - Nitish.",
+            "Rana recently lost his mother but he decided to return to the field just days after the tragedy."
+          ],
+          "stanceTitle": "IPL Star Breaks Down After Scoring Fifty, Pays Tribute To Late Mother - Watch",
+          "type": "directReport",
+          "summary": "IPL Star Breaks Down After Scoring Half-Century, Pays Tribute To Late Mother - Watch Nitish Rana broke down in tears after completing his half-century during the Delhi Premier League (DPL) 2026 match between West Delhi Lions and South Delhi Superstarz at the Arun Jaitley Stadium.",
+          "id": "p_art_3908420ad2_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.693733+00:00",
+      "id": "art_3908420ad2",
+      "title": "IPL Star Breaks Down After Scoring Fifty, Pays Tribute To Late Mother - Watch",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/smgjq3o_sc_625x300_18_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "England vs Pakistan Live Streaming, 1st Test Live Telecast: When And Where To Watch Live England vs Pakistan 1st Test, Live Streaming: England are set to take on Pakistan in the first Test of their three-match series on Wednesday at Headingley, Leeds.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- NDTV Sports Desk - Updated: August 19, 2026 02:21 pm IST England vs.",
+            "Ahead of the opening match, Pakistan suffered a major setback as captain Babar Azam."
+          ],
+          "stanceTitle": "England vs Pakistan Live Streaming, 1st Test: When And Where To Watch Live",
+          "type": "directReport",
+          "summary": "England vs Pakistan Live Streaming, 1st Test Live Telecast: When And Where To Watch Live England vs Pakistan 1st Test, Live Streaming: England are set to take on Pakistan in the first Test of their three-match series on Wednesday at Headingley, Leeds.",
+          "id": "p_art_7e2f078197_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.691744+00:00",
+      "id": "art_7e2f078197",
+      "title": "England vs Pakistan Live Streaming, 1st Test: When And Where To Watch Live",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/80ll9uls_joe-root-getty_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Badminton World Championships 2026 LIVE Updates: PV Sindhu is in Round of 16. India have had a mixed day. While Sindhu and Ayush Shetty entered the next round it was curtains for Lakshya Sen.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "India have had a mixed day.",
+            "While Sindhu and Ayush Shetty entered the next round it was curtains for Lakshya Sen."
+          ],
+          "stanceTitle": "Badminton WC Live: Huge Upset As Lakshya Sen Crashes Out In Round Of 32",
+          "type": "directReport",
+          "summary": "Badminton World Championships 2026 LIVE Updates: PV Sindhu is in Round of 16. India have had a mixed day. While Sindhu and Ayush Shetty entered the next round it was curtains for Lakshya Sen.",
+          "id": "p_art_88fc0001a2_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.529356+00:00",
+      "id": "art_88fc0001a2",
+      "title": "Badminton WC Live: Huge Upset As Lakshya Sen Crashes Out In Round Of 32",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/6ug93ucc_pv-sindhu_625x300_17_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Shubman Gill Makes Big 'WTC Final' Admission After Galle Test Win Over Sri Lanka Australia (77.78), South Africa (75) and Bangladesh (66.67), fresh from their historic triumph over the Aussies, are placed ahead of India in the WTC points table.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Press Trust Of India - Updated: August 19, 2026 03:25 pm IST -.",
+            "Test wins do not come easy and this one is delightful,\" said Gill The."
+          ],
+          "stanceTitle": "Shubman Gill Makes Big 'WTC Final' Admission After Galle Test Win Over SL",
+          "type": "directReport",
+          "summary": "Shubman Gill Makes Big 'WTC Final' Admission After Galle Test Win Over Sri Lanka Australia (77.78), South Africa (75) and Bangladesh (66.67), fresh from their historic triumph over the Aussies, are placed ahead of India in the WTC points table.",
+          "id": "p_art_ba73f05d84_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.411800+00:00",
+      "id": "art_ba73f05d84",
+      "title": "Shubman Gill Makes Big 'WTC Final' Admission After Galle Test Win Over SL",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/hupoj1kk_shubman-gill-_625x300_17_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- A nine-year-old girl was raped and murdered in Pune district - A 25-year-old neighbour was arrested in connection with the crime - Villagers blocked Pune-Nashik Highway demanding death penalty and fast trial A nine-year-old girl was allegedly raped and murdered in Maharashtra's Pune district, with police arresting a 25-year-old neighbour in connection with the.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Angry villagers and family members later blocked the Pune-Nashik Highway, demanding the death penalty.",
+            "The victim belonged to a farm labourer's family and was studying in Class 4."
+          ],
+          "stanceTitle": "Pune Horror: 9-Year-Old Girl Raped, Murdered. 25-Year-Old Neighbour Arrested",
+          "type": "directReport",
+          "summary": "- A nine-year-old girl was raped and murdered in Pune district - A 25-year-old neighbour was arrested in connection with the crime - Villagers blocked Pune-Nashik Highway demanding death penalty and fast trial A nine-year-old girl was allegedly raped and murdered in Maharashtra's Pune district, with police arresting a 25-year-old neighbour in connection with the.",
+          "id": "p_art_7250a5ca74_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T14:09:51.351504+00:00",
+      "id": "art_7250a5ca74",
+      "title": "Pune Horror: 9-Year-Old Girl Raped, Murdered. 25-Year-Old Neighbour Arrested",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/j0fi9i1o_pune-murder_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    }
+  ]
+}

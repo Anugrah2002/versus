@@ -1,0 +1,888 @@
+{
+  "page": 1,
+  "total_pages": 15,
+  "total_articles": 300,
+  "has_more": true,
+  "articles": [
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Woman opens up about life after quitting corporate job, says 'I miss colleagues but not office politics' The woman said that she misses several aspects of her career but does not miss the exhaustion, anxiety and office politics that came with it.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A woman recently shared a candid glimpse into life after quitting her job, saying.",
+            "In a video shared on Instagram, Arushi reflected on what she misses about working."
+          ],
+          "stanceTitle": "Woman opens up about life after quitting corporate job, says 'I miss colleagues but not office politics'",
+          "type": "directReport",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_d91cc5acf0_1",
+          "summary": "Woman opens up about life after quitting corporate job, says 'I miss colleagues but not office politics' The woman said that she misses several aspects of her career but does not miss the exhaustion, anxiety and office politics that came with it.",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T16:00:29.384102+00:00",
+      "id": "art_d91cc5acf0",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Woman opens up about life after quitting corporate job, says 'I miss colleagues but not office ",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/arushi_1787153026640_1787153034438_9d96c2e1-eb4f-444c-a669-55d5cee443ce.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Pathbreaking scientific discoveries can create transformational possibilities. They can also create catastrophic risks. The integration of artificial intelligence, biotechnology, and bioengineering is already enabling life-changing achievements, from combating disease to supercharging agricultural productivity to solving energy challenges.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "They can also create catastrophic risks.",
+            "The integration of artificial intelligence, biotechnology, and bioengineering is already enabling life-changing achievements, from."
+          ],
+          "stanceTitle": "AI and the New Age of Bioweapons",
+          "type": "directReport",
+          "summary": "Pathbreaking scientific discoveries can create transformational possibilities. They can also create catastrophic risks. The integration of artificial intelligence, biotechnology, and bioengineering is already enabling life-changing achievements, from combating disease to supercharging agricultural productivity to solving energy challenges.",
+          "id": "p_art_ef87075ee9_1",
+          "sourceName": "Foreign Affairs",
+          "quoteAuthor": "",
+          "biasTag": "Global Order & Statecraft",
+          "sourceDomain": "foreignaffairs.com",
+          "quote": "",
+          "sourceCredibility": 97,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.760031+00:00",
+      "id": "art_ef87075ee9",
+      "title": "AI and the New Age of Bioweapons",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/05/AI_Disease_Crop.jpg?itok=h694372H"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "YouTube changes how it counts public video views. A Google employee confirmed the update on a YouTube Help page and said that the change will not impact creators\u2019 earnings",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A Google employee confirmed the update on a YouTube Help page and said that.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "YouTube changes how it counts public video views",
+          "type": "directReport",
+          "summary": "YouTube changes how it counts public video views. A Google employee confirmed the update on a YouTube Help page and said that the change will not impact creators\u2019 earnings",
+          "id": "p_art_21905223ab_1",
+          "sourceName": "The Hindu Sci-Tech",
+          "quoteAuthor": "",
+          "biasTag": "Scientific Reporting",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.672571+00:00",
+      "id": "art_21905223ab",
+      "title": "YouTube changes how it counts public video views",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/tyjt54/article71363960.ece/alternates/LANDSCAPE_1200/2026-02-18T014627Z_283489922_RC2WPGAVILGV_RTRMADP_3_YOUTUBE-OUTAGES.JPG"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Jellyfish reveal how rapid cell turnover may suppress early cancer growth. Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it may actually protect against tumor growth, according to a new study by Caltech researchers. Using mathematical models, the work suggests a new paradigm for the earliest stages of cancer development.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it.",
+            "Using mathematical models, the work suggests a new paradigm for the earliest stages of cancer development."
+          ],
+          "stanceTitle": "Jellyfish reveal how rapid cell turnover may suppress early cancer growth",
+          "type": "directReport",
+          "summary": "Jellyfish reveal how rapid cell turnover may suppress early cancer growth. Although increased cell proliferation is a hallmark of cancerous tissues, in some cases it may actually protect against tumor growth, according to a new study by Caltech researchers. Using mathematical models, the work suggests a new paradigm for the earliest stages of cancer development.",
+          "id": "p_art_9c73ae0854_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.637851+00:00",
+      "id": "art_9c73ae0854",
+      "title": "Jellyfish reveal how rapid cell turnover may suppress early cancer growth",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/jellyfish-reveal-how-r.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Students need more than AI skills\u2014they need accountable AI literacy. As students return to Canadian colleges and universities soon, many will enter classrooms where generative artificial intelligence (GenAI) is already part of everyday academic life. Many might use tools such as ChatGPT and Gemini to brainstorm, summarize readings, revise writing and prepare job applications.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "As students return to Canadian colleges and universities soon, many will enter classrooms where.",
+            "Many might use tools such as ChatGPT and Gemini to brainstorm, summarize readings, revise."
+          ],
+          "stanceTitle": "Students need more than AI skills\u2014they need accountable AI literacy",
+          "type": "directReport",
+          "summary": "Students need more than AI skills\u2014they need accountable AI literacy. As students return to Canadian colleges and universities soon, many will enter classrooms where generative artificial intelligence (GenAI) is already part of everyday academic life. Many might use tools such as ChatGPT and Gemini to brainstorm, summarize readings, revise writing and prepare job applications.",
+          "id": "p_art_df5080d55c_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.598535+00:00",
+      "id": "art_df5080d55c",
+      "title": "Students need more than AI skills\u2014they need accountable AI literacy",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/students-need-more-tha.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Shrews exhibit reversible size changes in their skulls and noses to get through the winter. Scientists had previously observed that some species of shrews undergo a form of biological plasticity in which their bodies, skulls, brains and some organs shrink in the winter, then regrow in the spring.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Scientists had previously observed that some species of shrews undergo a form of biological.",
+            "Now, a new study in Japan, published in the Proceedings of the Royal Society."
+          ],
+          "stanceTitle": "Shrews exhibit reversible size changes in their skulls and noses to get through the winter",
+          "type": "directReport",
+          "summary": "Shrews exhibit reversible size changes in their skulls and noses to get through the winter. Scientists had previously observed that some species of shrews undergo a form of biological plasticity in which their bodies, skulls, brains and some organs shrink in the winter, then regrow in the spring.",
+          "id": "p_art_ef93acfa4f_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.508590+00:00",
+      "id": "art_ef93acfa4f",
+      "title": "Shrews exhibit reversible size changes in their skulls and noses to get through the winter",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2020/shrew.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "In 2007, Hubbell Realty entered the Florida market. Through my NAHB Builder 20 group, a national network of home builders, I partnered with a builder to purchase lots in Vero Beach. Then 2008 arrived, and a lot of negative factors converged all at once.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Through my NAHB Builder 20 group, a national network of home builders, I partnered.",
+            "Then 2008 arrived, and a lot of negative factors converged all at once."
+          ],
+          "stanceTitle": "Setbacks Can Set You Up For Success",
+          "type": "directReport",
+          "summary": "In 2007, Hubbell Realty entered the Florida market. Through my NAHB Builder 20 group, a national network of home builders, I partnered with a builder to purchase lots in Vero Beach. Then 2008 arrived, and a lot of negative factors converged all at once.",
+          "id": "p_art_08e9027e8a_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.498335+00:00",
+      "id": "art_08e9027e8a",
+      "title": "Setbacks Can Set You Up For Success",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/648744eb660482dec5f4b947/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The World Cup may be over, but the music connected to the sporting event continues to perform well around the world. Shakira was one of the many superstars who contributed to the tournament\u2019s musical facet, and her collaboration with Burna Boy, \u201cDai Dai,\u201d remains a major hit in the United Kingdom.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Shakira was one of the many superstars who contributed to the tournament\u2019s musical facet,.",
+            "This week, \u201cDai Dai\u201d debuts on one roster in the U.K., earning Shakira her."
+          ],
+          "stanceTitle": "Shakira Returns To One Chart After A Decade And A Half Away",
+          "type": "directReport",
+          "summary": "The World Cup may be over, but the music connected to the sporting event continues to perform well around the world. Shakira was one of the many superstars who contributed to the tournament\u2019s musical facet, and her collaboration with Burna Boy, \u201cDai Dai,\u201d remains a major hit in the United Kingdom.",
+          "id": "p_art_aa866dbec8_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.460181+00:00",
+      "id": "art_aa866dbec8",
+      "title": "Shakira Returns To One Chart After A Decade And A Half Away",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/685554a4d8a7e1fb8da0f8a4/0x0.jpg?format=jpg&crop=2718,1531,x315,y108,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The war in Ukraine has been dominated by repurposed technology, like hobby quadcopters used for reconnaissance and FPV racing drones turned into miniature guided missiles. This type of hack, in which technology is put to new and unintended uses, is the essence of cyberpunk, a dystopian science fiction genre characterized high-tech low life.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "This type of hack, in which technology is put to new and unintended uses,.",
+            "\u201cThe street finds its own uses for things,\" a line coined by William Gibson."
+          ],
+          "stanceTitle": "Cyberpunk War: How Ukraine Repurposes U.S. Weapons In Unexpected Ways",
+          "type": "directReport",
+          "summary": "The war in Ukraine has been dominated by repurposed technology, like hobby quadcopters used for reconnaissance and FPV racing drones turned into miniature guided missiles. This type of hack, in which technology is put to new and unintended uses, is the essence of cyberpunk, a dystopian science fiction genre characterized high-tech low life.",
+          "id": "p_art_3ca3638132_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.449328+00:00",
+      "id": "art_3ca3638132",
+      "title": "Cyberpunk War: How Ukraine Repurposes U.S. Weapons In Unexpected Ways",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85b70ab00d98c318a30ffd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The airline business is a tough business. It\u2019s even tougher if you are trying to restart an airline in Iraq after being sanctioned by the U.S. That hasn\u2019t stopped Alaulddin Abdalrahman, CEO of Fly Baghdad, from trying.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It\u2019s even tougher if you are trying to restart an airline in Iraq after being sanctioned by the U.S.",
+            "That hasn\u2019t stopped Alaulddin Abdalrahman, CEO of Fly Baghdad, from trying."
+          ],
+          "stanceTitle": "Iraqi Airline Fly Baghdad Surmounts Sanctions And Prepares To Restart",
+          "type": "directReport",
+          "summary": "The airline business is a tough business. It\u2019s even tougher if you are trying to restart an airline in Iraq after being sanctioned by the U.S. That hasn\u2019t stopped Alaulddin Abdalrahman, CEO of Fly Baghdad, from trying.",
+          "id": "p_art_8fac4de7ba_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.431419+00:00",
+      "id": "art_8fac4de7ba",
+      "title": "Iraqi Airline Fly Baghdad Surmounts Sanctions And Prepares To Restart",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84ad8d28bf0fa0bd447a80/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Topline An advisor who served as a top aide to Dr. Anthony Fauci during the COVID-19 outbreak has pleaded guilty to plotting to conceal federal records related to the pandemic, amid a wave of Republican legislative scrutiny over the federal response to the pandemic.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Anthony Fauci during the COVID-19 outbreak has pleaded guilty to plotting to conceal federal.",
+            "David Morens, who worked as a senior advisor in Fauci's office at the National."
+          ],
+          "stanceTitle": "Top Fauci Advisor Pleads Guilty In COVID-19 Origin Cover-Up Case",
+          "type": "directReport",
+          "summary": "Topline An advisor who served as a top aide to Dr. Anthony Fauci during the COVID-19 outbreak has pleaded guilty to plotting to conceal federal records related to the pandemic, amid a wave of Republican legislative scrutiny over the federal response to the pandemic.",
+          "id": "p_art_2ca299b0d9_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.342823+00:00",
+      "id": "art_2ca299b0d9",
+      "title": "Top Fauci Advisor Pleads Guilty In COVID-19 Origin Cover-Up Case",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85bf763f367ec8e9e21427/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "There are going to be a whole lot of DC characters introduced to the DCU before Batman, given what we know about the brand\u2019s current and upcoming projects. However, Lanterns has already dropped a connection to the hero and his city as of the first episode.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "However, Lanterns has already dropped a connection to the hero and his city as of the first episode.",
+            "Part of this was at least somewhat obvious if you caught a brief line of dialogue."
+          ],
+          "stanceTitle": "\u2018Lanterns\u2019 Episode 1 Has An Overlooked Connection To Batman And Gotham",
+          "type": "directReport",
+          "summary": "There are going to be a whole lot of DC characters introduced to the DCU before Batman, given what we know about the brand\u2019s current and upcoming projects. However, Lanterns has already dropped a connection to the hero and his city as of the first episode.",
+          "id": "p_art_0913a64acd_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.313284+00:00",
+      "id": "art_0913a64acd",
+      "title": "\u2018Lanterns\u2019 Episode 1 Has An Overlooked Connection To Batman And Gotham",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/692727ceb451ed32729d9f04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Topline The Kennedy Center told a federal court it has kept up a tarp in front of the venue\u2019s facade for more than two months for \u201congoing construction,\u201d but it did not say how long it is expected to stay standing, prompting a rebuke from plaintiff Rep.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Joyce Beatty, D-Ohio, who accused the center of a \u201cchildish refusal to accept this.",
+            "Key Facts The Kennedy Center and Beatty filed a joint status report late Tuesday."
+          ],
+          "stanceTitle": "Kennedy Center Claims Tarps Are Necessary For \u2018Ongoing Construction\u2019\u2014But Offers No Timeline For Removal",
+          "type": "directReport",
+          "summary": "Topline The Kennedy Center told a federal court it has kept up a tarp in front of the venue\u2019s facade for more than two months for \u201congoing construction,\u201d but it did not say how long it is expected to stay standing, prompting a rebuke from plaintiff Rep.",
+          "id": "p_art_458ea73a6d_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.270184+00:00",
+      "id": "art_458ea73a6d",
+      "title": "Kennedy Center Claims Tarps Are Necessary For \u2018Ongoing Construction\u2019\u2014But Offers No Timeline For",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85c41b730fd8bcb1d57f89/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Topline Moderna co-founder Robert Langer is a billionaire once again, according to Forbes\u2019 estimates, as shares in the biotech giant doubled in value on Wednesday following positive results from a late-stage trial of a cancer vaccine.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Key Facts Langer, who is believed to retain a roughly 3% stake in Moderna,.",
+            "His stake was estimated at $343 million when Moderna shares hit a low of $29.81 on Jan."
+          ],
+          "stanceTitle": "Moderna Co-Founder Robert Langer Is A Billionaire Again As Shares Double In Value",
+          "type": "directReport",
+          "summary": "Topline Moderna co-founder Robert Langer is a billionaire once again, according to Forbes\u2019 estimates, as shares in the biotech giant doubled in value on Wednesday following positive results from a late-stage trial of a cancer vaccine.",
+          "id": "p_art_b2caac62a1_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.169278+00:00",
+      "id": "art_b2caac62a1",
+      "title": "Moderna Co-Founder Robert Langer Is A Billionaire Again As Shares Double In Value",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85c48143b69f77322f622b/0x0.jpg?format=jpg&crop=2450,1379,x0,y9,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "PHOENIX \u2013 There are days and then there are extra special golden days. Sunday at Mortgage Matchup Center was one of those very special ones. The Mercury retired Diana Taurasi\u2019s magic No. 3 and unveiled it in the Ring of Honor high above the basketball court during an inconsequential loss to the Portland Fire.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sunday at Mortgage Matchup Center was one of those very special ones.",
+            "The Mercury retired Diana Taurasi\u2019s magic No."
+          ],
+          "stanceTitle": "Taurasi Says She\u2019d Love To Be A Mercury Owner As Her No. 3 Is Retired",
+          "type": "directReport",
+          "summary": "PHOENIX \u2013 There are days and then there are extra special golden days. Sunday at Mortgage Matchup Center was one of those very special ones. The Mercury retired Diana Taurasi\u2019s magic No. 3 and unveiled it in the Ring of Honor high above the basketball court during an inconsequential loss to the Portland Fire.",
+          "id": "p_art_58a76c45d5_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.161059+00:00",
+      "id": "art_58a76c45d5",
+      "title": "Taurasi Says She\u2019d Love To Be A Mercury Owner As Her No. 3 Is Retired",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84d82600b32898aa1b5de6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "K-pop superstar Yeonjun of TOMORROW X TOGETHER (TXT) is having a busy summer. Since the release of his second solo EP, NO LABELS: PART 02, in July, the 26-year-old South Korean artist has been doing extensive promotions in Korea and the U.S.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Since the release of his second solo EP, NO LABELS: PART 02, in July,.",
+            "In Korea, his company, BIGHIT MUSIC, held a release party and hosted a pop-up to celebrate the album release."
+          ],
+          "stanceTitle": "Inside Yeonjun\u2019s U.S. Summer \u2018Ice Cream\u2019 Takeover",
+          "type": "directReport",
+          "summary": "K-pop superstar Yeonjun of TOMORROW X TOGETHER (TXT) is having a busy summer. Since the release of his second solo EP, NO LABELS: PART 02, in July, the 26-year-old South Korean artist has been doing extensive promotions in Korea and the U.S.",
+          "id": "p_art_014c34f9be_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.152352+00:00",
+      "id": "art_014c34f9be",
+      "title": "Inside Yeonjun\u2019s U.S. Summer \u2018Ice Cream\u2019 Takeover",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84fdb4cac8140d74e81b5c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Netflix has managed to dig up another critical hit, one currently sitting at #5 on its top 10 list, in third place, if we eliminate true crime and WWE shows. The series has a perfect 100% Rotten Tomatoes critic review score, but audiences do seem to disagree a bit, albeit with limited reviews in.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The series has a perfect 100% Rotten Tomatoes critic review score, but audiences do.",
+            "The show is My Brilliant Career, a six-episode miniseries from Australia."
+          ],
+          "stanceTitle": "Netflix\u2019s Best New Show Lands A 100% Rotten Tomatoes Review Score",
+          "type": "directReport",
+          "summary": "Netflix has managed to dig up another critical hit, one currently sitting at #5 on its top 10 list, in third place, if we eliminate true crime and WWE shows. The series has a perfect 100% Rotten Tomatoes critic review score, but audiences do seem to disagree a bit, albeit with limited reviews in.",
+          "id": "p_art_50d6ae1e3b_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.094945+00:00",
+      "id": "art_50d6ae1e3b",
+      "title": "Netflix\u2019s Best New Show Lands A 100% Rotten Tomatoes Review Score",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85c899c216f12bdc607437/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Ukraine\u2019s precision bombing of a major Russian space center for assembling rockets is just the latest in an exploding barrage of missile and drone strikes on the Kremlin\u2019s aerospace labs, say leading American experts on Russia\u2019s military and space operations.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Four years after the Kremlin starting blasting Ukraine\u2019s \u201cRocket City\u201d of Dnipro, including a.",
+            "Part of the skyrocketing Space War I, Ukraine\u2019s attack on the Progress Rocket and."
+          ],
+          "stanceTitle": "Ukraine Is Winning In Escalating Space War With Russia, Scholars Say",
+          "type": "directReport",
+          "summary": "Ukraine\u2019s precision bombing of a major Russian space center for assembling rockets is just the latest in an exploding barrage of missile and drone strikes on the Kremlin\u2019s aerospace labs, say leading American experts on Russia\u2019s military and space operations.",
+          "id": "p_art_af2fc71f8a_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:18.085904+00:00",
+      "id": "art_af2fc71f8a",
+      "title": "Ukraine Is Winning In Escalating Space War With Russia, Scholars Say",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85b3ac0d07def39da8602e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Should you Venmo your kid\u2019s college tuition? Here\u2019s what to know as schools add new payment options.. Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Here\u2019s what to know as schools add new payment options..",
+            "Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending."
+          ],
+          "stanceTitle": "Should you Venmo your kid\u2019s college tuition? Here\u2019s what to know as schools add new payment options.",
+          "type": "directReport",
+          "summary": "Should you Venmo your kid\u2019s college tuition? Here\u2019s what to know as schools add new payment options.. Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.",
+          "id": "p_art_39d468a62e_1",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "sourceDomain": "marketwatch.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:17.985196+00:00",
+      "id": "art_39d468a62e",
+      "title": "Should you Venmo your kid\u2019s college tuition? Here\u2019s what to know as schools add new payment opt",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-56268337"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "What's the difference between Android's Qi2 And Qi2.2 wireless charging? There are some key distinctions that make a big difference. We live in a wireless world, so understanding the different standards at play can help you to maximize the performance of your gadgets and your chargers.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "There are some key distinctions that make a big difference.",
+            "We live in a wireless world, so understanding the different standards at play can."
+          ],
+          "stanceTitle": "What's the difference between Android's Qi2 And Qi2.2 wireless charging?",
+          "type": "directReport",
+          "summary": "What's the difference between Android's Qi2 And Qi2.2 wireless charging? There are some key distinctions that make a big difference. We live in a wireless world, so understanding the different standards at play can help you to maximize the performance of your gadgets and your chargers.",
+          "id": "p_art_54dca1f78a_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "sourceDomain": "engadget.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-19T15:54:17.929975+00:00",
+      "id": "art_54dca1f78a",
+      "title": "What's the difference between Android's Qi2 And Qi2.2 wireless charging?",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.engadget.com/img/gallery/whats-the-difference-between-androids-qi2-and-qi2-2-wireless-charging/l-intro-1786719764.jpg"
+    }
+  ]
+}

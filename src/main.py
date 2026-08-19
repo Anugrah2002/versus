@@ -136,6 +136,14 @@ async def run_pipeline(
     )
     logger.info("=" * 65)
 
+    # Step 5: Export pre-paginated static JSON feeds for Cloudflare Pages CDN
+    if not dry_run:
+        try:
+            from src.storage.static_exporter import static_exporter
+            static_exporter.export_all_feeds()
+        except Exception as export_err:
+            logger.error(f"Error packaging static feeds: {export_err}")
+
     return PipelineSummary(
         run_timestamp=now_iso,
         feeds_checked=len(source.feeds) if hasattr(source, "feeds") else 0,
