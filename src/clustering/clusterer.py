@@ -140,11 +140,19 @@ class SemanticClusterer:
                     entities.add(canonical_id)
                     break
 
-        # 2. General Proper Noun Extraction (2+ word capitalized phrases or distinct proper nouns)
+        # 2. General Proper Noun Extraction (Ignore generic high-frequency geography/calendar/governance words)
+        GENERIC_PROPER_NOUNS = {
+            "india", "state", "police", "court", "government", "chief", "minister", "report",
+            "friday", "monday", "tuesday", "wednesday", "thursday", "saturday", "sunday",
+            "january", "february", "march", "april", "may", "june", "july", "august", "september",
+            "october", "november", "december", "today", "yesterday", "tomorrow", "centre", "delhi",
+            "leader", "union", "party", "people", "official", "officials", "authorities", "district",
+            "students", "national", "global", "world", "press", "media", "agency", "case", "board"
+        }
         proper_tokens = re.findall(r"\b[A-Z][a-z0-9]{2,}\b", text)
         for t in proper_tokens:
             t_low = t.lower()
-            if t_low not in COMMON_STOPWORDS and len(t_low) >= 4:
+            if t_low not in COMMON_STOPWORDS and t_low not in GENERIC_PROPER_NOUNS and len(t_low) >= 4:
                 entities.add(f"ner_{t_low}")
 
         return entities

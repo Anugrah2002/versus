@@ -217,7 +217,7 @@ Respond ONLY with a JSON object:
                 "that", "this", "with", "from", "have", "were", "they", "will", "what", "when",
                 "where", "which", "about", "their", "there", "would", "could", "should", "other",
                 "after", "first", "state", "report", "news", "said", "says", "while", "also",
-                "into", "more", "over", "such", "than", "them", "then", "these", "some"
+                "into", "more", "over", "such", "than", "them", "then", "these", "some", "been"
             }
             return set(w for w in words if w not in stop_words)
 
@@ -225,34 +225,35 @@ Respond ONLY with a JSON object:
         tokens_p1 = extract_tokens(f"{p1_t} {p1_s}")
         tokens_p2 = extract_tokens(f"{p2_t} {p2_s}")
 
-        # Check keyword/entity intersections
+        # Check keyword/entity intersections between Perspective 1 and Perspective 2
         common_p1_p2 = tokens_p1.intersection(tokens_p2)
         p1_title_overlap = tokens_title.intersection(tokens_p1)
         p2_title_overlap = tokens_title.intersection(tokens_p2)
 
-        # If both perspectives share concepts OR both connect to the story title theme
-        if len(common_p1_p2) >= 1 or (len(p1_title_overlap) >= 1 and len(p2_title_overlap) >= 1):
+        # 1. Direct overlap between perspectives or with title
+        if len(common_p1_p2) >= 1 or len(p2_title_overlap) >= 1:
+            matched_terms = list(common_p1_p2 | p2_title_overlap)[:4]
             return {
                 "is_coherent": True,
                 "action": DebateAuditAction.KEEP_DUAL,
-                "reason": f"Topical connection detected: {list(common_p1_p2 or (p1_title_overlap | p2_title_overlap))[:4]}",
+                "reason": f"Topical connection detected: {matched_terms}",
                 "confidence": 0.92
             }
 
-        # Check for completely disjointed topic indicators (e.g., fusion of 2 unrelated headlines)
-        if len(p1_title_overlap) >= 2 and len(p2_title_overlap) == 0 and len(common_p1_p2) == 0:
+        # 2. Complete domain mismatch check (e.g. Everest vs DeepSeek, High school vs Mercedes)
+        if len(common_p1_p2) == 0 and len(p2_title_overlap) == 0:
             return {
                 "is_coherent": False,
                 "action": DebateAuditAction.CONVERT_TO_BRIEF,
-                "reason": "Perspective 1 matches story title, but Perspective 2 is disconnected.",
-                "confidence": 0.85
+                "reason": "Perspective 2 has zero topical or entity overlap with Perspective 1 or story title.",
+                "confidence": 0.88
             }
 
         return {
             "is_coherent": True,
             "action": DebateAuditAction.KEEP_DUAL,
             "reason": "Thematic multi-perspective alignment.",
-            "confidence": 0.82
+            "confidence": 0.85
         }
 
 
