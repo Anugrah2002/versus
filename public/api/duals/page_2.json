@@ -1,9 +1,314 @@
 {
-  "page": 3,
-  "total_pages": 15,
-  "total_articles": 300,
+  "page": 2,
+  "total_pages": 6,
+  "total_articles": 110,
   "has_more": true,
   "articles": [
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6",
+          "type": "viewpoint1",
+          "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+          "id": "p_art_acd164422b_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        },
+        {
+          "keyPoints": [
+            "NITI Aayog: Early Vocational & Employability Skills in Schools - Rediff MoneyWiz",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "NITI Aayog: Early Vocational & Employability Skills in Schools - Rediff MoneyWiz",
+          "type": "viewpoint2",
+          "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+          "id": "p_art_acd164422b_2",
+          "sourceName": "Rediff MoneyWiz",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "money.rediff.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.310924+00:00",
+      "id": "art_acd164422b",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lrshe16o_bb_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More. Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More",
+          "type": "viewpoint1",
+          "summary": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More. Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+          "id": "p_art_37f05dcfb2_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        },
+        {
+          "keyPoints": [
+            "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+          "type": "viewpoint2",
+          "summary": "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV. Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+          "id": "p_art_37f05dcfb2_2",
+          "sourceName": "NDTV",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.298059+00:00",
+      "id": "art_37f05dcfb2",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "India eases rupee invoicing rules for exporters under Foreign Trade Policy. The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative to conventional foreign-currency settlements in international trade",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India eases rupee invoicing rules for exporters under Foreign Trade Policy",
+          "type": "viewpoint1",
+          "summary": "India eases rupee invoicing rules for exporters under Foreign Trade Policy. The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative to conventional foreign-currency settlements in international trade",
+          "id": "p_art_28c7e900f5_1",
+          "sourceName": "The Hindu Business Line",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Fiscal Balance",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "thehindubusinessline.com"
+        },
+        {
+          "keyPoints": [
+            "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+          "type": "viewpoint2",
+          "summary": "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters. India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+          "id": "p_art_28c7e900f5_2",
+          "sourceName": "Reuters",
+          "quoteAuthor": "",
+          "biasTag": "Global Wire",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 98,
+          "sourceDomain": "reuters.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.295076+00:00",
+      "id": "art_28c7e900f5",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "India eases rupee invoicing rules for exporters under Foreign Trade Policy",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender. On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll on hypothetical matchups in the 2028 presidential election.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Ossoff, Buttigieg, Or AOC? New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender",
+          "type": "viewpoint1",
+          "summary": "New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender. On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll on hypothetical matchups in the 2028 presidential election.",
+          "id": "p_art_df4b987fef_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot T",
+          "type": "viewpoint2",
+          "summary": "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot Tests - - Emerson Polling. August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot Tests - - Emerson Polling",
+          "id": "p_art_df4b987fef_2",
+          "sourceName": "- Emerson Polling",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "emersoncollegepolling.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.283792+00:00",
+      "id": "art_df4b987fef",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Ossoff, Buttigieg, Or AOC? New Poll Reveals Which Democrat Is The Top 2028 Presidential Contend",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "A hacker known as \u201cCyberLeek\u201d has been spilling the secrets of Rockstar\u2019s GTA VI, one of the most eagerly anticipated games of all time. The hacking group (or possibly individual) has released multiple clips of GTA VI footage, a world map and a few unconfirmed gameplay details.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The hacking group (or possibly individual) has released multiple clips of GTA VI footage,.",
+            "Many of the clips have since been taken down by copyright strikes."
+          ],
+          "stanceTitle": "The \u2018GTA VI\u2019 Leak Controversy, Explained",
+          "type": "viewpoint1",
+          "summary": "A hacker known as \u201cCyberLeek\u201d has been spilling the secrets of Rockstar\u2019s GTA VI, one of the most eagerly anticipated games of all time. The hacking group (or possibly individual) has released multiple clips of GTA VI footage, a world map and a few unconfirmed gameplay details.",
+          "id": "p_art_ecfedb0945_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of Indi",
+          "type": "viewpoint2",
+          "summary": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of India. GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of India",
+          "id": "p_art_ecfedb0945_2",
+          "sourceName": "Times of India",
+          "quoteAuthor": "",
+          "biasTag": "Mainstream National",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "timesofindia.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.281844+00:00",
+      "id": "art_ecfedb0945",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "The \u2018GTA VI\u2019 Leak Controversy, Explained",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a87057e422d7b59d13f14fd/0x0.jpg?format=jpg&crop=960,540,x0,y82,safe&height=900&width=1600&fit=bounds"
+    },
     {
       "videoDuration": "02:45",
       "tags": [
@@ -918,311 +1223,6 @@
       "isSinglePerspective": false,
       "sharesCount": 0,
       "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2290939639-e1787236641881.jpg?resize=1200,600"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "And the hype is already spilling into the real world: One U.S.",
-            "Army unit in Fort Stewart, Georgia is offering active-duty soldiers a four-day pass to."
-          ],
-          "stanceTitle": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter week to steal cars in the lo",
-          "type": "viewpoint1",
-          "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
-          "id": "p_art_8bf1521629_1",
-          "sourceName": "Fortune",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        },
-        {
-          "keyPoints": [
-            "Here\u2019s why - The Indian Express.",
-            "Pakistan and Philippines announce 4-day work week."
-          ],
-          "stanceTitle": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
-          "type": "viewpoint2",
-          "summary": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express. Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
-          "id": "p_art_8bf1521629_2",
-          "sourceName": "Indian Express",
-          "quoteAuthor": "",
-          "biasTag": "Investigative Journalism",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "indianexpress.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.950293+00:00",
-      "id": "art_8bf1521629",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter wee",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Orthopaedic surgeon KJ Reddy, who specialises in knee, hip and sports injuries, posted a.",
-            "He wrote that it was a pleasure knowing Prabhas and described him as \"warm and gracious\"."
-          ],
-          "stanceTitle": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
-          "type": "viewpoint1",
-          "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
-          "id": "p_art_672f718616_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
-          "type": "viewpoint2",
-          "summary": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION. Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
-          "id": "p_art_672f718616_2",
-          "sourceName": "WION",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "wionews.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.948213+00:00",
-      "id": "art_672f718616",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2tkaar8s_prabhas_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Social Media Posts Go Viral.",
-            "IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his."
-          ],
-          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
-          "type": "viewpoint1",
-          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
-          "id": "p_art_dbaea3e258_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Social Media Posts Go Viral.",
-            "Here's What FDA Chief Says - NDTV Profit."
-          ],
-          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
-          "type": "viewpoint2",
-          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit. Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
-          "id": "p_art_dbaea3e258_2",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.945762+00:00",
-      "id": "art_dbaea3e258",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cp9tu4mo_tukaram-mundhe_625x300_20_August_26.png"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine.",
-            "Langer, known as the \u201cEdison of Medicine,\u201d witnessed his equity in the biotech business."
-          ],
-          "stanceTitle": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-paying job offers to \u2018have mo",
-          "type": "viewpoint1",
-          "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
-          "id": "p_art_93e26acd1a_1",
-          "sourceName": "Fortune",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        },
-        {
-          "keyPoints": [
-            "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
-          "type": "viewpoint2",
-          "summary": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com. Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
-          "id": "p_art_93e26acd1a_2",
-          "sourceName": "Livemint",
-          "quoteAuthor": "",
-          "biasTag": "Financial & Policy",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "livemint.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.765751+00:00",
-      "id": "art_93e26acd1a",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-payi",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\u201cI feel good,\u201d she says.",
-            "\u201cI don\u2019t know if excited is the right word, but I feel good.\u201d Ogwumike, 36, was the league\u2019s No."
-          ],
-          "stanceTitle": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the players",
-          "type": "viewpoint1",
-          "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
-          "id": "p_art_21577e0cef_1",
-          "sourceName": "Fortune",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        },
-        {
-          "keyPoints": [
-            "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish ",
-          "type": "viewpoint2",
-          "summary": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal. Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal",
-          "id": "p_art_21577e0cef_2",
-          "sourceName": "Swish Appeal",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "swishappeal.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.761436+00:00",
-      "id": "art_21577e0cef",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the pla",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291227081.jpg?resize=1200,600"
     }
   ]
 }

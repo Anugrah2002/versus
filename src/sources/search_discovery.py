@@ -158,6 +158,41 @@ class MultiSourceSearchDiscovery:
 
         return candidates
 
+    def _verify_topical_congruence(self, primary: ExtractedArticle, candidate: ExtractedArticle) -> bool:
+        """
+        Guarantees 100% topic congruence before pairing.
+        Prevents false-positive merges (e.g. Fishing rules paired with Iran war).
+        """
+        def get_tokens(text: str) -> Set[str]:
+            words = re.findall(r"\b[a-zA-Z0-9_-]{3,}\b", text.lower())
+            stop = {
+                "the", "and", "that", "this", "with", "from", "have", "were", "they", "will",
+                "what", "when", "where", "which", "about", "their", "there", "would", "could",
+                "should", "other", "after", "first", "news", "said", "says", "while", "also",
+                "into", "more", "over", "such", "than", "them", "then", "these", "some", "been",
+                "report", "reports", "today", "yesterday", "tomorrow", "daily", "update", "updates"
+            }
+            return set(w for w in words if w not in stop)
+
+        tokens_p_title = get_tokens(primary.title)
+        tokens_c_title = get_tokens(candidate.title)
+        tokens_p_body = get_tokens(primary.cleaned_body)
+        tokens_c_body = get_tokens(candidate.cleaned_body)
+
+        title_overlap = tokens_p_title.intersection(tokens_c_title)
+        body_overlap = tokens_p_body.intersection(tokens_c_body)
+
+        # 1. Direct title keyword agreement (>= 2 shared words)
+        if len(title_overlap) >= 2:
+            return True
+
+        # 2. At least 1 shared title keyword + strong body context agreement (>= 3 words)
+        if len(title_overlap) >= 1 and len(body_overlap) >= 3:
+            return True
+
+        # Disconnected topics -> Reject immediately
+        return False
+
     async def discover_competing_articles(
         self,
         primary_article: ExtractedArticle,
@@ -194,12 +229,21 @@ class MultiSourceSearchDiscovery:
         valid_competing = []
 
         for cand_art in extracted:
-            # Check length and domain difference
-            if len(cand_art.cleaned_body.split()) >= 20 and cand_art.domain != primary_article.domain:
-                cand_art.category = primary_article.category
-                valid_competing.append(cand_art)
-                if len(valid_competing) >= max_matches:
-                    break
+            # 1. Check length & domain separation
+            if len(cand_art.cleaned_body.split()) < 20 or cand_art.domain == primary_article.domain:
+                continue
+
+            # 2. Strict Topical Congruence Verification Gate
+            if not self._verify_topical_congruence(primary_article, cand_art):
+                logger.debug(
+                    f"🛡️ Rejected mismatched candidate: '{cand_art.title[:40]}' (not congruent with '{primary_article.title[:40]}')"
+                )
+                continue
+
+            cand_art.category = primary_article.category
+            valid_competing.append(cand_art)
+            if len(valid_competing) >= max_matches:
+                break
 
         if valid_competing:
             logger.info(

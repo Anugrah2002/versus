@@ -5,682 +5,841 @@
   "has_more": true,
   "articles": [
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir. \u201cI am happy, and so proud, that your story \u2014 \u2018Belonging: A Journey of Love\u2019 \u2014 will finally be read by the millions of people who love you.",
       "divergenceScore": 0,
-      "summary": "When people think about the risks of mixing AI and armed forces, their thoughts often drift to one famous film franchise: the Terminator. American scientists invent a superintelligent computer system, called Skynet. The Department of Defense then integrates it into the military and embodies its intelligence into lethal robots.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "How AI Could Hollow Out the U.S. Military",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:37.047362+00:00",
-      "id": "art_3ca703652a",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
       "perspectives": [
         {
           "keyPoints": [
-            "American scientists invent a superintelligent computer system, called Skynet.",
-            "The Department of Defense then integrates it into the military and embodies its intelligence."
+            "\u201cI am happy, and so proud, that your story \u2014 \u2018Belonging: A Journey of.",
+            "I know how hard it was for someone as private as you to tell."
           ],
-          "stanceTitle": "How AI Could Hollow Out the U.S. Military",
+          "stanceTitle": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir",
           "type": "directReport",
-          "sourceName": "Foreign Affairs",
-          "id": "p_art_3ca703652a_1",
-          "summary": "When people think about the risks of mixing AI and armed forces, their thoughts often drift to one famous film franchise: the Terminator. American scientists invent a superintelligent computer system, called Skynet. The Department of Defense then integrates it into the military and embodies its intelligence into lethal robots.",
+          "summary": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir. \u201cI am happy, and so proud, that your story \u2014 \u2018Belonging: A Journey of Love\u2019 \u2014 will finally be read by the millions of people who love you.",
+          "id": "p_art_d1397d04ab_1",
+          "sourceName": "The Hindu National",
           "quoteAuthor": "",
-          "biasTag": "Global Order & Statecraft",
-          "sourceDomain": "foreignaffairs.com",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
           "quote": "",
-          "sourceCredibility": 97,
+          "sourceCredibility": 96,
           "fullMarkdownContent": ""
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.567526+00:00",
+      "id": "art_d1397d04ab",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/17/22026-06-28T194807Z_1719337274_RC253MAL1AWJ_RTRMADP_3_USA-250-FAIR.jpg?itok=IgRX3Rrb"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/11o06f/article71368560.ece/alternates/LANDSCAPE_1200/20260820041L.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar. He has also sought a direction to YouTube and X Corp to take down the defamatory videos and tweets against him",
       "divergenceScore": 0,
-      "summary": "Trump to host crypto executives as SEC considers regulations. The SEC on Tuesday proposed long-awaited \u200crules that would exempt certain token offerings from securities regulations, making it easier for crypto companies to issue tokens and raise money",
+      "isBookmarked": false,
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Trump to host crypto executives as SEC considers regulations",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.996194+00:00",
-      "id": "art_8474142f50",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
       "perspectives": [
         {
           "keyPoints": [
-            "The SEC on Tuesday proposed long-awaited \u200crules that would exempt certain token offerings from.",
+            "Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar.",
+            "He has also sought a direction to YouTube and X Corp to take down the defamatory videos and tweets against him"
+          ],
+          "stanceTitle": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar",
+          "type": "directReport",
+          "summary": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar. He has also sought a direction to YouTube and X Corp to take down the defamatory videos and tweets against him",
+          "id": "p_art_924fbb268c_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages fr",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.457766+00:00",
+      "id": "art_924fbb268c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/6goprv/article71368480.ece/alternates/LANDSCAPE_1200/02_Arun.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Minister Aadhav Arjuna. When Iranian pirates tried to rob the Tamil fishermen in Saudi Arabia, they resisted the attempt, resulting in firing by the pirates, the Minister said.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "When Iranian pirates tried to rob the Tamil fishermen in Saudi Arabia, they resisted.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Trump to host crypto executives as SEC considers regulations",
+          "stanceTitle": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Minister Aadhav Arjuna",
+          "type": "directReport",
+          "summary": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Minister Aadhav Arjuna. When Iranian pirates tried to rob the Tamil fishermen in Saudi Arabia, they resisted the attempt, resulting in firing by the pirates, the Minister said.",
+          "id": "p_art_96a02b62fb_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Ministe",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.426358+00:00",
+      "id": "art_96a02b62fb",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/s86qsw/article71368485.ece/alternates/LANDSCAPE_1200/DSC_9311.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "UN Deputy Secretary-General Amina Mohammed to visit India later this month. UN Deputy Secretary-General Amina Mohammed will visit India to discuss sustainable development and cooperation with New Delhi from August 26-28",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "UN Deputy Secretary-General Amina Mohammed will visit India to discuss sustainable development and cooperation.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "UN Deputy Secretary-General Amina Mohammed to visit India later this month",
+          "type": "directReport",
+          "summary": "UN Deputy Secretary-General Amina Mohammed to visit India later this month. UN Deputy Secretary-General Amina Mohammed will visit India to discuss sustainable development and cooperation with New Delhi from August 26-28",
+          "id": "p_art_04ccdd73f9_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "UN Deputy Secretary-General Amina Mohammed to visit India later this month",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.356517+00:00",
+      "id": "art_04ccdd73f9",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/q3wj5j/article71368496.ece/alternates/LANDSCAPE_1200/UN_Deputy_Secretary_General_17894.jpg-d5cc7.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Search operation in J&K's Kathua after suspicious movement. Security forces in J&amp;K\u2019s Kathua conduct a search operation following reports of suspicious movements near the Udhampur-Kathua border",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Security forces in J&amp;K\u2019s Kathua conduct a search operation following reports of suspicious movements.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Search operation in J&K's Kathua after suspicious movement",
+          "type": "directReport",
+          "summary": "Search operation in J&K's Kathua after suspicious movement. Security forces in J&amp;K\u2019s Kathua conduct a search operation following reports of suspicious movements near the Udhampur-Kathua border",
+          "id": "p_art_cf98a0e1b3_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Search operation in J&K's Kathua after suspicious movement",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.282425+00:00",
+      "id": "art_cf98a0e1b3",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/q7jzj8/article71368454.ece/alternates/LANDSCAPE_1200/20260114431L.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel A woman has shared an alleged delivery dispute, claiming her parcel was cancelled without a call. An X post about an alleged delivery dispute has drawn reactions from users.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "An X post about an alleged delivery dispute has drawn reactions from users.",
+            "The post claims a delivery agent cancelled a woman\u2019s parcel without calling her and."
+          ],
+          "stanceTitle": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel",
+          "type": "directReport",
+          "summary": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel A woman has shared an alleged delivery dispute, claiming her parcel was cancelled without a call. An X post about an alleged delivery dispute has drawn reactions from users.",
+          "id": "p_art_8f45eb9452_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "sourceDomain": "hindustantimes.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.275210+00:00",
+      "id": "art_8f45eb9452",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Untitled_design_1787215770940_1787215778281_e78c70c7-50ee-4062-879b-b44a938ef2fa.png"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism. Addressing DYFI meet, actor says young protesters have \u2018punctured the Centre\u2019s ego\u2019 and that \u2018we are not afraid of you\u2019",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Addressing DYFI meet, actor says young protesters have \u2018punctured the Centre\u2019s ego\u2019 and that.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism",
+          "type": "directReport",
+          "summary": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism. Addressing DYFI meet, actor says young protesters have \u2018punctured the Centre\u2019s ego\u2019 and that \u2018we are not afraid of you\u2019",
+          "id": "p_art_844c2bf9ad_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.089838+00:00",
+      "id": "art_844c2bf9ad",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/l5qh1j/article71368486.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2014.27.57.jpeg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu Higher Education Minister. The Minister\u2019s statement comes after a now-withdrawn directive issued by the Higher Education Department, which had sought coordinated action to prevent students from participating in protests organised by the Left parties and CJP",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Minister\u2019s statement comes after a now-withdrawn directive issued by the Higher Education Department,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu Higher Education Minister",
+          "type": "directReport",
+          "summary": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu Higher Education Minister. The Minister\u2019s statement comes after a now-withdrawn directive issued by the Higher Education Department, which had sought coordinated action to prevent students from participating in protests organised by the Left parties and CJP",
+          "id": "p_art_bdd9f1270e_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu H",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:43.892707+00:00",
+      "id": "art_bdd9f1270e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ze75do/article71368179.ece/alternates/LANDSCAPE_1200/EDU%20M%20INISTER%202.JPG"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Parental control features in ChatGPT for Teens | Explained",
           "type": "directReport",
           "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_8474142f50_1",
-          "summary": "Trump to host crypto executives as SEC considers regulations. The SEC on Tuesday proposed long-awaited \u200crules that would exempt certain token offerings from securities regulations, making it easier for crypto companies to issue tokens and raise money",
+          "id": "p_art_74e111d177_1",
+          "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
           "quoteAuthor": "",
           "biasTag": "Scientific Reporting",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/j67y24/article71367672.ece/alternates/LANDSCAPE_1200/2026-08-19T194520Z_1077887692_RC2V1NAQDVS4_RTRMADP_3_USA-TRUMP.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Founder of China's Evergrande sentenced to life in prison - Published The founder of Evergrande, the property giant at the centre of China's housing market slump, has been sentenced to life in prison and had all of his personal property confiscated.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Founder of China's Evergrande sentenced to life in prison",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.993356+00:00",
-      "id": "art_5d3b3becee",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Hui Ka Yan pleaded guilty in April to several charges, including embezzlement of assets and corporate bribery.",
-            "Shenzhen Intermediate People's Court also fined Evergrande Group 8.82bn yuan (\u00a3960m; $1.31bn), while its."
-          ],
-          "stanceTitle": "Founder of China's Evergrande sentenced to life in prison",
-          "type": "directReport",
-          "sourceName": "BBC Business",
-          "id": "p_art_5d3b3becee_1",
-          "summary": "Founder of China's Evergrande sentenced to life in prison - Published The founder of Evergrande, the property giant at the centre of China's housing market slump, has been sentenced to life in prison and had all of his personal property confiscated.",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "sourceDomain": "bbc.co.uk",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7941/live/f514e1b0-9c4c-11f1-a7e0-fd27165ce529.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "lastUpgradedAt": "2026-08-20T09:08:45.327306+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Gurman said Apple had previously targeted a 2026 release, but ran into supply chain and software-related challenges as it neared the production stage. Apple has been widely rumoured to foray into the AI wearables segment, with camera-equipped AirPods believed to be its first product.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.923239+00:00",
-      "id": "art_34e5b6127f",
-      "title": "Apple\u2019s Camera-Equipped AirPods Reportedly Still on Track for 2027 Launch Despite Recent Video ",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Apple has been widely rumoured to foray into the AI wearables segment, with camera-equipped.",
-            "A recent software leak appeared to show the rumoured earbuds and their Visual Intelligence."
-          ],
-          "stanceTitle": "Apple\u2019s Camera-Equipped AirPods Reportedly Still on Track for 2027 Launch Despite Recent Video Leak",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_34e5b6127f_1",
-          "summary": "Gurman said Apple had previously targeted a 2026 release, but ran into supply chain and software-related challenges as it neared the production stage. Apple has been widely rumoured to foray into the AI wearables segment, with camera-equipped AirPods believed to be its first product.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Parental control features in ChatGPT for Teens | Explained",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.067590+00:00",
+      "id": "art_74e111d177",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/vuddinf4_airpod-apple-bbg_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg"
     },
     {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
       "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "India\u2019s genetic mosaic: how understanding our genes can help improve our health. Our genetic tapestry is not merely an ancestry story, but a medical map. It can help prevent inherited diseases, improve newborn screening, guide safer prescribing, diagnose rare disorders earlier, and support drug discovery. But this map must be read with care",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Our genetic tapestry is not merely an ancestry story, but a medical map.",
+            "It can help prevent inherited diseases, improve newborn screening, guide safer prescribing, diagnose rare."
+          ],
+          "stanceTitle": "India\u2019s genetic mosaic: how understanding our genes can help improve our health",
+          "type": "directReport",
+          "sourceName": "The Hindu Sci-Tech",
+          "id": "p_art_074e580189_1",
+          "summary": "India\u2019s genetic mosaic: how understanding our genes can help improve our health. Our genetic tapestry is not merely an ancestry story, but a medical map. It can help prevent inherited diseases, improve newborn screening, guide safer prescribing, diagnose rare disorders earlier, and support drug discovery. But this map must be read with care",
+          "quoteAuthor": "",
+          "biasTag": "Scientific Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "India\u2019s genetic mosaic: how understanding our genes can help improve our health",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.063310+00:00",
+      "id": "art_074e580189",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/65d57d/article70969400.ece/alternates/LANDSCAPE_1200/IMG_IMG_iStock-136492784_2_1_NQBGTSVQ.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town planning. The understanding that mosquitoes could cause malaria and other diseases did more than solve a biological mystery.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The understanding that mosquitoes could cause malaria and other diseases did more than solve.",
+            "It completely changed disease control: drainage of stagnant water, environmental sanitation, mosquito nets, screening."
+          ],
+          "stanceTitle": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town planning",
+          "type": "directReport",
+          "sourceName": "The Hindu Sci-Tech",
+          "id": "p_art_3f5991dbe4_1",
+          "summary": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town planning. The understanding that mosquitoes could cause malaria and other diseases did more than solve a biological mystery.",
+          "quoteAuthor": "",
+          "biasTag": "Scientific Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town pl",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.061225+00:00",
+      "id": "art_3f5991dbe4",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/a97d6t/article71367916.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U1M5VBC51_R1560589840_3_7d010844-1b9a-45ad-ae31-463af3fe9876.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "What beats seeing eclipses from space? Try the northern and southern lights. Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Try the northern and southern lights.",
+            "Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space."
+          ],
+          "stanceTitle": "What beats seeing eclipses from space? Try the northern and southern lights",
+          "type": "directReport",
+          "sourceName": "Phys.org",
+          "id": "p_art_168628209d_1",
+          "summary": "What beats seeing eclipses from space? Try the northern and southern lights. Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "What beats seeing eclipses from space? Try the northern and southern lights",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.038208+00:00",
+      "id": "art_168628209d",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-beats-seeing-ecli.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Honduras places 80% of country on El Ni\u00f1o drought alert. The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Ni\u00f1o scorches harvests and causes livestock to die of thirst.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Honduran government on Wednesday placed 80% of the country, including the capital, on.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Honduras places 80% of country on El Ni\u00f1o drought alert",
+          "type": "directReport",
+          "sourceName": "Phys.org",
+          "id": "p_art_b8740df760_1",
+          "summary": "Honduras places 80% of country on El Ni\u00f1o drought alert. The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Ni\u00f1o scorches harvests and causes livestock to die of thirst.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Honduras places 80% of country on El Ni\u00f1o drought alert",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.028054+00:00",
+      "id": "art_b8740df760",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-la-concepcion-rese.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Australia races to shield little penguins from H5N1 bird flu. Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Australia races to shield little penguins from H5N1 bird flu",
+          "type": "directReport",
+          "sourceName": "Phys.org",
+          "id": "p_art_54d4caf83d_1",
+          "summary": "Australia races to shield little penguins from H5N1 bird flu. Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Australia races to shield little penguins from H5N1 bird flu",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.021872+00:00",
+      "id": "art_54d4caf83d",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-penguins-in-aus.jpg"
+    },
+    {
       "tags": [
         "Business & Policy",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "No New SIMs For Users With 9 Connections? What DoT Order To Telcos Mean. The move aims to strengthen SIM ownership controls, prevent misuse of mobile connections and improve enforcement through automated, cross-operator verification.",
+      "summary": "Travelodge boss resigns as chain tackles security after sex assault at hotel - Published The boss of hotel chain Travelodge, Jo Boydell, is stepping down as the group addresses safety issues after a sexual assault at one of its hotels.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A woman staying at a hotel in Maidenhead, Berkshire was sexually assaulted in December.",
+            "Kyran Smith was jailed for seven years and six months for the attack."
+          ],
+          "stanceTitle": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+          "type": "directReport",
+          "sourceName": "BBC Business",
+          "id": "p_art_9ad35cd492_1",
+          "summary": "Travelodge boss resigns as chain tackles security after sex assault at hotel - Published The boss of hotel chain Travelodge, Jo Boydell, is stepping down as the group addresses safety issues after a sexual assault at one of its hotels.",
+          "quoteAuthor": "",
+          "biasTag": "Balanced Global Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "bbc.co.uk"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.998650+00:00",
+      "id": "art_9ad35cd492",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abd/live/b8e96d70-9c6d-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike. The protest will be held from 11 am to 5 pm outside the offices of the Mumbai Suburban Collector and the Transport Commissioner.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The protest will be held from 11 am to 5 pm outside the offices.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_e12de729e2_1",
+          "summary": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike. The protest will be held from 11 am to 5 pm outside the offices of the Mumbai Suburban Collector and the Transport Commissioner.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.971816+00:00",
+      "id": "art_e12de729e2",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/s9059fs4_bus_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Details. According to NSE bulk deal data, Goldman Sachs India Equity Portfolio bought 40,24,040 shares of Shiprocket during Wednesday's trading session.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "According to NSE bulk deal data, Goldman Sachs India Equity Portfolio bought 40,24,040 shares.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Details",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_d80f370826_1",
+          "summary": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Details. According to NSE bulk deal data, Goldman Sachs India Equity Portfolio bought 40,24,040 shares of Shiprocket during Wednesday's trading session.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Deta",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.969036+00:00",
+      "id": "art_d80f370826",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/65023q2c_b_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport. L&amp;T has secured a large order for an integrated Automated People Mover System as part of the long-term expansion of Dubai\u2019s Al Maktoum International Airport",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "L&amp;T has secured a large order for an integrated Automated People Mover System as.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_719dc4a8d0_1",
+          "summary": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport. L&amp;T has secured a large order for an integrated Automated People Mover System as part of the long-term expansion of Dubai\u2019s Al Maktoum International Airport",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.963231+00:00",
+      "id": "art_719dc4a8d0",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/qufcpjq_lt-wins-dubai-airport-order_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T11:38:20.822865+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- Union Home Minister Amit Shah chaired the 31st Southern Zonal Council meeting in Tamil Nadu's Mahabalipuram - Tamil Nadu CM Vijay opposed NEET, urging admission to medical courses based on Class XII marks only - Vijay demanded legislative assurance against loss of parliamentary seats due to population control Tamil Nadu Chief Minister C Joseph.",
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "No New SIMs For Users With 9 Connections? What DoT Order To Telcos Mean",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.865112+00:00",
-      "id": "art_27b8c6f323",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.955145+00:00",
+      "id": "art_97b3664143",
+      "title": "NEET, Delimitation, Cauvery: Vijay's Wishlist At South Meet With Amit Shah",
       "bookmarksCount": 0,
       "category": "Business & Policy",
       "perspectives": [
         {
           "keyPoints": [
-            "What DoT Order To Telcos Mean.",
-            "The move aims to strengthen SIM ownership controls, prevent misuse of mobile connections and."
+            "Addressing the 31st Southern Zonal Council meeting at Mahabalipuram, chaired by Union Home Minister.",
+            "The meeting was attended by chief ministers and ministers of the southern states, while."
           ],
-          "stanceTitle": "No New SIMs For Users With 9 Connections? What DoT Order To Telcos Mean",
+          "stanceTitle": "NEET, Delimitation, Cauvery: Vijay's Wishlist At South Meet With Amit Shah",
           "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_27b8c6f323_1",
-          "summary": "No New SIMs For Users With 9 Connections? What DoT Order To Telcos Mean. The move aims to strengthen SIM ownership controls, prevent misuse of mobile connections and improve enforcement through automated, cross-operator verification.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/5dh9hi9o_sim_625x300_20_August_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Zerodha To Bring Mutual Fund Investing To Its Equity Trading Platform Kite. Zerodha has historically kept the two platforms separate: Kite for active investing and trading, and Coin for passive, long-term investments such as mutual funds, SIPs, NPS and fixed deposits.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Zerodha To Bring Mutual Fund Investing To Its Equity Trading Platform Kite",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.862560+00:00",
-      "id": "art_a3e78efde4",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Zerodha has historically kept the two platforms separate: Kite for active investing and trading,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Zerodha To Bring Mutual Fund Investing To Its Equity Trading Platform Kite",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_a3e78efde4_1",
-          "summary": "Zerodha To Bring Mutual Fund Investing To Its Equity Trading Platform Kite. Zerodha has historically kept the two platforms separate: Kite for active investing and trading, and Coin for passive, long-term investments such as mutual funds, SIPs, NPS and fixed deposits.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/595ekmfg_zerodha_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "KFin Tech Share Price Rises Over 1% On Likely Block Deal For Rs 1,400 Crore. The transaction, executed through its affiliate General Atlantic Singapore Fund Pte, comes as the firm looks to monetize its investment in the company.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "KFin Tech Share Price Rises Over 1% On Likely Block Deal For Rs 1,400 Crore",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.857383+00:00",
-      "id": "art_b78e5536c1",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The transaction, executed through its affiliate General Atlantic Singapore Fund Pte, comes as the.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "KFin Tech Share Price Rises Over 1% On Likely Block Deal For Rs 1,400 Crore",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_b78e5536c1_1",
-          "summary": "KFin Tech Share Price Rises Over 1% On Likely Block Deal For Rs 1,400 Crore. The transaction, executed through its affiliate General Atlantic Singapore Fund Pte, comes as the firm looks to monetize its investment in the company.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/qk6j0tn8_kfin-technologies_625x300_28_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Aditya Infotech Rated 'Buy' As Motilal Oswal Initiates Coverage \u2014 Check Target Price. Aditya Infotech is well-positioned to benefit from a demand surge in the video surveillance market, says Motilal Oswal.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Aditya Infotech Rated 'Buy' As Motilal Oswal Initiates Coverage \u2014 Check Target Price",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.738355+00:00",
-      "id": "art_644f37c646",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Aditya Infotech is well-positioned to benefit from a demand surge in the video surveillance.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Aditya Infotech Rated 'Buy' As Motilal Oswal Initiates Coverage \u2014 Check Target Price",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_644f37c646_1",
-          "summary": "Aditya Infotech Rated 'Buy' As Motilal Oswal Initiates Coverage \u2014 Check Target Price. Aditya Infotech is well-positioned to benefit from a demand surge in the video surveillance market, says Motilal Oswal.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lt4tob14_aditya-infotech-cp-plus_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Authorities Remove Structures, Barricades Outside Pakistan High Commission In Delhi. The development comes amid heightened diplomatic tensions involving India, Pakistan and the United States over Jammu and Kashmir.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Authorities Remove Structures, Barricades Outside Pakistan High Commission In Delhi",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.698734+00:00",
-      "id": "art_d8934b1357",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The development comes amid heightened diplomatic tensions involving India, Pakistan and the United States.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Authorities Remove Structures, Barricades Outside Pakistan High Commission In Delhi",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_d8934b1357_1",
-          "summary": "Authorities Remove Structures, Barricades Outside Pakistan High Commission In Delhi. The development comes amid heightened diplomatic tensions involving India, Pakistan and the United States over Jammu and Kashmir.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/bkea0ois_pak-high-commission-_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "All In London is just around the corner, so the final stretch of the build has been well underway. It continued on the Wednesday, Aug. 19 episode of AEW Dynamite, with the major show less than two weeks away.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "AEW Dynamite Results (Aug. 19, 2026) As Omega, Ospreay Go Face To Face",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.697149+00:00",
-      "id": "art_fc4efc67a8",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "It continued on the Wednesday, Aug.",
-            "19 episode of AEW Dynamite, with the major show less than two weeks away."
-          ],
-          "stanceTitle": "AEW Dynamite Results (Aug. 19, 2026) As Omega, Ospreay Go Face To Face",
-          "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_fc4efc67a8_1",
-          "summary": "All In London is just around the corner, so the final stretch of the build has been well underway. It continued on the Wednesday, Aug. 19 episode of AEW Dynamite, with the major show less than two weeks away.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/68d4bca61591fc7af310b0df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes. Oil-exporting countries looking to secure their own fleets are driving prices, particularly for readily available vessels",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.612791+00:00",
-      "id": "art_a8dda154f3",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Oil-exporting countries looking to secure their own fleets are driving prices, particularly for readily.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes",
-          "type": "directReport",
-          "sourceName": "Financial Times Global",
-          "id": "p_art_a8dda154f3_1",
-          "summary": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes. Oil-exporting countries looking to secure their own fleets are driving prices, particularly for readily available vessels",
-          "quoteAuthor": "",
-          "biasTag": "Global Capital & Markets",
-          "sourceDomain": "ft.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e99ca20-14a8-4571-9b7a-47c002aebc60.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Top US law firms hit by backlash over \u2018crazy\u2019 hiring of first-year students. Wall Street firms are recruiting ever-earlier drawing concern from students and executives",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Top US law firms hit by backlash over \u2018crazy\u2019 hiring of first-year students",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.562786+00:00",
-      "id": "art_7112718d00",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Wall Street firms are recruiting ever-earlier drawing concern from students and executives",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Top US law firms hit by backlash over \u2018crazy\u2019 hiring of first-year students",
-          "type": "directReport",
-          "sourceName": "Financial Times Global",
-          "id": "p_art_7112718d00_1",
-          "summary": "Top US law firms hit by backlash over \u2018crazy\u2019 hiring of first-year students. Wall Street firms are recruiting ever-earlier drawing concern from students and executives",
-          "quoteAuthor": "",
-          "biasTag": "Global Capital & Markets",
-          "sourceDomain": "ft.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F821d0239-7c98-4c0c-bab1-052fdfd31ec8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says. Shares in China's best-known humanoid robot maker fell \u200b11% on Thursday, a day after soaring nearly sixfold in their market debut, highlighting intense investor enthusiasm for a fledgling sector that enjoys strong backing from Beijing.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.561374+00:00",
-      "id": "art_b2f32f1bf8",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Shares in China's best-known humanoid robot maker fell \u200b11% on Thursday, a day after.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_b2f32f1bf8_1",
-          "summary": "Robots poised for 'ChatGPT moment,' Unitree CEO says. Shares in China's best-known humanoid robot maker fell \u200b11% on Thursday, a day after soaring nearly sixfold in their market debut, highlighting intense investor enthusiasm for a fledgling sector that enjoys strong backing from Beijing.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "sourceDomain": "economictimes.indiatimes.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133364132,imgsize-96808.cms"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Dharwad bans PoP Ganesh idols, announces \u20b91 lakh fine for excessive DJ sound. The district administration has curbed the manufacture, sale, storage and use of idols made of PoP and other chemically treated material",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Dharwad bans PoP Ganesh idols, announces \u20b91 lakh fine for excessive DJ sound",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.557731+00:00",
-      "id": "art_08d0030786",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The district administration has curbed the manufacture, sale, storage and use of idols made.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Dharwad bans PoP Ganesh idols, announces \u20b91 lakh fine for excessive DJ sound",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_08d0030786_1",
-          "summary": "Dharwad bans PoP Ganesh idols, announces \u20b91 lakh fine for excessive DJ sound. The district administration has curbed the manufacture, sale, storage and use of idols made of PoP and other chemically treated material",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/jq3se6/article71366258.ece/alternates/LANDSCAPE_1200/9727_5_9_2021_21_19_9_1_06BGMGANESHHUBLI1.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Sunshine Pictures IPO: Should You Apply As Issue Closes Today?. Sunshine Pictures IPO price band has been set at Rs 342 to Rs 360 per share, and the IPO lot size is 41 shares. At the upper-end of the price band, the company aims to raise Rs 282.14 crore from the...",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Sunshine Pictures IPO: Should You Apply As Issue Closes Today?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.439195+00:00",
-      "id": "art_79f573c31c",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Sunshine Pictures IPO price band has been set at Rs 342 to Rs 360.",
-            "At the upper-end of the price band, the company aims to raise Rs 282.14 crore from the..."
-          ],
-          "stanceTitle": "Sunshine Pictures IPO: Should You Apply As Issue Closes Today?",
-          "type": "viewpoint1",
+          "summary": "- Union Home Minister Amit Shah chaired the 31st Southern Zonal Council meeting in Tamil Nadu's Mahabalipuram - Tamil Nadu CM Vijay opposed NEET, urging admission to medical courses based on Class XII marks only - Vijay demanded legislative assurance against loss of parliamentary seats due to population control Tamil Nadu Chief Minister C Joseph.",
+          "id": "p_art_97b3664143_1",
           "sourceName": "NDTV Trending News",
-          "id": "p_art_79f573c31c_1",
-          "summary": "Sunshine Pictures IPO: Should You Apply As Issue Closes Today?. Sunshine Pictures IPO price band has been set at Rs 342 to Rs 360 per share, and the IPO lot size is 41 shares. At the upper-end of the price band, the company aims to raise Rs 282.14 crore from the...",
           "quoteAuthor": "",
           "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Tempsens Instruments India IPO opens today, with GMP indicating a potential 73% listing gain.",
-            "Here's the latest GMP, issue details and key dates."
-          ],
-          "stanceTitle": "Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today",
-          "type": "viewpoint2",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_79f573c31c_2",
-          "summary": "Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today. Tempsens Instruments India IPO opens today, with GMP indicating a potential 73% listing gain. Here's the latest GMP, issue details and key dates.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0h82e2f_sunshine-pictures-ipo_625x300_18_August_26.png"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/6rb190m_amit-shah-and-vijay_625x300_20_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
     },
     {
       "tags": [
@@ -688,215 +847,43 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today. Tempsens Instruments India IPO opens today, with GMP indicating a potential 73% listing gain. Here's the latest GMP, issue details and key dates.",
+      "videoDuration": "02:45",
+      "isBookmarked": false,
       "divergenceScore": 0,
+      "summary": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Rebound. Global cues, support around 24,000 and strength in private-sector banks helped the Nifty recover after seven straight sessions of losses.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Tempsens Instruments India IPO opens today, with GMP indicating a potential 73% listing gain.",
-            "Here's the latest GMP, issue details and key dates."
+            "Global cues, support around 24,000 and strength in private-sector banks helped the Nifty recover.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today",
-          "type": "viewpoint2",
+          "stanceTitle": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Rebound",
+          "type": "directReport",
           "sourceName": "NDTV Profit",
-          "id": "p_art_79f573c31c_2",
-          "summary": "Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today. Tempsens Instruments India IPO opens today, with GMP indicating a potential 73% listing gain. Here's the latest GMP, issue details and key dates.",
+          "id": "p_art_68d6c2e4ba_1",
+          "summary": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Rebound. Global cues, support around 24,000 and strength in private-sector banks helped the Nifty recover after seven straight sessions of losses.",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtvprofit.com"
         }
       ],
       "readTimeMinutes": 2,
-      "title": "Tempsens Instruments IPO GMP Signals 73% Listing Gain As Subscription Begins Today",
+      "title": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Reboun",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.439195+00:00",
-      "id": "art_79f573c31c_split",
+      "publishedAt": "2026-08-20T09:08:46.942443+00:00",
+      "id": "art_68d6c2e4ba",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0h82e2f_sunshine-pictures-ipo_625x300_18_August_26.png"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Lokayukta searches 11 premises in disproportionate assets case; assets worth \u20b918.3 crore recovered from special land acquisition officer. The searches were carried out at the residences and office of Mallikarjuna B., Special Land Acquisition Officer, Subramanya Nagar, Guddadahalli, Hebbal, as well as the residences of his relatives.",
-      "likesCount": 0,
       "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Lokayukta searches 11 premises in disproportionate assets case; assets worth \u20b918.3 crore recove",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.399054+00:00",
-      "id": "art_0e3dfff855",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The searches were carried out at the residences and office of Mallikarjuna B., Special.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Lokayukta searches 11 premises in disproportionate assets case; assets worth \u20b918.3 crore recovered from special land acq",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_0e3dfff855_1",
-          "summary": "Lokayukta searches 11 premises in disproportionate assets case; assets worth \u20b918.3 crore recovered from special land acquisition officer. The searches were carried out at the residences and office of Mallikarjuna B., Special Land Acquisition Officer, Subramanya Nagar, Guddadahalli, Hebbal, as well as the residences of his relatives.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/7h90nh/article71365993.ece/alternates/LANDSCAPE_1200/Govt.-land-recoGBIG9SS49.3.jpg.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "UNSC membership must not be used to 'legitimise' terrorists: India. India has in the past described such practices as a \u201cdisguised veto\u201d and raised concerns over the functioning of the 1267 Al-Qaida Sanctions Committee in particular",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "UNSC membership must not be used to 'legitimise' terrorists: India",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.382840+00:00",
-      "id": "art_49154efba3",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "India has in the past described such practices as a \u201cdisguised veto\u201d and raised.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "UNSC membership must not be used to 'legitimise' terrorists: India",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_49154efba3_1",
-          "summary": "UNSC membership must not be used to 'legitimise' terrorists: India. India has in the past described such practices as a \u201cdisguised veto\u201d and raised concerns over the functioning of the 1267 Al-Qaida Sanctions Committee in particular",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/u8vs81/article71367825.ece/alternates/LANDSCAPE_1200/PTI04_29_2025_000017B.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Will Abhimanyu get a royal farewell in Dasara procession?. Khandre urges Forest Minister Ramalinga Reddy to allow the celebrated tusker to participate in this year\u2019s Vijayadashami procession as the Nishane elephant and give the veteran jumbo a ceremonial send-off",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Will Abhimanyu get a royal farewell in Dasara procession?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.322129+00:00",
-      "id": "art_16acd304f8",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Khandre urges Forest Minister Ramalinga Reddy to allow the celebrated tusker to participate in.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Will Abhimanyu get a royal farewell in Dasara procession?",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_16acd304f8_1",
-          "summary": "Will Abhimanyu get a royal farewell in Dasara procession?. Khandre urges Forest Minister Ramalinga Reddy to allow the celebrated tusker to participate in this year\u2019s Vijayadashami procession as the Nishane elephant and give the veteran jumbo a ceremonial send-off",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/irfutz/article71365167.ece/alternates/LANDSCAPE_1200/End-of-an-era_-G51GDMTA7.3.jpg.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Kerala HC grants State govt 6 weeks to report on filling vacancies in Waqf Board. State informs HC that Chief Executive Officer of State Waqf Board has been directed to conduct a detailed determination of number of Shia, Sunni, Bohra, Aghakhani and other backward classes in Muslim communities to be represented for further action",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Kerala HC grants State govt 6 weeks to report on filling vacancies in Waqf Board",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T05:07:36.283047+00:00",
-      "id": "art_e64b8f3745",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "State informs HC that Chief Executive Officer of State Waqf Board has been directed.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Kerala HC grants State govt 6 weeks to report on filling vacancies in Waqf Board",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_e64b8f3745_1",
-          "summary": "Kerala HC grants State govt 6 weeks to report on filling vacancies in Waqf Board. State informs HC that Chief Executive Officer of State Waqf Board has been directed to conduct a detailed determination of number of Shia, Sunni, Bohra, Aghakhani and other backward classes in Muslim communities to be represented for further action",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/4u74ym/article71367809.ece/alternates/LANDSCAPE_1200/Kerala%20HC%20%20%20-%20R%20K%20Nithin.jpg"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-04/l495vfa_bull-markets_625x300_01_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
     }
   ]
 }

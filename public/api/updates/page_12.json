@@ -6,6 +6,578 @@
   "articles": [
     {
       "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform. The Amsterdam-headquartered company plans to \u200cissue private \u2060convertible \u2060notes worth $3 billion maturing in 2030, and notes \u200bworth $2 billion maturing in 2034.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Amsterdam-headquartered company plans to \u200cissue private \u2060convertible \u2060notes worth $3 billion maturing in.",
+            "It may also sell \u200ban additional $450 million of the 2030 notes and $300."
+          ],
+          "stanceTitle": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform",
+          "type": "directReport",
+          "sourceName": "Economic Times Tech",
+          "id": "p_art_98cd592e70_1",
+          "summary": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform. The Amsterdam-headquartered company plans to \u200cissue private \u2060convertible \u2060notes worth $3 billion maturing in 2030, and notes \u200bworth $2 billion maturing in 2034.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.529773+00:00",
+      "id": "art_98cd592e70",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133364868,imgsize-255684.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Australia secures court-enforceable child safety undertaking from Roblox. The agreement marks an incremental win for the eSafety Commissioner as \u200cit seeks \u2060to use \u2060its enforcement powers to make online platforms comply with Australia's sweeping child-safety rules, \u200bincluding a landmark ban on social media for children under 16.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The agreement marks an incremental win for the eSafety Commissioner as \u200cit seeks \u2060to.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Australia secures court-enforceable child safety undertaking from Roblox",
+          "type": "directReport",
+          "sourceName": "Economic Times Tech",
+          "id": "p_art_d4d096094d_1",
+          "summary": "Australia secures court-enforceable child safety undertaking from Roblox. The agreement marks an incremental win for the eSafety Commissioner as \u200cit seeks \u2060to use \u2060its enforcement powers to make online platforms comply with Australia's sweeping child-safety rules, \u200bincluding a landmark ban on social media for children under 16.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Australia secures court-enforceable child safety undertaking from Roblox",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.527471+00:00",
+      "id": "art_d4d096094d",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133365098,imgsize-71772.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports. The South Korean memory-chip maker \u200bwill hold a board meeting at the end of August to approve \u200ba shareholder return \u2060plan that includes \u200ca special dividend, MoneyToday \u200breported, \u200bciting unidentified people in the \u2060industry.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The South Korean memory-chip maker \u200bwill hold a board meeting at the end of.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports",
+          "type": "directReport",
+          "sourceName": "Economic Times Tech",
+          "id": "p_art_6234cd176e_1",
+          "summary": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports. The South Korean memory-chip maker \u200bwill hold a board meeting at the end of August to approve \u200ba shareholder return \u2060plan that includes \u200ca special dividend, MoneyToday \u200breported, \u200bciting unidentified people in the \u2060industry.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media repor",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.511153+00:00",
+      "id": "art_6234cd176e",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133368008,imgsize-61684.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Uber launches autonomous rides in Zagreb, its first in Europe. Currently, riders can book robotaxis \u200bin key areas in Zagreb, including the city center, \u200bwith service availability and geographic coverage expected to expand over time, the companies \u200bsaid.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Currently, riders can book robotaxis \u200bin key areas in Zagreb, including the city center,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Uber launches autonomous rides in Zagreb, its first in Europe",
+          "type": "directReport",
+          "sourceName": "Economic Times Tech",
+          "id": "p_art_bcea07be1f_1",
+          "summary": "Uber launches autonomous rides in Zagreb, its first in Europe. Currently, riders can book robotaxis \u200bin key areas in Zagreb, including the city center, \u200bwith service availability and geographic coverage expected to expand over time, the companies \u200bsaid.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.505290+00:00",
+      "id": "art_bcea07be1f",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133368451,imgsize-40184.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Citi, HSBC, StanChart adopt Ant International's forex AI tool. The Singapore-based fintech \u200bgiant rolled out its Falcon Time-Series Transformer Model \u200b2.0 and has partnered with six large banks including Citi, HSBC, Deutsche Bank, \u200bStandard Chartered, and \u2060Barclays, according \u200cto Kelvin Li, the \u200bfirm's general \u200bmanager of platform tech.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Singapore-based fintech \u200bgiant rolled out its Falcon Time-Series Transformer Model \u200b2.0 and has.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Citi, HSBC, StanChart adopt Ant International's forex AI tool",
+          "type": "directReport",
+          "sourceName": "Economic Times Tech",
+          "id": "p_art_e07b377dde_1",
+          "summary": "Citi, HSBC, StanChart adopt Ant International's forex AI tool. The Singapore-based fintech \u200bgiant rolled out its Falcon Time-Series Transformer Model \u200b2.0 and has partnered with six large banks including Citi, HSBC, Deutsche Bank, \u200bStandard Chartered, and \u2060Barclays, according \u200cto Kelvin Li, the \u200bfirm's general \u200bmanager of platform tech.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Citi, HSBC, StanChart adopt Ant International's forex AI tool",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.469737+00:00",
+      "id": "art_e07b377dde",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133368594,imgsize-104964.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Australia passes law to levy tech giants that fail to pay for local news. The levy \u200bapplies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with a \"significant\" social media or search service in Australia, and local \u200badvertising revenue exceeding A$250 million ($178 million).",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The levy \u200bapplies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with.",
+            "Platforms can \u2060avoid the \u200ccharge by reaching agreements with at least eight \u200bdifferent publishersby."
+          ],
+          "stanceTitle": "Australia passes law to levy tech giants that fail to pay for local news",
+          "type": "directReport",
+          "sourceName": "Economic Times Tech",
+          "id": "p_art_8bbca61f27_1",
+          "summary": "Australia passes law to levy tech giants that fail to pay for local news. The levy \u200bapplies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with a \"significant\" social media or search service in Australia, and local \u200badvertising revenue exceeding A$250 million ($178 million).",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.446893+00:00",
+      "id": "art_8bbca61f27",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133371548,imgsize-145504.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "ONMO+ comes with a pro controller and a three-month Essential Pass subscription for Rs. Cloud gaming services have been available in major markets like the US and Europe for a while now, but they've only become a practical reality in India in recent times.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Cloud gaming services have been available in major markets like the US and Europe.",
+            "With growing access to high-speed broadband internet and rising cost of hardware, streaming your."
+          ],
+          "stanceTitle": "ONMO+ 'Smart Console' Review: A Console-Like Cloud Gaming Experience for Casuals",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_6d69ae30f3_1",
+          "summary": "ONMO+ comes with a pro controller and a three-month Essential Pass subscription for Rs. Cloud gaming services have been available in major markets like the US and Europe for a while now, but they've only become a practical reality in India in recent times.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "ONMO+ 'Smart Console' Review: A Console-Like Cloud Gaming Experience for Casuals",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.433831+00:00",
+      "id": "art_6d69ae30f3",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/onmo_plus_box_1787142253717.png"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Google is also reportedly planning a presentation for the event. Photo Credit: Google Google is reportedly set to unveil its first Googlebook laptops later this year in New York City.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Google Google is reportedly set to unveil its first Googlebook laptops later.",
+            "The new devices are expected to run on an Android-based platform, while the event."
+          ],
+          "stanceTitle": "Google Reportedly Plans Googlebook Hardware Preview for September 15",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_c92cae3083_1",
+          "summary": "Google is also reportedly planning a presentation for the event. Photo Credit: Google Google is reportedly set to unveil its first Googlebook laptops later this year in New York City.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Google Reportedly Plans Googlebook Hardware Preview for September 15",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.420377+00:00",
+      "id": "art_c92cae3083",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/googlebook_google_1778593688137.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Google has introduced a new visual indicator for its paid AI plans across Android and the web.",
+            "With the latest update, a blue gradient ring appears around the profile picture of."
+          ],
+          "stanceTitle": "Google Brings New Account Photo Design to AI and Google One Subscribers",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_44c884453b_1",
+          "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Google Brings New Account Photo Design to AI and Google One Subscribers",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.417771+00:00",
+      "id": "art_44c884453b",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/google_dark_web_reports_1720531810071.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace.",
+            "However, the connectors missed a few basic abilities."
+          ],
+          "stanceTitle": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Connectors",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_605ce2c207_1",
+          "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Conn",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.369108+00:00",
+      "id": "art_605ce2c207",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/claude_google_workspace_connectors_main_1787207278861.png"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week.",
+            "The group followed through on its threat of leaking more alleged GTA 6 content."
+          ],
+          "stanceTitle": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_cd05e56195_1",
+          "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.353338+00:00",
+      "id": "art_cd05e56195",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/Cal_Hampton_02_1_1787209015672.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
+            "As we wait for the official launch, a new leak suggests that the iPhone."
+          ],
+          "stanceTitle": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_bd0a5201f6_1",
+          "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.343113+00:00",
+      "id": "art_bd0a5201f6",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/apple_iphone_17_pro_1787209580130.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Thousands of students and job seekers had been seeking an overhaul of the state's.",
+            "The breakthrough came after the government cancelled 22 of these exams and ordered investigations."
+          ],
+          "stanceTitle": "Protesters call off 26-day agitation over exam irregularities in Indian state",
+          "type": "directReport",
+          "sourceName": "BBC India",
+          "id": "p_art_b64523a376_1",
+          "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
+          "quoteAuthor": "",
+          "biasTag": "International Overview",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "bbc.co.uk"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.331479+00:00",
+      "id": "art_b64523a376",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/210d/live/e196e310-9c68-11f1-827b-69a6492daae1.jpg"
+    },
+    {
+      "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
@@ -311,592 +883,6 @@
       "isSinglePerspective": true,
       "commentsCount": 0,
       "heroImageUrl": "https://th-i.thgim.com/public/incoming/ioznvn/article71368167.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2012.20.41%20PM.jpeg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "India, Japan sign maritime security pact to deepen defence cooperation. Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s recent review of its defence equipment and technology transfer framework",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "India, Japan sign maritime security pact to deepen defence cooperation",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_83137bf21b_1",
-          "summary": "India, Japan sign maritime security pact to deepen defence cooperation. Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s recent review of its defence equipment and technology transfer framework",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "India, Japan sign maritime security pact to deepen defence cooperation",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.173970+00:00",
-      "id": "art_83137bf21b",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/f87frn/article71368370.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000151B.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed. Applicants list to be displayed online from the evening on August 21. Objections can be raised till the evening on August 23.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Applicants list to be displayed online from the evening on August 21.",
-            "Objections can be raised till the evening on August 23."
-          ],
-          "stanceTitle": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_edd6831782_1",
-          "summary": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed. Applicants list to be displayed online from the evening on August 21. Objections can be raised till the evening on August 23.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.154500+00:00",
-      "id": "art_edd6831782",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/cities/Hyderabad/59u1ta/article71368355.ece/alternates/LANDSCAPE_1200/Application%20status.png"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat. The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The committee was formed after Odisha Human Rights Commission directed to do so.",
-            "Villagers had alleged that relocation was forcible and their consent was manufactured"
-          ],
-          "stanceTitle": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_df89f7a89c_1",
-          "summary": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat. The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.135454+00:00",
-      "id": "art_df89f7a89c",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/euc6si/article71368330.ece/alternates/LANDSCAPE_1200/90092_4_3_2025_16_55_27_1_DAILY_LIFE_2.JPG"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Four family members died after their car plunged into a well in Telangana's Siddipet district - The victims were identified as Raju, his wife Bhagya, and their two young children Niyansh and Shanvika - The family was returning from a relative\u2019s death ceremony when the accident occurred near Appanapalli Four members of a family,.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The accident occurred near Appanapalli village in Dubbak Mandal late on Wednesday night.",
-            "The victims were identified as Raju (35), his wife Bhagya (22), their five-year-old son."
-          ],
-          "stanceTitle": "Couple, 2 Children Killed As Car Veers Off Road, Falls Into Well In Telangana",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_acb6e21630_1",
-          "summary": "- Four family members died after their car plunged into a well in Telangana's Siddipet district - The victims were identified as Raju, his wife Bhagya, and their two young children Niyansh and Shanvika - The family was returning from a relative\u2019s death ceremony when the accident occurred near Appanapalli Four members of a family,.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Couple, 2 Children Killed As Car Veers Off Road, Falls Into Well In Telangana",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.119984+00:00",
-      "id": "art_acb6e21630",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/h11ktktg_siddipet-accicdent-_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Social media creators in Bihar can earn up to Rs 1 lakh per video on government schemes - Videos with 1 lakh views in 30 days will earn creators Rs 10,000 under the new policy - The policy was approved in a cabinet meeting chaired by Chief Minister Samrat Choudhary Social media creators and.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Under the new policy, which was approved during a cabinet meeting chaired by Chief.",
-            "If a video receives one lakh views within 30 days, the creator will receive Rs 10,000."
-          ],
-          "stanceTitle": "Rs 1 Lakh For Video With A Lakh Views: Bihar's New Initiative For Influencers",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_0d7b612fdc_1",
-          "summary": "- Social media creators in Bihar can earn up to Rs 1 lakh per video on government schemes - Videos with 1 lakh views in 30 days will earn creators Rs 10,000 under the new policy - The policy was approved in a cabinet meeting chaired by Chief Minister Samrat Choudhary Social media creators and.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Rs 1 Lakh For Video With A Lakh Views: Bihar's New Initiative For Influencers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.096427+00:00",
-      "id": "art_0d7b612fdc",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/8n5263rc_social-media-influencers_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "North Korea said Wednesday that a US decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The powerful sister of North Korean leader Kim Jong Un made the comments Wednesday.",
-            "\"We think it's not worth making comments on that and we have no interest."
-          ],
-          "stanceTitle": "\"Have No Interest\": North Korea On Trump's Scaled-Back Drills With South Korea",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_91295e515d_1",
-          "summary": "North Korea said Wednesday that a US decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "\"Have No Interest\": North Korea On Trump's Scaled-Back Drills With South Korea",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.093742+00:00",
-      "id": "art_91295e515d",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/o2rec3eo_donald-trump_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- A 65-year-old woman was arrested for plotting her daughter-in-law's murder in Mumbai - She paid Rs 3 lakhs to her househelp and family to carry out the crime - The victim, Sapna Ganji, was found dead with suspicious injuries in Ghatkopar A 65-year-old woman was arrested for allegedly plotting the murder of her daughter-in-law.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The incident took place last week when the victim, Sapna Ganji, was found dead.",
-            "According to the police, the accused, identified as Dhanalakshmi Ganji, paid Rs 3 lakhs."
-          ],
-          "stanceTitle": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_ad80ccc32e_1",
-          "summary": "- A 65-year-old woman was arrested for plotting her daughter-in-law's murder in Mumbai - She paid Rs 3 lakhs to her househelp and family to carry out the crime - The victim, Sapna Ganji, was found dead with suspicious injuries in Ghatkopar A 65-year-old woman was arrested for allegedly plotting the murder of her daughter-in-law.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.063026+00:00",
-      "id": "art_ad80ccc32e",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0siel4_mumbai_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Kerala Excise seized 3.5 kg of MDMA, triggering a multi-state investigation - Eleven officers covered 15,000 km and tracked suspects across five states - Suspects used foreign WhatsApp numbers and Wi-Fi to evade mobile tracking When Kerala's Excise on April 23 seized nearly 3.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Here is the thrilling story that leads to the Nigerian national still out at large.",
-            "Shafeeq PK, 36, from Malappuram, and YouTube influencer Fathima Nasreen, 20, were arrested, but."
-          ],
-          "stanceTitle": "3 kg Drugs And A Modified Creta: Major Network Busted In Kerala",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_539bc3b12c_1",
-          "summary": "- Kerala Excise seized 3.5 kg of MDMA, triggering a multi-state investigation - Eleven officers covered 15,000 km and tracked suspects across five states - Suspects used foreign WhatsApp numbers and Wi-Fi to evade mobile tracking When Kerala's Excise on April 23 seized nearly 3.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "3 kg Drugs And A Modified Creta: Major Network Busted In Kerala",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.047113+00:00",
-      "id": "art_539bc3b12c",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/i46sn044_kerala-excise-drug-bust_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-20T10:03:46.086570+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, passes away. Sajjan Kumar was sentenced to life imprisonment by the Delhi High Court on December 17, 2018, in a case related to the murder of five Sikhs during the 1984 anti-Sikh killings",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.018176+00:00",
-      "id": "art_bcfa3ad663",
-      "title": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, passes away",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Sajjan Kumar was sentenced to life imprisonment by the Delhi High Court on December.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, passes away",
-          "type": "viewpoint1",
-          "summary": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, passes away. Sajjan Kumar was sentenced to life imprisonment by the Delhi High Court on December 17, 2018, in a case related to the murder of five Sikhs during the 1984 anti-Sikh killings",
-          "id": "p_art_bcfa3ad663_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Former Congress Leader Sajjan Kumar Dies, Was Convicted In Two 1984 Anti-Sikh Riots Cases",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Former Congress MP Sajjan Kumar, Convicted In Two 1984 Anti-Sikh Riots Cases, Dies",
-          "type": "viewpoint2",
-          "summary": "Former Congress MP Sajjan Kumar, Convicted In Two 1984 Anti-Sikh Riots Cases, Dies. Former Congress Leader Sajjan Kumar Dies, Was Convicted In Two 1984 Anti-Sikh Riots Cases",
-          "id": "p_art_bcfa3ad663_2",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2018-12/eoma68qg_sajjan-kumar-pti-650_625x300_20_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Former Congress MP Sajjan Kumar, Convicted In Two 1984 Anti-Sikh Riots Cases, Dies. Former Congress Leader Sajjan Kumar Dies, Was Convicted In Two 1984 Anti-Sikh Riots Cases",
-      "divergenceScore": 0,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Former Congress Leader Sajjan Kumar Dies, Was Convicted In Two 1984 Anti-Sikh Riots Cases",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Former Congress MP Sajjan Kumar, Convicted In Two 1984 Anti-Sikh Riots Cases, Dies",
-          "type": "viewpoint2",
-          "summary": "Former Congress MP Sajjan Kumar, Convicted In Two 1984 Anti-Sikh Riots Cases, Dies. Former Congress Leader Sajjan Kumar Dies, Was Convicted In Two 1984 Anti-Sikh Riots Cases",
-          "id": "p_art_bcfa3ad663_2",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Former Congress MP Sajjan Kumar, Convicted In Two 1984 Anti-Sikh Riots Cases, Dies",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.018176+00:00",
-      "id": "art_bcfa3ad663_split",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2018-12/eoma68qg_sajjan-kumar-pti-650_625x300_20_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- A group posing as CBI officers attempted a fake raid in Rohini, Delhi - The businessman's wife refused entry, demanding identity and a search warrant - The fake officials stayed 90 minutes, recorded by CCTV, then fled A real-life Bollywood film Special 26-style drama unfolded in Delhi's Rohini area, where a group of men.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "According to the family's complaint filed with the police, around eight to ten people.",
-            "The businessman's wife, who was present at home at the time, refused to open."
-          ],
-          "stanceTitle": "How Delhi Businessman's Wife Foiled 'Special-26'-Style Fake CBI Raid At Home",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_fd54ebc0da_1",
-          "summary": "- A group posing as CBI officers attempted a fake raid in Rohini, Delhi - The businessman's wife refused entry, demanding identity and a search warrant - The fake officials stayed 90 minutes, recorded by CCTV, then fled A real-life Bollywood film Special 26-style drama unfolded in Delhi's Rohini area, where a group of men.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "How Delhi Businessman's Wife Foiled 'Special-26'-Style Fake CBI Raid At Home",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.010547+00:00",
-      "id": "art_fd54ebc0da",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0r59gtqc_fake-cbi-raid_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "The Delhi Police Special Cell has arrested a 33-year-old man accused of smuggling illegal firearms across states and recovered 10 weapons from his possession. The accused has been identified as Prem Singh Rathod, a resident of Nepanagar in Burhanpur, Madhya Pradesh.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The accused has been identified as Prem Singh Rathod, a resident of Nepanagar in Burhanpur, Madhya Pradesh.",
-            "Police said he was arrested on August 8 after receiving information that he was."
-          ],
-          "stanceTitle": "Man With Consignment Of 10 Illegal Firearms Arrested By Delhi Police",
-          "type": "directReport",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_5839686829_1",
-          "summary": "The Delhi Police Special Cell has arrested a 33-year-old man accused of smuggling illegal firearms across states and recovered 10 weapons from his possession. The accused has been identified as Prem Singh Rathod, a resident of Nepanagar in Burhanpur, Madhya Pradesh.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Man With Consignment Of 10 Illegal Firearms Arrested By Delhi Police",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.003246+00:00",
-      "id": "art_5839686829",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2025-08/mdvof4p4_delhi-police-generic_625x300_04_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Sunny Deols film Antony is an action thriller currently filming in Mumbai and expected to finish by September - Vijay Varma plays the antagonist in Antony and has some scenes left to shoot with Sunny Deol - Antony follows Sunny Deols police officer character fighting a crime group in Goa with major action scenes.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The actor is now keeping himself busy with another important project, Antony, an upcoming.",
-            "The team began shooting in Mumbai earlier this year and is now moving closer to completion."
-          ],
-          "stanceTitle": "Vijay Varma Calls Working With Sunny Deol In Antony A Special Opportunity",
-          "type": "directReport",
-          "sourceName": "NDTV Trending News",
-          "id": "p_art_b617de2ee3_1",
-          "summary": "- Sunny Deols film Antony is an action thriller currently filming in Mumbai and expected to finish by September - Vijay Varma plays the antagonist in Antony and has some scenes left to shoot with Sunny Deol - Antony follows Sunny Deols police officer character fighting a crime group in Goa with major action scenes.",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Vijay Varma Calls Working With Sunny Deol In Antony A Special Opportunity",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:45.974004+00:00",
-      "id": "art_b617de2ee3",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/20ksisq4_sunny-deol-and-vijay-varma_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     }
   ]
 }

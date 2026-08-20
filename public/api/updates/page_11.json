@@ -13,6 +13,591 @@
       "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
+      "summary": "In today\u2019s column, I examine and bust or straighten out various misleading myths regarding the recently released AI text-oriented watermarking feature of Anthropic. The mainstream news and social media have been making zany and incorrect claims about what this particular technique of watermarking is and does.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The mainstream news and social media have been making zany and incorrect claims about.",
+            "This, in turn, has tended to create widespread confusion and undue consternation among people."
+          ],
+          "stanceTitle": "Busting Those Misleading Myths About Anthropic AI Watermarking During Proofreading Or Fixing Typos",
+          "type": "directReport",
+          "sourceName": "Forbes Business",
+          "id": "p_art_78fda35c04_1",
+          "summary": "In today\u2019s column, I examine and bust or straighten out various misleading myths regarding the recently released AI text-oriented watermarking feature of Anthropic. The mainstream news and social media have been making zany and incorrect claims about what this particular technique of watermarking is and does.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Busting Those Misleading Myths About Anthropic AI Watermarking During Proofreading Or Fixing Ty",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.884737+00:00",
+      "id": "art_78fda35c04",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8613b411e42db002ee209a/0x0.jpg?format=jpg&crop=1901,1425,x363,y0,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The US Commission on International Religious Freedom (USCIRF) chair Asif Mahmood said Prime Minister.",
+            "Mahmood's remarks came weeks ahead of RSS Chief Mohan Bhagwat's visit to the US."
+          ],
+          "stanceTitle": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Top Stories",
+          "id": "p_art_e9e3309adb_1",
+          "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+          "type": "viewpoint2",
+          "sourceName": "The Hindu National",
+          "id": "p_art_e9e3309adb_2",
+          "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.878704+00:00",
+      "id": "art_e9e3309adb",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d5tfnz/article71368120.ece/alternates/LANDSCAPE_1200/20260815313L.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+      "divergenceScore": 0,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+          "type": "viewpoint2",
+          "sourceName": "The Hindu National",
+          "id": "p_art_e9e3309adb_2",
+          "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.878704+00:00",
+      "id": "art_e9e3309adb_split",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d5tfnz/article71368120.ece/alternates/LANDSCAPE_1200/20260815313L.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Update 08/20/26: Fortnite is down for the big Season 4 update. Read on to find out when the game is set to come back online and what to expect from the new season. See more updates at the bottom of this post.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Read on to find out when the game is set to come back online and what to expect from the new season.",
+            "See more updates at the bottom of this post."
+          ],
+          "stanceTitle": "\u2018Fortnite\u2019 Servers Down: Here\u2019s When Season 4 Goes Live And What\u2019s New In \u2018Override\u2019",
+          "type": "directReport",
+          "sourceName": "Forbes Business",
+          "id": "p_art_f1a1442d6e_1",
+          "summary": "Update 08/20/26: Fortnite is down for the big Season 4 update. Read on to find out when the game is set to come back online and what to expect from the new season. See more updates at the bottom of this post.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "\u2018Fortnite\u2019 Servers Down: Here\u2019s When Season 4 Goes Live And What\u2019s New In \u2018Override\u2019",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.871418+00:00",
+      "id": "art_f1a1442d6e",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a860a1b5f4c65467d678bc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "7 things you should always keep in your car. For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "7 things you should always keep in your car",
+          "type": "directReport",
+          "sourceName": "MarketWatch Top Stories",
+          "id": "p_art_5f44b02d6f_1",
+          "summary": "7 things you should always keep in your car. For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "7 things you should always keep in your car",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.862603+00:00",
+      "id": "art_5f44b02d6f",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-91856917"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "More SpaceX stock is about to hit the market. About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "More SpaceX stock is about to hit the market. Here\u2019s what to know.",
+          "type": "directReport",
+          "sourceName": "MarketWatch Top Stories",
+          "id": "p_art_5adb62c220_1",
+          "summary": "More SpaceX stock is about to hit the market. About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "More SpaceX stock is about to hit the market. Here\u2019s what to know.",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.847205+00:00",
+      "id": "art_5adb62c220",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-80723995"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million. Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Decades ago, the property was used as the headquarters of an LSD operation run.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
+          "type": "directReport",
+          "sourceName": "MarketWatch Top Stories",
+          "id": "p_art_77a8a61255_1",
+          "summary": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million. Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.811152+00:00",
+      "id": "art_77a8a61255",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-28792592"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">We live in a world of distraction. In the time it took me to write this sentence, I got a new email alert on my computer, two new DMs, and an alert on my phone that my Duolingo streak is in jeopardy.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "In the time it took me to write this sentence, I got a new.",
+            "With all of this outside interference, how in the world do you manage to."
+          ],
+          "stanceTitle": "How to get your attention span back",
+          "type": "directReport",
+          "sourceName": "Fast Company",
+          "id": "p_art_430949fc44_1",
+          "summary": "<p class=\"wp-block-paragraph\">We live in a world of distraction. In the time it took me to write this sentence, I got a new email alert on my computer, two new DMs, and an alert on my phone that my Duolingo streak is in jeopardy.",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "How to get your attention span back",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.793347+00:00",
+      "id": "art_430949fc44",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91590493-Work-Life-How-to-get-your-attention-span-back.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">Bank of America has announced a unique change to its <a href=\"https://www.fastcompany.com/section/hybrid-work\">hybrid work policy</a>: it will <a href=\"https://www.hrdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/828003/\">prohibit employees from working remotely on consecutive days</a>.</p> <p class=\"wp-block-paragraph\">Starting on September 14, Bank of America staff in hybrid roles will still have two remote days each week, but they can\u2019t be back-to-back.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The decision is intended to promote collaboration and optimize the usage of the bank\u2019s.",
+            "Most of Bank of America\u2019s client-facing employees, such as those working at financial centers."
+          ],
+          "stanceTitle": "Why do companies care which days you work from home?",
+          "type": "directReport",
+          "sourceName": "Fast Company",
+          "id": "p_art_748fe2a36a_1",
+          "summary": "<p class=\"wp-block-paragraph\">Bank of America has announced a unique change to its <a href=\"https://www.fastcompany.com/section/hybrid-work\">hybrid work policy</a>: it will <a href=\"https://www.hrdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/828003/\">prohibit employees from working remotely on consecutive days</a>.</p> <p class=\"wp-block-paragraph\">Starting on September 14, Bank of America staff in hybrid roles will still have two remote days each week, but they can\u2019t be back-to-back.",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Why do companies care which days you work from home?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.787704+00:00",
+      "id": "art_748fe2a36a",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592352-why-do-companies-care-which-days-you-work-from-home.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">Perimenopause and menopause, normal transitions that impact people who menstruate as hormone levels begin to fall off, might be more disruptive to the work lives of those experiencing symptoms than previously thought.</p> <p class=\"wp-block-paragraph\">Perimenopause and menopause often come with a variety of symptoms, like hot flashes, anxiety, sleep disruptions, and brain fog.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "And, unfortunately, they don&#8217;t only show up after work hours\u2014giving people who experience them.",
+            "Respondents said that the most difficult parts of their jobs included things that required."
+          ],
+          "stanceTitle": "Perimenopause, menopause symptoms may cost employees nearly 35 workdays a year",
+          "type": "directReport",
+          "sourceName": "Fast Company",
+          "id": "p_art_2843ba0b63_1",
+          "summary": "<p class=\"wp-block-paragraph\">Perimenopause and menopause, normal transitions that impact people who menstruate as hormone levels begin to fall off, might be more disruptive to the work lives of those experiencing symptoms than previously thought.</p> <p class=\"wp-block-paragraph\">Perimenopause and menopause often come with a variety of symptoms, like hot flashes, anxiety, sleep disruptions, and brain fog.",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Perimenopause, menopause symptoms may cost employees nearly 35 workdays a year",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.783727+00:00",
+      "id": "art_2843ba0b63",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91591907-perimenopause-symptoms-cost-women-35-work-days-a-year.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">Why are some people better at getting promoted than others? In an ideal world, the answer would be merit, which is basically a mix of talent and hard work.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "In an ideal world, the answer would be merit, which is basically a mix of talent and hard work.",
+            "This simple but rare combination would result in higher levels of performance that would."
+          ],
+          "stanceTitle": "5 underrated career strategies for getting promoted",
+          "type": "directReport",
+          "sourceName": "Fast Company",
+          "id": "p_art_fceb775072_1",
+          "summary": "<p class=\"wp-block-paragraph\">Why are some people better at getting promoted than others? In an ideal world, the answer would be merit, which is basically a mix of talent and hard work.",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "5 underrated career strategies for getting promoted",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.777974+00:00",
+      "id": "art_fceb775072",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91586421-5-underrated-promotion-strategies.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Consumers are getting fed up with AI slop found on online marketplaces, and companies are beginning to take note. About a year ago, online 3D model marketplace CGTrader introduced the ability for designers to upload AI-generated assets for purchase on the platform, in addition to the digital models they rendered themselves.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "About a year ago, online 3D model marketplace CGTrader introduced the ability for designers.",
+            "The site has more than two million 3D models for sale, which serve as."
+          ],
+          "stanceTitle": "\u2018Buyers aren\u2019t yet opening their wallets\u2019: AI-generated assets are flooding marketplaces, but consumers are snubbing the",
+          "type": "directReport",
+          "sourceName": "Fortune",
+          "id": "p_art_46dc2ad0d5_1",
+          "summary": "Consumers are getting fed up with AI slop found on online marketplaces, and companies are beginning to take note. About a year ago, online 3D model marketplace CGTrader introduced the ability for designers to upload AI-generated assets for purchase on the platform, in addition to the digital models they rendered themselves.",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "\u2018Buyers aren\u2019t yet opening their wallets\u2019: AI-generated assets are flooding marketplaces, but c",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.759028+00:00",
+      "id": "art_46dc2ad0d5",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289238743.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "It\u2019s no secret teachers in the U.S. Despite putting in far more work hours than other adults each week, teachers in many states make less than the U.S. median salary of about $64,220. So one philanthropist decided to do something about it.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Despite putting in far more work hours than other adults each week, teachers in.",
+            "median salary of about $64,220."
+          ],
+          "stanceTitle": "Teachers in one of San Francisco\u2019s richest suburbs are so underpaid that a philanthropist just gave each of them $9,161",
+          "type": "directReport",
+          "sourceName": "Fortune",
+          "id": "p_art_9538941506_1",
+          "summary": "It\u2019s no secret teachers in the U.S. Despite putting in far more work hours than other adults each week, teachers in many states make less than the U.S. median salary of about $64,220. So one philanthropist decided to do something about it.",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Teachers in one of San Francisco\u2019s richest suburbs are so underpaid that a philanthropist just ",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.710449+00:00",
+      "id": "art_9538941506",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1732864155-e1787162150931.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
       "summary": "Everyone agrees that someone is calling the shots on a corporate AI strategy. It\u2019s just that a lot of executives aren\u2019t clear on who that is.",
       "likesCount": 0,
       "perspectives": [
@@ -311,578 +896,6 @@
       "isSinglePerspective": true,
       "commentsCount": 0,
       "heroImageUrl": "https://img.etimg.com/thumb/msid-133370676,width-1200,height-900,overlay-economictimes/news/economy/infrastructure/attention-is-paid-to-flood-bridge-design-vaishnaw-on-bihar-nepal-highway-infrastructure-plan.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform. The Amsterdam-headquartered company plans to \u200cissue private \u2060convertible \u2060notes worth $3 billion maturing in 2030, and notes \u200bworth $2 billion maturing in 2034.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Amsterdam-headquartered company plans to \u200cissue private \u2060convertible \u2060notes worth $3 billion maturing in.",
-            "It may also sell \u200ban additional $450 million of the 2030 notes and $300."
-          ],
-          "stanceTitle": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_98cd592e70_1",
-          "summary": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform. The Amsterdam-headquartered company plans to \u200cissue private \u2060convertible \u2060notes worth $3 billion maturing in 2030, and notes \u200bworth $2 billion maturing in 2034.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.529773+00:00",
-      "id": "art_98cd592e70",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133364868,imgsize-255684.cms"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Australia secures court-enforceable child safety undertaking from Roblox. The agreement marks an incremental win for the eSafety Commissioner as \u200cit seeks \u2060to use \u2060its enforcement powers to make online platforms comply with Australia's sweeping child-safety rules, \u200bincluding a landmark ban on social media for children under 16.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The agreement marks an incremental win for the eSafety Commissioner as \u200cit seeks \u2060to.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Australia secures court-enforceable child safety undertaking from Roblox",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_d4d096094d_1",
-          "summary": "Australia secures court-enforceable child safety undertaking from Roblox. The agreement marks an incremental win for the eSafety Commissioner as \u200cit seeks \u2060to use \u2060its enforcement powers to make online platforms comply with Australia's sweeping child-safety rules, \u200bincluding a landmark ban on social media for children under 16.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Australia secures court-enforceable child safety undertaking from Roblox",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.527471+00:00",
-      "id": "art_d4d096094d",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133365098,imgsize-71772.cms"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports. The South Korean memory-chip maker \u200bwill hold a board meeting at the end of August to approve \u200ba shareholder return \u2060plan that includes \u200ca special dividend, MoneyToday \u200breported, \u200bciting unidentified people in the \u2060industry.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The South Korean memory-chip maker \u200bwill hold a board meeting at the end of.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_6234cd176e_1",
-          "summary": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports. The South Korean memory-chip maker \u200bwill hold a board meeting at the end of August to approve \u200ba shareholder return \u2060plan that includes \u200ca special dividend, MoneyToday \u200breported, \u200bciting unidentified people in the \u2060industry.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media repor",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.511153+00:00",
-      "id": "art_6234cd176e",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133368008,imgsize-61684.cms"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Uber launches autonomous rides in Zagreb, its first in Europe. Currently, riders can book robotaxis \u200bin key areas in Zagreb, including the city center, \u200bwith service availability and geographic coverage expected to expand over time, the companies \u200bsaid.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Currently, riders can book robotaxis \u200bin key areas in Zagreb, including the city center,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Uber launches autonomous rides in Zagreb, its first in Europe",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_bcea07be1f_1",
-          "summary": "Uber launches autonomous rides in Zagreb, its first in Europe. Currently, riders can book robotaxis \u200bin key areas in Zagreb, including the city center, \u200bwith service availability and geographic coverage expected to expand over time, the companies \u200bsaid.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.505290+00:00",
-      "id": "art_bcea07be1f",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133368451,imgsize-40184.cms"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Citi, HSBC, StanChart adopt Ant International's forex AI tool. The Singapore-based fintech \u200bgiant rolled out its Falcon Time-Series Transformer Model \u200b2.0 and has partnered with six large banks including Citi, HSBC, Deutsche Bank, \u200bStandard Chartered, and \u2060Barclays, according \u200cto Kelvin Li, the \u200bfirm's general \u200bmanager of platform tech.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Singapore-based fintech \u200bgiant rolled out its Falcon Time-Series Transformer Model \u200b2.0 and has.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Citi, HSBC, StanChart adopt Ant International's forex AI tool",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_e07b377dde_1",
-          "summary": "Citi, HSBC, StanChart adopt Ant International's forex AI tool. The Singapore-based fintech \u200bgiant rolled out its Falcon Time-Series Transformer Model \u200b2.0 and has partnered with six large banks including Citi, HSBC, Deutsche Bank, \u200bStandard Chartered, and \u2060Barclays, according \u200cto Kelvin Li, the \u200bfirm's general \u200bmanager of platform tech.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Citi, HSBC, StanChart adopt Ant International's forex AI tool",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.469737+00:00",
-      "id": "art_e07b377dde",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133368594,imgsize-104964.cms"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Australia passes law to levy tech giants that fail to pay for local news. The levy \u200bapplies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with a \"significant\" social media or search service in Australia, and local \u200badvertising revenue exceeding A$250 million ($178 million).",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The levy \u200bapplies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with.",
-            "Platforms can \u2060avoid the \u200ccharge by reaching agreements with at least eight \u200bdifferent publishersby."
-          ],
-          "stanceTitle": "Australia passes law to levy tech giants that fail to pay for local news",
-          "type": "directReport",
-          "sourceName": "Economic Times Tech",
-          "id": "p_art_8bbca61f27_1",
-          "summary": "Australia passes law to levy tech giants that fail to pay for local news. The levy \u200bapplies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with a \"significant\" social media or search service in Australia, and local \u200badvertising revenue exceeding A$250 million ($178 million).",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Australia passes law to levy tech giants that fail to pay for local news",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.446893+00:00",
-      "id": "art_8bbca61f27",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133371548,imgsize-145504.cms"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "ONMO+ comes with a pro controller and a three-month Essential Pass subscription for Rs. Cloud gaming services have been available in major markets like the US and Europe for a while now, but they've only become a practical reality in India in recent times.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Cloud gaming services have been available in major markets like the US and Europe.",
-            "With growing access to high-speed broadband internet and rising cost of hardware, streaming your."
-          ],
-          "stanceTitle": "ONMO+ 'Smart Console' Review: A Console-Like Cloud Gaming Experience for Casuals",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_6d69ae30f3_1",
-          "summary": "ONMO+ comes with a pro controller and a three-month Essential Pass subscription for Rs. Cloud gaming services have been available in major markets like the US and Europe for a while now, but they've only become a practical reality in India in recent times.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "ONMO+ 'Smart Console' Review: A Console-Like Cloud Gaming Experience for Casuals",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.433831+00:00",
-      "id": "art_6d69ae30f3",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/onmo_plus_box_1787142253717.png"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Google is also reportedly planning a presentation for the event. Photo Credit: Google Google is reportedly set to unveil its first Googlebook laptops later this year in New York City.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Google Google is reportedly set to unveil its first Googlebook laptops later.",
-            "The new devices are expected to run on an Android-based platform, while the event."
-          ],
-          "stanceTitle": "Google Reportedly Plans Googlebook Hardware Preview for September 15",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_c92cae3083_1",
-          "summary": "Google is also reportedly planning a presentation for the event. Photo Credit: Google Google is reportedly set to unveil its first Googlebook laptops later this year in New York City.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Google Reportedly Plans Googlebook Hardware Preview for September 15",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.420377+00:00",
-      "id": "art_c92cae3083",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/googlebook_google_1778593688137.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Google has introduced a new visual indicator for its paid AI plans across Android and the web.",
-            "With the latest update, a blue gradient ring appears around the profile picture of."
-          ],
-          "stanceTitle": "Google Brings New Account Photo Design to AI and Google One Subscribers",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_44c884453b_1",
-          "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Google Brings New Account Photo Design to AI and Google One Subscribers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.417771+00:00",
-      "id": "art_44c884453b",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/google_dark_web_reports_1720531810071.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace.",
-            "However, the connectors missed a few basic abilities."
-          ],
-          "stanceTitle": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Connectors",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_605ce2c207_1",
-          "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Conn",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.369108+00:00",
-      "id": "art_605ce2c207",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/claude_google_workspace_connectors_main_1787207278861.png"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week.",
-            "The group followed through on its threat of leaking more alleged GTA 6 content."
-          ],
-          "stanceTitle": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_cd05e56195_1",
-          "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.353338+00:00",
-      "id": "art_cd05e56195",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/Cal_Hampton_02_1_1787209015672.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
-            "As we wait for the official launch, a new leak suggests that the iPhone."
-          ],
-          "stanceTitle": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_bd0a5201f6_1",
-          "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.343113+00:00",
-      "id": "art_bd0a5201f6",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/apple_iphone_17_pro_1787209580130.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Thousands of students and job seekers had been seeking an overhaul of the state's.",
-            "The breakthrough came after the government cancelled 22 of these exams and ordered investigations."
-          ],
-          "stanceTitle": "Protesters call off 26-day agitation over exam irregularities in Indian state",
-          "type": "directReport",
-          "sourceName": "BBC India",
-          "id": "p_art_b64523a376_1",
-          "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
-          "quoteAuthor": "",
-          "biasTag": "International Overview",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.331479+00:00",
-      "id": "art_b64523a376",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/210d/live/e196e310-9c68-11f1-827b-69a6492daae1.jpg"
     }
   ]
 }

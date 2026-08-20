@@ -5,49 +5,263 @@
   "has_more": true,
   "articles": [
     {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of.",
+            "The Indian won the second game 21-15 after losing the first game 11-21."
+          ],
+          "stanceTitle": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
+          "type": "viewpoint1",
+          "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
+          "id": "p_art_3dc0445dd0_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals",
+          "type": "viewpoint2",
+          "summary": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals. Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
+          "id": "p_art_3dc0445dd0_2",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:50.359994+00:00",
+      "id": "art_3dc0445dd0",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/5sc2v9p8_pv-sindhu_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "How sex sheds evolutionary baggage. Why is there sex\u2014or, more precisely, sexual reproduction? If you're an evolutionary biologist, the answer isn't obvious. Sexual reproduction is biologically costly, requiring not only competition for mates but also the creation of entire populations in which only half the individuals can give birth.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Why is there sex\u2014or, more precisely, sexual reproduction?",
+            "If you're an evolutionary biologist, the answer isn't obvious."
+          ],
+          "stanceTitle": "How sex sheds evolutionary baggage",
+          "type": "directReport",
+          "summary": "How sex sheds evolutionary baggage. Why is there sex\u2014or, more precisely, sexual reproduction? If you're an evolutionary biologist, the answer isn't obvious. Sexual reproduction is biologically costly, requiring not only competition for mates but also the creation of entire populations in which only half the individuals can give birth.",
+          "id": "p_art_8f5e2e5a7f_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.920636+00:00",
+      "id": "art_8f5e2e5a7f",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "How sex sheds evolutionary baggage",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-mating.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows. Traders under 30 accounted for 43% of the trader base in FY26, while 73% have annual incomes below Rs 5 lakh.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Traders under 30 accounted for 43% of the trader base in FY26, while 73% have annual incomes below Rs 5 lakh.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows",
+          "type": "directReport",
+          "summary": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows. Traders under 30 accounted for 43% of the trader base in FY26, while 73% have annual incomes below Rs 5 lakh.",
+          "id": "p_art_a34caed8a7_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.908773+00:00",
+      "id": "art_a34caed8a7",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Show",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/m8005a0s_trade_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab. The initiative expands on Micron's earlier $250 billion investment in US manufacturing and R&D.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The initiative expands on Micron's earlier $250 billion investment in US manufacturing and R&D.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab",
+          "type": "directReport",
+          "summary": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab. The initiative expands on Micron's earlier $250 billion investment in US manufacturing and R&D.",
+          "id": "p_art_36a0619bcb_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.902004+00:00",
+      "id": "art_36a0619bcb",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-06/kgg7qf84_b_625x300_25_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue. US Treasury Secretary Scott Bessent said buybacks of Treasury securities could be more than $4 billion per issue.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "US Treasury Secretary Scott Bessent said buybacks of Treasury securities could be more than.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue",
+          "type": "directReport",
+          "summary": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue. US Treasury Secretary Scott Bessent said buybacks of Treasury securities could be more than $4 billion per issue.",
+          "id": "p_art_eaa67e374b_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.895230+00:00",
+      "id": "art_eaa67e374b",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cmad1mus_scott_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.. Treasury Secretary Scott Bessent has made waves this week with his plan to at least double his department\u2019s buybacks of longer-dated Treasury bonds.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:40.991739+00:00",
-      "id": "art_28488eaa91",
       "perspectives": [
         {
           "keyPoints": [
-            "</p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens,.",
-            "But over the last 24 hours, things have finally begun to turn around.</p> <p."
+            "Bessent\u2019s plan has analysts on edge..",
+            "Treasury Secretary Scott Bessent has made waves this week with his plan to at."
           ],
-          "stanceTitle": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
-          "type": "viewpoint1",
-          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-          "id": "p_art_28488eaa91_1",
-          "sourceName": "Fast Company",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        },
-        {
-          "keyPoints": [
-            "After months of slumber, digital currencies are waking up, with bitcoin and ethereum shooting.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
-          "type": "viewpoint2",
-          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-          "id": "p_art_28488eaa91_2",
+          "stanceTitle": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.",
+          "type": "directReport",
+          "summary": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.. Treasury Secretary Scott Bessent has made waves this week with his plan to at least double his department\u2019s buybacks of longer-dated Treasury bonds.",
+          "id": "p_art_4393095037_1",
           "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
           "biasTag": "Market Analysis",
@@ -57,41 +271,542 @@
           "sourceDomain": "marketwatch.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.892819+00:00",
+      "id": "art_4393095037",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "videoUrl": "",
+      "title": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on",
       "commentsCount": 0,
-      "isSinglePerspective": false,
+      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-28575996"
+      "heroImageUrl": "https://images.mktw.net/im-14260609"
     },
     {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">Colossal Biosciences claims to have <a href=\"https://www.fastcompany.com/91313213/dire-wolves-pups-romulus-remus-extinction-resurrected-colossal-biosciences\" rel=\"noreferrer noopener\" target=\"_blank\">brought back the dire wolf</a>, and is now hard at work on its quest to resurrect several other species, including the woolly mammoth and the moa, a giant extinct bird.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "While that\u2019s happening, the company is also pursuing a quieter, more near-term ambition: incubating.",
+            "The first was Form Bio, which <a href=\"https://www.businesswire.com/news/home/20220927005221/en/Colossal-Biosciences-Spins-Out-Form-Bio-to-Revolutionize-Computational-Life-Sciences\" rel=\"noreferrer noopener\" target=\"_blank\">has raised tens of."
+          ],
+          "stanceTitle": "How Colossal is incubating an empire of startups",
+          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\">Colossal Biosciences claims to have <a href=\"https://www.fastcompany.com/91313213/dire-wolves-pups-romulus-remus-extinction-resurrected-colossal-biosciences\" rel=\"noreferrer noopener\" target=\"_blank\">brought back the dire wolf</a>, and is now hard at work on its quest to resurrect several other species, including the woolly mammoth and the moa, a giant extinct bird.",
+          "id": "p_art_b61e69f3f9_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.879114+00:00",
+      "id": "art_b61e69f3f9",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "How Colossal is incubating an empire of startups",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592688-how-colossal-is-incubating-an-empire-of-startups.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Over four decades, Steve Hanke has pursued a worldwide quest to tame the hyperinflation that so frequently ravages developing nations. His solution: tying their currencies to the U.S.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "His solution: tying their currencies to the U.S.",
+            "dollar so their governments are no longer free to unleash an avalanche of pesos."
+          ],
+          "stanceTitle": "Exclusive: Venezuela, sick with hyperinflation, engages the \u2018money doctor\u2019 Steve Hanke for a dose of dollarization medic",
+          "type": "directReport",
+          "summary": "Over four decades, Steve Hanke has pursued a worldwide quest to tame the hyperinflation that so frequently ravages developing nations. His solution: tying their currencies to the U.S.",
+          "id": "p_art_e881a21abb_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.874952+00:00",
+      "id": "art_e881a21abb",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Exclusive: Venezuela, sick with hyperinflation, engages the \u2018money doctor\u2019 Steve Hanke for a do",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/hanke-e1787235949718.jpg?resize=1200,600"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra Average bidder participation fell from 13 to 10 during FY26 as larger package sizes and higher net worth requirements favoured developers with stronger financial profiles Listen to This Article Competition intensity in Hybrid Annuity Model (HAM) projects is showing the first signs of reduction.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\u201cIn FY26, particularly in the fourth quarter, newer HAM projects that were awarded had.",
+            "He added newer projects had higher bid costs, leading to the participation of developers."
+          ],
+          "stanceTitle": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra",
+          "type": "directReport",
+          "summary": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra Average bidder participation fell from 13 to 10 during FY26 as larger package sizes and higher net worth requirements favoured developers with stronger financial profiles Listen to This Article Competition intensity in Hybrid Annuity Model (HAM) projects is showing the first signs of reduction.",
+          "id": "p_art_e31f58a83f_1",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.834890+00:00",
+      "id": "art_e31f58a83f",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/10/thumb/fitandfill/1200X628/1783626412-7531.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised. It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
+          "type": "directReport",
+          "summary": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised. It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+          "id": "p_art_88a9618e17_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "engadget.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.829019+00:00",
+      "id": "art_88a9618e17",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.engadget.com/img/gallery/teslas-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/l-intro-1787240908.jpg"
+    },
+    {
+      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "The founder of Evergrande, one of China\u2019s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with a net worth of $42.5bn (\u00a331.2bn) in 2017, pleaded guilty in April to eight charges.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death. For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s death closes one chapter in a 42-year wait for justice; some expressed relief, others felt he had escaped the ultimate punishment for his crimes",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.957416+00:00",
-      "id": "art_24d52d0697",
       "perspectives": [
         {
           "keyPoints": [
-            "Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with.",
-            "These included misuse of funds, fundraising fraud, illegally taking public deposits, illegally extending loans,."
+            "For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
+          "stanceTitle": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death",
           "type": "directReport",
-          "summary": "The founder of Evergrande, one of China\u2019s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with a net worth of $42.5bn (\u00a331.2bn) in 2017, pleaded guilty in April to eight charges.",
-          "id": "p_art_24d52d0697_1",
+          "summary": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death. For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s death closes one chapter in a 42-year wait for justice; some expressed relief, others felt he had escaped the ultimate punishment for his crimes",
+          "id": "p_art_daccb63922_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.813974+00:00",
+      "id": "art_daccb63922",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ouhkwu/article71369533.ece/alternates/LANDSCAPE_1200/sajjan-kumar_GOGOBFFPI5T.3.jpg.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "envoy Sergio Gor arrives in Ladakh; no high-profile meetings held. Officials said there is uncertainty over Mr. Gor meeting the Dalai Lama, who is currently staying in Leh",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Officials said there is uncertainty over Mr.",
+            "Gor meeting the Dalai Lama, who is currently staying in Leh"
+          ],
+          "stanceTitle": "U.S. envoy Sergio Gor arrives in Ladakh; no high-profile meetings held",
+          "type": "directReport",
+          "summary": "envoy Sergio Gor arrives in Ladakh; no high-profile meetings held. Officials said there is uncertainty over Mr. Gor meeting the Dalai Lama, who is currently staying in Leh",
+          "id": "p_art_36347bb5af_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.811602+00:00",
+      "id": "art_36347bb5af",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "U.S. envoy Sergio Gor arrives in Ladakh; no high-profile meetings held",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/staavj/article71369540.ece/alternates/LANDSCAPE_1200/20260820266L_uOkjub3.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019. Notices will be served to 23.45 lakh people who could not find their own or their parents\u2019 details in the 2002 electoral roll",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Notices will be served to 23.45 lakh people who could not find their own.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019",
+          "type": "directReport",
+          "summary": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019. Notices will be served to 23.45 lakh people who could not find their own or their parents\u2019 details in the 2002 electoral roll",
+          "id": "p_art_aa35d460a3_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.800860+00:00",
+      "id": "art_aa35d460a3",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepa",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9udyna/article71369320.ece/alternates/LANDSCAPE_1200/_DSC4655.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- Assam and Meghalaya chief ministers agreed to jointly restore peace after Shillong violence - Ministers from both states will meet to discuss ways to normalise relations and build trust - Violence followed a rally in Shillong, with damage to vehicles and public property reported Assam and Meghalaya have stepped up efforts to contain tensions.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sangma said he spoke to Sarma over the violence that erupted in Meghalaya's capital.",
+            "In a post on X, Sangma said the two chief ministers had agreed to."
+          ],
+          "stanceTitle": "Assam, Meghalaya Chief Ministers Join Hands To Defuse Tension After Shillong Violence",
+          "type": "directReport",
+          "summary": "- Assam and Meghalaya chief ministers agreed to jointly restore peace after Shillong violence - Ministers from both states will meet to discuss ways to normalise relations and build trust - Violence followed a rally in Shillong, with damage to vehicles and public property reported Assam and Meghalaya have stepped up efforts to contain tensions.",
+          "id": "p_art_474b832d5b_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.787241+00:00",
+      "id": "art_474b832d5b",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Assam, Meghalaya Chief Ministers Join Hands To Defuse Tension After Shillong Violence",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ha66idug_sangma-and-conrad_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Manav Suthar Shares Details Of His Practice After Demolishing Sri Lanka In 1st Test Manav Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as India defeated Sri Lanka by 165 runs in the opening Test on Wednesday.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- IANS - Updated: August 20, 2026 04:14 pm IST India's young left-arm spinner.",
+            "Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as."
+          ],
+          "stanceTitle": "Manav Suthar Shares Details Of His Practice After Demolishing SL In 1st Test",
+          "type": "directReport",
+          "summary": "Manav Suthar Shares Details Of His Practice After Demolishing Sri Lanka In 1st Test Manav Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as India defeated Sri Lanka by 165 runs in the opening Test on Wednesday.",
+          "id": "p_art_a97db9a67e_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.783970+00:00",
+      "id": "art_a97db9a67e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Manav Suthar Shares Details Of His Practice After Demolishing SL In 1st Test",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/uc9lbcpg_manav-suthar-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- A 50-year-old woman died in a lift accident in Andhra Pradesh's Prakasam district - The elevator moved down while its doors were open, trapping the woman inside - She was trapped while exiting the lift and suffered severe injuries A 50-year-old woman died in a freak lift accident on Sunday at a residential tower.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The victim was identified as Vanitha, who died later while undergoing the treatment.",
+            "According to reports, she had entered the lift along with her daughter and grandson."
+          ],
+          "stanceTitle": "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
+          "type": "directReport",
+          "summary": "- A 50-year-old woman died in a lift accident in Andhra Pradesh's Prakasam district - The elevator moved down while its doors were open, trapping the woman inside - She was trapped while exiting the lift and suffered severe injuries A 50-year-old woman died in a freak lift accident on Sunday at a residential tower.",
+          "id": "p_art_76363dbd55_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.760901+00:00",
+      "id": "art_76363dbd55",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/bvqt9olc_andhra-woman-trapped-in-lift_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- PTI - Updated: August 20, 2026 05:25 pm IST - India mixed disability.",
+            "Riding on Arjun Gawre's 68 off 44 balls and captain Majid Magray's unbeaten 63."
+          ],
+          "stanceTitle": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
+          "type": "viewpoint1",
+          "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
+          "id": "p_art_856301bbee_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "India needed to avoid defeat to seal a place in the second round of the Hockey World Cup.",
+            "They did the job with much struggle."
+          ],
+          "stanceTitle": "Hockey WC Live: Goals Disallowed, India Survive Scare vs England To Advance",
+          "type": "viewpoint2",
+          "summary": "India vs England Highlights, Women's Hockey World Cup 2026: Indian defended with their lives to thwart the English attack and eked out a 0-0 draw in their final Pool D match of the FIH Women's Hockey World Cup 2026 in Amstelveen, Netherlands.",
+          "id": "p_art_856301bbee_2",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.714701+00:00",
+      "id": "art_856301bbee",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/l8uh4q38_sourav-ganguly_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The deportees arrived at the Roberts international airport outside Monrovia.",
+            "The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s."
+          ],
+          "stanceTitle": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+          "type": "viewpoint1",
+          "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
+          "id": "p_art_1eaa4f58ca_1",
           "sourceName": "The Guardian World",
           "quoteAuthor": "",
           "biasTag": "Progressive International",
@@ -99,175 +814,121 @@
           "quote": "",
           "sourceCredibility": 94,
           "sourceDomain": "theguardian.com"
+        },
+        {
+          "keyPoints": [
+            "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+          "type": "viewpoint2",
+          "summary": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS. Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+          "id": "p_art_1eaa4f58ca_2",
+          "sourceName": "UA.NEWS",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ua.news"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.679951+00:00",
+      "id": "art_1eaa4f58ca",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac49f1fd6c0ac5e76f54b2df69486a41"
+      "heroImageUrl": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f25a8263193c86b4c6189eb9188aee52"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "A China Strategy That Lasts",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.937915+00:00",
-      "id": "art_6496579834",
       "perspectives": [
         {
           "keyPoints": [
-            "It has done so by integrating national security, economic security, energy policy, and environmental policy.",
-            "In sectors as varied as automobiles, chemicals, and solar panels, the Chinese government\u2019s policies."
+            "Bangkok said the talks focused on ways to enhance security cooperation on the nations'.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "A China Strategy That Lasts",
-          "type": "directReport",
-          "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
-          "id": "p_art_6496579834_1",
-          "sourceName": "Foreign Affairs",
+          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
+          "type": "viewpoint1",
+          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
+          "id": "p_art_964f8e40a5_1",
+          "sourceName": "The Hindu World",
           "quoteAuthor": "",
-          "biasTag": "Global Order & Statecraft",
+          "biasTag": "Institutional Diplomacy",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 97,
-          "sourceDomain": "foreignaffairs.com"
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
+        },
+        {
+          "keyPoints": [
+            "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
+          "type": "viewpoint2",
+          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
+          "id": "p_art_964f8e40a5_2",
+          "sourceName": "ucanews.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ucanews.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.678022+00:00",
+      "id": "art_964f8e40a5",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
+      "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/18/2025-10-21T071723Z_2041563590_RC2MFHA25KIA_RTRMADP_3_CHINA-ECONOMY.JPG?itok=kynd26aF"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/nyya9t/article71370502.ece/alternates/LANDSCAPE_1200/AFP_C63C9KB.jpg"
     },
     {
-      "tags": [
-        "Automotive & Energy",
-        "Verified News",
-        "Trending"
-      ],
       "videoDuration": "02:45",
-      "summary": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time With up to 1,917 lb-ft of torque, two transmissions, and fully independent axles, the Tatra Force e-Drive BEV sounds like a beast. - Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.931969+00:00",
-      "id": "art_e824d75f53",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "- Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
-            "- The Force e-Drive BEV is an 8x8 work truck with four-axle independent suspension."
-          ],
-          "stanceTitle": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
-          "type": "directReport",
-          "summary": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time With up to 1,917 lb-ft of torque, two transmissions, and fully independent axles, the Tatra Force e-Drive BEV sounds like a beast. - Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
-          "id": "p_art_e824d75f53_1",
-          "sourceName": "InsideEVs",
-          "quoteAuthor": "",
-          "biasTag": "EV Technology & Battery",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "insideevs.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Automotive & Energy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://cdn.motor1.com/images/mgl/koK30B/s1/tatra-force-e-drive-8x8-bev.jpg"
-    },
-    {
-      "tags": [
-        "Automotive & Energy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers The Chinese-made Zeekr vans are fitted with Waymo\u2019s sixth-generation hardware and software suite. - Waymo is now offering paid rides in its new Ojai autonomous vans. - The Zeekr-made electric robotaxis are available for all riders in three U.S.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.911214+00:00",
-      "id": "art_e4f68584ee",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "- Waymo is now offering paid rides in its new Ojai autonomous vans.",
-            "- The Zeekr-made electric robotaxis are available for all riders in three U.S."
-          ],
-          "stanceTitle": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers",
-          "type": "directReport",
-          "summary": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers The Chinese-made Zeekr vans are fitted with Waymo\u2019s sixth-generation hardware and software suite. - Waymo is now offering paid rides in its new Ojai autonomous vans. - The Zeekr-made electric robotaxis are available for all riders in three U.S.",
-          "id": "p_art_e4f68584ee_1",
-          "sourceName": "InsideEVs",
-          "quoteAuthor": "",
-          "biasTag": "EV Technology & Battery",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "insideevs.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Automotive & Energy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://cdn.motor1.com/images/mgl/Ak3obO/s1/waymo-ojai.jpg"
-    },
-    {
       "tags": [
         "Space & Science",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Are We Thinking Correctly About AI Intelligence? Introduction When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning?",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Are We Thinking Correctly About AI Intelligence?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.901166+00:00",
-      "id": "art_222afe762c",
       "perspectives": [
         {
           "keyPoints": [
-            "Introduction When an LLM answers a question, is it reasoning like humans, or just.",
-            "The distinction isn\u2019t just philosophical, this determines what we can trust AI to do,."
+            "Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+            "Many lines of research align with the theory that aging is a direct result."
           ],
-          "stanceTitle": "Are We Thinking Correctly About AI Intelligence?",
-          "type": "directReport",
-          "summary": "Are We Thinking Correctly About AI Intelligence? Introduction When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning?",
-          "id": "p_art_222afe762c_1",
+          "stanceTitle": "Why Aging May Be a Program, Not a Breakdown",
+          "type": "viewpoint1",
+          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+          "id": "p_art_d1f8cf7c6f_1",
           "sourceName": "Quanta Magazine",
           "quoteAuthor": "",
           "biasTag": "Mathematics & Fundamental Physics",
@@ -275,631 +936,38 @@
           "quote": "",
           "sourceCredibility": 98,
           "sourceDomain": "quantamagazine.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Dark energy and quantum gravity may be deeply intertwined. For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Dark energy and quantum gravity may be deeply intertwined",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.870366+00:00",
-      "id": "art_285d4bc32a",
-      "perspectives": [
+        },
         {
           "keyPoints": [
-            "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics.",
-            "Known as quantum gravity, this goal has remained frustratingly out of reach so far."
-          ],
-          "stanceTitle": "Dark energy and quantum gravity may be deeply intertwined",
-          "type": "directReport",
-          "summary": "Dark energy and quantum gravity may be deeply intertwined. For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far.",
-          "id": "p_art_285d4bc32a_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gravity.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Drought stress in trees: What to expect and what to do. Recurring and prolonged periods of drought are worsening worldwide, triggering a dangerous chain reaction for trees, according to a forest health expert at North Carolina State University.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Drought stress in trees: What to expect and what to do",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.865752+00:00",
-      "id": "art_df8cb4562b",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Recurring and prolonged periods of drought are worsening worldwide, triggering a dangerous chain reaction.",
+            "Mental health of older adults - World Health Organization (WHO)",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Drought stress in trees: What to expect and what to do",
-          "type": "directReport",
-          "summary": "Drought stress in trees: What to expect and what to do. Recurring and prolonged periods of drought are worsening worldwide, triggering a dangerous chain reaction for trees, according to a forest health expert at North Carolina State University.",
-          "id": "p_art_df8cb4562b_1",
-          "sourceName": "Phys.org",
+          "stanceTitle": "Mental health of older adults - World Health Organization (WHO)",
+          "type": "viewpoint2",
+          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+          "id": "p_art_d1f8cf7c6f_2",
+          "sourceName": "World Health Organization (WHO)",
           "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
+          "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
+          "sourceCredibility": 92,
+          "sourceDomain": "who.int"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.664575+00:00",
+      "id": "art_d1f8cf7c6f",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Space & Science",
-      "videoUrl": "",
+      "title": "Why Aging May Be a Program, Not a Breakdown",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tree-yellow-leaves.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Changing wage benefits highlight need to align skills and jobs. Adelaide University research shows that while higher education (HE) in Australia continues to deliver a substantial wage premium, education, skills and labor-market policy need to align more closely.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Changing wage benefits highlight need to align skills and jobs",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.842953+00:00",
-      "id": "art_a142068251",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Adelaide University research shows that while higher education (HE) in Australia continues to deliver.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Changing wage benefits highlight need to align skills and jobs",
-          "type": "directReport",
-          "summary": "Changing wage benefits highlight need to align skills and jobs. Adelaide University research shows that while higher education (HE) in Australia continues to deliver a substantial wage premium, education, skills and labor-market policy need to align more closely.",
-          "id": "p_art_a142068251_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-wage-benefits.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Snake bones with flint cuts show Mount Carmel settlers ate reptiles 15,000 years ago. Around 15,000 years ago, the way of life of human communities in the southern Levant underwent a fundamental change. Groups of hunter-gatherers, who until then had been nomadic, reduced their mobility and established small, permanent settlements for the first time.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Snake bones with flint cuts show Mount Carmel settlers ate reptiles 15,000 years ago",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.831321+00:00",
-      "id": "art_a4bfaf1dbb",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Around 15,000 years ago, the way of life of human communities in the southern.",
-            "Groups of hunter-gatherers, who until then had been nomadic, reduced their mobility and established."
-          ],
-          "stanceTitle": "Snake bones with flint cuts show Mount Carmel settlers ate reptiles 15,000 years ago",
-          "type": "directReport",
-          "summary": "Snake bones with flint cuts show Mount Carmel settlers ate reptiles 15,000 years ago. Around 15,000 years ago, the way of life of human communities in the southern Levant underwent a fundamental change. Groups of hunter-gatherers, who until then had been nomadic, reduced their mobility and established small, permanent settlements for the first time.",
-          "id": "p_art_a4bfaf1dbb_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/prehistoric-snake-hunt.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "RNA droplets may have helped start life on Earth. It's one of the origins-of-life chicken-or-egg problems: How could RNA have helped give rise to the first cells before there were cells to contain it?",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "RNA droplets may have helped start life on Earth",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.801417+00:00",
-      "id": "art_2c75b24b6b",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "It's one of the origins-of-life chicken-or-egg problems: How could RNA have helped give rise.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "RNA droplets may have helped start life on Earth",
-          "type": "directReport",
-          "summary": "RNA droplets may have helped start life on Earth. It's one of the origins-of-life chicken-or-egg problems: How could RNA have helped give rise to the first cells before there were cells to contain it?",
-          "id": "p_art_2c75b24b6b_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/rna.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Uncovering the evolution of Edo-period Japanese ceramic jars with AI. Archaeological artifacts offer valuable insights into the history of past societies. They reveal not only technological developments but also the changing economic systems, cultural traditions and everyday practices of the people who lived at the time.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Uncovering the evolution of Edo-period Japanese ceramic jars with AI",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.778678+00:00",
-      "id": "art_405cfc6f87",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Archaeological artifacts offer valuable insights into the history of past societies.",
-            "They reveal not only technological developments but also the changing economic systems, cultural traditions."
-          ],
-          "stanceTitle": "Uncovering the evolution of Edo-period Japanese ceramic jars with AI",
-          "type": "directReport",
-          "summary": "Uncovering the evolution of Edo-period Japanese ceramic jars with AI. Archaeological artifacts offer valuable insights into the history of past societies. They reveal not only technological developments but also the changing economic systems, cultural traditions and everyday practices of the people who lived at the time.",
-          "id": "p_art_405cfc6f87_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/uncovering-the-evoluti.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Ocean time travelers return with secrets of the Great Barrier Reef. A team of Australian researchers has woven together modern science and Indigenous knowledge to reveal new insights into the evolution, history and future of the southern Great Barrier Reef.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Ocean time travelers return with secrets of the Great Barrier Reef",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.770709+00:00",
-      "id": "art_cccd11b4a0",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A team of Australian researchers has woven together modern science and Indigenous knowledge to.",
-            "The 24-day voyage, led by The University of Queensland, returned to Brisbane today aboard."
-          ],
-          "stanceTitle": "Ocean time travelers return with secrets of the Great Barrier Reef",
-          "type": "directReport",
-          "summary": "Ocean time travelers return with secrets of the Great Barrier Reef. A team of Australian researchers has woven together modern science and Indigenous knowledge to reveal new insights into the evolution, history and future of the southern Great Barrier Reef.",
-          "id": "p_art_cccd11b4a0_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-time-travellers.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "ALMA uncovers sulfur for the first time around a rare class of supergiant star. Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.723405+00:00",
-      "id": "art_6b99061ccc",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive.",
-            "The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant."
-          ],
-          "stanceTitle": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-          "type": "directReport",
-          "summary": "ALMA uncovers sulfur for the first time around a rare class of supergiant star. Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-          "id": "p_art_6b99061ccc_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Researchers gain access to crucial deliberations on deep-sea mining. As competition between the United States and China intensifies over critical minerals, pressure is mounting to begin exploitation of deep-sea minerals before a code to regulate mining of the seabed in areas beyond national jurisdiction is agreed to.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Researchers gain access to crucial deliberations on deep-sea mining",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.720314+00:00",
-      "id": "art_93cb47da56",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "As competition between the United States and China intensifies over critical minerals, pressure is.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Researchers gain access to crucial deliberations on deep-sea mining",
-          "type": "directReport",
-          "summary": "Researchers gain access to crucial deliberations on deep-sea mining. As competition between the United States and China intensifies over critical minerals, pressure is mounting to begin exploitation of deep-sea minerals before a code to regulate mining of the seabed in areas beyond national jurisdiction is agreed to.",
-          "id": "p_art_93cb47da56_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-sea-mining.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Clubbing may boost well-being for women in midlife. An online survey published in the journal Psychology of Music asked 136 women ages 40 and older about their experiences at electronic dance music (EDM) events.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Clubbing may boost well-being for women in midlife",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.718760+00:00",
-      "id": "art_c823678144",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "An online survey published in the journal Psychology of Music asked 136 women ages.",
-            "Nine in 10 respondents (91%) said clubbing contributes positively to their well-being, with more."
-          ],
-          "stanceTitle": "Clubbing may boost well-being for women in midlife",
-          "type": "directReport",
-          "summary": "Clubbing may boost well-being for women in midlife. An online survey published in the journal Psychology of Music asked 136 women ages 40 and older about their experiences at electronic dance music (EDM) events.",
-          "id": "p_art_c823678144_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/clubbing-boosts-well-b.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn. Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the resulting surface warming can offset 6% to 20% of the climate benefit they are credited with.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.713544+00:00",
-      "id": "art_7d3bc087ac",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the.",
-            "Canada's current carbon accounting frameworks measure the carbon stored but largely omit the heat."
-          ],
-          "stanceTitle": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn",
-          "type": "directReport",
-          "summary": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn. Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the resulting surface warming can offset 6% to 20% of the climate benefit they are credited with.",
-          "id": "p_art_7d3bc087ac_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2015/borealforest.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest. A new study from Murdoch University has found that Environmental, Social and Governance (ESG) downgrades trigger significantly larger share price losses when they come as a surprise to optimistic investors.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors t",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.684375+00:00",
-      "id": "art_977dbdde30",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new study from Murdoch University has found that Environmental, Social and Governance (ESG).",
-            "The findings are published in the journal International Review of Economics &amp; Finance."
-          ],
-          "stanceTitle": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest",
-          "type": "directReport",
-          "summary": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest. A new study from Murdoch University has found that Environmental, Social and Governance (ESG) downgrades trigger significantly larger share price losses when they come as a surprise to optimistic investors.",
-          "id": "p_art_977dbdde30_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/investor.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Children prefer fair punishment to unequal treatment, study finds. Consistent enforcement of rules is more important than the severity of the punishment itself, and children expect adults to treat every member of their group impartially and equally.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Children prefer fair punishment to unequal treatment, study finds",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.639725+00:00",
-      "id": "art_09d647af64",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Consistent enforcement of rules is more important than the severity of the punishment itself,.",
-            "Moreover, fair punishment brings emotional relief to children, according to research by scientists from."
-          ],
-          "stanceTitle": "Children prefer fair punishment to unequal treatment, study finds",
-          "type": "directReport",
-          "summary": "Children prefer fair punishment to unequal treatment, study finds. Consistent enforcement of rules is more important than the severity of the punishment itself, and children expect adults to treat every member of their group impartially and equally.",
-          "id": "p_art_09d647af64_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-looking-at-bo.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Reform UK proposes tax rebates for firms to boost apprenticeships - Published Young apprentices should have part of their wages paid by taxpayers, according to Reform UK plans, external aimed at delivering a \"skills revolution\".",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.629297+00:00",
-      "id": "art_9f16edfa4e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The party's education spokeswoman Suella Braverman said a Reform government would introduce an \"apprenticeship.",
-            "She also advised students receiving their GCSE exam results on Thursday \"not to get."
-          ],
-          "stanceTitle": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-          "type": "directReport",
-          "summary": "Reform UK proposes tax rebates for firms to boost apprenticeships - Published Young apprentices should have part of their wages paid by taxpayers, according to Reform UK plans, external aimed at delivering a \"skills revolution\".",
-          "id": "p_art_9f16edfa4e_1",
-          "sourceName": "BBC Business",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b45/live/3ff3d920-9c9d-11f1-aed2-8d6da8d75094.jpg"
+      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/cropped-Junyue-Cao-cr-Karan-Dias-Social.jpg"
     }
   ]
 }

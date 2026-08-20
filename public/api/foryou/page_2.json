@@ -5,32 +5,819 @@
   "has_more": true,
   "articles": [
     {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Global sand dunes map reveals clues to distant worlds, including Mars. A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A new study from Monash University has delivered the most complete and accurate digital.",
+            "The research, published in Nature Communications, answers long-standing questions about why dunes form where."
+          ],
+          "stanceTitle": "Global sand dunes map reveals clues to distant worlds, including Mars",
+          "type": "viewpoint1",
+          "summary": "Global sand dunes map reveals clues to distant worlds, including Mars. A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date.",
+          "id": "p_art_34c62082d7_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
+          "type": "viewpoint2",
+          "summary": "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune. World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
+          "id": "p_art_34c62082d7_2",
+          "sourceName": "The National Tribune",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "nationaltribune.com.au"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.652351+00:00",
+      "id": "art_34c62082d7",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Global sand dunes map reveals clues to distant worlds, including Mars",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/world-first-global-san-1.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Welcome back to our series on interstellar travel!",
+            "In our first installment, we examined attempts to realize nuclear propulsion and how the."
+          ],
+          "stanceTitle": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
+          "type": "viewpoint1",
+          "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
+          "id": "p_art_0909d3d8bd_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails - Universe Today",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails - Universe Today",
+          "type": "viewpoint2",
+          "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
+          "id": "p_art_0909d3d8bd_2",
+          "sourceName": "Universe Today",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "universetoday.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.618266+00:00",
+      "id": "art_0909d3d8bd",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/interstellar-travel-iv.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize. When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "When people shop for a home, they tend to focus on the information listings.",
+            "Rarely do listings show how a home can shape a household's carbon footprint through energy use and commuting."
+          ],
+          "stanceTitle": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
+          "type": "viewpoint1",
+          "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize. When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location.",
+          "id": "p_art_e71025bbfe_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
+          "type": "viewpoint2",
+          "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation. Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
+          "id": "p_art_e71025bbfe_2",
+          "sourceName": "The Conversation",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theconversation.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.593699+00:00",
+      "id": "art_e71025bbfe",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/homebuyers-are-choosin.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires. Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Firefighters have been battling a vast wildfire in the hills above Blaenavon in south.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires",
+          "type": "viewpoint1",
+          "summary": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires. Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks.",
+          "id": "p_art_554a6a08e1_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
+          "type": "viewpoint2",
+          "summary": "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation. Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
+          "id": "p_art_554a6a08e1_2",
+          "sourceName": "The Conversation",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theconversation.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.584333+00:00",
+      "id": "art_554a6a08e1",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2020/wildfire.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban. Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022, nearly 250,000 public comments flooded in\u2014a record response that led the Biden administration to delay a final decision.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban",
+          "type": "viewpoint1",
+          "summary": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban. Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022, nearly 250,000 public comments flooded in\u2014a record response that led the Biden administration to delay a final decision.",
+          "id": "p_art_1b6bc5165e_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au",
+          "type": "viewpoint2",
+          "summary": "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au. \u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au",
+          "id": "p_art_1b6bc5165e_2",
+          "sourceName": "SMH.com.au",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "smh.com.au"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.574063+00:00",
+      "id": "art_1b6bc5165e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/menthol-cigarette-ban.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The first wave of bird flu is the worst: What can Australia learn from overseas?. Hundreds of dead birds are now being reported as the lethal H5N1 strain of bird flu begins to spread across Australia. Government reports show the virus is circulating in resident birds.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Hundreds of dead birds are now being reported as the lethal H5N1 strain of.",
+            "Government reports show the virus is circulating in resident birds."
+          ],
+          "stanceTitle": "The first wave of bird flu is the worst: What can Australia learn from overseas?",
+          "type": "viewpoint1",
+          "summary": "The first wave of bird flu is the worst: What can Australia learn from overseas?. Hundreds of dead birds are now being reported as the lethal H5N1 strain of bird flu begins to spread across Australia. Government reports show the virus is circulating in resident birds.",
+          "id": "p_art_039d73983c_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
+          "type": "viewpoint2",
+          "summary": "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation. The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
+          "id": "p_art_039d73983c_2",
+          "sourceName": "The Conversation",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theconversation.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.567918+00:00",
+      "id": "art_039d73983c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "The first wave of bird flu is the worst: What can Australia learn from overseas?",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-sea-bird.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A new Northwestern Medicine study has uncovered key molecular design principles that could help.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Designing supramolecular therapies to cross the blood-brain barrier",
+          "type": "viewpoint1",
+          "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
+          "id": "p_art_ec25cdc688_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Novel Stem Cell Platform Improves Study of Endometriosis - EIN News",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Novel Stem Cell Platform Improves Study of Endometriosis - EIN News",
+          "type": "viewpoint2",
+          "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
+          "id": "p_art_ec25cdc688_2",
+          "sourceName": "EIN News",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "einnews.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.562629+00:00",
+      "id": "art_ec25cdc688",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Designing supramolecular therapies to cross the blood-brain barrier",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/human-brain.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed.",
+            "These wounds, which may persist for months or even years, affect about 1% to."
+          ],
+          "stanceTitle": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
+          "type": "viewpoint1",
+          "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
+          "id": "p_art_b85323c844_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -",
+          "type": "viewpoint2",
+          "summary": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers. Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers",
+          "id": "p_art_b85323c844_2",
+          "sourceName": "Frontiers",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "frontiersin.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.522851+00:00",
+      "id": "art_b85323c844",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/wound-dressing.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The candela, the international unit of light in use for almost a century, forms the basis of photometry.",
+            "According to a new study, measurements derived from it systematically misjudge the brightness of."
+          ],
+          "stanceTitle": "Illuminating the limits of the international unit of light, the candela",
+          "type": "viewpoint1",
+          "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
+          "id": "p_art_bbf104e9ed_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Ligh",
+          "type": "viewpoint2",
+          "summary": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com. Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com",
+          "id": "p_art_bbf104e9ed_2",
+          "sourceName": "Newswire.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "newswire.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.487241+00:00",
+      "id": "art_bbf104e9ed",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Illuminating the limits of the international unit of light, the candela",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-the-brightne.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium.",
+            "Understanding selenium metabolism relies on accurately detecting and identifying selenosugars."
+          ],
+          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism",
+          "type": "viewpoint1",
+          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+          "id": "p_art_d9dc0b6bf0_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
+          "type": "viewpoint2",
+          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+          "id": "p_art_d9dc0b6bf0_2",
+          "sourceName": "EurekAlert!",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "eurekalert.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.485581+00:00",
+      "id": "art_d9dc0b6bf0",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "International review standardizes selenosugar nomenclature and selenium metabolism",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-review-s.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The most prominent difference between human male and female skeletons is the pelvis, which.",
+            "Scientists have long believed the human pelvis evolved mainly as a compromise between walking."
+          ],
+          "stanceTitle": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
+          "type": "viewpoint1",
+          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+          "id": "p_art_beb82278a6_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
+          "type": "viewpoint2",
+          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+          "id": "p_art_beb82278a6_2",
+          "sourceName": "JNS.org",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "jns.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.482136+00:00",
+      "id": "art_beb82278a6",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and biped",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthal-reconstruc.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Accurately determining fish body size and weight is essential for fisheries resource management and.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+          "type": "viewpoint1",
+          "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+          "id": "p_art_53d85cadb4_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+          "type": "viewpoint2",
+          "summary": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp. 3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+          "id": "p_art_53d85cadb4_2",
+          "sourceName": "tsukuba.ac.jp",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "tsukuba.ac.jp"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.480156+00:00",
+      "id": "art_53d85cadb4",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-imaging-and-machine.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "What happened in the first moments of the universe\u2014before the building blocks of life.",
+            "Physicists at the CERN research facility in Switzerland are trying to answer this question."
+          ],
+          "stanceTitle": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+          "type": "viewpoint1",
+          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+          "id": "p_art_96361b83b9_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
+          "type": "viewpoint2",
+          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+          "id": "p_art_96361b83b9_2",
+          "sourceName": "Scientific Frontline",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "sflorg.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.457696+00:00",
+      "id": "art_96361b83b9",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-l.jpg"
+    },
+    {
+      "videoDuration": "02:45",
       "tags": [
         "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Danone \u20ac1bn takeover of Huel approved by watchdog - Published Danone's takeover of the British meal supplement maker Huel has been cleared by the competition watchdog. The Competition and Markets Authority (CMA) has given the \u20ac1bn (\u00a3864m) deal the green light following a review.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Danone \u20ac1bn takeover of Huel approved by watchdog",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.624753+00:00",
-      "id": "art_f5d31bdf88",
       "perspectives": [
         {
           "keyPoints": [
-            "The Competition and Markets Authority (CMA) has given the \u20ac1bn (\u00a3864m) deal the green.",
-            "Huel, based in Hertfordshire, was founded by Julian Hearn in 2015 to provide nutritionally."
+            "Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury.",
+            "A spokesperson for the company said the decision had been made at the conclusion."
           ],
-          "stanceTitle": "Danone \u20ac1bn takeover of Huel approved by watchdog",
-          "type": "directReport",
-          "summary": "Danone \u20ac1bn takeover of Huel approved by watchdog - Published Danone's takeover of the British meal supplement maker Huel has been cleared by the competition watchdog. The Competition and Markets Authority (CMA) has given the \u20ac1bn (\u00a3864m) deal the green light following a review.",
-          "id": "p_art_f5d31bdf88_1",
+          "stanceTitle": "Bernard Matthews confirms closure of Derby factory",
+          "type": "viewpoint1",
+          "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
+          "id": "p_art_6ce8859930_1",
           "sourceName": "BBC Business",
           "quoteAuthor": "",
           "biasTag": "Balanced Global Reporting",
@@ -38,43 +825,60 @@
           "quote": "",
           "sourceCredibility": 95,
           "sourceDomain": "bbc.co.uk"
+        },
+        {
+          "keyPoints": [
+            "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+          "type": "viewpoint2",
+          "summary": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live. Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+          "id": "p_art_6ce8859930_2",
+          "sourceName": "Derbyshire Live",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "derbytelegraph.co.uk"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.420165+00:00",
+      "id": "art_6ce8859930",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "videoUrl": "",
+      "title": "Bernard Matthews confirms closure of Derby factory",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/460d/live/b579d640-9c7a-11f1-8413-79a38c9f8909.jpg"
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
         "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term. The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of tins for edible oil.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.583231+00:00",
-      "id": "art_1fb521fe06",
       "perspectives": [
         {
           "keyPoints": [
-            "The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of.",
+            "Kotak is acting as the broker for the deal, while the sellers will be.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term",
-          "type": "directReport",
-          "summary": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term. The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of tins for edible oil.",
-          "id": "p_art_1fb521fe06_1",
+          "stanceTitle": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+          "type": "viewpoint1",
+          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+          "id": "p_art_4f2ee9b2a1_1",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -82,43 +886,60 @@
           "quote": "",
           "sourceCredibility": 92,
           "sourceDomain": "ndtvprofit.com"
+        },
+        {
+          "keyPoints": [
+            "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
+          "type": "viewpoint2",
+          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+          "id": "p_art_4f2ee9b2a1_2",
+          "sourceName": "bestmediainfo.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "bestmediainfo.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.392083+00:00",
+      "id": "art_4f2ee9b2a1",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "videoUrl": "",
+      "title": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/g2jmvhds_tukaram-mundhe_625x300_03_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-01/bc0cf9b6_amagi.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
         "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost. Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively, while Dow Jones Industrial Average dipped 0.22% to $53,413",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "One-Day Blip? Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback B",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.576227+00:00",
-      "id": "art_124107a7de",
       "perspectives": [
         {
           "keyPoints": [
-            "Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively,.",
+            "Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "One-Day Blip? Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost",
-          "type": "directReport",
-          "summary": "Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost. Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively, while Dow Jones Industrial Average dipped 0.22% to $53,413",
-          "id": "p_art_124107a7de_1",
+          "stanceTitle": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6",
+          "type": "viewpoint1",
+          "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+          "id": "p_art_acd164422b_1",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -126,43 +947,60 @@
           "quote": "",
           "sourceCredibility": 92,
           "sourceDomain": "ndtvprofit.com"
+        },
+        {
+          "keyPoints": [
+            "NITI Aayog: Early Vocational & Employability Skills in Schools - Rediff MoneyWiz",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "NITI Aayog: Early Vocational & Employability Skills in Schools - Rediff MoneyWiz",
+          "type": "viewpoint2",
+          "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+          "id": "p_art_acd164422b_2",
+          "sourceName": "Rediff MoneyWiz",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "money.rediff.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.310924+00:00",
+      "id": "art_acd164422b",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "videoUrl": "",
+      "title": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-05/9asflnt4_x_625x300_29_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lrshe16o_bb_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
         "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay. Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More. Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.567505+00:00",
-      "id": "art_d7d62a240a",
       "perspectives": [
         {
           "keyPoints": [
-            "Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay.",
-            "Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027."
+            "Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay",
-          "type": "directReport",
-          "summary": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay. Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027.",
-          "id": "p_art_d7d62a240a_1",
+          "stanceTitle": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More",
+          "type": "viewpoint1",
+          "summary": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More. Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+          "id": "p_art_37f05dcfb2_1",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -170,719 +1008,221 @@
           "quote": "",
           "sourceCredibility": 92,
           "sourceDomain": "ndtvprofit.com"
+        },
+        {
+          "keyPoints": [
+            "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+          "type": "viewpoint2",
+          "summary": "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV. Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+          "id": "p_art_37f05dcfb2_2",
+          "sourceName": "NDTV",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.298059+00:00",
+      "id": "art_37f05dcfb2",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "videoUrl": "",
+      "title": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-06/vj31o1nc_apple-iphone_625x300_10_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
         "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields. Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN network.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "India eases rupee invoicing rules for exporters under Foreign Trade Policy. The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative to conventional foreign-currency settlements in international trade",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.553318+00:00",
-      "id": "art_d438ce4d91",
       "perspectives": [
         {
           "keyPoints": [
-            "Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN.",
+            "The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields",
-          "type": "directReport",
-          "summary": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields. Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN network.",
-          "id": "p_art_d438ce4d91_1",
-          "sourceName": "NDTV Profit",
+          "stanceTitle": "India eases rupee invoicing rules for exporters under Foreign Trade Policy",
+          "type": "viewpoint1",
+          "summary": "India eases rupee invoicing rules for exporters under Foreign Trade Policy. The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative to conventional foreign-currency settlements in international trade",
+          "id": "p_art_28c7e900f5_1",
+          "sourceName": "The Hindu Business Line",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
+          "biasTag": "Public Interest & Fiscal Balance",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "thehindubusinessline.com"
+        },
+        {
+          "keyPoints": [
+            "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+          "type": "viewpoint2",
+          "summary": "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters. India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+          "id": "p_art_28c7e900f5_2",
+          "sourceName": "Reuters",
+          "quoteAuthor": "",
+          "biasTag": "Global Wire",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 98,
+          "sourceDomain": "reuters.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.295076+00:00",
+      "id": "art_28c7e900f5",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "videoUrl": "",
+      "title": "India eases rupee invoicing rules for exporters under Foreign Trade Policy",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-02/d9qqon5g_railtel_625x300_02_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen. The hijacking comes amid a rise in attempted attacks on vessels in the Gulf of Aden, raising fresh concerns over maritime security.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender. On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll on hypothetical matchups in the 2028 presidential election.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.532597+00:00",
-      "id": "art_ff260c75c7",
       "perspectives": [
         {
           "keyPoints": [
-            "The hijacking comes amid a rise in attempted attacks on vessels in the Gulf.",
+            "On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen",
-          "type": "directReport",
-          "summary": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen. The hijacking comes amid a rise in attempted attacks on vessels in the Gulf of Aden, raising fresh concerns over maritime security.",
-          "id": "p_art_ff260c75c7_1",
-          "sourceName": "NDTV Profit",
+          "stanceTitle": "Ossoff, Buttigieg, Or AOC? New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender",
+          "type": "viewpoint1",
+          "summary": "New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender. On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll on hypothetical matchups in the 2028 presidential election.",
+          "id": "p_art_df4b987fef_1",
+          "sourceName": "Forbes Business",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot T",
+          "type": "viewpoint2",
+          "summary": "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot Tests - - Emerson Polling. August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot Tests - - Emerson Polling",
+          "id": "p_art_df4b987fef_2",
+          "sourceName": "- Emerson Polling",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceDomain": "emersoncollegepolling.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
+      "readTimeMinutes": 2,
       "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.283792+00:00",
+      "id": "art_df4b987fef",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Ossoff, Buttigieg, Or AOC? New Poll Reveals Which Democrat Is The Top 2028 Presidential Contend",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-05/0k7775m8_strait-of-hormuz_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore. Production of the Tiago, Tigor, Nexon and Sierra models had been affected due to the floods.",
-      "divergenceScore": 0,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "A hacker known as \u201cCyberLeek\u201d has been spilling the secrets of Rockstar\u2019s GTA VI, one of the most eagerly anticipated games of all time. The hacking group (or possibly individual) has released multiple clips of GTA VI footage, a world map and a few unconfirmed gameplay details.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.504206+00:00",
-      "id": "art_da1760588a",
       "perspectives": [
         {
           "keyPoints": [
-            "Production of the Tiago, Tigor, Nexon and Sierra models had been affected due to the floods.",
+            "The hacking group (or possibly individual) has released multiple clips of GTA VI footage,.",
+            "Many of the clips have since been taken down by copyright strikes."
+          ],
+          "stanceTitle": "The \u2018GTA VI\u2019 Leak Controversy, Explained",
+          "type": "viewpoint1",
+          "summary": "A hacker known as \u201cCyberLeek\u201d has been spilling the secrets of Rockstar\u2019s GTA VI, one of the most eagerly anticipated games of all time. The hacking group (or possibly individual) has released multiple clips of GTA VI footage, a world map and a few unconfirmed gameplay details.",
+          "id": "p_art_ecfedb0945_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore",
-          "type": "directReport",
-          "summary": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore. Production of the Tiago, Tigor, Nexon and Sierra models had been affected due to the floods.",
-          "id": "p_art_da1760588a_1",
-          "sourceName": "NDTV Profit",
+          "stanceTitle": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of Indi",
+          "type": "viewpoint2",
+          "summary": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of India. GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of India",
+          "id": "p_art_ecfedb0945_2",
+          "sourceName": "Times of India",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
+          "biasTag": "Mainstream National",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "timesofindia.indiatimes.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-02/irahtpv8_tata-motors_625x300_06_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge. AI-linked investment gains drove strong S&P 500 earnings as Alphabet and Amazon reported major paper profits.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.488192+00:00",
-      "id": "art_886d782a71",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "AI Stocks Drive 52% S&P 500 Earnings Surge.",
-            "AI-linked investment gains drove strong S&P 500 earnings as Alphabet and Amazon reported major paper profits."
-          ],
-          "stanceTitle": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge",
-          "type": "directReport",
-          "summary": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge. AI-linked investment gains drove strong S&P 500 earnings as Alphabet and Amazon reported major paper profits.",
-          "id": "p_art_886d782a71_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
       "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/50g5kt9k_ai-markets_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update. Louis Cardinals quickly re-signed a 30-year-old outfielder after a cut pushed him out of affiliated baseball.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.281844+00:00",
+      "id": "art_ecfedb0945",
       "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.476183+00:00",
-      "id": "art_768ae7a13f",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Louis Cardinals quickly re-signed a 30-year-old outfielder after a cut pushed him out of affiliated baseball.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update",
-          "type": "directReport",
-          "summary": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update. Louis Cardinals quickly re-signed a 30-year-old outfielder after a cut pushed him out of affiliated baseball.",
-          "id": "p_art_768ae7a13f_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "videoUrl": "",
+      "title": "The \u2018GTA VI\u2019 Leak Controversy, Explained",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a864187eca3bd4ef069874f/0x0.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past. Amazon Prime Air is aiming for drone delivery to be available in 500 U.S. cities by the end of 2026 but even as it expands its service rivals threaten to fly even higher.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.468565+00:00",
-      "id": "art_9f4d65270e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Amazon Prime Air is aiming for drone delivery to be available in 500 U.S.",
-            "cities by the end of 2026 but even as it expands its service rivals threaten to fly even higher."
-          ],
-          "stanceTitle": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past",
-          "type": "directReport",
-          "summary": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past. Amazon Prime Air is aiming for drone delivery to be available in 500 U.S. cities by the end of 2026 but even as it expands its service rivals threaten to fly even higher.",
-          "id": "p_art_9f4d65270e_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86e450c390991cf913e291/0x0.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?. Liverpool has been linked with PSG winger Bradley Barcola with the start of the 2026/27 Premier League season approaching.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.411687+00:00",
-      "id": "art_20bcfe87ef",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Liverpool has been linked with PSG winger Bradley Barcola with the start of the.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?",
-          "type": "directReport",
-          "summary": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?. Liverpool has been linked with PSG winger Bradley Barcola with the start of the 2026/27 Premier League season approaching.",
-          "id": "p_art_20bcfe87ef_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86e8cd8e782e29e3340946/0x0.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish. Bruno Mars debuts \"Lo Arriesgo Todo\" \u2014 the Spanish-language version of \"Risk It All\" \u2014 inside the top 10 on multiple charts in the U.K.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.388386+00:00",
-      "id": "art_ec139ce471",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Bruno Mars debuts \"Lo Arriesgo Todo\" \u2014 the Spanish-language version of \"Risk It All\".",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish",
-          "type": "directReport",
-          "summary": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish. Bruno Mars debuts \"Lo Arriesgo Todo\" \u2014 the Spanish-language version of \"Risk It All\" \u2014 inside the top 10 on multiple charts in the U.K.",
-          "id": "p_art_ec139ce471_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a11a230b7f455ed602b3f5d/0x0.jpg?width=960&precrop=2321%2C1306%2Cx0%2Cy200"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits. The policy switch could be a major boon for small businesses hoping to compete against the likes of Boeing and Raytheon, says the U.S.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.376451+00:00",
-      "id": "art_eba41d9ae2",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The policy switch could be a major boon for small businesses hoping to compete.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits",
-          "type": "directReport",
-          "summary": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits. The policy switch could be a major boon for small businesses hoping to compete against the likes of Boeing and Raytheon, says the U.S.",
-          "id": "p_art_eba41d9ae2_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a67b5920c0660be226d17ed/0x0.jpg?width=960"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Indiana Pacers Partner With DAZN As New Streaming Home For Games. The Indiana Pacers have a new broadcast partner to stream their games as they have inked a five-year deal with DAZN.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Indiana Pacers Partner With DAZN As New Streaming Home For Games",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.328522+00:00",
-      "id": "art_a747f738c5",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Indiana Pacers have a new broadcast partner to stream their games as they.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Indiana Pacers Partner With DAZN As New Streaming Home For Games",
-          "type": "directReport",
-          "summary": "Indiana Pacers Partner With DAZN As New Streaming Home For Games. The Indiana Pacers have a new broadcast partner to stream their games as they have inked a five-year deal with DAZN.",
-          "id": "p_art_a747f738c5_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86a87f1684fc1d6a7413bf/0x0.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic. A new women\u2019s apparel collection marks the latest step in the nearly century-old brand\u2019s evolution from footwear player to head-to-toe golf outfitter.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.285609+00:00",
-      "id": "art_a154ca65d6",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new women\u2019s apparel collection marks the latest step in the nearly century-old brand\u2019s.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic",
-          "type": "directReport",
-          "summary": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic. A new women\u2019s apparel collection marks the latest step in the nearly century-old brand\u2019s evolution from footwear player to head-to-toe golf outfitter.",
-          "id": "p_art_a154ca65d6_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86f3fa957c8c5b6d8f59a5/0x0.jpg?width=960"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "When Transparency Creates Risk: How Public Records Can Become Target Lists. Public records support transparency, but when data links people to homes, wealth and routines, it can create security risks that extend far beyond disclosure.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "When Transparency Creates Risk: How Public Records Can Become Target Lists",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.266660+00:00",
-      "id": "art_2bf5beb941",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Public records support transparency, but when data links people to homes, wealth and routines,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "When Transparency Creates Risk: How Public Records Can Become Target Lists",
-          "type": "directReport",
-          "summary": "When Transparency Creates Risk: How Public Records Can Become Target Lists. Public records support transparency, but when data links people to homes, wealth and routines, it can create security risks that extend far beyond disclosure.",
-          "id": "p_art_2bf5beb941_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84c4ebb87ae6b1847359e6/0x0.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Madonna And Kylie Minogue Soar To No. Madonna and Kylie Minogue send their collaborative \"Love Sensation\" to No. 1 on several charts in the U.K. as the previously-solo tune becomes a bestseller.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Madonna And Kylie Minogue Soar To No. 1 Together",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.217176+00:00",
-      "id": "art_5058a6eef5",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Madonna and Kylie Minogue send their collaborative \"Love Sensation\" to No.",
-            "1 on several charts in the U.K."
-          ],
-          "stanceTitle": "Madonna And Kylie Minogue Soar To No. 1 Together",
-          "type": "directReport",
-          "summary": "Madonna And Kylie Minogue Soar To No. Madonna and Kylie Minogue send their collaborative \"Love Sensation\" to No. 1 on several charts in the U.K. as the previously-solo tune becomes a bestseller.",
-          "id": "p_art_5058a6eef5_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a83b88c8e312120cc082172/0x0.jpg?width=960&precrop=2070%2C1164%2Cx0%2Cy300"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "New World Team Tennis Club Identities Revealed. New York Empire, Florida Flamingos and Toronto North blend historic World Team Tennis names and identities with the 2026 league rebirth",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "New World Team Tennis Club Identities Revealed",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.199898+00:00",
-      "id": "art_eff9534329",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "New York Empire, Florida Flamingos and Toronto North blend historic World Team Tennis names.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "New World Team Tennis Club Identities Revealed",
-          "type": "directReport",
-          "summary": "New World Team Tennis Club Identities Revealed. New York Empire, Florida Flamingos and Toronto North blend historic World Team Tennis names and identities with the 2026 league rebirth",
-          "id": "p_art_eff9534329_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a861d8482c34b6cb6943874/0x0.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.. AI, not Trump, is the big mover of the economy, this analyst says \u2014 and it\u2019s just going to get bigger.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or wor",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.170253+00:00",
-      "id": "art_ae0f667443",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Here\u2019s how it\u2019s changing lives \u2014 for better or worse..",
-            "AI, not Trump, is the big mover of the economy, this analyst says \u2014 and it\u2019s just going to get bigger."
-          ],
-          "stanceTitle": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.",
-          "type": "directReport",
-          "summary": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.. AI, not Trump, is the big mover of the economy, this analyst says \u2014 and it\u2019s just going to get bigger.",
-          "id": "p_art_ae0f667443_1",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-21228371"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices. The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.150125+00:00",
-      "id": "art_63d8da45a9",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "sales are hit by falling drug prices.",
-            "The supermarket chain reported comparable U.S."
-          ],
-          "stanceTitle": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
-          "type": "directReport",
-          "summary": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices. The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
-          "id": "p_art_63d8da45a9_1",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-26125004"
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a87057e422d7b59d13f14fd/0x0.jpg?format=jpg&crop=960,540,x0,y82,safe&height=900&width=1600&fit=bounds"
     }
   ]
 }

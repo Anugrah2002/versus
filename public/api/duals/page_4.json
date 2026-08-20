@@ -1,9 +1,314 @@
 {
-  "page": 5,
-  "total_pages": 15,
-  "total_articles": 300,
+  "page": 4,
+  "total_pages": 6,
+  "total_articles": 110,
   "has_more": true,
   "articles": [
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sajjan Kumar had been in custody since December 2018, when he surrendered following the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Sajjan Kumar: From Congress veteran to convict",
+          "type": "viewpoint1",
+          "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
+          "id": "p_art_e73d1f8637_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        },
+        {
+          "keyPoints": [
+            "From 3-time Congress MP to 1984 riots convict - The Times of India",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Who was Sajjan Kumar? From 3-time Congress MP to 1984 riots convict - The Times of India",
+          "type": "viewpoint2",
+          "summary": "From 3-time Congress MP to 1984 riots convict - The Times of India. From 3-time Congress MP to 1984 riots convict - The Times of India",
+          "id": "p_art_e73d1f8637_2",
+          "sourceName": "Times of India",
+          "quoteAuthor": "",
+          "biasTag": "Mainstream National",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "timesofindia.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.300794+00:00",
+      "id": "art_e73d1f8637",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Sajjan Kumar: From Congress veteran to convict",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/sc0pl6/article71368894.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000155B.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The denial came two days after Syria accused Israel of hitting a disused military.",
+            "Israel said a Turkish military delegation had recently visited the site, with a Syrian."
+          ],
+          "stanceTitle": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
+          "type": "viewpoint1",
+          "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
+          "id": "p_art_8c8c7b49a1_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "The denial came two days after Syria accused Israel of hitting a disused military.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Turkiye denies military visit to Syria air base hit by Israel",
+          "type": "viewpoint2",
+          "summary": "Turkiye denies military visit to Syria air base hit by Israel. The denial came two days after Syria accused Israel of hitting a disused military air base near the northwestern city of Aleppo that was damaged during the civil war",
+          "id": "p_art_8c8c7b49a1_2",
+          "sourceName": "The Hindu World",
+          "quoteAuthor": "",
+          "biasTag": "Institutional Diplomacy",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.260489+00:00",
+      "id": "art_8c8c7b49a1",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/dlh1b2/article71369697.ece/alternates/LANDSCAPE_1200/2026-08-20T125909Z_971278450_RC2B2NAQBJ9Q_RTRMADP_3_ISRAEL-SYRIA-TURKEY-SECURITY-MINISTRY.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "As emergency teams work to rescue those trapped, the rains and cool weather have.",
+            "The blaze in Belgium erupted following an intense heatwave with temperatures reaching 37 degrees."
+          ],
+          "stanceTitle": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
+          "type": "viewpoint1",
+          "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
+          "id": "p_art_d1e06ec26c_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
+          "type": "viewpoint2",
+          "summary": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review. What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
+          "id": "p_art_d1e06ec26c_2",
+          "sourceName": "MIT Technology Review",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "technologyreview.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.216863+00:00",
+      "id": "art_d1e06ec26c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/38g55go8_uk-wildfire_625x300_14_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The incident took place Thursday afternoon on a Churchgate-Borivali local between Mahim and Bandra stations.",
+            "The victim suffered severe injuries after falling from the moving train."
+          ],
+          "stanceTitle": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
+          "type": "viewpoint1",
+          "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
+          "id": "p_art_b5221c6407_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
+          "type": "viewpoint2",
+          "summary": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18. 62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
+          "id": "p_art_b5221c6407_2",
+          "sourceName": "News18",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "news18.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.205777+00:00",
+      "id": "art_b5221c6407",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/f9hoc308_mumbai-locals_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Police first received word of a JCB theft in the Khallikote police station area on August 14.",
+            "What followed was an extended pursuit, with teams from four different police stations, Khallikote,."
+          ],
+          "stanceTitle": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
+          "type": "viewpoint1",
+          "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
+          "id": "p_art_f2db45277d_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "#manchestereveningnews #fails #cctv - facebook.com.",
+            "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting."
+          ],
+          "stanceTitle": "Manchester Evening News. . Oops! \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningn",
+          "type": "viewpoint2",
+          "summary": "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com. \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com",
+          "id": "p_art_f2db45277d_2",
+          "sourceName": "facebook.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "facebook.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.148481+00:00",
+      "id": "art_f2db45277d",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/df0fa5qo_jcb_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
     {
       "videoDuration": "02:45",
       "tags": [
@@ -738,355 +1043,187 @@
     },
     {
       "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T16:38:48.722879+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Walmart shares tumble as sales growth slows to six-year low. Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:40.150125+00:00",
+      "id": "art_63d8da45a9",
+      "title": "Walmart shares tumble as sales growth slows to six-year low",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Walmart shares tumble as sales growth slows to six-year low",
+          "type": "viewpoint1",
+          "summary": "Walmart shares tumble as sales growth slows to six-year low. Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+          "id": "p_art_63d8da45a9_1",
+          "sourceName": "Financial Times Global",
+          "quoteAuthor": "",
+          "biasTag": "Global Capital & Markets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "ft.com"
+        },
+        {
+          "keyPoints": [
+            "Total revenue rose 5.9% in the second quarter, while operating income lept 28.8%.",
+            "The retailer posted solid sales and profits in the most recent quarter, aided by."
+          ],
+          "stanceTitle": "Walmart Reports Strong Q2 Online Sales, But Store Results Disappoint Analysts",
+          "type": "viewpoint2",
+          "summary": "announced its financial results for the second quarter of fiscal year 2027 and retail analysts were not impressed, despite some impressive metrics. Total revenue rose 5.9% in the second quarter, while operating income lept 28.8%.",
+          "id": "p_art_63d8da45a9_2",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-26125004"
+    },
+    {
+      "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "The founder of Evergrande, one of China\u2019s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with a net worth of $42.5bn (\u00a331.2bn) in 2017, pleaded guilty in April to eight charges.",
-      "divergenceScore": 0,
+      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+      "divergenceScore": 88,
       "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.957416+00:00",
-      "id": "art_24d52d0697",
+      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
+      "id": "art_7bca469e57",
       "perspectives": [
         {
           "keyPoints": [
-            "Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with.",
-            "These included misuse of funds, fundraising fraud, illegally taking public deposits, illegally extending loans,."
+            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
+            "However, India has clarified that the government had nothing to do with the event."
           ],
-          "stanceTitle": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
-          "type": "directReport",
-          "summary": "The founder of Evergrande, one of China\u2019s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with a net worth of $42.5bn (\u00a331.2bn) in 2017, pleaded guilty in April to eight charges.",
-          "id": "p_art_24d52d0697_1",
-          "sourceName": "The Guardian World",
+          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+          "type": "viewpoint1",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Progressive International",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "sourceDomain": "theguardian.com"
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
+          "type": "viewpoint2",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_2",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
         }
       ],
       "bookmarksCount": 0,
       "category": "World Affairs",
       "videoUrl": "",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac49f1fd6c0ac5e76f54b2df69486a41"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
     },
     {
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
-      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+      "divergenceScore": 88,
       "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "A China Strategy That Lasts",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.937915+00:00",
-      "id": "art_6496579834",
+      "title": "The generation that is most comfortable with AI might surprise you",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
+      "id": "art_23ebb56e01",
       "perspectives": [
         {
           "keyPoints": [
-            "It has done so by integrating national security, economic security, energy policy, and environmental policy.",
-            "In sectors as varied as automobiles, chemicals, and solar panels, the Chinese government\u2019s policies."
+            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
+            "That age group is the only one in which a majority did not say."
           ],
-          "stanceTitle": "A China Strategy That Lasts",
-          "type": "directReport",
-          "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
-          "id": "p_art_6496579834_1",
-          "sourceName": "Foreign Affairs",
+          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
+          "type": "viewpoint1",
+          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+          "id": "p_art_23ebb56e01_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Global Order & Statecraft",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 97,
-          "sourceDomain": "foreignaffairs.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/18/2025-10-21T071723Z_2041563590_RC2MFHA25KIA_RTRMADP_3_CHINA-ECONOMY.JPG?itok=kynd26aF"
-    },
-    {
-      "tags": [
-        "Automotive & Energy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time With up to 1,917 lb-ft of torque, two transmissions, and fully independent axles, the Tatra Force e-Drive BEV sounds like a beast. - Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.931969+00:00",
-      "id": "art_e824d75f53",
-      "perspectives": [
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        },
         {
           "keyPoints": [
-            "- Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
-            "- The Force e-Drive BEV is an 8x8 work truck with four-axle independent suspension."
-          ],
-          "stanceTitle": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
-          "type": "directReport",
-          "summary": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time With up to 1,917 lb-ft of torque, two transmissions, and fully independent axles, the Tatra Force e-Drive BEV sounds like a beast. - Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
-          "id": "p_art_e824d75f53_1",
-          "sourceName": "InsideEVs",
-          "quoteAuthor": "",
-          "biasTag": "EV Technology & Battery",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "insideevs.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Automotive & Energy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://cdn.motor1.com/images/mgl/koK30B/s1/tatra-force-e-drive-8x8-bev.jpg"
-    },
-    {
-      "tags": [
-        "Automotive & Energy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers The Chinese-made Zeekr vans are fitted with Waymo\u2019s sixth-generation hardware and software suite. - Waymo is now offering paid rides in its new Ojai autonomous vans. - The Zeekr-made electric robotaxis are available for all riders in three U.S.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.911214+00:00",
-      "id": "art_e4f68584ee",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "- Waymo is now offering paid rides in its new Ojai autonomous vans.",
-            "- The Zeekr-made electric robotaxis are available for all riders in three U.S."
-          ],
-          "stanceTitle": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers",
-          "type": "directReport",
-          "summary": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers The Chinese-made Zeekr vans are fitted with Waymo\u2019s sixth-generation hardware and software suite. - Waymo is now offering paid rides in its new Ojai autonomous vans. - The Zeekr-made electric robotaxis are available for all riders in three U.S.",
-          "id": "p_art_e4f68584ee_1",
-          "sourceName": "InsideEVs",
-          "quoteAuthor": "",
-          "biasTag": "EV Technology & Battery",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "insideevs.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Automotive & Energy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://cdn.motor1.com/images/mgl/Ak3obO/s1/waymo-ojai.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Are We Thinking Correctly About AI Intelligence? Introduction When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning?",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Are We Thinking Correctly About AI Intelligence?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.901166+00:00",
-      "id": "art_222afe762c",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Introduction When an LLM answers a question, is it reasoning like humans, or just.",
-            "The distinction isn\u2019t just philosophical, this determines what we can trust AI to do,."
-          ],
-          "stanceTitle": "Are We Thinking Correctly About AI Intelligence?",
-          "type": "directReport",
-          "summary": "Are We Thinking Correctly About AI Intelligence? Introduction When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning?",
-          "id": "p_art_222afe762c_1",
-          "sourceName": "Quanta Magazine",
-          "quoteAuthor": "",
-          "biasTag": "Mathematics & Fundamental Physics",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 98,
-          "sourceDomain": "quantamagazine.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Dark energy and quantum gravity may be deeply intertwined. For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Dark energy and quantum gravity may be deeply intertwined",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.870366+00:00",
-      "id": "art_285d4bc32a",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics.",
-            "Known as quantum gravity, this goal has remained frustratingly out of reach so far."
-          ],
-          "stanceTitle": "Dark energy and quantum gravity may be deeply intertwined",
-          "type": "directReport",
-          "summary": "Dark energy and quantum gravity may be deeply intertwined. For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far.",
-          "id": "p_art_285d4bc32a_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gravity.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Drought stress in trees: What to expect and what to do. Recurring and prolonged periods of drought are worsening worldwide, triggering a dangerous chain reaction for trees, according to a forest health expert at North Carolina State University.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Drought stress in trees: What to expect and what to do",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.865752+00:00",
-      "id": "art_df8cb4562b",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Recurring and prolonged periods of drought are worsening worldwide, triggering a dangerous chain reaction.",
+            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Drought stress in trees: What to expect and what to do",
-          "type": "directReport",
-          "summary": "Drought stress in trees: What to expect and what to do. Recurring and prolonged periods of drought are worsening worldwide, triggering a dangerous chain reaction for trees, according to a forest health expert at North Carolina State University.",
-          "id": "p_art_df8cb4562b_1",
-          "sourceName": "Phys.org",
+          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
+          "type": "viewpoint2",
+          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
+          "id": "p_art_23ebb56e01_2",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
+          "biasTag": "Market Analysis",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
         }
       ],
       "bookmarksCount": 0,
-      "category": "Space & Science",
+      "category": "Work & Economy",
       "videoUrl": "",
       "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tree-yellow-leaves.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Changing wage benefits highlight need to align skills and jobs. Adelaide University research shows that while higher education (HE) in Australia continues to deliver a substantial wage premium, education, skills and labor-market policy need to align more closely.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Changing wage benefits highlight need to align skills and jobs",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.842953+00:00",
-      "id": "art_a142068251",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Adelaide University research shows that while higher education (HE) in Australia continues to deliver.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Changing wage benefits highlight need to align skills and jobs",
-          "type": "directReport",
-          "summary": "Changing wage benefits highlight need to align skills and jobs. Adelaide University research shows that while higher education (HE) in Australia continues to deliver a substantial wage premium, education, skills and labor-market policy need to align more closely.",
-          "id": "p_art_a142068251_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/changing-wage-benefits.jpg"
+      "heroImageUrl": "https://images.mktw.net/im-97655212"
     }
   ]
 }

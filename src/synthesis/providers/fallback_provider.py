@@ -60,8 +60,25 @@ class LocalFallbackSynthesizer:
 
         return bullets[:2]
 
+    def _format_stance_title(self, art: ExtractedArticle, is_counter: bool = False) -> str:
+        clean_title = re.sub(r"^(?:explained|opinion|watch|exclusive|analysis|fact check|live updates|first post|report):\s*", "", art.title, flags=re.IGNORECASE).strip()
+        if is_counter:
+            lower_body = art.cleaned_body.lower()
+            if any(w in lower_body for w in ["court", "nclt", "fine", "penalty", "notice", "probe", "order", "legal"]):
+                prefix = "Legal & Regulatory Action"
+            elif any(w in lower_body for w in ["risk", "concern", "threat", "warn", "loss", "decline", "slow"]):
+                prefix = "Risks & Scrutiny"
+            elif any(w in lower_body for w in ["cost", "cap", "limit", "restrict", "curb", "defer"]):
+                prefix = "Policy Constraints & Oversight"
+            else:
+                prefix = art.default_bias if art.default_bias and art.default_bias != "Reporting" else "Alternative Assessment"
+        else:
+            prefix = art.default_bias if art.default_bias and art.default_bias != "Reporting" else "Core Development"
+            
+        return f"{prefix}: {clean_title}"[:120]
+
     def synthesize_cluster(self, cluster: StoryCluster) -> Dict[str, Any]:
-        logger.info(f"Using local rule-based heuristic synthesizer for cluster {cluster.cluster_id}")
+        logger.info(f"Using enhanced heuristic editorial synthesizer for cluster {cluster.cluster_id}")
         articles = cluster.articles
         primary = articles[0]
 
@@ -81,28 +98,44 @@ class LocalFallbackSynthesizer:
             art_a = articles[0]
             art_b = articles[1]
 
+            # Perspective 1: Primary Proactive / Strategic Lens
+            p1_title = self._format_stance_title(art_a, is_counter=False)
+            p1_summary = self._extract_lead_summary(art_a.cleaned_body, max_words=55)
+            p1_bullets = self._extract_key_points(art_a.cleaned_body)
+
             perspectives.append({
                 "type": "viewpoint1",
                 "sourceName": art_a.feed_name,
                 "sourceDomain": art_a.domain,
-                "biasTag": art_a.default_bias,
+                "biasTag": art_a.default_bias or "Primary Coverage",
                 "sourceCredibility": art_a.credibility,
-                "stanceTitle": art_a.title[:120],
-                "summary": self._extract_lead_summary(art_a.cleaned_body, max_words=55),
-                "keyPoints": self._extract_key_points(art_a.cleaned_body),
+                "stanceTitle": p1_title,
+                "summary": p1_summary,
+                "keyPoints": p1_bullets,
                 "quote": "",
                 "quoteAuthor": ""
             })
+
+            # Perspective 2: Counter / Scrutiny / Regulatory Lens
+            p2_title = self._format_stance_title(art_b, is_counter=True)
+            p2_summary = self._extract_lead_summary(art_b.cleaned_body, max_words=55)
+            p2_bullets = self._extract_key_points(art_b.cleaned_body)
+
+            # Guarantee non-identical summaries
+            if p2_summary == p1_summary:
+                b_sentences = self._split_into_sentences(art_b.cleaned_body)
+                if len(b_sentences) > 1:
+                    p2_summary = " ".join(b_sentences[1:3])
 
             perspectives.append({
                 "type": "viewpoint2",
                 "sourceName": art_b.feed_name,
                 "sourceDomain": art_b.domain,
-                "biasTag": art_b.default_bias,
+                "biasTag": "Critical Scrutiny" if "Risk" in p2_title or "Legal" in p2_title else (art_b.default_bias or "Secondary Angle"),
                 "sourceCredibility": art_b.credibility,
-                "stanceTitle": art_b.title[:120],
-                "summary": self._extract_lead_summary(art_b.cleaned_body, max_words=55),
-                "keyPoints": self._extract_key_points(art_b.cleaned_body),
+                "stanceTitle": p2_title,
+                "summary": p2_summary,
+                "keyPoints": p2_bullets,
                 "quote": "",
                 "quoteAuthor": ""
             })
@@ -111,9 +144,9 @@ class LocalFallbackSynthesizer:
                 "type": "directReport",
                 "sourceName": primary.feed_name,
                 "sourceDomain": primary.domain,
-                "biasTag": primary.default_bias,
+                "biasTag": primary.default_bias or "Official Report",
                 "sourceCredibility": primary.credibility,
-                "stanceTitle": primary.title[:120],
+                "stanceTitle": self._format_stance_title(primary, is_counter=False),
                 "summary": self._extract_lead_summary(primary.cleaned_body, max_words=55),
                 "keyPoints": self._extract_key_points(primary.cleaned_body),
                 "quote": "",

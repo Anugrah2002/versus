@@ -6,6 +6,579 @@
   "articles": [
     {
       "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">In central Arizona, about 90 miles east of Phoenix, an old open-pit copper mine sits full of water.&nbsp;</p> <p class=\"wp-block-paragraph\">The mine closed in the 1980s, left to accumulate rain and groundwater.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "These \u201cpit lakes,\u201d as they\u2019re called, are monitored so that they don\u2019t contaminate the.",
+            "SiTration&#8217;s CEO, Brendan Smith, says the two-month pilot will be able to extract two."
+          ],
+          "stanceTitle": "How one startup is recovering copper from old mines that were left for dead in the 1980s",
+          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\">In central Arizona, about 90 miles east of Phoenix, an old open-pit copper mine sits full of water.&nbsp;</p> <p class=\"wp-block-paragraph\">The mine closed in the 1980s, left to accumulate rain and groundwater.",
+          "id": "p_art_5470edb86c_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.871039+00:00",
+      "id": "art_5470edb86c",
+      "title": "How one startup is recovering copper from old mines that were left for dead in the 1980s",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591887-SiTration.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">Never before has a ketchup bottle been designed with such precise portion control.</p> <p class=\"wp-block-paragraph\">Heinz has released its first-ever customizable lid that comes with three settings for light, medium, and heavy labeled &#8220;Like,&#8221; &#8220;Love,&#8221; and &#8220;Crazy Love&#8221; for an increasingly heavier pour.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "If the biggest challenge with old-school glass bottles is not knowing how much ketchup.",
+            "It works thanks to a two-part mechanism that controls the ketchup flow while creating."
+          ],
+          "stanceTitle": "Heinz\u2019s new adjustable cap looks simple. Its design process was another story",
+          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\">Never before has a ketchup bottle been designed with such precise portion control.</p> <p class=\"wp-block-paragraph\">Heinz has released its first-ever customizable lid that comes with three settings for light, medium, and heavy labeled &#8220;Like,&#8221; &#8220;Love,&#8221; and &#8220;Crazy Love&#8221; for an increasingly heavier pour.",
+          "id": "p_art_d1673d81cd_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.859687+00:00",
+      "id": "art_d1673d81cd",
+      "title": "Heinz\u2019s new adjustable cap looks simple. Its design process was another story",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591528-heinz-adjustable-cap.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Every CEO wants to talk about AI\u2019s magic. Almost none want to talk about the boring problems standing in the way. Picture a railroad that spends billions on the fastest trains in the world, then runs them on the same aging rails. The trains aren\u2019t the constraint.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Almost none want to talk about the boring problems standing in the way.",
+            "Picture a railroad that spends billions on the fastest trains in the world, then."
+          ],
+          "stanceTitle": "AI won\u2019t fix a broken company. Rewiring it will",
+          "type": "directReport",
+          "summary": "Every CEO wants to talk about AI\u2019s magic. Almost none want to talk about the boring problems standing in the way. Picture a railroad that spends billions on the fastest trains in the world, then runs them on the same aging rails. The trains aren\u2019t the constraint.",
+          "id": "p_art_fee10279cb_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.794284+00:00",
+      "id": "art_fee10279cb",
+      "title": "AI won\u2019t fix a broken company. Rewiring it will",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/sastry-manish.png?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- In today\u2019s CEO Daily: The executive behind FarmVille shares lessons on creating and popularizing products in the AI era - The big leadership story: Who\u2019s in charge of corporate AI spending?",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- The markets: A good day in Asian markets, with Korea leading the way.",
+            "Zynga founder Mark Pincus made social gaming a global habit."
+          ],
+          "stanceTitle": "Zynga founder Mark Pincus: AI can get you to a B-plus, but it won\u2019t get you to an A",
+          "type": "directReport",
+          "summary": "- In today\u2019s CEO Daily: The executive behind FarmVille shares lessons on creating and popularizing products in the AI era - The big leadership story: Who\u2019s in charge of corporate AI spending?",
+          "id": "p_art_92e8ee5cb0_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.764849+00:00",
+      "id": "art_92e8ee5cb0",
+      "title": "Zynga founder Mark Pincus: AI can get you to a B-plus, but it won\u2019t get you to an A",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2260125364-e1787214066471.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Climate change could cost London as much as \u00a336 billion ($50 billion) a year by the 2050s, the Mayor of London\u2019s office said in a report.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Lost working hours, disruption to businesses and damage to infrastructure caused by extreme weather.",
+            "Businesses need to adapt to climate change, the report said, by adjusting working hours,."
+          ],
+          "stanceTitle": "Climate change to cost London up to \u00a336 billion a year by 2050s",
+          "type": "directReport",
+          "summary": "Climate change could cost London as much as \u00a336 billion ($50 billion) a year by the 2050s, the Mayor of London\u2019s office said in a report.",
+          "id": "p_art_34b898eff9_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.726531+00:00",
+      "id": "art_34b898eff9",
+      "title": "Climate change to cost London up to \u00a336 billion a year by 2050s",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2282584831-e1787223279425.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Eastern Time today, oil had reached $95.40 per barrel, measured using the Brent benchmark. That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier. Will oil prices go up? Oil prices are inherently unpredictable.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier.",
+            "Will oil prices go up?"
+          ],
+          "stanceTitle": "Current price of oil as of August 20, 2026",
+          "type": "directReport",
+          "summary": "Eastern Time today, oil had reached $95.40 per barrel, measured using the Brent benchmark. That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier. Will oil prices go up? Oil prices are inherently unpredictable.",
+          "id": "p_art_0ba2e25c8d_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.703644+00:00",
+      "id": "art_0ba2e25c8d",
+      "title": "Current price of oil as of August 20, 2026",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-August-20.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "What happens when large language models become commodities? Competitive advantage moves from the model itself to the balance sheet behind it. AI is now reversing 20 years of technology economics, turning what was once a software business into a capital-intensive industry.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Competitive advantage moves from the model itself to the balance sheet behind it.",
+            "AI is now reversing 20 years of technology economics, turning what was once a."
+          ],
+          "stanceTitle": "AI is becoming a financial engineering business",
+          "type": "directReport",
+          "summary": "What happens when large language models become commodities? Competitive advantage moves from the model itself to the balance sheet behind it. AI is now reversing 20 years of technology economics, turning what was once a software business into a capital-intensive industry.",
+          "id": "p_art_082a19bc33_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.673439+00:00",
+      "id": "art_082a19bc33",
+      "title": "AI is becoming a financial engineering business",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/images-2.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T14:11:40.864169+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth MPD-2047 plans for a population of 32 million and shifts Delhi towards denser mixed-use growth around mass transit, land pooling and infrastructure-led urban expansion Listen to This Article The Union government on Thursday notified the Master Plan for Delhi 2047 (MPD-2047), estimating that the.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T11:38:22.648105+00:00",
+      "id": "art_522a06a55b",
+      "title": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The plan seeks to meet this housing demand through redevelopment and densification of existing.",
+            "The Ministry of Housing and Urban Affairs has approved MPD-2047 as an extensive modification."
+          ],
+          "stanceTitle": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth",
+          "type": "directReport",
+          "summary": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth MPD-2047 plans for a population of 32 million and shifts Delhi towards denser mixed-use growth around mass transit, land pooling and infrastructure-led urban expansion Listen to This Article The Union government on Thursday notified the Master Plan for Delhi 2047 (MPD-2047), estimating that the.",
+          "id": "p_art_522a06a55b_1",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133375464,width-1200,height-630,imgsize-56822,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Black Myth: Zhong Kui is a follow-up to Black Myth: Wukong. Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black Myth: Wukong, has received an extended gameplay trailer.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black.",
+            "The trailer, shared by developer Game Science on Thursday, features a first look at."
+          ],
+          "stanceTitle": "Black Myth: Zhong Kui Gets New 15-Minute Gameplay Trailer That Shares First Look at Combat",
+          "type": "directReport",
+          "summary": "Black Myth: Zhong Kui is a follow-up to Black Myth: Wukong. Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black Myth: Wukong, has received an extended gameplay trailer.",
+          "id": "p_art_5cf0a1cdf9_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.637443+00:00",
+      "id": "art_5cf0a1cdf9",
+      "title": "Black Myth: Zhong Kui Gets New 15-Minute Gameplay Trailer That Shares First Look at Combat",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/black_myth_1787217893970.png"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Asus Jelly75 Keyboard KD201 is priced at Rs. Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India. It features a 22mm stand and adjustable tilt. It runs on up to an AMD Ryzen 5 40 processor and features dual 2W Dirac-enhanced speakers.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India.",
+            "It features a 22mm stand and adjustable tilt."
+          ],
+          "stanceTitle": "Asus VM240 AiO All-in-One Desktop PC Launched in India With 24-Inch Display, New Gaming Accessories Tag Along",
+          "type": "directReport",
+          "summary": "Asus Jelly75 Keyboard KD201 is priced at Rs. Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India. It features a 22mm stand and adjustable tilt. It runs on up to an AMD Ryzen 5 40 processor and features dual 2W Dirac-enhanced speakers.",
+          "id": "p_art_104958c137_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.535978+00:00",
+      "id": "art_104958c137",
+      "title": "Asus VM240 AiO All-in-One Desktop PC Launched in India With 24-Inch Display, New Gaming Accesso",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/asus_vm240_aio_1787214422405.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming.",
+            "The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date."
+          ],
+          "stanceTitle": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of Launch",
+          "type": "directReport",
+          "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
+          "id": "p_art_08b64e4966_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.489987+00:00",
+      "id": "art_08b64e4966",
+      "title": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of L",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/vivo_y31t_5g_vivo_main_1786950340636.png"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Infinix Hot 70 Pro 5G will be launched in Dive Blue, Mirage Green, Silk Glow Purple and Thermo Orange colours in India. Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the Transsion Holdings subsidiary announced on Thursday. The new Hot series smartphone is confirmed to be available in four colours.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the.",
+            "The new Hot series smartphone is confirmed to be available in four colours."
+          ],
+          "stanceTitle": "Infinix Hot 70 Pro 5G India Launch Confirmed for September, Design and Colours Revealed",
+          "type": "directReport",
+          "summary": "Infinix Hot 70 Pro 5G will be launched in Dive Blue, Mirage Green, Silk Glow Purple and Thermo Orange colours in India. Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the Transsion Holdings subsidiary announced on Thursday. The new Hot series smartphone is confirmed to be available in four colours.",
+          "id": "p_art_fe93048c2c_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.421525+00:00",
+      "id": "art_fe93048c2c",
+      "title": "Infinix Hot 70 Pro 5G India Launch Confirmed for September, Design and Colours Revealed",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/infinix_hot_70_pro_5g_1787218872117.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Google has not confirmed the feature or its release date, and could still change or cancel it. Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
+            "A new map option has reportedly been discovered in a test version of the."
+          ],
+          "stanceTitle": "Google Photos Could Soon Add a Map View to Ask Photos Search Results, Feature Spotted in APK Teardown",
+          "type": "directReport",
+          "summary": "Google has not confirmed the feature or its release date, and could still change or cancel it. Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
+          "id": "p_art_6494d393e9_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.369639+00:00",
+      "id": "art_6494d393e9",
+      "title": "Google Photos Could Soon Add a Map View to Ask Photos Search Results, Feature Spotted in APK Te",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/Google_photos_ask_map_google_1787219676791.jpg"
+    },
+    {
+      "tags": [
         "Tech & AI",
         "Verified News",
         "Trending"
@@ -311,579 +884,6 @@
       "isSinglePerspective": true,
       "commentsCount": 0,
       "heroImageUrl": "https://th-i.thgim.com/public/incoming/tj3hm/article71365739.ece/alternates/LANDSCAPE_1200/State-revenue-aGHIFKBTTL.3.jpg.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "2,000 Onam markets planned under Agriculture department in Keralam. Keralam government has sanctioned \u20b910.24 crore for operating the markets under a Market Intervention Support for Price Stabilisation scheme",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Keralam government has sanctioned \u20b910.24 crore for operating the markets under a Market Intervention.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "2,000 Onam markets planned under Agriculture department in Keralam",
-          "type": "directReport",
-          "summary": "2,000 Onam markets planned under Agriculture department in Keralam. Keralam government has sanctioned \u20b910.24 crore for operating the markets under a Market Intervention Support for Price Stabilisation scheme",
-          "id": "p_art_5a6163c4a5_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.021143+00:00",
-      "id": "art_5a6163c4a5",
-      "title": "2,000 Onam markets planned under Agriculture department in Keralam",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/n4vub1/article71368769.ece/alternates/LANDSCAPE_1200/Vegetable03.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-20T14:11:38.956717+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- Six-year-old Pranay Teja died after collapsing at Little Garden School in Visakhapatnam - Family alleges teacher beat him for not completing homework - CCTV footage shows the teacher hitting the child before he collapsed A six-year-old boy has died at a private school in Visakhapatnam, with his family alleging he was beaten by a.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T11:38:22.016110+00:00",
-      "id": "art_5280a95e58",
-      "title": "On Camera, 6-Year-Old Falls Face First, Dies After Being Slapped By Teacher",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The family of the child, Pranay Teja, said he collapsed after being beaten by.",
-            "He was taken to King George Hospital (KGH), where doctors declared him dead."
-          ],
-          "stanceTitle": "On Camera, 6-Year-Old Falls Face First, Dies After Being Slapped By Teacher",
-          "type": "directReport",
-          "summary": "- Six-year-old Pranay Teja died after collapsing at Little Garden School in Visakhapatnam - Family alleges teacher beat him for not completing homework - CCTV footage shows the teacher hitting the child before he collapsed A six-year-old boy has died at a private school in Visakhapatnam, with his family alleging he was beaten by a.",
-          "id": "p_art_5280a95e58_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/andhra-pradesh/djob2h/article71368798.ece/alternates/LANDSCAPE_1200/Untitled%20design1.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-national\u2019. Home Minister says Congress\u2019s decision to render only the first two stanzas of Vande Mataram reflects \u201cappeasement politics\u201d and alleges that the 1937 resolution laid the foundation for Partition",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Home Minister says Congress\u2019s decision to render only the first two stanzas of Vande.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-national\u2019",
-          "type": "directReport",
-          "summary": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-national\u2019. Home Minister says Congress\u2019s decision to render only the first two stanzas of Vande Mataram reflects \u201cappeasement politics\u201d and alleges that the 1937 resolution laid the foundation for Partition",
-          "id": "p_art_522c903af8_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.951694+00:00",
-      "id": "art_522c903af8",
-      "title": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-nat",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wiasvv/article71368658.ece/alternates/LANDSCAPE_1200/TH16-Shiv-IqbalGT3GDG539.3.jpg.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Police cannot investigate offences under PCPNDT Act: Supreme Court. The PCPNDT Act was enacted with the intent to prohibit the use of prenatal diagnostic techniques for determination of the sex of the foetus",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The PCPNDT Act was enacted with the intent to prohibit the use of prenatal.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Police cannot investigate offences under PCPNDT Act: Supreme Court",
-          "type": "directReport",
-          "summary": "Police cannot investigate offences under PCPNDT Act: Supreme Court. The PCPNDT Act was enacted with the intent to prohibit the use of prenatal diagnostic techniques for determination of the sex of the foetus",
-          "id": "p_art_6a0702ce03_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.890699+00:00",
-      "id": "art_6a0702ce03",
-      "title": "Police cannot investigate offences under PCPNDT Act: Supreme Court",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/8tt6um/article70298070.ece/alternates/LANDSCAPE_1200/vbk-stock-supreme%20court-sc4-2019-02-12T155705Z_468587102_RC1D209BE9D0_RTRMADP_3_INDIA-COURT.JPG"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- Belated income tax returns for AY 2026-27 can be filed until December 31, 2026 - Late filing incurs Rs 5,000 fee or Rs 1,000 if income is below Rs 5 lakh plus 1% interest - Late filers lose benefits like carrying forward capital, business, and F&O losses Income Tax Return 2025-26: Missing the July.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "For Assessment Year 2026-27, a belated return can still be filed until December 31, 2026.",
-            "But delaying the filing can have consequences that go well beyond the late fee."
-          ],
-          "stanceTitle": "Missed ITR Deadline? How To Claim Refund And Fix Mistakes Before December 31",
-          "type": "directReport",
-          "summary": "- Belated income tax returns for AY 2026-27 can be filed until December 31, 2026 - Late filing incurs Rs 5,000 fee or Rs 1,000 if income is below Rs 5 lakh plus 1% interest - Late filers lose benefits like carrying forward capital, business, and F&O losses Income Tax Return 2025-26: Missing the July.",
-          "id": "p_art_6f20207b4d_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.867296+00:00",
-      "id": "art_6f20207b4d",
-      "title": "Missed ITR Deadline? How To Claim Refund And Fix Mistakes Before December 31",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/0ukicih_income-tax-efiling-portal-faces-glitches-as-taxpayers-rush-to-file-itr-before-july-31_625x300_24_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question UPI's whole miracle was the Rs 30 payment it charged nothing for. But how long can it stay free? Parliament has reopened a question that the country thought was settled: should UPI ever charge?",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "But how long can it stay free?",
-            "Parliament has reopened a question that the country thought was settled: should UPI ever charge?"
-          ],
-          "stanceTitle": "Opinion: Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question",
-          "type": "directReport",
-          "summary": "Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question UPI's whole miracle was the Rs 30 payment it charged nothing for. But how long can it stay free? Parliament has reopened a question that the country thought was settled: should UPI ever charge?",
-          "id": "p_art_373e77a35c_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.795454+00:00",
-      "id": "art_373e77a35c",
-      "title": "Opinion: Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2023-03/v61ii0fg_upipayments_640x480_30_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- US Ambassador Sergio Gor began a two-day Ladakh visit with private sightseeing in the Himalayas - This is the first top US diplomat visit to Ladakh since it became a separate union territory in 2019 - The US supported India after 2020 Galwan clashes and provided strategic defense assistance US ambassador to India, Sergio.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "This is the first visit of any top US diplomat to Ladakh after the.",
-            "Gor's Ladakh visit is being closely watched since the US had strongly backed India."
-          ],
-          "stanceTitle": "Top US Diplomat Arrives In Ladakh, 1st Such Visit Since Galwan Clashes",
-          "type": "directReport",
-          "summary": "- US Ambassador Sergio Gor began a two-day Ladakh visit with private sightseeing in the Himalayas - This is the first top US diplomat visit to Ladakh since it became a separate union territory in 2019 - The US supported India after 2020 Galwan clashes and provided strategic defense assistance US ambassador to India, Sergio.",
-          "id": "p_art_de6005836b_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.732294+00:00",
-      "id": "art_de6005836b",
-      "title": "Top US Diplomat Arrives In Ladakh, 1st Such Visit Since Galwan Clashes",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/4dphchpc_sergio-gor_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- Rajnath Singh said close alignment between India's MAHASAGAR and Japan's FOIP is crucial now - India's maritime lifelines face growing vulnerabilities needing strategic focus - India expressed solidarity with Japan after Kumamoto earthquake disaster Emphasising the deep strategic interlinkages between the Indian and Pacific Oceans, Defence Minister Rajnath Singh on Thursday stated that a.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "India's MAHASAGAR vision expands to 'Mutual and Holistic Advancement for Security and Growth Across Regions'.",
-            "Delivering his opening remarks during a meeting with Japanese Defence Minister Shinjiro Koizumi in."
-          ],
-          "stanceTitle": "Rajnath Singh's 'Mahasagar Vision' Mention In Talks With Japan Counterpart",
-          "type": "directReport",
-          "summary": "- Rajnath Singh said close alignment between India's MAHASAGAR and Japan's FOIP is crucial now - India's maritime lifelines face growing vulnerabilities needing strategic focus - India expressed solidarity with Japan after Kumamoto earthquake disaster Emphasising the deep strategic interlinkages between the Indian and Pacific Oceans, Defence Minister Rajnath Singh on Thursday stated that a.",
-          "id": "p_art_8d834ad275_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.722714+00:00",
-      "id": "art_8d834ad275",
-      "title": "Rajnath Singh's 'Mahasagar Vision' Mention In Talks With Japan Counterpart",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/v8hup6p8_rajnath-singh-_625x300_20_August_26.jpeg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- SBI changes free cash withdrawal counting from October 1, 2026 for BSBD accounts - Four free withdrawals remain, but digital and cash withdrawals count together now - Each withdrawal beyond four costs Rs 15 plus GST, applicable at any ATM or branch Starting October 1, 2026, State Bank of India is changing how it.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "If you hold a Basic Savings Bank Deposit (BSBD) account, you still get four free withdrawals every month.",
-            "But once you cross that line, every withdrawal after the fourth will cost you Rs 15, plus GST."
-          ],
-          "stanceTitle": "SBI Cash Withdrawals To Get Costlier After 4 Free Uses. All You Need To Know",
-          "type": "directReport",
-          "summary": "- SBI changes free cash withdrawal counting from October 1, 2026 for BSBD accounts - Four free withdrawals remain, but digital and cash withdrawals count together now - Each withdrawal beyond four costs Rs 15 plus GST, applicable at any ATM or branch Starting October 1, 2026, State Bank of India is changing how it.",
-          "id": "p_art_c5ebfac46b_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.710282+00:00",
-      "id": "art_c5ebfac46b",
-      "title": "SBI Cash Withdrawals To Get Costlier After 4 Free Uses. All You Need To Know",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2018-10/3r60esig_sbi-atm_625x300_01_October_18.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- Delhi Crime Branch arrested 17 in a racket dealing in illegal anti-cancer medicines across multiple states - The network sourced drugs via counterfeit means and diversion from hospitals and government institutions - Raids in Delhi and Navi Mumbai recovered medicines worth Rs 9 crore, cash, devices, and packaging materials The Delhi Crime Branch has.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The network, according to investigators, stretched across Delhi-NCR, Mumbai, Navi Mumbai, Hyderabad, Haryana, Uttar.",
-            "Police suspect that the racket was dealing not only in counterfeit medicines but also."
-          ],
-          "stanceTitle": "Delhi Police Busts Rs 9-Crore Anti-Cancer Drug Racket, 17 Arrested",
-          "type": "directReport",
-          "summary": "- Delhi Crime Branch arrested 17 in a racket dealing in illegal anti-cancer medicines across multiple states - The network sourced drugs via counterfeit means and diversion from hospitals and government institutions - Raids in Delhi and Navi Mumbai recovered medicines worth Rs 9 crore, cash, devices, and packaging materials The Delhi Crime Branch has.",
-          "id": "p_art_36c91edb21_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.647568+00:00",
-      "id": "art_36c91edb21",
-      "title": "Delhi Police Busts Rs 9-Crore Anti-Cancer Drug Racket, 17 Arrested",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0vs5068_anticancer-drug-racket_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- Suraj Subhash Shinde, a 19-year-old Maharashtra student, died by suicide at home - He was preparing for the NEET medical entrance exam - The student left a note promising to become a doctor in the next life and asked parents to stay happy He will definitely become a doctor in the next life, a.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The student was found dead at his home in Khandala, located in the Vaijapur.",
-            "He has been identified as Suraj Subhash Shinde."
-          ],
-          "stanceTitle": "\"Will Become Doctor In Next Life\": 19-Year-Old NEET Aspirant Dies By Suicide",
-          "type": "directReport",
-          "summary": "- Suraj Subhash Shinde, a 19-year-old Maharashtra student, died by suicide at home - He was preparing for the NEET medical entrance exam - The student left a note promising to become a doctor in the next life and asked parents to stay happy He will definitely become a doctor in the next life, a.",
-          "id": "p_art_dc1e646bf1_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.598906+00:00",
-      "id": "art_dc1e646bf1",
-      "title": "\"Will Become Doctor In Next Life\": 19-Year-Old NEET Aspirant Dies By Suicide",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lvuvth4g_student-note-_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "- The Supreme Court ruled that the senior's stern behaviour alone cannot establish abetment of suicide - Criminal liability requires proximate act with intent to drive subordinate to suicide, not just harsh conduct - The court discharged a senior forest officer accused in a suicide case due to a lack of statutory ingredients The Supreme.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The top court said that no matter how unpleasant a superior's actions may have.",
-            "A bench of Justices Satish Chandra Sharma and N Kotiswar Singh said there must."
-          ],
-          "stanceTitle": "Stern Behaviour By Boss Can't Be Considered Abetment Of Suicide: Top Court",
-          "type": "directReport",
-          "summary": "- The Supreme Court ruled that the senior's stern behaviour alone cannot establish abetment of suicide - Criminal liability requires proximate act with intent to drive subordinate to suicide, not just harsh conduct - The court discharged a senior forest officer accused in a suicide case due to a lack of statutory ingredients The Supreme.",
-          "id": "p_art_02f0fb9115_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.547828+00:00",
-      "id": "art_02f0fb9115",
-      "title": "Stern Behaviour By Boss Can't Be Considered Abetment Of Suicide: Top Court",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2022-02/a1ooga8_supreme-court-of-india_650x400_14_February_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Prominent Hindi YouTuber Pragya Mishra shared the shocking news of her sister having been shot in Lucknow outside the ICICI Bank branch where she worked, allegedly by the latter's husband who later killed his own sister and himself, around noon on Thursday. \"Just got a call that my sister has been shot in Gomti Nagar...",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\"Just got a call that my sister has been shot in Gomti Nagar...",
-            "She is in Lohia (hospital in Lucknow)."
-          ],
-          "stanceTitle": "\"My Sister Has Been Shot\": YouTuber Pragya Mishra Mentioned In Killer Brother-In-Law's WhatsApp Status",
-          "type": "directReport",
-          "summary": "Prominent Hindi YouTuber Pragya Mishra shared the shocking news of her sister having been shot in Lucknow outside the ICICI Bank branch where she worked, allegedly by the latter's husband who later killed his own sister and himself, around noon on Thursday. \"Just got a call that my sister has been shot in Gomti Nagar...",
-          "id": "p_art_ba1e068bfb_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:21.467482+00:00",
-      "id": "art_ba1e068bfb",
-      "title": "\"My Sister Has Been Shot\": YouTuber Pragya Mishra Mentioned In Killer Brother-In-Law's WhatsApp",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/nopdid4g_pragya-mishra_625x300_20_August_26.jpeg"
     }
   ]
 }

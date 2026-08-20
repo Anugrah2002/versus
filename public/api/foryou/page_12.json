@@ -6,246 +6,26 @@
   "articles": [
     {
       "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Google has introduced a new visual indicator for its paid AI plans across Android and the web.",
-            "With the latest update, a blue gradient ring appears around the profile picture of."
-          ],
-          "stanceTitle": "Google Brings New Account Photo Design to AI and Google One Subscribers",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_44c884453b_1",
-          "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Google Brings New Account Photo Design to AI and Google One Subscribers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.417771+00:00",
-      "id": "art_44c884453b",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/google_dark_web_reports_1720531810071.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace.",
-            "However, the connectors missed a few basic abilities."
-          ],
-          "stanceTitle": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Connectors",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_605ce2c207_1",
-          "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Conn",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.369108+00:00",
-      "id": "art_605ce2c207",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/claude_google_workspace_connectors_main_1787207278861.png"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week.",
-            "The group followed through on its threat of leaking more alleged GTA 6 content."
-          ],
-          "stanceTitle": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_cd05e56195_1",
-          "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.353338+00:00",
-      "id": "art_cd05e56195",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/Cal_Hampton_02_1_1787209015672.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
-            "As we wait for the official launch, a new leak suggests that the iPhone."
-          ],
-          "stanceTitle": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
-          "type": "directReport",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_bd0a5201f6_1",
-          "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.343113+00:00",
-      "id": "art_bd0a5201f6",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/apple_iphone_17_pro_1787209580130.jpg"
-    },
-    {
-      "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "Tiruchi Junction, Chidambaram among 103 heritage stations identified by the Railway Board. \u2018Station Mahotsav\u2019 to be organised at the identified stations as per their date of inception; Railway Board suggests a slew of programmes to be organised at the 103 chosen stations in various railway zones",
       "divergenceScore": 0,
-      "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Thousands of students and job seekers had been seeking an overhaul of the state's.",
-            "The breakthrough came after the government cancelled 22 of these exams and ordered investigations."
-          ],
-          "stanceTitle": "Protesters call off 26-day agitation over exam irregularities in Indian state",
-          "type": "directReport",
-          "sourceName": "BBC India",
-          "id": "p_art_b64523a376_1",
-          "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
-          "quoteAuthor": "",
-          "biasTag": "International Overview",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.331479+00:00",
-      "id": "art_b64523a376",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/210d/live/e196e310-9c68-11f1-827b-69a6492daae1.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised. Health officials renew public health warnings, urging people to be cautious about the food and beverages they consume outside their homes, especially during the festival season",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Health officials renew public health warnings, urging people to be cautious about the food.",
+            "\u2018Station Mahotsav\u2019 to be organised at the identified stations as per their date of.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised",
+          "stanceTitle": "Tiruchi Junction, Chidambaram among 103 heritage stations identified by the Railway Board",
           "type": "directReport",
+          "summary": "Tiruchi Junction, Chidambaram among 103 heritage stations identified by the Railway Board. \u2018Station Mahotsav\u2019 to be organised at the identified stations as per their date of inception; Railway Board suggests a slew of programmes to be organised at the 103 chosen stations in various railway zones",
+          "id": "p_art_2fe0857df3_1",
           "sourceName": "The Hindu National",
-          "id": "p_art_b07f17ea78_1",
-          "summary": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised. Health officials renew public health warnings, urging people to be cautious about the food and beverages they consume outside their homes, especially during the festival season",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
           "fullMarkdownContent": "",
@@ -255,18 +35,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.319803+00:00",
-      "id": "art_b07f17ea78",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.177005+00:00",
+      "id": "art_2fe0857df3",
+      "title": "Tiruchi Junction, Chidambaram among 103 heritage stations identified by the Railway Board",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/swgarg/article71368231.ece/alternates/LANDSCAPE_1200/shigella.jpg"
+      "heroImageUrl": "https://th-i.thgim.com/public/news/cities/Tiruchirapalli/ka3p6r/article71364940.ece/alternates/LANDSCAPE_1200/IMG-20260819-WA0177.jpg"
     },
     {
       "tags": [
@@ -275,21 +55,109 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "Rahul Gandhi wants monitoring of colleagues after Kharge laments their silence on Haldwani \u2018purification ritual\u2019. The closed-door CWC meeting also witnessed a difference of opinion between senior leader Manish Tewari and Mr. Gandhi over the issue of recent students\u2019 protests",
       "divergenceScore": 0,
-      "summary": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal. Here is a collection of articles from The Hindu as governments in Keralam, Puducherry, Tamil Nadu and West Bengal complete 100 days in power",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Here is a collection of articles from The Hindu as governments in Keralam, Puducherry,.",
+            "The closed-door CWC meeting also witnessed a difference of opinion between senior leader Manish Tewari and Mr.",
+            "Gandhi over the issue of recent students\u2019 protests"
+          ],
+          "stanceTitle": "Rahul Gandhi wants monitoring of colleagues after Kharge laments their silence on Haldwani \u2018purification ritual\u2019",
+          "type": "directReport",
+          "summary": "Rahul Gandhi wants monitoring of colleagues after Kharge laments their silence on Haldwani \u2018purification ritual\u2019. The closed-door CWC meeting also witnessed a difference of opinion between senior leader Manish Tewari and Mr. Gandhi over the issue of recent students\u2019 protests",
+          "id": "p_art_6947988ddd_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.103147+00:00",
+      "id": "art_6947988ddd",
+      "title": "Rahul Gandhi wants monitoring of colleagues after Kharge laments their silence on Haldwani \u2018pur",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/1ww7su/article71367713.ece/alternates/LANDSCAPE_1200/CONGRESS%20CWC%20MEETING%20%20202619_08_27.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Kasaragod Collector proposes Periye as AIIMS site, submits report to Keralam govt.. Central requirements include a minimum of 200 acres of land at a suitable location, road connectivity, adequate availability of water and electricity and land and infrastructure facilities. Collector Arjun Pandian says the site meets all requirements.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Central requirements include a minimum of 200 acres of land at a suitable location,.",
+            "Collector Arjun Pandian says the site meets all requirements."
+          ],
+          "stanceTitle": "Kasaragod Collector proposes Periye as AIIMS site, submits report to Keralam govt.",
+          "type": "directReport",
+          "summary": "Kasaragod Collector proposes Periye as AIIMS site, submits report to Keralam govt.. Central requirements include a minimum of 200 acres of land at a suitable location, road connectivity, adequate availability of water and electricity and land and infrastructure facilities. Collector Arjun Pandian says the site meets all requirements.",
+          "id": "p_art_c87b5dd611_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.031646+00:00",
+      "id": "art_c87b5dd611",
+      "title": "Kasaragod Collector proposes Periye as AIIMS site, submits report to Keralam govt.",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/tj3hm/article71365739.ece/alternates/LANDSCAPE_1200/State-revenue-aGHIFKBTTL.3.jpg.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "2,000 Onam markets planned under Agriculture department in Keralam. Keralam government has sanctioned \u20b910.24 crore for operating the markets under a Market Intervention Support for Price Stabilisation scheme",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Keralam government has sanctioned \u20b910.24 crore for operating the markets under a Market Intervention.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal",
+          "stanceTitle": "2,000 Onam markets planned under Agriculture department in Keralam",
           "type": "directReport",
+          "summary": "2,000 Onam markets planned under Agriculture department in Keralam. Keralam government has sanctioned \u20b910.24 crore for operating the markets under a Market Intervention Support for Price Stabilisation scheme",
+          "id": "p_art_5a6163c4a5_1",
           "sourceName": "The Hindu National",
-          "id": "p_art_a9139045a0_1",
-          "summary": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal. Here is a collection of articles from The Hindu as governments in Keralam, Puducherry, Tamil Nadu and West Bengal complete 100 days in power",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
           "fullMarkdownContent": "",
@@ -299,18 +167,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.279298+00:00",
-      "id": "art_a9139045a0",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.021143+00:00",
+      "id": "art_5a6163c4a5",
+      "title": "2,000 Onam markets planned under Agriculture department in Keralam",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/60tunh/article71368274.ece/alternates/LANDSCAPE_1200/20260504469L.jpg"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/n4vub1/article71368769.ece/alternates/LANDSCAPE_1200/Vegetable03.jpg"
     },
     {
       "tags": [
@@ -319,373 +187,154 @@
         "Trending"
       ],
       "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T14:11:38.956717+00:00",
       "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966). The RSS rose amid India\u2019s battle to overthrow the British Raj, with the aim of establishing a \u2018Hindu nation\u2019 via cultural and religious revival",
+      "divergenceScore": 88,
+      "summary": "- Six-year-old Pranay Teja died after collapsing at Little Garden School in Visakhapatnam - Family alleges teacher beat him for not completing homework - CCTV footage shows the teacher hitting the child before he collapsed A six-year-old boy has died at a private school in Visakhapatnam, with his family alleging he was beaten by a.",
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The RSS rose amid India\u2019s battle to overthrow the British Raj, with the aim.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966)",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_be863b504f_1",
-          "summary": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966). The RSS rose amid India\u2019s battle to overthrow the British Raj, with the aim of establishing a \u2018Hindu nation\u2019 via cultural and religious revival",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966)",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.272997+00:00",
-      "id": "art_be863b504f",
       "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T11:38:22.016110+00:00",
+      "id": "art_5280a95e58",
+      "title": "On Camera, 6-Year-Old Falls Face First, Dies After Being Slapped By Teacher",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d4scim/article69822616.ece/alternates/LANDSCAPE_1200/RSS%20Title%20image%201.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Patna High Court goes hard on noise pollution. Expressing concern over road accidents and public inconvenience caused by pressure horns, the court directed police officials to issue challans (fines) under Section 190(2) of the Motor Vehicles Act, 1988.",
-      "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Expressing concern over road accidents and public inconvenience caused by pressure horns, the court.",
-            "Key analytical takeaway and operational overview."
+            "The family of the child, Pranay Teja, said he collapsed after being beaten by.",
+            "He was taken to King George Hospital (KGH), where doctors declared him dead."
           ],
-          "stanceTitle": "Patna High Court goes hard on noise pollution",
+          "stanceTitle": "On Camera, 6-Year-Old Falls Face First, Dies After Being Slapped By Teacher",
           "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_8eab514fd3_1",
-          "summary": "Patna High Court goes hard on noise pollution. Expressing concern over road accidents and public inconvenience caused by pressure horns, the court directed police officials to issue challans (fines) under Section 190(2) of the Motor Vehicles Act, 1988.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Patna High Court goes hard on noise pollution",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.250712+00:00",
-      "id": "art_8eab514fd3",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/q6l9hu/article71368267.ece/alternates/LANDSCAPE_1200/iStock-1615644280.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education. Rajiv Gandhi\u2019s government lowered the voting age to 18, established C-DOT to develop telecom technology and introduced the National Policy on Education in 1986.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Rajiv Gandhi\u2019s government lowered the voting age to 18, established C-DOT to develop telecom.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_291019af5f_1",
-          "summary": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education. Rajiv Gandhi\u2019s government lowered the voting age to 18, established C-DOT to develop telecom technology and introduced the National Policy on Education in 1986.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.229683+00:00",
-      "id": "art_291019af5f",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/rs1ivk/article71367963.ece/alternates/LANDSCAPE_1200/image.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal. Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns over Chinese military activity in the Upper Subansiri region of Arunachal Pradesh",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_781c5c6ad9_1",
-          "summary": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal. Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns over Chinese military activity in the Upper Subansiri region of Arunachal Pradesh",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese in",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.225360+00:00",
-      "id": "art_781c5c6ad9",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/oyhtn/article71368124.ece/alternates/LANDSCAPE_1200/20260817369L.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row. One of the protestors, Advocate Umesh Kumar, questioned the Chairman\u2019s record on lawyer welfare; he accused Mr. Mishra of spearheading \u201cpolitical agendas\u201d while staying silent on issues of lawyers",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "One of the protestors, Advocate Umesh Kumar, questioned the Chairman\u2019s record on lawyer welfare;.",
-            "Mishra of spearheading \u201cpolitical agendas\u201d while staying silent on issues of lawyers"
-          ],
-          "stanceTitle": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_2a209394db_1",
-          "summary": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row. One of the protestors, Advocate Umesh Kumar, questioned the Chairman\u2019s record on lawyer welfare; he accused Mr. Mishra of spearheading \u201cpolitical agendas\u201d while staying silent on issues of lawyers",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.186886+00:00",
-      "id": "art_2a209394db",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ioznvn/article71368167.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2012.20.41%20PM.jpeg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "India, Japan sign maritime security pact to deepen defence cooperation. Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s recent review of its defence equipment and technology transfer framework",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "India, Japan sign maritime security pact to deepen defence cooperation",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_83137bf21b_1",
-          "summary": "India, Japan sign maritime security pact to deepen defence cooperation. Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s recent review of its defence equipment and technology transfer framework",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "India, Japan sign maritime security pact to deepen defence cooperation",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.173970+00:00",
-      "id": "art_83137bf21b",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/f87frn/article71368370.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000151B.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed. Applicants list to be displayed online from the evening on August 21. Objections can be raised till the evening on August 23.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Applicants list to be displayed online from the evening on August 21.",
-            "Objections can be raised till the evening on August 23."
-          ],
-          "stanceTitle": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_edd6831782_1",
-          "summary": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed. Applicants list to be displayed online from the evening on August 21. Objections can be raised till the evening on August 23.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.154500+00:00",
-      "id": "art_edd6831782",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/cities/Hyderabad/59u1ta/article71368355.ece/alternates/LANDSCAPE_1200/Application%20status.png"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat. The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The committee was formed after Odisha Human Rights Commission directed to do so.",
-            "Villagers had alleged that relocation was forcible and their consent was manufactured"
-          ],
-          "stanceTitle": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
-          "type": "directReport",
-          "sourceName": "The Hindu National",
-          "id": "p_art_df89f7a89c_1",
-          "summary": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat. The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.135454+00:00",
-      "id": "art_df89f7a89c",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/euc6si/article71368330.ece/alternates/LANDSCAPE_1200/90092_4_3_2025_16_55_27_1_DAILY_LIFE_2.JPG"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Four family members died after their car plunged into a well in Telangana's Siddipet district - The victims were identified as Raju, his wife Bhagya, and their two young children Niyansh and Shanvika - The family was returning from a relative\u2019s death ceremony when the accident occurred near Appanapalli Four members of a family,.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The accident occurred near Appanapalli village in Dubbak Mandal late on Wednesday night.",
-            "The victims were identified as Raju (35), his wife Bhagya (22), their five-year-old son."
-          ],
-          "stanceTitle": "Couple, 2 Children Killed As Car Veers Off Road, Falls Into Well In Telangana",
-          "type": "directReport",
+          "summary": "- Six-year-old Pranay Teja died after collapsing at Little Garden School in Visakhapatnam - Family alleges teacher beat him for not completing homework - CCTV footage shows the teacher hitting the child before he collapsed A six-year-old boy has died at a private school in Visakhapatnam, with his family alleging he was beaten by a.",
+          "id": "p_art_5280a95e58_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_acb6e21630_1",
-          "summary": "- Four family members died after their car plunged into a well in Telangana's Siddipet district - The victims were identified as Raju, his wife Bhagya, and their two young children Niyansh and Shanvika - The family was returning from a relative\u2019s death ceremony when the accident occurred near Appanapalli Four members of a family,.",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/national/andhra-pradesh/djob2h/article71368798.ece/alternates/LANDSCAPE_1200/Untitled%20design1.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-national\u2019. Home Minister says Congress\u2019s decision to render only the first two stanzas of Vande Mataram reflects \u201cappeasement politics\u201d and alleges that the 1937 resolution laid the foundation for Partition",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Home Minister says Congress\u2019s decision to render only the first two stanzas of Vande.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-national\u2019",
+          "type": "directReport",
+          "summary": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-national\u2019. Home Minister says Congress\u2019s decision to render only the first two stanzas of Vande Mataram reflects \u201cappeasement politics\u201d and alleges that the 1937 resolution laid the foundation for Partition",
+          "id": "p_art_522c903af8_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.951694+00:00",
+      "id": "art_522c903af8",
+      "title": "Amit Shah says Congress\u2019s decision on rendering first two stanzas of Vande Mataram is \u2018anti-nat",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wiasvv/article71368658.ece/alternates/LANDSCAPE_1200/TH16-Shiv-IqbalGT3GDG539.3.jpg.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Police cannot investigate offences under PCPNDT Act: Supreme Court. The PCPNDT Act was enacted with the intent to prohibit the use of prenatal diagnostic techniques for determination of the sex of the foetus",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The PCPNDT Act was enacted with the intent to prohibit the use of prenatal.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Police cannot investigate offences under PCPNDT Act: Supreme Court",
+          "type": "directReport",
+          "summary": "Police cannot investigate offences under PCPNDT Act: Supreme Court. The PCPNDT Act was enacted with the intent to prohibit the use of prenatal diagnostic techniques for determination of the sex of the foetus",
+          "id": "p_art_6a0702ce03_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.890699+00:00",
+      "id": "art_6a0702ce03",
+      "title": "Police cannot investigate offences under PCPNDT Act: Supreme Court",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/8tt6um/article70298070.ece/alternates/LANDSCAPE_1200/vbk-stock-supreme%20court-sc4-2019-02-12T155705Z_468587102_RC1D209BE9D0_RTRMADP_3_INDIA-COURT.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Belated income tax returns for AY 2026-27 can be filed until December 31, 2026 - Late filing incurs Rs 5,000 fee or Rs 1,000 if income is below Rs 5 lakh plus 1% interest - Late filers lose benefits like carrying forward capital, business, and F&O losses Income Tax Return 2025-26: Missing the July.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "For Assessment Year 2026-27, a belated return can still be filed until December 31, 2026.",
+            "But delaying the filing can have consequences that go well beyond the late fee."
+          ],
+          "stanceTitle": "Missed ITR Deadline? How To Claim Refund And Fix Mistakes Before December 31",
+          "type": "directReport",
+          "summary": "- Belated income tax returns for AY 2026-27 can be filed until December 31, 2026 - Late filing incurs Rs 5,000 fee or Rs 1,000 if income is below Rs 5 lakh plus 1% interest - Late filers lose benefits like carrying forward capital, business, and F&O losses Income Tax Return 2025-26: Missing the July.",
+          "id": "p_art_6f20207b4d_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
           "fullMarkdownContent": "",
@@ -695,18 +344,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "Couple, 2 Children Killed As Car Veers Off Road, Falls Into Well In Telangana",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.119984+00:00",
-      "id": "art_acb6e21630",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.867296+00:00",
+      "id": "art_6f20207b4d",
+      "title": "Missed ITR Deadline? How To Claim Refund And Fix Mistakes Before December 31",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/h11ktktg_siddipet-accicdent-_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/0ukicih_income-tax-efiling-portal-faces-glitches-as-taxpayers-rush-to-file-itr-before-july-31_625x300_24_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -715,21 +364,21 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question UPI's whole miracle was the Rs 30 payment it charged nothing for. But how long can it stay free? Parliament has reopened a question that the country thought was settled: should UPI ever charge?",
       "divergenceScore": 0,
-      "summary": "- Social media creators in Bihar can earn up to Rs 1 lakh per video on government schemes - Videos with 1 lakh views in 30 days will earn creators Rs 10,000 under the new policy - The policy was approved in a cabinet meeting chaired by Chief Minister Samrat Choudhary Social media creators and.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Under the new policy, which was approved during a cabinet meeting chaired by Chief.",
-            "If a video receives one lakh views within 30 days, the creator will receive Rs 10,000."
+            "But how long can it stay free?",
+            "Parliament has reopened a question that the country thought was settled: should UPI ever charge?"
           ],
-          "stanceTitle": "Rs 1 Lakh For Video With A Lakh Views: Bihar's New Initiative For Influencers",
+          "stanceTitle": "Opinion: Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question",
           "type": "directReport",
+          "summary": "Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question UPI's whole miracle was the Rs 30 payment it charged nothing for. But how long can it stay free? Parliament has reopened a question that the country thought was settled: should UPI ever charge?",
+          "id": "p_art_373e77a35c_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_0d7b612fdc_1",
-          "summary": "- Social media creators in Bihar can earn up to Rs 1 lakh per video on government schemes - Videos with 1 lakh views in 30 days will earn creators Rs 10,000 under the new policy - The policy was approved in a cabinet meeting chaired by Chief Minister Samrat Choudhary Social media creators and.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
           "fullMarkdownContent": "",
@@ -739,18 +388,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "Rs 1 Lakh For Video With A Lakh Views: Bihar's New Initiative For Influencers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.096427+00:00",
-      "id": "art_0d7b612fdc",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.795454+00:00",
+      "id": "art_373e77a35c",
+      "title": "Opinion: Opinion | India's UPI Crore Has Created A Difficult, Rs 20,000-Crore Question",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/8n5263rc_social-media-influencers_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2023-03/v61ii0fg_upipayments_640x480_30_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -759,21 +408,21 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "- US Ambassador Sergio Gor began a two-day Ladakh visit with private sightseeing in the Himalayas - This is the first top US diplomat visit to Ladakh since it became a separate union territory in 2019 - The US supported India after 2020 Galwan clashes and provided strategic defense assistance US ambassador to India, Sergio.",
       "divergenceScore": 0,
-      "summary": "North Korea said Wednesday that a US decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The powerful sister of North Korean leader Kim Jong Un made the comments Wednesday.",
-            "\"We think it's not worth making comments on that and we have no interest."
+            "This is the first visit of any top US diplomat to Ladakh after the.",
+            "Gor's Ladakh visit is being closely watched since the US had strongly backed India."
           ],
-          "stanceTitle": "\"Have No Interest\": North Korea On Trump's Scaled-Back Drills With South Korea",
+          "stanceTitle": "Top US Diplomat Arrives In Ladakh, 1st Such Visit Since Galwan Clashes",
           "type": "directReport",
+          "summary": "- US Ambassador Sergio Gor began a two-day Ladakh visit with private sightseeing in the Himalayas - This is the first top US diplomat visit to Ladakh since it became a separate union territory in 2019 - The US supported India after 2020 Galwan clashes and provided strategic defense assistance US ambassador to India, Sergio.",
+          "id": "p_art_de6005836b_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_91295e515d_1",
-          "summary": "North Korea said Wednesday that a US decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
           "fullMarkdownContent": "",
@@ -783,18 +432,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "\"Have No Interest\": North Korea On Trump's Scaled-Back Drills With South Korea",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.093742+00:00",
-      "id": "art_91295e515d",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.732294+00:00",
+      "id": "art_de6005836b",
+      "title": "Top US Diplomat Arrives In Ladakh, 1st Such Visit Since Galwan Clashes",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/o2rec3eo_donald-trump_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/4dphchpc_sergio-gor_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -803,21 +452,21 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "- Rajnath Singh said close alignment between India's MAHASAGAR and Japan's FOIP is crucial now - India's maritime lifelines face growing vulnerabilities needing strategic focus - India expressed solidarity with Japan after Kumamoto earthquake disaster Emphasising the deep strategic interlinkages between the Indian and Pacific Oceans, Defence Minister Rajnath Singh on Thursday stated that a.",
       "divergenceScore": 0,
-      "summary": "- A 65-year-old woman was arrested for plotting her daughter-in-law's murder in Mumbai - She paid Rs 3 lakhs to her househelp and family to carry out the crime - The victim, Sapna Ganji, was found dead with suspicious injuries in Ghatkopar A 65-year-old woman was arrested for allegedly plotting the murder of her daughter-in-law.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The incident took place last week when the victim, Sapna Ganji, was found dead.",
-            "According to the police, the accused, identified as Dhanalakshmi Ganji, paid Rs 3 lakhs."
+            "India's MAHASAGAR vision expands to 'Mutual and Holistic Advancement for Security and Growth Across Regions'.",
+            "Delivering his opening remarks during a meeting with Japanese Defence Minister Shinjiro Koizumi in."
           ],
-          "stanceTitle": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
+          "stanceTitle": "Rajnath Singh's 'Mahasagar Vision' Mention In Talks With Japan Counterpart",
           "type": "directReport",
+          "summary": "- Rajnath Singh said close alignment between India's MAHASAGAR and Japan's FOIP is crucial now - India's maritime lifelines face growing vulnerabilities needing strategic focus - India expressed solidarity with Japan after Kumamoto earthquake disaster Emphasising the deep strategic interlinkages between the Indian and Pacific Oceans, Defence Minister Rajnath Singh on Thursday stated that a.",
+          "id": "p_art_8d834ad275_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_ad80ccc32e_1",
-          "summary": "- A 65-year-old woman was arrested for plotting her daughter-in-law's murder in Mumbai - She paid Rs 3 lakhs to her househelp and family to carry out the crime - The victim, Sapna Ganji, was found dead with suspicious injuries in Ghatkopar A 65-year-old woman was arrested for allegedly plotting the murder of her daughter-in-law.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
           "fullMarkdownContent": "",
@@ -827,18 +476,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.063026+00:00",
-      "id": "art_ad80ccc32e",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.722714+00:00",
+      "id": "art_8d834ad275",
+      "title": "Rajnath Singh's 'Mahasagar Vision' Mention In Talks With Japan Counterpart",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0siel4_mumbai_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/v8hup6p8_rajnath-singh-_625x300_20_August_26.jpeg"
     },
     {
       "tags": [
@@ -847,21 +496,21 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "- SBI changes free cash withdrawal counting from October 1, 2026 for BSBD accounts - Four free withdrawals remain, but digital and cash withdrawals count together now - Each withdrawal beyond four costs Rs 15 plus GST, applicable at any ATM or branch Starting October 1, 2026, State Bank of India is changing how it.",
       "divergenceScore": 0,
-      "summary": "- Kerala Excise seized 3.5 kg of MDMA, triggering a multi-state investigation - Eleven officers covered 15,000 km and tracked suspects across five states - Suspects used foreign WhatsApp numbers and Wi-Fi to evade mobile tracking When Kerala's Excise on April 23 seized nearly 3.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Here is the thrilling story that leads to the Nigerian national still out at large.",
-            "Shafeeq PK, 36, from Malappuram, and YouTube influencer Fathima Nasreen, 20, were arrested, but."
+            "If you hold a Basic Savings Bank Deposit (BSBD) account, you still get four free withdrawals every month.",
+            "But once you cross that line, every withdrawal after the fourth will cost you Rs 15, plus GST."
           ],
-          "stanceTitle": "3 kg Drugs And A Modified Creta: Major Network Busted In Kerala",
+          "stanceTitle": "SBI Cash Withdrawals To Get Costlier After 4 Free Uses. All You Need To Know",
           "type": "directReport",
+          "summary": "- SBI changes free cash withdrawal counting from October 1, 2026 for BSBD accounts - Four free withdrawals remain, but digital and cash withdrawals count together now - Each withdrawal beyond four costs Rs 15 plus GST, applicable at any ATM or branch Starting October 1, 2026, State Bank of India is changing how it.",
+          "id": "p_art_c5ebfac46b_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_539bc3b12c_1",
-          "summary": "- Kerala Excise seized 3.5 kg of MDMA, triggering a multi-state investigation - Eleven officers covered 15,000 km and tracked suspects across five states - Suspects used foreign WhatsApp numbers and Wi-Fi to evade mobile tracking When Kerala's Excise on April 23 seized nearly 3.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
           "fullMarkdownContent": "",
@@ -871,18 +520,370 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "3 kg Drugs And A Modified Creta: Major Network Busted In Kerala",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.047113+00:00",
-      "id": "art_539bc3b12c",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.710282+00:00",
+      "id": "art_c5ebfac46b",
+      "title": "SBI Cash Withdrawals To Get Costlier After 4 Free Uses. All You Need To Know",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/i46sn044_kerala-excise-drug-bust_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2018-10/3r60esig_sbi-atm_625x300_01_October_18.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Delhi Crime Branch arrested 17 in a racket dealing in illegal anti-cancer medicines across multiple states - The network sourced drugs via counterfeit means and diversion from hospitals and government institutions - Raids in Delhi and Navi Mumbai recovered medicines worth Rs 9 crore, cash, devices, and packaging materials The Delhi Crime Branch has.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The network, according to investigators, stretched across Delhi-NCR, Mumbai, Navi Mumbai, Hyderabad, Haryana, Uttar.",
+            "Police suspect that the racket was dealing not only in counterfeit medicines but also."
+          ],
+          "stanceTitle": "Delhi Police Busts Rs 9-Crore Anti-Cancer Drug Racket, 17 Arrested",
+          "type": "directReport",
+          "summary": "- Delhi Crime Branch arrested 17 in a racket dealing in illegal anti-cancer medicines across multiple states - The network sourced drugs via counterfeit means and diversion from hospitals and government institutions - Raids in Delhi and Navi Mumbai recovered medicines worth Rs 9 crore, cash, devices, and packaging materials The Delhi Crime Branch has.",
+          "id": "p_art_36c91edb21_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.647568+00:00",
+      "id": "art_36c91edb21",
+      "title": "Delhi Police Busts Rs 9-Crore Anti-Cancer Drug Racket, 17 Arrested",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0vs5068_anticancer-drug-racket_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Suraj Subhash Shinde, a 19-year-old Maharashtra student, died by suicide at home - He was preparing for the NEET medical entrance exam - The student left a note promising to become a doctor in the next life and asked parents to stay happy He will definitely become a doctor in the next life, a.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The student was found dead at his home in Khandala, located in the Vaijapur.",
+            "He has been identified as Suraj Subhash Shinde."
+          ],
+          "stanceTitle": "\"Will Become Doctor In Next Life\": 19-Year-Old NEET Aspirant Dies By Suicide",
+          "type": "directReport",
+          "summary": "- Suraj Subhash Shinde, a 19-year-old Maharashtra student, died by suicide at home - He was preparing for the NEET medical entrance exam - The student left a note promising to become a doctor in the next life and asked parents to stay happy He will definitely become a doctor in the next life, a.",
+          "id": "p_art_dc1e646bf1_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.598906+00:00",
+      "id": "art_dc1e646bf1",
+      "title": "\"Will Become Doctor In Next Life\": 19-Year-Old NEET Aspirant Dies By Suicide",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lvuvth4g_student-note-_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- The Supreme Court ruled that the senior's stern behaviour alone cannot establish abetment of suicide - Criminal liability requires proximate act with intent to drive subordinate to suicide, not just harsh conduct - The court discharged a senior forest officer accused in a suicide case due to a lack of statutory ingredients The Supreme.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The top court said that no matter how unpleasant a superior's actions may have.",
+            "A bench of Justices Satish Chandra Sharma and N Kotiswar Singh said there must."
+          ],
+          "stanceTitle": "Stern Behaviour By Boss Can't Be Considered Abetment Of Suicide: Top Court",
+          "type": "directReport",
+          "summary": "- The Supreme Court ruled that the senior's stern behaviour alone cannot establish abetment of suicide - Criminal liability requires proximate act with intent to drive subordinate to suicide, not just harsh conduct - The court discharged a senior forest officer accused in a suicide case due to a lack of statutory ingredients The Supreme.",
+          "id": "p_art_02f0fb9115_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.547828+00:00",
+      "id": "art_02f0fb9115",
+      "title": "Stern Behaviour By Boss Can't Be Considered Abetment Of Suicide: Top Court",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2022-02/a1ooga8_supreme-court-of-india_650x400_14_February_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Prominent Hindi YouTuber Pragya Mishra shared the shocking news of her sister having been shot in Lucknow outside the ICICI Bank branch where she worked, allegedly by the latter's husband who later killed his own sister and himself, around noon on Thursday. \"Just got a call that my sister has been shot in Gomti Nagar...",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\"Just got a call that my sister has been shot in Gomti Nagar...",
+            "She is in Lohia (hospital in Lucknow)."
+          ],
+          "stanceTitle": "\"My Sister Has Been Shot\": YouTuber Pragya Mishra Mentioned In Killer Brother-In-Law's WhatsApp Status",
+          "type": "directReport",
+          "summary": "Prominent Hindi YouTuber Pragya Mishra shared the shocking news of her sister having been shot in Lucknow outside the ICICI Bank branch where she worked, allegedly by the latter's husband who later killed his own sister and himself, around noon on Thursday. \"Just got a call that my sister has been shot in Gomti Nagar...",
+          "id": "p_art_ba1e068bfb_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.467482+00:00",
+      "id": "art_ba1e068bfb",
+      "title": "\"My Sister Has Been Shot\": YouTuber Pragya Mishra Mentioned In Killer Brother-In-Law's WhatsApp",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/nopdid4g_pragya-mishra_625x300_20_August_26.jpeg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The Supreme Court on Thursday constituted a five-member High-Powered Expert Committee (HPEC) to examine allegations of excessive and disproportionate use of force by the police, paramilitary forces, and other security personnel against peaceful protesters assembled at Jantar Mantar in Delhi and other states against the NEET paper leak.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The committe is headed by former top court judge Justice R Subhash Reddy.",
+            "A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana."
+          ],
+          "stanceTitle": "Supreme Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
+          "type": "directReport",
+          "summary": "The Supreme Court on Thursday constituted a five-member High-Powered Expert Committee (HPEC) to examine allegations of excessive and disproportionate use of force by the police, paramilitary forces, and other security personnel against peaceful protesters assembled at Jantar Mantar in Delhi and other states against the NEET paper leak.",
+          "id": "p_art_680f488b21_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.405863+00:00",
+      "id": "art_680f488b21",
+      "title": "Supreme Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/ogpjosl_protest-_625x300_21_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Jackie Shroff and Anil Kapoor did not charge for 1942: A Love Story initially - Shroff broke his ankle on the first day of shooting without realizing it - The film blends romance with patriotism set during the 1942 Quit India movement Times were different back in 1994.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Romance and patriotism had a very different marination done to them, and that gave.",
+            "A powerful cast led by Anil Kapoor, Manisha Koirala, Jackie Shroff, Anupam Kher, and Danny Denzongpa."
+          ],
+          "stanceTitle": "'Kaat Paisa': Why Jackie Shroff Worked For 'Free' On 1942: A Love Story",
+          "type": "directReport",
+          "summary": "- Jackie Shroff and Anil Kapoor did not charge for 1942: A Love Story initially - Shroff broke his ankle on the first day of shooting without realizing it - The film blends romance with patriotism set during the 1942 Quit India movement Times were different back in 1994.",
+          "id": "p_art_095794671f_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.391102+00:00",
+      "id": "art_095794671f",
+      "title": "'Kaat Paisa': Why Jackie Shroff Worked For 'Free' On 1942: A Love Story",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2uc998g_love-story_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Yami Gautam announced her new film Nayyi Navelli, directed by Balaji Mohan and produced by Aanand L Rai. - The film Nayyi Navelli will be released in cinemas and streamed on Amazon Prime. - Yami Gautam revealed she nearly quit acting before her success with Uri: The Surgical Strike in 2019.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- The film Nayyi Navelli will be released in cinemas and streamed on Amazon Prime.",
+            "- Yami Gautam revealed she nearly quit acting before her success with Uri: The Surgical Strike in 2019."
+          ],
+          "stanceTitle": "Nayyi Navelli: Aditya Dhar Teases Yami Gautam About Daayan Role",
+          "type": "directReport",
+          "summary": "- Yami Gautam announced her new film Nayyi Navelli, directed by Balaji Mohan and produced by Aanand L Rai. - The film Nayyi Navelli will be released in cinemas and streamed on Amazon Prime. - Yami Gautam revealed she nearly quit acting before her success with Uri: The Surgical Strike in 2019.",
+          "id": "p_art_a548753c1d_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.298313+00:00",
+      "id": "art_a548753c1d",
+      "title": "Nayyi Navelli: Aditya Dhar Teases Yami Gautam About Daayan Role",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/oe0d244s_aditya-_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Sunny Deol and Shabana Azmi starred together in Batwara 1947 - In 2001, Shabana Azmi criticised Sunny Deol's film Gadar: Ek Prem Katha for its portrayal - She said the film confused nationalism with religion Sunny Deol and Shabana Azmi recently shared screen space in Batwara 1947.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The film released in theatres on August 14.",
+            "The two actors may now have worked together, but they had a different equation back in 2001."
+          ],
+          "stanceTitle": "When Sunny Deol Called Out Shabana Azmi For Calling Gadar A 'Provocative' Film",
+          "type": "directReport",
+          "summary": "- Sunny Deol and Shabana Azmi starred together in Batwara 1947 - In 2001, Shabana Azmi criticised Sunny Deol's film Gadar: Ek Prem Katha for its portrayal - She said the film confused nationalism with religion Sunny Deol and Shabana Azmi recently shared screen space in Batwara 1947.",
+          "id": "p_art_63e757147f_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.152741+00:00",
+      "id": "art_63e757147f",
+      "title": "When Sunny Deol Called Out Shabana Azmi For Calling Gadar A 'Provocative' Film",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/5thh6u5s_batwara-1947_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
     }
   ]
 }

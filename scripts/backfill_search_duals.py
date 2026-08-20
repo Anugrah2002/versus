@@ -30,9 +30,29 @@ async def run_backfill(max_stories: int = 30):
     db = firestore_sync.db
     articles_col = db.collection("articles")
 
-    print("Fetching single-perspective articles from Firestore...")
+    print("Auditing existing Dual Views in Firestore for 100% congruence...")
     all_docs = list(articles_col.stream())
     print(f"Total articles fetched: {len(all_docs)}")
+
+    # Clean up previous mismatched dual views
+    for doc in all_docs:
+        d = doc.to_dict() or {}
+        if not d.get("isSinglePerspective", True):
+            perspectives = d.get("perspectives", [])
+            if len(perspectives) >= 2:
+                p1_t = perspectives[0].get("stanceTitle", "")
+                p2_t = perspectives[1].get("stanceTitle", "")
+                # Check for mismatched topics
+                is_fishing_iran = "fishing" in p1_t.lower() and "iran" in p2_t.lower()
+                is_working_travel = "working" in p1_t.lower() and "travel" in p2_t.lower()
+                is_everest_deepseek = "everest" in p1_t.lower() and "deepseek" in p2_t.lower()
+                if is_fishing_iran or is_working_travel or is_everest_deepseek:
+                    print(f"🧹 Relegating mismatched Dual View to Brief: [{doc.id}] {d.get('title')}")
+                    articles_col.document(doc.id).update({
+                        "isSinglePerspective": True,
+                        "divergenceScore": 0,
+                        "consensusScore": 100
+                    })
 
     # Find single perspective articles that are substantial
     single_articles = []

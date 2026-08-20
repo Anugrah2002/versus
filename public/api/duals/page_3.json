@@ -1,9 +1,314 @@
 {
-  "page": 4,
-  "total_pages": 15,
-  "total_articles": 300,
+  "page": 3,
+  "total_pages": 6,
+  "total_articles": 110,
   "has_more": true,
   "articles": [
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "And the hype is already spilling into the real world: One U.S.",
+            "Army unit in Fort Stewart, Georgia is offering active-duty soldiers a four-day pass to."
+          ],
+          "stanceTitle": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter week to steal cars in the lo",
+          "type": "viewpoint1",
+          "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
+          "id": "p_art_8bf1521629_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        },
+        {
+          "keyPoints": [
+            "Here\u2019s why - The Indian Express.",
+            "Pakistan and Philippines announce 4-day work week."
+          ],
+          "stanceTitle": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
+          "type": "viewpoint2",
+          "summary": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express. Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
+          "id": "p_art_8bf1521629_2",
+          "sourceName": "Indian Express",
+          "quoteAuthor": "",
+          "biasTag": "Investigative Journalism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "indianexpress.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.950293+00:00",
+      "id": "art_8bf1521629",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter wee",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Orthopaedic surgeon KJ Reddy, who specialises in knee, hip and sports injuries, posted a.",
+            "He wrote that it was a pleasure knowing Prabhas and described him as \"warm and gracious\"."
+          ],
+          "stanceTitle": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
+          "type": "viewpoint1",
+          "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
+          "id": "p_art_672f718616_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
+          "type": "viewpoint2",
+          "summary": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION. Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
+          "id": "p_art_672f718616_2",
+          "sourceName": "WION",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "wionews.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.948213+00:00",
+      "id": "art_672f718616",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2tkaar8s_prabhas_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Social Media Posts Go Viral.",
+            "IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his."
+          ],
+          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
+          "type": "viewpoint1",
+          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
+          "id": "p_art_dbaea3e258_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Social Media Posts Go Viral.",
+            "Here's What FDA Chief Says - NDTV Profit."
+          ],
+          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
+          "type": "viewpoint2",
+          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit. Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
+          "id": "p_art_dbaea3e258_2",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.945762+00:00",
+      "id": "art_dbaea3e258",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cp9tu4mo_tukaram-mundhe_625x300_20_August_26.png"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine.",
+            "Langer, known as the \u201cEdison of Medicine,\u201d witnessed his equity in the biotech business."
+          ],
+          "stanceTitle": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-paying job offers to \u2018have mo",
+          "type": "viewpoint1",
+          "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
+          "id": "p_art_93e26acd1a_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        },
+        {
+          "keyPoints": [
+            "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
+          "type": "viewpoint2",
+          "summary": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com. Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
+          "id": "p_art_93e26acd1a_2",
+          "sourceName": "Livemint",
+          "quoteAuthor": "",
+          "biasTag": "Financial & Policy",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "livemint.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.765751+00:00",
+      "id": "art_93e26acd1a",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-payi",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\u201cI feel good,\u201d she says.",
+            "\u201cI don\u2019t know if excited is the right word, but I feel good.\u201d Ogwumike, 36, was the league\u2019s No."
+          ],
+          "stanceTitle": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the players",
+          "type": "viewpoint1",
+          "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
+          "id": "p_art_21577e0cef_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        },
+        {
+          "keyPoints": [
+            "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish ",
+          "type": "viewpoint2",
+          "summary": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal. Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal",
+          "id": "p_art_21577e0cef_2",
+          "sourceName": "Swish Appeal",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "swishappeal.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.761436+00:00",
+      "id": "art_21577e0cef",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the pla",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291227081.jpg?resize=1200,600"
+    },
     {
       "videoDuration": "02:45",
       "tags": [
@@ -918,311 +1223,6 @@
       "isSinglePerspective": false,
       "sharesCount": 0,
       "heroImageUrl": "https://th-i.thgim.com/public/incoming/f82u1t/article68937648.ece/alternates/LANDSCAPE_1200/IMG-20241112-WA0004.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Sajjan Kumar had been in custody since December 2018, when he surrendered following the.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Sajjan Kumar: From Congress veteran to convict",
-          "type": "viewpoint1",
-          "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
-          "id": "p_art_e73d1f8637_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        },
-        {
-          "keyPoints": [
-            "From 3-time Congress MP to 1984 riots convict - The Times of India",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Who was Sajjan Kumar? From 3-time Congress MP to 1984 riots convict - The Times of India",
-          "type": "viewpoint2",
-          "summary": "From 3-time Congress MP to 1984 riots convict - The Times of India. From 3-time Congress MP to 1984 riots convict - The Times of India",
-          "id": "p_art_e73d1f8637_2",
-          "sourceName": "Times of India",
-          "quoteAuthor": "",
-          "biasTag": "Mainstream National",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "timesofindia.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.300794+00:00",
-      "id": "art_e73d1f8637",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Sajjan Kumar: From Congress veteran to convict",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/sc0pl6/article71368894.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000155B.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The denial came two days after Syria accused Israel of hitting a disused military.",
-            "Israel said a Turkish military delegation had recently visited the site, with a Syrian."
-          ],
-          "stanceTitle": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
-          "type": "viewpoint1",
-          "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
-          "id": "p_art_8c8c7b49a1_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "The denial came two days after Syria accused Israel of hitting a disused military.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Turkiye denies military visit to Syria air base hit by Israel",
-          "type": "viewpoint2",
-          "summary": "Turkiye denies military visit to Syria air base hit by Israel. The denial came two days after Syria accused Israel of hitting a disused military air base near the northwestern city of Aleppo that was damaged during the civil war",
-          "id": "p_art_8c8c7b49a1_2",
-          "sourceName": "The Hindu World",
-          "quoteAuthor": "",
-          "biasTag": "Institutional Diplomacy",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.260489+00:00",
-      "id": "art_8c8c7b49a1",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/dlh1b2/article71369697.ece/alternates/LANDSCAPE_1200/2026-08-20T125909Z_971278450_RC2B2NAQBJ9Q_RTRMADP_3_ISRAEL-SYRIA-TURKEY-SECURITY-MINISTRY.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "As emergency teams work to rescue those trapped, the rains and cool weather have.",
-            "The blaze in Belgium erupted following an intense heatwave with temperatures reaching 37 degrees."
-          ],
-          "stanceTitle": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
-          "type": "viewpoint1",
-          "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
-          "id": "p_art_d1e06ec26c_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
-          "type": "viewpoint2",
-          "summary": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review. What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
-          "id": "p_art_d1e06ec26c_2",
-          "sourceName": "MIT Technology Review",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "technologyreview.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.216863+00:00",
-      "id": "art_d1e06ec26c",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/38g55go8_uk-wildfire_625x300_14_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The incident took place Thursday afternoon on a Churchgate-Borivali local between Mahim and Bandra stations.",
-            "The victim suffered severe injuries after falling from the moving train."
-          ],
-          "stanceTitle": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
-          "type": "viewpoint1",
-          "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
-          "id": "p_art_b5221c6407_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
-          "type": "viewpoint2",
-          "summary": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18. 62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
-          "id": "p_art_b5221c6407_2",
-          "sourceName": "News18",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "news18.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.205777+00:00",
-      "id": "art_b5221c6407",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/f9hoc308_mumbai-locals_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Police first received word of a JCB theft in the Khallikote police station area on August 14.",
-            "What followed was an extended pursuit, with teams from four different police stations, Khallikote,."
-          ],
-          "stanceTitle": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
-          "type": "viewpoint1",
-          "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
-          "id": "p_art_f2db45277d_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "#manchestereveningnews #fails #cctv - facebook.com.",
-            "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting."
-          ],
-          "stanceTitle": "Manchester Evening News. . Oops! \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningn",
-          "type": "viewpoint2",
-          "summary": "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com. \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com",
-          "id": "p_art_f2db45277d_2",
-          "sourceName": "facebook.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "facebook.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.148481+00:00",
-      "id": "art_f2db45277d",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/df0fa5qo_jcb_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     }
   ]
 }

@@ -6,312 +6,416 @@
   "articles": [
     {
       "tags": [
-        "Automotive & Energy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "This New App Puts 200,000 EV Chargers Across North America in One Place The operators\u2019 original pricing is passed through with no markup on energy costs. There is one big caveat, though. - Octopus Energy has launched a new smartphone app that integrates over 200,000 individual EV chargers in North America.",
-      "divergenceScore": 0,
+      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+      "divergenceScore": 88,
       "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "There is one big caveat, though.",
-            "- Octopus Energy has launched a new smartphone app that integrates over 200,000 individual."
-          ],
-          "stanceTitle": "This New App Puts 200,000 EV Chargers Across North America in One Place",
-          "type": "directReport",
-          "summary": "This New App Puts 200,000 EV Chargers Across North America in One Place The operators\u2019 original pricing is passed through with no markup on energy costs. There is one big caveat, though. - Octopus Energy has launched a new smartphone app that integrates over 200,000 individual EV chargers in North America.",
-          "id": "p_art_bba97e6c3b_1",
-          "sourceName": "InsideEVs",
-          "quoteAuthor": "",
-          "biasTag": "EV Technology & Battery",
-          "sourceDomain": "insideevs.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "This New App Puts 200,000 EV Chargers Across North America in One Place",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:45.014765+00:00",
-      "id": "art_bba97e6c3b",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Automotive & Energy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://cdn.motor1.com/images/mgl/xq36VG/s1/octopus-energy-app.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Area affected by wildfires in Europe could almost triple due to climate change. Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributions from the Senckenberg Society for Nature Research.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires.",
-            "In a low-emissions scenario (SSP1-2.6), the researchers calculate that roughly 39% more land would."
-          ],
-          "stanceTitle": "Area affected by wildfires in Europe could almost triple due to climate change",
-          "type": "directReport",
-          "summary": "Area affected by wildfires in Europe could almost triple due to climate change. Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributions from the Senckenberg Society for Nature Research.",
-          "id": "p_art_483dee4abc_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "sourceDomain": "phys.org",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Area affected by wildfires in Europe could almost triple due to climate change",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.993346+00:00",
-      "id": "art_483dee4abc",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/wildfire-europe.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?. Here is a detailed look at the latest GMP and key IPO details for each issue.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Here is a detailed look at the latest GMP and key IPO details for each issue.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?",
-          "type": "directReport",
-          "summary": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?. Here is a detailed look at the latest GMP and key IPO details for each issue.",
-          "id": "p_art_22316b6285_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.926206+00:00",
-      "id": "art_22316b6285",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/n6h8kqt4_gmp_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing. Awarapan 2 leads at the box office; Batwara 1947 collections fall sharply",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Awarapan 2 leads at the box office; Batwara 1947 collections fall sharply",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing",
-          "type": "directReport",
-          "summary": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing. Awarapan 2 leads at the box office; Batwara 1947 collections fall sharply",
-          "id": "p_art_a6d350d4c7_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.923687+00:00",
-      "id": "art_a6d350d4c7",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cmu7hk3c_awarapan-2-vs-batwara-1947_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?. Airport lounges provide travellers with a comfortable place to relax, WIFI, food and more.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Airport lounges provide travellers with a comfortable place to relax, WIFI, food and more.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?",
-          "type": "directReport",
-          "summary": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?. Airport lounges provide travellers with a comfortable place to relax, WIFI, food and more.",
-          "id": "p_art_fb28215c0a_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.853410+00:00",
-      "id": "art_fb28215c0a",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-01/e43c4c6f_iStock_810303626.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-20T11:38:21.217288+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "After observing what moves stocks for decades, I\u2019ve come to a simple conclusion: stock prices move up when companies report better than expected results and raise their forecasts. Applying this rule leads to three stocks investors may consider when looking for stock to buy ahead of their next earnings reports.",
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.827354+00:00",
-      "id": "art_86cb47d9f3",
-      "title": "3 Undervalued Stocks To Buy Now For September 2026",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
+      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
+      "id": "art_7bca469e57",
       "perspectives": [
         {
           "keyPoints": [
-            "Applying this rule leads to three stocks investors may consider when looking for stock.",
-            "Top Undervalued Stocks To Buy Now In September 2026 More specifically, I looked for."
+            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
+            "However, India has clarified that the government had nothing to do with the event."
           ],
-          "stanceTitle": "3 Undervalued Stocks To Buy Now For September 2026",
-          "type": "directReport",
-          "summary": "After observing what moves stocks for decades, I\u2019ve come to a simple conclusion: stock prices move up when companies report better than expected results and raise their forecasts. Applying this rule leads to three stocks investors may consider when looking for stock to buy ahead of their next earnings reports.",
-          "id": "p_art_86cb47d9f3_1",
-          "sourceName": "Forbes Business",
+          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+          "type": "viewpoint1",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/9l75qh14_stock-market-today_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?. \u201cHe also has a brokerage account, but there\u2019s only $500 in it.\u201d",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
         {
           "keyPoints": [
-            "Should we buy him stocks instead?.",
-            "\u201cHe also has a brokerage account, but there\u2019s only $500 in it.\u201d"
+            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?",
-          "type": "directReport",
-          "summary": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?. \u201cHe also has a brokerage account, but there\u2019s only $500 in it.\u201d",
-          "id": "p_art_fe912dd034_1",
-          "sourceName": "MarketWatch Top Stories",
+          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
+          "type": "viewpoint2",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_2",
+          "sourceName": "NDTV Profit",
           "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "sourceDomain": "marketwatch.com",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtvprofit.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.673786+00:00",
-      "id": "art_fe912dd034",
-      "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "category": "World Affairs",
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-94025750"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Fake motivational speaker Divya Jitendra Parmar coerced a woman into sending nude photos - The police have seized a laptop and a mobile phone used by Parmar - The police are investigating whether he targeted more women A 23-year-old man who pretended to be a motivational speaker has been arrested for tricking a young.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Fake Motivational Speaker Arrested For Taking Pune Woman's Nude Photos",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.384051+00:00",
+      "id": "art_5a7fd1615c",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The accused, Divya Jitendra Parmar, created an elaborate act to appear credible on social.",
+            "The incident was reported from Maharashtra's Pune."
+          ],
+          "stanceTitle": "Fake Motivational Speaker Arrested For Taking Pune Woman's Nude Photos",
+          "type": "directReport",
+          "summary": "- Fake motivational speaker Divya Jitendra Parmar coerced a woman into sending nude photos - The police have seized a laptop and a mobile phone used by Parmar - The police are investigating whether he targeted more women A 23-year-old man who pretended to be a motivational speaker has been arrested for tricking a young.",
+          "id": "p_art_5a7fd1615c_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/jquig0ms_spiritual-_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Former Bank of India DGM and five others sentenced to 10 years in bank fraud case - Convicts fined Rs 2.70 crore for Rs 2.39 crore fraud involving false loan documents - CBI registered case in 2010 after complaint by Bank of India, trial lasted years A special CBI court in Chennai has sentenced.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Ex-Bank Of India Employee Among 6 Sentenced To 10 Years In Fraud Case",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.367629+00:00",
+      "id": "art_9fb109bfde",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The court, announcing its verdict, also imposed fines totalling Rs 2.70 crore on the.",
+            "Venkatachalam, a former deputy general manager of Bank of India; M."
+          ],
+          "stanceTitle": "Ex-Bank Of India Employee Among 6 Sentenced To 10 Years In Fraud Case",
+          "type": "directReport",
+          "summary": "- Former Bank of India DGM and five others sentenced to 10 years in bank fraud case - Convicts fined Rs 2.70 crore for Rs 2.39 crore fraud involving false loan documents - CBI registered case in 2010 after complaint by Bank of India, trial lasted years A special CBI court in Chennai has sentenced.",
+          "id": "p_art_9fb109bfde_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/u374hdfk_bank-fraud-_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The trilateral Mecca security pact between Saudi Arabia (KSA), Turkey, and Pakistan wasn't really a bolt from the blue. For months, there had been confabulations between these three countries and Egypt, and the air was abuzz with a new regional security arrangement that was being worked out.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Opinion: Opinion | An India-Pakistan War Test: How Far Would Saudi Arabia And Turkey Go?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.365585+00:00",
+      "id": "art_d73c35f211",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "For months, there had been confabulations between these three countries and Egypt, and the.",
+            "This new arrangement is in addition to the bilateral Strategic Mutual Defence Agreement (SMDA)."
+          ],
+          "stanceTitle": "Opinion: Opinion | An India-Pakistan War Test: How Far Would Saudi Arabia And Turkey Go?",
+          "type": "directReport",
+          "summary": "The trilateral Mecca security pact between Saudi Arabia (KSA), Turkey, and Pakistan wasn't really a bolt from the blue. For months, there had been confabulations between these three countries and Egypt, and the air was abuzz with a new regional security arrangement that was being worked out.",
+          "id": "p_art_d73c35f211_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2022-05/iio4thbg_shehbaz-sharif-prince-salman-pak-saudi-afp_625x300_01_May_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Former Chief Election Commissioner of Bhutan, Dasho Sonam Topgay, could become the 16th Secretary General of the South Asian Association for Regional Cooperation (SAARC), a body which has not seen a summit since the time the 2016 summit was called off following India's withdrawal from the event after the Uri terror attack.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Bhutan Nominates Former Election Body Chief For SAARC Secretary General Post",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.348212+00:00",
+      "id": "art_7603f0fa5d",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "According to reports, Topgay's name has been proposed by Bhutan, as under the alphabetical.",
+            "The current Secretary General, Bangladesh's Gholam Sarwar's term ends in October, and the regional."
+          ],
+          "stanceTitle": "Bhutan Nominates Former Election Body Chief For SAARC Secretary General Post",
+          "type": "directReport",
+          "summary": "Former Chief Election Commissioner of Bhutan, Dasho Sonam Topgay, could become the 16th Secretary General of the South Asian Association for Regional Cooperation (SAARC), a body which has not seen a summit since the time the 2016 summit was called off following India's withdrawal from the event after the Uri terror attack.",
+          "id": "p_art_7603f0fa5d_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/2ch872no_saarc_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Rahul Gandhi today said he last saw his parents together over 35 years ago - Rahul praised Sonia Gandhi's courage and dignity since Rajiv Gandhi's death - He expressed pride that his mother's memoir would finally be shared with the public It was 35 years ago when Rahul Gandhi last saw his famous parents.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"Papa Smiling, Looking Down Proudly At His Beautiful Sonia\": Rahul Gandhi",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.346137+00:00",
+      "id": "art_7711ef71e7",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Since then, the Junior Gandhi, in a public post addressed to his mother, said.",
+            "\"I last saw you and Papa together more than 35 years ago."
+          ],
+          "stanceTitle": "\"Papa Smiling, Looking Down Proudly At His Beautiful Sonia\": Rahul Gandhi",
+          "type": "directReport",
+          "summary": "- Rahul Gandhi today said he last saw his parents together over 35 years ago - Rahul praised Sonia Gandhi's courage and dignity since Rajiv Gandhi's death - He expressed pride that his mother's memoir would finally be shared with the public It was 35 years ago when Rahul Gandhi last saw his famous parents.",
+          "id": "p_art_7711ef71e7_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/npb6uq04_sonia-becoming-_625x300_20_August_26.jpeg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- A seven-year-old boy died after his neck was trapped in a parked bus door in Vadodara - The incident occurred at a garage on the outskirts of Vadodara on Wednesday evening - The bus door suddenly closed while the child was playing inside the stationary vehicle A seven-year-old boy died after his neck got.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "7-Year-Old Gujarat Boy Dies After Neck Trapped In Bus' Hydraulic Door",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.235538+00:00",
+      "id": "art_3731986e7c",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The incident happened on Wednesday evening at a garage on the outskirts of Vadodara.",
+            "The child, identified as Divyesh Rathwa, was playing near the garage when he entered the parked bus."
+          ],
+          "stanceTitle": "7-Year-Old Gujarat Boy Dies After Neck Trapped In Bus' Hydraulic Door",
+          "type": "directReport",
+          "summary": "- A seven-year-old boy died after his neck was trapped in a parked bus door in Vadodara - The incident occurred at a garage on the outskirts of Vadodara on Wednesday evening - The bus door suddenly closed while the child was playing inside the stationary vehicle A seven-year-old boy died after his neck got.",
+          "id": "p_art_3731986e7c_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/gavu2h78_vadodara-boy-_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Rajinikanth's Jailer 2 is set to release on October 15, 2026 - A 32-second promo of the song Ala Bolelo was recently released - Anirudh Ravichander composed the music for Jailer 2 The anticipation surrounding Rajinikanth's upcoming film Jailer 2 is extremely high.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "'Irritating': Jailer 2 Song Promo Draws Flak Over Malayalam Pronunciation",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.232978+00:00",
+      "id": "art_86c7cfbe69",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The film is a sequel to Jailer, which was released in 2023, and is set to hit screens in October.",
+            "A 32-second promo of the song Ala Bolelo, featuring Rajinikanth and Shamna Kasim, was recently released."
+          ],
+          "stanceTitle": "'Irritating': Jailer 2 Song Promo Draws Flak Over Malayalam Pronunciation",
+          "type": "directReport",
+          "summary": "- Rajinikanth's Jailer 2 is set to release on October 15, 2026 - A 32-second promo of the song Ala Bolelo was recently released - Anirudh Ravichander composed the music for Jailer 2 The anticipation surrounding Rajinikanth's upcoming film Jailer 2 is extremely high.",
+          "id": "p_art_86c7cfbe69_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/klsv1p8s_jailer-2_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Prithviraj Sukumaran's Khalifa released on August 20 - Viewers praised Prithviraj's screen presence and Jake Bejoy's background score - Criticism focused on weak writing, predictable story, and lack of emotional depth Prithviraj Sukumaran's Khalifa released in theatres on August 20. The film has also attracted attention for a cameo appearance by Mohanlal.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "'No Emotional Connection': Prithviraj Sukumaran's Khalifa Sparks Mixed Reactions",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.221676+00:00",
+      "id": "art_433cf3b68e",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The film has also attracted attention for a cameo appearance by Mohanlal.",
+            "Soon after the film's release, several viewers took to X to share their reactions."
+          ],
+          "stanceTitle": "'No Emotional Connection': Prithviraj Sukumaran's Khalifa Sparks Mixed Reactions",
+          "type": "directReport",
+          "summary": "- Prithviraj Sukumaran's Khalifa released on August 20 - Viewers praised Prithviraj's screen presence and Jake Bejoy's background score - Criticism focused on weak writing, predictable story, and lack of emotional depth Prithviraj Sukumaran's Khalifa released in theatres on August 20. The film has also attracted attention for a cameo appearance by Mohanlal.",
+          "id": "p_art_433cf3b68e_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/a4ir3ej_prithviraj_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -320,42 +424,428 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">When the refrigeration system failed at an ice rink outside Kalamazoo, Michigan, last September, the Kalamazoo Optimist Hockey Association\u2014whose club had skated there for six decades\u2014was suddenly without a home rink. A month later, a private investment firm bought the building for $3.5 million and promised to reopen it.",
-      "divergenceScore": 0,
+      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+      "divergenceScore": 88,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "The generation that is most comfortable with AI might surprise you",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
+      "id": "art_23ebb56e01",
       "perspectives": [
         {
           "keyPoints": [
-            "A month later, a private investment firm bought the building for $3.5 million and promised to reopen it.",
-            "No local buyer could have moved that quickly.</p> <p class=\"wp-block-paragraph\">KOHA is a nonprofit with."
+            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
+            "That age group is the only one in which a majority did not say."
           ],
-          "stanceTitle": "Private equity is coming for your kid\u2019s sports league",
-          "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">When the refrigeration system failed at an ice rink outside Kalamazoo, Michigan, last September, the Kalamazoo Optimist Hockey Association\u2014whose club had skated there for six decades\u2014was suddenly without a home rink. A month later, a private investment firm bought the building for $3.5 million and promised to reopen it.",
-          "id": "p_art_255efa50c0_1",
+          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
+          "type": "viewpoint1",
+          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+          "id": "p_art_23ebb56e01_1",
           "sourceName": "Fast Company",
           "quoteAuthor": "",
           "biasTag": "Work Culture & Innovation",
-          "sourceDomain": "fastcompany.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 90,
-          "fullMarkdownContent": ""
+          "sourceDomain": "fastcompany.com"
+        },
+        {
+          "keyPoints": [
+            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
+          "type": "viewpoint2",
+          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
+          "id": "p_art_23ebb56e01_2",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "title": "Private equity is coming for your kid\u2019s sports league",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.622992+00:00",
-      "id": "art_255efa50c0",
-      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-3-91592344-private-equity-is-coming-for-your-kids-sports-league.jpg"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-97655212"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Salman Khan's upcoming pan-India film is reportedly titled Monster - The film marks the first collaboration between Salman Khan and Dil Raju - Nayanthara has been cast as the female lead in Monster Salman Khan's upcoming film with producer Dil Raju has reportedly been titled Monster.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Salman Khan And Nayanthara's Next With Dil Raju Titled Monster: Report",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.149261+00:00",
+      "id": "art_d381f0e55a",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "According to a Filmfare report, the pan-India film is being made on a grand.",
+            "Nayanthara is the female lead."
+          ],
+          "stanceTitle": "Salman Khan And Nayanthara's Next With Dil Raju Titled Monster: Report",
+          "type": "directReport",
+          "summary": "- Salman Khan's upcoming pan-India film is reportedly titled Monster - The film marks the first collaboration between Salman Khan and Dil Raju - Nayanthara has been cast as the female lead in Monster Salman Khan's upcoming film with producer Dil Raju has reportedly been titled Monster.",
+          "id": "p_art_d381f0e55a_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/744mecc4_salman-khan_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "India-Pakistan Players Skip Handshakes Before Match, But What Happened After Full-Time Wins Hearts While politics often threatens to overshadow India-Pakistan encounters, the clash in Amstelveen showcased a modern display of sportsmanship.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India-Pakistan Skip Pre-Match Handshakes, But Full-Time Gesture Wins Hearts",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.127187+00:00",
+      "id": "art_0814bf2563",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Vedant Yadav - Updated: August 20, 2026 10:26 am IST - India beat.",
+            "However, the intense battle on the field did not stop the teams from exchanging."
+          ],
+          "stanceTitle": "India-Pakistan Skip Pre-Match Handshakes, But Full-Time Gesture Wins Hearts",
+          "type": "directReport",
+          "summary": "India-Pakistan Players Skip Handshakes Before Match, But What Happened After Full-Time Wins Hearts While politics often threatens to overshadow India-Pakistan encounters, the clash in Amstelveen showcased a modern display of sportsmanship.",
+          "id": "p_art_0814bf2563_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/gaiu6rm_india-pakistan-hockey_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030 Four-time Formula One world champion Max Verstappen has signed a new contract with Red Bull until the end of 2030, the team announced on Thursday.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.121077+00:00",
+      "id": "art_695ade5cad",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Agence-France Presse - Updated: August 20, 2026 01:47 pm IST Four-time Formula One.",
+            "\"Four more years of full send."
+          ],
+          "stanceTitle": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030",
+          "type": "directReport",
+          "summary": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030 Four-time Formula One world champion Max Verstappen has signed a new contract with Red Bull until the end of 2030, the team announced on Thursday.",
+          "id": "p_art_695ade5cad_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/i2auuf04_max-verstappen-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared The International Cricket Council (ICC) Appeals Panel on Thursday rescinded the demerit point imposed on Lahore's Gaddafi Stadium - Posted by Abhishek Paul - Updated: August 20, 2026 04:46 pm IST - Lahore's Gaddafi Stadium had its demerit point for Unsatisfactory pitch rating rescinded by ICC.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.043586+00:00",
+      "id": "art_5faa851259",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The decision came after the panel reviewed match footage, the match referee's report, and.",
+            "The pitch had initially been rated 'Unsatisfactory' under the ICC Pitch and Outfield Monitoring."
+          ],
+          "stanceTitle": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared",
+          "type": "directReport",
+          "summary": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared The International Cricket Council (ICC) Appeals Panel on Thursday rescinded the demerit point imposed on Lahore's Gaddafi Stadium - Posted by Abhishek Paul - Updated: August 20, 2026 04:46 pm IST - Lahore's Gaddafi Stadium had its demerit point for Unsatisfactory pitch rating rescinded by ICC.",
+          "id": "p_art_5faa851259_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2025-02/74bv5278_gaddafi-stadium-lahore_625x300_01_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.008310+00:00",
+      "id": "art_dd9ba6f0a9",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The US Commission on International Religious Freedom (USCIRF) chair Asif Mahmood said Prime Minister.",
+            "Mahmood's remarks came weeks ahead of RSS Chief Mohan Bhagwat's visit to the US."
+          ],
+          "stanceTitle": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+          "type": "directReport",
+          "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+          "id": "p_art_dd9ba6f0a9_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/u9v3fvbc_mohan-bhagwat_625x300_15_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Russian influencer regrets calling \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong' The influencer showed the price of pani puri at the Dubai airport and pointed out that it cost AED 42 (around \u20b91,096).",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Russian influencer regrets calling  \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I wa",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:38.901002+00:00",
+      "id": "art_faf911a4b1",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A Russian influencer who previously expressed shock over paying \u20b960 for a plate of.",
+            "Irina Rudakova, a Russian model, actress and reality TV personality based in India, recently."
+          ],
+          "stanceTitle": "Russian influencer regrets calling  \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong'",
+          "type": "directReport",
+          "summary": "Russian influencer regrets calling \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong' The influencer showed the price of pani puri at the Dubai airport and pointed out that it cost AED 42 (around \u20b91,096).",
+          "id": "p_art_faf911a4b1_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Russian_influencer__1787224865385_1787224879911_fb4480ca-8247-4c12-a51f-28188dc55ab0.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019 The man said that certain aspects of life in India become more noticeable after spending years in a less populated country.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for conve",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:38.889288+00:00",
+      "id": "art_75aeda4da0",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "An Indian man who recently moved back to India from the US has opened.",
+            "Sharing a video on Instagram, user @theabroadlab said that certain aspects of life in."
+          ],
+          "stanceTitle": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019",
+          "type": "directReport",
+          "summary": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019 The man said that certain aspects of life in India become more noticeable after spending years in a less populated country.",
+          "id": "p_art_75aeda4da0_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Indian_man_1787229610896_1787229621348_146940a4-5ba7-42b9-83b2-cf45b9dad2ad.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.884445+00:00",
+      "id": "art_fea97f686f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A young girl from Arunachal Pradesh has responded to a comment about her appearance.",
+            "The post was shared by Instagram user Karga Tinkle Gongo."
+          ],
+          "stanceTitle": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+          "type": "viewpoint1",
+          "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+          "id": "p_art_fea97f686f_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        },
+        {
+          "keyPoints": [
+            "In the heartfelt clip, the child reportedly responds to someone who questioned whether she was 'Chinese'.",
+            "She makes it clear that she is Indian and says she feels hurt and."
+          ],
+          "stanceTitle": "\"Hum Bhi India Hain\": Arunachal Girl's Reply To 'Chinese' Remark Melts Hearts",
+          "type": "viewpoint2",
+          "summary": "- A young girl from Itanagar spoke out against being called Chinese due to her looks - She expressed feeling hurt and angry when her Indian nationality was questioned - The video highlighted challenges faced by people from Northeast India with stereotypes A video of a young girl from Itanagar, Arunachal Pradesh, has gone viral.",
+          "id": "p_art_fea97f686f_2",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2lmu7b58_arunachal-girl_625x300_20_August_26.jpeg"
     },
     {
       "tags": [
@@ -364,42 +854,59 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Earlier this week, we told you about Google\u2019s $10 million purchase of Spirit Airlines\u2019 data in a bankruptcy auction. Well, Spirit Airlines\u2019 former flight attendants have an announcement to make: Not so fast.",
-      "divergenceScore": 0,
+      "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+      "divergenceScore": 88,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.733995+00:00",
+      "id": "art_160f18bf05",
       "perspectives": [
         {
           "keyPoints": [
-            "Well, Spirit Airlines\u2019 former flight attendants have an announcement to make: Not so fast.",
-            "According to the Wall Street Journal, a labor union representing thousands of former flight."
+            "The data covers nine key infrastructure sectors under the revamped Index of Core Industries.",
+            "The new series replaced the earlier 2011-12-based series."
           ],
-          "stanceTitle": "Amazon can\u2019t quit Bezos\u2019 drone dream",
-          "type": "directReport",
-          "summary": "Earlier this week, we told you about Google\u2019s $10 million purchase of Spirit Airlines\u2019 data in a bankruptcy auction. Well, Spirit Airlines\u2019 former flight attendants have an announcement to make: Not so fast.",
-          "id": "p_art_9d173556fb_1",
-          "sourceName": "Fortune",
+          "stanceTitle": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+          "type": "viewpoint1",
+          "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+          "id": "p_art_160f18bf05_1",
+          "sourceName": "Economic Times Economy",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "sourceDomain": "fortune.com",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "The reading marked the second of a new series, which replaces the earlier 2011-12.",
+            "The overall index rose further to 121.2 in July from 120.7 in the previous month."
+          ],
+          "stanceTitle": "Core industries growth slows to 5.4% in July as iron ore, power ease",
+          "type": "viewpoint2",
+          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
+          "id": "p_art_160f18bf05_2",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "title": "Amazon can\u2019t quit Bezos\u2019 drone dream",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.599823+00:00",
-      "id": "art_9d173556fb",
-      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2281425980-e1787187249120.jpg?resize=1200,600"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133376047,width-1200,height-630,imgsize-163742,overlay-economictimes/articleshow.jpg"
     },
     {
       "tags": [
@@ -408,375 +915,23 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir. \u201cI am happy, and so proud, that your story \u2014 \u2018Belonging: A Journey of Love\u2019 \u2014 will finally be read by the millions of people who love you.",
+      "summary": "Lawyer who represented Mehul Choksi charged with sexual assault in London. His assistant, Manpreet Kaur, was also arrested at the scene and has been charged with two counts of intentionally encouraging or assisting sexual assault",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "\u201cI am happy, and so proud, that your story \u2014 \u2018Belonging: A Journey of.",
-            "I know how hard it was for someone as private as you to tell."
-          ],
-          "stanceTitle": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir",
-          "type": "directReport",
-          "summary": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir. \u201cI am happy, and so proud, that your story \u2014 \u2018Belonging: A Journey of Love\u2019 \u2014 will finally be read by the millions of people who love you.",
-          "id": "p_art_d1397d04ab_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Papa looking down proudly at his beautiful Sonia: Rahul's emotional note on mother's memoir",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.567526+00:00",
-      "id": "art_d1397d04ab",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/11o06f/article71368560.ece/alternates/LANDSCAPE_1200/20260820041L.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar. He has also sought a direction to YouTube and X Corp to take down the defamatory videos and tweets against him",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar.",
-            "He has also sought a direction to YouTube and X Corp to take down the defamatory videos and tweets against him"
-          ],
-          "stanceTitle": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar",
-          "type": "directReport",
-          "summary": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages from \u2018Savukku\u2019 Shankar. He has also sought a direction to YouTube and X Corp to take down the defamatory videos and tweets against him",
-          "id": "p_art_924fbb268c_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Former Chennai Police Commissioner A. Arun files defamation suit seeking \u20b91 crore in damages fr",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.457766+00:00",
-      "id": "art_924fbb268c",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/6goprv/article71368480.ece/alternates/LANDSCAPE_1200/02_Arun.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Minister Aadhav Arjuna. When Iranian pirates tried to rob the Tamil fishermen in Saudi Arabia, they resisted the attempt, resulting in firing by the pirates, the Minister said.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "When Iranian pirates tried to rob the Tamil fishermen in Saudi Arabia, they resisted.",
+            "His assistant, Manpreet Kaur, was also arrested at the scene and has been charged.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Minister Aadhav Arjuna",
+          "stanceTitle": "Lawyer\u00a0who represented Mehul Choksi\u00a0charged with sexual assault\u00a0in London",
           "type": "directReport",
-          "summary": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Minister Aadhav Arjuna. When Iranian pirates tried to rob the Tamil fishermen in Saudi Arabia, they resisted the attempt, resulting in firing by the pirates, the Minister said.",
-          "id": "p_art_96a02b62fb_1",
-          "sourceName": "The Hindu National",
+          "summary": "Lawyer who represented Mehul Choksi charged with sexual assault in London. His assistant, Manpreet Kaur, was also arrested at the scene and has been charged with two counts of intentionally encouraging or assisting sexual assault",
+          "id": "p_art_572c2a54ee_1",
+          "sourceName": "The Hindu World",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Inquiry causing delay in repatriation of Tamil Nadu fisherman\u2019s body from Saudi Arabia: Ministe",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.426358+00:00",
-      "id": "art_96a02b62fb",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/s86qsw/article71368485.ece/alternates/LANDSCAPE_1200/DSC_9311.JPG"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "UN Deputy Secretary-General Amina Mohammed to visit India later this month. UN Deputy Secretary-General Amina Mohammed will visit India to discuss sustainable development and cooperation with New Delhi from August 26-28",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "UN Deputy Secretary-General Amina Mohammed will visit India to discuss sustainable development and cooperation.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "UN Deputy Secretary-General Amina Mohammed to visit India later this month",
-          "type": "directReport",
-          "summary": "UN Deputy Secretary-General Amina Mohammed to visit India later this month. UN Deputy Secretary-General Amina Mohammed will visit India to discuss sustainable development and cooperation with New Delhi from August 26-28",
-          "id": "p_art_04ccdd73f9_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "UN Deputy Secretary-General Amina Mohammed to visit India later this month",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.356517+00:00",
-      "id": "art_04ccdd73f9",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/q3wj5j/article71368496.ece/alternates/LANDSCAPE_1200/UN_Deputy_Secretary_General_17894.jpg-d5cc7.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Search operation in J&K's Kathua after suspicious movement. Security forces in J&amp;K\u2019s Kathua conduct a search operation following reports of suspicious movements near the Udhampur-Kathua border",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Security forces in J&amp;K\u2019s Kathua conduct a search operation following reports of suspicious movements.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Search operation in J&K's Kathua after suspicious movement",
-          "type": "directReport",
-          "summary": "Search operation in J&K's Kathua after suspicious movement. Security forces in J&amp;K\u2019s Kathua conduct a search operation following reports of suspicious movements near the Udhampur-Kathua border",
-          "id": "p_art_cf98a0e1b3_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Search operation in J&K's Kathua after suspicious movement",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.282425+00:00",
-      "id": "art_cf98a0e1b3",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/q7jzj8/article71368454.ece/alternates/LANDSCAPE_1200/20260114431L.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel A woman has shared an alleged delivery dispute, claiming her parcel was cancelled without a call. An X post about an alleged delivery dispute has drawn reactions from users.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "An X post about an alleged delivery dispute has drawn reactions from users.",
-            "The post claims a delivery agent cancelled a woman\u2019s parcel without calling her and."
-          ],
-          "stanceTitle": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel",
-          "type": "directReport",
-          "summary": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel A woman has shared an alleged delivery dispute, claiming her parcel was cancelled without a call. An X post about an alleged delivery dispute has drawn reactions from users.",
-          "id": "p_art_8f45eb9452_1",
-          "sourceName": "Hindustan Times Trending",
-          "quoteAuthor": "",
-          "biasTag": "Trending News",
-          "sourceDomain": "hindustantimes.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "\u2018No matter what you do, I won\u2019t deliver\u2019: Woman alleges delivery boy refused her parcel",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.275210+00:00",
-      "id": "art_8f45eb9452",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Untitled_design_1787215770940_1787215778281_e78c70c7-50ee-4062-879b-b44a938ef2fa.png"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism. Addressing DYFI meet, actor says young protesters have \u2018punctured the Centre\u2019s ego\u2019 and that \u2018we are not afraid of you\u2019",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Addressing DYFI meet, actor says young protesters have \u2018punctured the Centre\u2019s ego\u2019 and that.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism",
-          "type": "directReport",
-          "summary": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism. Addressing DYFI meet, actor says young protesters have \u2018punctured the Centre\u2019s ego\u2019 and that \u2018we are not afraid of you\u2019",
-          "id": "p_art_844c2bf9ad_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Prakash Raj says \u2018end of fascists is closing,\u2019 hails youth activism",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:44.089838+00:00",
-      "id": "art_844c2bf9ad",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/l5qh1j/article71368486.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2014.27.57.jpeg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu Higher Education Minister. The Minister\u2019s statement comes after a now-withdrawn directive issued by the Higher Education Department, which had sought coordinated action to prevent students from participating in protests organised by the Left parties and CJP",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Minister\u2019s statement comes after a now-withdrawn directive issued by the Higher Education Department,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu Higher Education Minister",
-          "type": "directReport",
-          "summary": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu Higher Education Minister. The Minister\u2019s statement comes after a now-withdrawn directive issued by the Higher Education Department, which had sought coordinated action to prevent students from participating in protests organised by the Left parties and CJP",
-          "id": "p_art_bdd9f1270e_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "No motive behind circular on student participation in CJP, Left parties\u2019 protests: Tamil Nadu H",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T10:03:43.892707+00:00",
-      "id": "art_bdd9f1270e",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ze75do/article71368179.ece/alternates/LANDSCAPE_1200/EDU%20M%20INISTER%202.JPG"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Parental control features in ChatGPT for Teens | Explained",
-          "type": "directReport",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_74e111d177_1",
-          "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
+          "biasTag": "Institutional Diplomacy",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 95,
@@ -784,106 +939,18 @@
         }
       ],
       "readTimeMinutes": 2,
-      "title": "Parental control features in ChatGPT for Teens | Explained",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:47.067590+00:00",
-      "id": "art_74e111d177",
       "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.264282+00:00",
+      "id": "art_572c2a54ee",
+      "title": "Lawyer\u00a0who represented Mehul Choksi\u00a0charged with sexual assault\u00a0in London",
       "bookmarksCount": 0,
-      "category": "Space & Science",
+      "category": "World Affairs",
       "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "India\u2019s genetic mosaic: how understanding our genes can help improve our health. Our genetic tapestry is not merely an ancestry story, but a medical map. It can help prevent inherited diseases, improve newborn screening, guide safer prescribing, diagnose rare disorders earlier, and support drug discovery. But this map must be read with care",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Our genetic tapestry is not merely an ancestry story, but a medical map.",
-            "It can help prevent inherited diseases, improve newborn screening, guide safer prescribing, diagnose rare."
-          ],
-          "stanceTitle": "India\u2019s genetic mosaic: how understanding our genes can help improve our health",
-          "type": "directReport",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_074e580189_1",
-          "summary": "India\u2019s genetic mosaic: how understanding our genes can help improve our health. Our genetic tapestry is not merely an ancestry story, but a medical map. It can help prevent inherited diseases, improve newborn screening, guide safer prescribing, diagnose rare disorders earlier, and support drug discovery. But this map must be read with care",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "India\u2019s genetic mosaic: how understanding our genes can help improve our health",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:47.063310+00:00",
-      "id": "art_074e580189",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/65d57d/article70969400.ece/alternates/LANDSCAPE_1200/IMG_IMG_iStock-136492784_2_1_NQBGTSVQ.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town planning. The understanding that mosquitoes could cause malaria and other diseases did more than solve a biological mystery.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The understanding that mosquitoes could cause malaria and other diseases did more than solve.",
-            "It completely changed disease control: drainage of stagnant water, environmental sanitation, mosquito nets, screening."
-          ],
-          "stanceTitle": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town planning",
-          "type": "directReport",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_3f5991dbe4_1",
-          "summary": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town planning. The understanding that mosquitoes could cause malaria and other diseases did more than solve a biological mystery.",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "A tiny insect, a deadly enemy: how medicine\u2019s discovery of its impact shaped health and town pl",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:47.061225+00:00",
-      "id": "art_3f5991dbe4",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/a97d6t/article71367916.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U1M5VBC51_R1560589840_3_7d010844-1b9a-45ad-ae31-463af3fe9876.jpg"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9vflnh/article71368807.ece/alternates/LANDSCAPE_1200/22th-devesh-MehGR6F2EK7O.3.jpg.jpg"
     }
   ]
 }

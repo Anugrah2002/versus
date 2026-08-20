@@ -1,114 +1,47 @@
 {
   "page": 1,
-  "total_pages": 1,
-  "total_articles": 20,
-  "has_more": false,
+  "total_pages": 6,
+  "total_articles": 110,
+  "has_more": true,
   "articles": [
     {
+      "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:40.991739+00:00",
-      "id": "art_28488eaa91",
       "perspectives": [
         {
           "keyPoints": [
-            "</p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens,.",
-            "But over the last 24 hours, things have finally begun to turn around.</p> <p."
+            "1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of.",
+            "The Indian won the second game 21-15 after losing the first game 11-21."
           ],
-          "stanceTitle": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
+          "stanceTitle": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
           "type": "viewpoint1",
-          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-          "id": "p_art_28488eaa91_1",
-          "sourceName": "Fast Company",
+          "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
+          "id": "p_art_3dc0445dd0_1",
+          "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Trending & Viral",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        },
-        {
-          "keyPoints": [
-            "After months of slumber, digital currencies are waking up, with bitcoin and ethereum shooting.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
-          "type": "viewpoint2",
-          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-          "id": "p_art_28488eaa91_2",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-28575996"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
-      "id": "art_7bca469e57",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
-            "However, India has clarified that the government had nothing to do with the event."
-          ],
-          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
-          "type": "viewpoint1",
-          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
-          "id": "p_art_7bca469e57_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
+          "sourceCredibility": 93,
           "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
+            "Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
+          "stanceTitle": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals",
           "type": "viewpoint2",
-          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
-          "id": "p_art_7bca469e57_2",
+          "summary": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals. Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
+          "id": "p_art_3dc0445dd0_2",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -118,119 +51,58 @@
           "sourceDomain": "ndtvprofit.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "The generation that is most comfortable with AI might surprise you",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
-      "id": "art_23ebb56e01",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
-            "That age group is the only one in which a majority did not say."
-          ],
-          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
-          "type": "viewpoint1",
-          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
-          "id": "p_art_23ebb56e01_1",
-          "sourceName": "Fast Company",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        },
-        {
-          "keyPoints": [
-            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
-          "type": "viewpoint2",
-          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
-          "id": "p_art_23ebb56e01_2",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
       "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:50.359994+00:00",
+      "id": "art_3dc0445dd0",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-97655212"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/5sc2v9p8_pv-sindhu_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:38.884445+00:00",
-      "id": "art_fea97f686f",
       "perspectives": [
         {
           "keyPoints": [
-            "A young girl from Arunachal Pradesh has responded to a comment about her appearance.",
-            "The post was shared by Instagram user Karga Tinkle Gongo."
+            "- PTI - Updated: August 20, 2026 05:25 pm IST - India mixed disability.",
+            "Riding on Arjun Gawre's 68 off 44 balls and captain Majid Magray's unbeaten 63."
           ],
-          "stanceTitle": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+          "stanceTitle": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
           "type": "viewpoint1",
-          "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
-          "id": "p_art_fea97f686f_1",
-          "sourceName": "Hindustan Times Trending",
+          "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
+          "id": "p_art_856301bbee_1",
+          "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
-          "biasTag": "Trending News",
+          "biasTag": "Trending & Viral",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "hindustantimes.com"
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "In the heartfelt clip, the child reportedly responds to someone who questioned whether she was 'Chinese'.",
-            "She makes it clear that she is Indian and says she feels hurt and."
+            "India needed to avoid defeat to seal a place in the second round of the Hockey World Cup.",
+            "They did the job with much struggle."
           ],
-          "stanceTitle": "\"Hum Bhi India Hain\": Arunachal Girl's Reply To 'Chinese' Remark Melts Hearts",
+          "stanceTitle": "Hockey WC Live: Goals Disallowed, India Survive Scare vs England To Advance",
           "type": "viewpoint2",
-          "summary": "- A young girl from Itanagar spoke out against being called Chinese due to her looks - She expressed feeling hurt and angry when her Indian nationality was questioned - The video highlighted challenges faced by people from Northeast India with stereotypes A video of a young girl from Itanagar, Arunachal Pradesh, has gone viral.",
-          "id": "p_art_fea97f686f_2",
+          "summary": "India vs England Highlights, Women's Hockey World Cup 2026: Indian defended with their lives to thwart the English attack and eked out a 0-0 draw in their final Pool D match of the FIH Women's Hockey World Cup 2026 in Amstelveen, Netherlands.",
+          "id": "p_art_856301bbee_2",
           "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
           "biasTag": "Trending & Viral",
@@ -240,74 +112,19 @@
           "sourceDomain": "ndtv.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.714701+00:00",
+      "id": "art_856301bbee",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
+      "title": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2lmu7b58_arunachal-girl_625x300_20_August_26.jpeg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:38.733995+00:00",
-      "id": "art_160f18bf05",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The data covers nine key infrastructure sectors under the revamped Index of Core Industries.",
-            "The new series replaced the earlier 2011-12-based series."
-          ],
-          "stanceTitle": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
-          "type": "viewpoint1",
-          "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
-          "id": "p_art_160f18bf05_1",
-          "sourceName": "Economic Times Economy",
-          "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        },
-        {
-          "keyPoints": [
-            "The reading marked the second of a new series, which replaces the earlier 2011-12.",
-            "The overall index rose further to 121.2 in July from 120.7 in the previous month."
-          ],
-          "stanceTitle": "Core industries growth slows to 5.4% in July as iron ore, power ease",
-          "type": "viewpoint2",
-          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
-          "id": "p_art_160f18bf05_2",
-          "sourceName": "Business Standard Economy",
-          "quoteAuthor": "",
-          "biasTag": "Macroeconomic Prudence",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "business-standard.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133376047,width-1200,height-630,imgsize-163742,overlay-economictimes/articleshow.jpg"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/l8uh4q38_sourav-ganguly_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "videoDuration": "02:45",
@@ -316,120 +133,120 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T03:05:12.333005+00:00",
-      "id": "art_006f80f544",
       "perspectives": [
         {
           "keyPoints": [
-            "MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per.",
-            "Key analytical takeaway and operational overview."
+            "The deportees arrived at the Roberts international airport outside Monrovia.",
+            "The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s."
           ],
-          "stanceTitle": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
+          "stanceTitle": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
           "type": "viewpoint1",
-          "sourceName": "NDTV Trending News",
-          "id": "p_art_c0ae20516a_1",
-          "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
+          "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
+          "id": "p_art_1eaa4f58ca_1",
+          "sourceName": "The Guardian World",
           "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
+          "biasTag": "Progressive International",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 94,
+          "sourceDomain": "theguardian.com"
         },
         {
           "keyPoints": [
-            "What's The Catalyst - NDTV Profit.",
-            "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip."
+            "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
+          "stanceTitle": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
           "type": "viewpoint2",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_c0ae20516a_2",
-          "summary": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit. Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
+          "summary": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS. Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+          "id": "p_art_1eaa4f58ca_2",
+          "sourceName": "UA.NEWS",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "ndtvprofit.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ua.news"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.679951+00:00",
+      "id": "art_1eaa4f58ca",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "title": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/toor59qg_gold_625x300_19_August_26.png"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f25a8263193c86b4c6189eb9188aee52"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
+      "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T07:50:27.248948+00:00",
-      "id": "art_0022614d3f",
       "perspectives": [
         {
           "keyPoints": [
-            "Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about.",
+            "Bangkok said the talks focused on ways to enhance security cooperation on the nations'.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
+          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
           "type": "viewpoint1",
-          "sourceName": "Fortune",
-          "id": "p_art_e16f8f482d_1",
-          "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
+          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
+          "id": "p_art_964f8e40a5_1",
+          "sourceName": "The Hindu World",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "sourceDomain": "fortune.com",
+          "biasTag": "Institutional Diplomacy",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
         },
         {
           "keyPoints": [
-            "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+            "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
           "type": "viewpoint2",
-          "sourceName": "The Next Web",
-          "id": "p_art_e16f8f482d_2",
-          "summary": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web. Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
+          "id": "p_art_964f8e40a5_2",
+          "sourceName": "ucanews.com",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "thenextweb.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ucanews.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "readTimeMinutes": 2,
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.678022+00:00",
+      "id": "art_964f8e40a5",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2220872848-e1787082939234.jpg?resize=1200,600"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/nyya9t/article71370502.ece/alternates/LANDSCAPE_1200/AFP_C63C9KB.jpg"
     },
     {
       "videoDuration": "02:45",
@@ -438,120 +255,852 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "New set of international rules needed to protect health of fishing stocks, study shows. The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new research says.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T01:44:03.736013+00:00",
-      "id": "art_00dae34f22",
       "perspectives": [
         {
           "keyPoints": [
-            "The global community should work to establish an array of new international legal rules.",
-            "Key analytical takeaway and operational overview."
+            "Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+            "Many lines of research align with the theory that aging is a direct result."
           ],
-          "stanceTitle": "New set of international rules needed to protect health of fishing stocks, study shows",
+          "stanceTitle": "Why Aging May Be a Program, Not a Breakdown",
           "type": "viewpoint1",
-          "sourceName": "Phys.org",
-          "id": "p_art_fef2e2e0aa_1",
-          "summary": "New set of international rules needed to protect health of fishing stocks, study shows. The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new research says.",
+          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+          "id": "p_art_d1f8cf7c6f_1",
+          "sourceName": "Quanta Magazine",
           "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "sourceDomain": "phys.org",
+          "biasTag": "Mathematics & Fundamental Physics",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 98,
+          "sourceDomain": "quantamagazine.org"
         },
         {
           "keyPoints": [
-            "US rules out Iran truce extension as Tehran official sets new deadline - Iran International",
+            "Mental health of older adults - World Health Organization (WHO)",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "US rules out Iran truce extension as Tehran official sets new deadline - Iran International",
+          "stanceTitle": "Mental health of older adults - World Health Organization (WHO)",
           "type": "viewpoint2",
-          "sourceName": "Iran International",
-          "id": "p_art_fef2e2e0aa_2",
-          "summary": "US rules out Iran truce extension as Tehran official sets new deadline - Iran International. US rules out Iran truce extension as Tehran official sets new deadline - Iran International",
+          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+          "id": "p_art_d1f8cf7c6f_2",
+          "sourceName": "World Health Organization (WHO)",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "iranintl.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "who.int"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.664575+00:00",
+      "id": "art_d1f8cf7c6f",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Space & Science",
-      "title": "New set of international rules needed to protect health of fishing stocks, study shows",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "title": "Why Aging May Be a Program, Not a Breakdown",
       "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/fishery-1.jpg"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/cropped-Junyue-Cao-cr-Karan-Dias-Social.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+      "summary": "Global sand dunes map reveals clues to distant worlds, including Mars. A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T19:33:35.419088+00:00",
-      "id": "art_00c0315c72",
       "perspectives": [
         {
           "keyPoints": [
-            "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
-            "Key analytical takeaway and operational overview."
+            "A new study from Monash University has delivered the most complete and accurate digital.",
+            "The research, published in Nature Communications, answers long-standing questions about why dunes form where."
           ],
-          "stanceTitle": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
+          "stanceTitle": "Global sand dunes map reveals clues to distant worlds, including Mars",
           "type": "viewpoint1",
-          "sourceName": "Forbes Business",
-          "id": "p_art_fdf2a05b3a_1",
-          "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+          "summary": "Global sand dunes map reveals clues to distant worlds, including Mars. A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date.",
+          "id": "p_art_34c62082d7_1",
+          "sourceName": "Phys.org",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
         },
         {
           "keyPoints": [
-            "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First.",
+            "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - ",
+          "stanceTitle": "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
           "type": "viewpoint2",
-          "sourceName": "Vinanet",
-          "id": "p_art_fdf2a05b3a_2",
-          "summary": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet. Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet",
+          "summary": "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune. World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
+          "id": "p_art_34c62082d7_2",
+          "sourceName": "The National Tribune",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "vinanet.vn",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "nationaltribune.com.au"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "readTimeMinutes": 2,
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.652351+00:00",
+      "id": "art_34c62082d7",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Global sand dunes map reveals clues to distant worlds, including Mars",
       "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/66a06830498293a95d042a3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/world-first-global-san-1.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Welcome back to our series on interstellar travel!",
+            "In our first installment, we examined attempts to realize nuclear propulsion and how the."
+          ],
+          "stanceTitle": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
+          "type": "viewpoint1",
+          "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
+          "id": "p_art_0909d3d8bd_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails - Universe Today",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails - Universe Today",
+          "type": "viewpoint2",
+          "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
+          "id": "p_art_0909d3d8bd_2",
+          "sourceName": "Universe Today",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "universetoday.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.618266+00:00",
+      "id": "art_0909d3d8bd",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/interstellar-travel-iv.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize. When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "When people shop for a home, they tend to focus on the information listings.",
+            "Rarely do listings show how a home can shape a household's carbon footprint through energy use and commuting."
+          ],
+          "stanceTitle": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
+          "type": "viewpoint1",
+          "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize. When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location.",
+          "id": "p_art_e71025bbfe_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
+          "type": "viewpoint2",
+          "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation. Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
+          "id": "p_art_e71025bbfe_2",
+          "sourceName": "The Conversation",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theconversation.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.593699+00:00",
+      "id": "art_e71025bbfe",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/homebuyers-are-choosin.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires. Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Firefighters have been battling a vast wildfire in the hills above Blaenavon in south.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires",
+          "type": "viewpoint1",
+          "summary": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires. Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks.",
+          "id": "p_art_554a6a08e1_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
+          "type": "viewpoint2",
+          "summary": "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation. Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
+          "id": "p_art_554a6a08e1_2",
+          "sourceName": "The Conversation",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theconversation.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.584333+00:00",
+      "id": "art_554a6a08e1",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2020/wildfire.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban. Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022, nearly 250,000 public comments flooded in\u2014a record response that led the Biden administration to delay a final decision.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban",
+          "type": "viewpoint1",
+          "summary": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban. Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022, nearly 250,000 public comments flooded in\u2014a record response that led the Biden administration to delay a final decision.",
+          "id": "p_art_1b6bc5165e_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au",
+          "type": "viewpoint2",
+          "summary": "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au. \u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au",
+          "id": "p_art_1b6bc5165e_2",
+          "sourceName": "SMH.com.au",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "smh.com.au"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.574063+00:00",
+      "id": "art_1b6bc5165e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/menthol-cigarette-ban.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The first wave of bird flu is the worst: What can Australia learn from overseas?. Hundreds of dead birds are now being reported as the lethal H5N1 strain of bird flu begins to spread across Australia. Government reports show the virus is circulating in resident birds.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Hundreds of dead birds are now being reported as the lethal H5N1 strain of.",
+            "Government reports show the virus is circulating in resident birds."
+          ],
+          "stanceTitle": "The first wave of bird flu is the worst: What can Australia learn from overseas?",
+          "type": "viewpoint1",
+          "summary": "The first wave of bird flu is the worst: What can Australia learn from overseas?. Hundreds of dead birds are now being reported as the lethal H5N1 strain of bird flu begins to spread across Australia. Government reports show the virus is circulating in resident birds.",
+          "id": "p_art_039d73983c_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
+          "type": "viewpoint2",
+          "summary": "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation. The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
+          "id": "p_art_039d73983c_2",
+          "sourceName": "The Conversation",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "theconversation.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.567918+00:00",
+      "id": "art_039d73983c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "The first wave of bird flu is the worst: What can Australia learn from overseas?",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-sea-bird.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A new Northwestern Medicine study has uncovered key molecular design principles that could help.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Designing supramolecular therapies to cross the blood-brain barrier",
+          "type": "viewpoint1",
+          "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
+          "id": "p_art_ec25cdc688_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Novel Stem Cell Platform Improves Study of Endometriosis - EIN News",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Novel Stem Cell Platform Improves Study of Endometriosis - EIN News",
+          "type": "viewpoint2",
+          "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
+          "id": "p_art_ec25cdc688_2",
+          "sourceName": "EIN News",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "einnews.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.562629+00:00",
+      "id": "art_ec25cdc688",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Designing supramolecular therapies to cross the blood-brain barrier",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/human-brain.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed.",
+            "These wounds, which may persist for months or even years, affect about 1% to."
+          ],
+          "stanceTitle": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
+          "type": "viewpoint1",
+          "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
+          "id": "p_art_b85323c844_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -",
+          "type": "viewpoint2",
+          "summary": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers. Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers",
+          "id": "p_art_b85323c844_2",
+          "sourceName": "Frontiers",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "frontiersin.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.522851+00:00",
+      "id": "art_b85323c844",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/wound-dressing.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The candela, the international unit of light in use for almost a century, forms the basis of photometry.",
+            "According to a new study, measurements derived from it systematically misjudge the brightness of."
+          ],
+          "stanceTitle": "Illuminating the limits of the international unit of light, the candela",
+          "type": "viewpoint1",
+          "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
+          "id": "p_art_bbf104e9ed_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Ligh",
+          "type": "viewpoint2",
+          "summary": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com. Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com",
+          "id": "p_art_bbf104e9ed_2",
+          "sourceName": "Newswire.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "newswire.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.487241+00:00",
+      "id": "art_bbf104e9ed",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Illuminating the limits of the international unit of light, the candela",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-the-brightne.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium.",
+            "Understanding selenium metabolism relies on accurately detecting and identifying selenosugars."
+          ],
+          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism",
+          "type": "viewpoint1",
+          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+          "id": "p_art_d9dc0b6bf0_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
+          "type": "viewpoint2",
+          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+          "id": "p_art_d9dc0b6bf0_2",
+          "sourceName": "EurekAlert!",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "eurekalert.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.485581+00:00",
+      "id": "art_d9dc0b6bf0",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "International review standardizes selenosugar nomenclature and selenium metabolism",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-review-s.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The most prominent difference between human male and female skeletons is the pelvis, which.",
+            "Scientists have long believed the human pelvis evolved mainly as a compromise between walking."
+          ],
+          "stanceTitle": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
+          "type": "viewpoint1",
+          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+          "id": "p_art_beb82278a6_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
+          "type": "viewpoint2",
+          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+          "id": "p_art_beb82278a6_2",
+          "sourceName": "JNS.org",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "jns.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.482136+00:00",
+      "id": "art_beb82278a6",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and biped",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthal-reconstruc.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Accurately determining fish body size and weight is essential for fisheries resource management and.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+          "type": "viewpoint1",
+          "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+          "id": "p_art_53d85cadb4_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+          "type": "viewpoint2",
+          "summary": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp. 3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+          "id": "p_art_53d85cadb4_2",
+          "sourceName": "tsukuba.ac.jp",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "tsukuba.ac.jp"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.480156+00:00",
+      "id": "art_53d85cadb4",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-imaging-and-machine.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "What happened in the first moments of the universe\u2014before the building blocks of life.",
+            "Physicists at the CERN research facility in Switzerland are trying to answer this question."
+          ],
+          "stanceTitle": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+          "type": "viewpoint1",
+          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+          "id": "p_art_96361b83b9_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
+          "type": "viewpoint2",
+          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+          "id": "p_art_96361b83b9_2",
+          "sourceName": "Scientific Frontline",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "sflorg.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.457696+00:00",
+      "id": "art_96361b83b9",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-l.jpg"
     },
     {
       "videoDuration": "02:45",
@@ -560,669 +1109,120 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T18:50:23.628512+00:00",
-      "id": "art_00b08c0bd2",
       "perspectives": [
         {
           "keyPoints": [
-            "A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
-            "Key analytical takeaway and operational overview."
+            "Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury.",
+            "A spokesperson for the company said the decision had been made at the conclusion."
           ],
-          "stanceTitle": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
+          "stanceTitle": "Bernard Matthews confirms closure of Derby factory",
           "type": "viewpoint1",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_4159bf9062_1",
-          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+          "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
+          "id": "p_art_6ce8859930_1",
+          "sourceName": "BBC Business",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
+          "biasTag": "Balanced Global Reporting",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 95,
+          "sourceDomain": "bbc.co.uk"
         },
         {
           "keyPoints": [
-            "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
+            "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
+          "stanceTitle": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
           "type": "viewpoint2",
-          "sourceName": "A News",
-          "id": "p_art_4159bf9062_2",
-          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+          "summary": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live. Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+          "id": "p_art_6ce8859930_2",
+          "sourceName": "Derbyshire Live",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "anews.com.tr",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "derbytelegraph.co.uk"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.420165+00:00",
+      "id": "art_6ce8859930",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "title": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
+      "title": "Bernard Matthews confirms closure of Derby factory",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/r516jmt4_jeff-bezos_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Business & Policy",
         "Verified News",
         "Trending"
       ],
-      "summary": "retirees plan to work until they die. Which is a very happy story about the evolution of retirement. The previous truths are seemingly lost on policy writer John Mac Ghlionn.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T18:50:23.147620+00:00",
-      "id": "art_00c8f05581",
       "perspectives": [
         {
           "keyPoints": [
-            "Which is a very happy story about the evolution of retirement.",
-            "The previous truths are seemingly lost on policy writer John Mac Ghlionn."
-          ],
-          "stanceTitle": "65+ Americans Are Working In Record Numbers, And It\u2019s Beautiful",
-          "type": "viewpoint1",
-          "sourceName": "Forbes Business",
-          "id": "p_art_c321b45af8_1",
-          "summary": "retirees plan to work until they die. Which is a very happy story about the evolution of retirement. The previous truths are seemingly lost on policy writer John Mac Ghlionn.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom",
+            "Kotak is acting as the broker for the deal, while the sellers will be.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom",
-          "type": "viewpoint2",
-          "sourceName": "AAA Newsroom",
-          "id": "p_art_c321b45af8_2",
-          "summary": "72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom. 72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom",
+          "stanceTitle": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+          "type": "viewpoint1",
+          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+          "id": "p_art_4f2ee9b2a1_1",
+          "sourceName": "NDTV Profit",
           "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "newsroom.aaa.com",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "65+ Americans Are Working In Record Numbers, And It\u2019s Beautiful",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a81a8b9e4f04c7d3905cf41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T15:39:18.472715+00:00",
-      "id": "art_005f4dccfe",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Home Depot posts solid 2nd quarter gains, but housing slump leaves outlook unchanged for rest o",
-          "type": "viewpoint1",
-          "sourceName": "Fast Company",
-          "id": "p_art_1ba429344a_1",
-          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "sourceDomain": "fastcompany.com",
-          "quote": "",
-          "sourceCredibility": 90,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtvprofit.com"
         },
         {
           "keyPoints": [
-            "Lowe's Q2 Earnings: What HD and LOW Say About the U.S.",
+            "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Home Depot vs. Lowe's Q2 Earnings: What HD and LOW Say About the U.S. Consumer - TradingView",
+          "stanceTitle": "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
           "type": "viewpoint2",
-          "sourceName": "TradingView",
-          "id": "p_art_1ba429344a_2",
-          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
+          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+          "id": "p_art_4f2ee9b2a1_2",
+          "sourceName": "bestmediainfo.com",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "tradingview.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "bestmediainfo.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Home Depot posts solid 2nd quarter gains, but housing slump leaves outlook unchanged for rest o",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/AP26230361999609.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Phone by Google version 234.0.9 reportedly includes a reference to the Scam Detection feature. Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid potential scams during phone calls, could soon be available in another Android smartphone brand.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-18T14:41:47.334111+00:00",
-      "id": "art_00f7957341",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Vivo Phones Could Get Google\u2019s Scam Detection Feature, Suggests APK Teardown",
-          "type": "viewpoint1",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_09456c14ec_1",
-          "summary": "Phone by Google version 234.0.9 reportedly includes a reference to the Scam Detection feature. Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid potential scams during phone calls, could soon be available in another Android smartphone brand.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "sourceDomain": "gadgets360.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
-          "type": "viewpoint2",
-          "sourceName": "GSMArena.com",
-          "id": "p_art_09456c14ec_2",
-          "summary": "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com. Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "gsmarena.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Vivo Phones Could Get Google\u2019s Scam Detection Feature, Suggests APK Teardown",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/scam_detection_google_1787057509228.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Maternity leave for third child of women government employees raised to 365 days. Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
+      "publishedAt": "2026-08-20T16:38:48.392083+00:00",
+      "id": "art_4f2ee9b2a1",
       "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Maternity leave for third child of women government employees raised to 365 days",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T13:00:31.861759+00:00",
-      "id": "art_004b155937",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Women government employees are now granted 365 days of maternity leave for their first.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Maternity leave for third child of women government employees raised to 365 days",
-          "type": "viewpoint1",
-          "sourceName": "The Hindu National",
-          "id": "p_art_c4a5637c16_1",
-          "summary": "Maternity leave for third child of women government employees raised to 365 days. Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
-          "type": "viewpoint2",
-          "sourceName": "NDTV",
-          "id": "p_art_c4a5637c16_2",
-          "summary": "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV. Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        }
-      ],
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/mhbmya/article71360475.ece/alternates/LANDSCAPE_1200/DSC_1606.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "BJP's Team Nitin Nabin In Place, Why Government May Now Opt For A Reshuffle",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T13:00:31.211854+00:00",
-      "id": "art_0064149e48",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "It is believed that a reshuffle could take place in view of the coming.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "BJP's Team Nitin Nabin In Place, Why Government May Now Opt For A Reshuffle",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_f7750b00e7_1",
-          "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "BJP\u2019s New Team Signals Trouble Ahead of 2027 Polls - Frontline Magazine",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "BJP\u2019s New Team Signals Trouble Ahead of 2027 Polls - Frontline Magazine",
-          "type": "viewpoint2",
-          "sourceName": "The Hindu",
-          "id": "p_art_f7750b00e7_2",
-          "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
-          "quoteAuthor": "",
-          "biasTag": "Independent National",
-          "sourceDomain": "frontline.thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2024-08/8tl0dqd8_north-block_625x300_07_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days. The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas\u2019s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T01:42:09.150265+00:00",
-      "id": "art_0087e51a1d",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The comments came as Jared Kushner and Netanyahu agreed that an American general would.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days",
-          "type": "viewpoint1",
-          "sourceName": "The Hindu World",
-          "id": "p_art_d097bc132d_1",
-          "summary": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days. The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas\u2019s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
-          "quoteAuthor": "",
-          "biasTag": "Institutional Diplomacy",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
-          "type": "viewpoint2",
-          "sourceName": "WION",
-          "id": "p_art_d097bc132d_2",
-          "summary": "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION. 'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "wionews.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/yydtvx/article71358085.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "What is the Retro app for and how do you use it?. Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T15:53:21.545015+00:00",
-      "id": "art_00e6acd592",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Let's look at how to use the Retro app, whether it's free and whether.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "What is the Retro app for and how do you use it?",
-          "type": "viewpoint1",
-          "sourceName": "Engadget",
-          "id": "p_art_915c0cc87d_1",
-          "summary": "What is the Retro app for and how do you use it?. Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-          "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
-          "sourceDomain": "engadget.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "These are the best photo editing apps to use in 2026 - Amateur Photographer",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "These are the best photo editing apps to use in 2026 - Amateur Photographer",
-          "type": "viewpoint2",
-          "sourceName": "Amateur Photographer",
-          "id": "p_art_915c0cc87d_2",
-          "summary": "These are the best photo editing apps to use in 2026 - Amateur Photographer. These are the best photo editing apps to use in 2026 - Amateur Photographer",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "amateurphotographer.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "What is the Retro app for and how do you use it?",
+      "category": "Business & Policy",
+      "title": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "What does Anthropic stand to gain and risk with its IPO | Explained. With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T13:58:14.929385+00:00",
-      "id": "art_00a5dece1f",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "What does Anthropic stand to gain and risk with its IPO | Explained",
-          "type": "viewpoint1",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_f7ab0f5de9_1",
-          "summary": "What does Anthropic stand to gain and risk with its IPO | Explained. With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView",
-          "type": "viewpoint2",
-          "sourceName": "TradingView",
-          "id": "p_art_f7ab0f5de9_2",
-          "summary": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView. IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "tradingview.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "What does Anthropic stand to gain and risk with its IPO | Explained",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/b2vhqf/article71344129.ece/alternates/LANDSCAPE_1200/2026-08-04T170005Z_1150976281_RC2LU7ATMBAY_RTRMADP_3_TECH-AI-ANTHROPIC.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T11:33:26.379455+00:00",
-      "id": "art_01139c281e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-          "type": "viewpoint1",
-          "sourceName": "Ars Technica",
-          "id": "p_art_b90b5a987a_1",
-          "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-          "quoteAuthor": "",
-          "biasTag": "Technical Depth & Security",
-          "sourceDomain": "arstechnica.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
-          "type": "viewpoint2",
-          "sourceName": "PreventionWeb.net",
-          "id": "p_art_b90b5a987a_2",
-          "summary": "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net. Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "preventionweb.net",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The Maharashtra Food and Drug Administration has issued a show-cause notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff for promoting pan masala through an advertisement. The actors have been directed to discontinue their participation in the campaign and remove all promotional content from their social media handles.",
-      "likesCount": 1420,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T10:39:05.698870+00:00",
-      "id": "art_00d0dd27b9",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The actors have been directed to discontinue their participation in the campaign and remove.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Maharashtra FDA Issues Show-Cause Notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_b4063176a2_1",
-          "summary": "The Maharashtra Food and Drug Administration has issued a show-cause notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff for promoting pan masala through an advertisement. The actors have been directed to discontinue their participation in the campaign and remove all promotional content from their social media handles.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat",
-          "type": "viewpoint2",
-          "sourceName": "LawBeat",
-          "id": "p_art_b4063176a2_2",
-          "summary": "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat. Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "lawbeat.in",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 340,
-      "category": "World Affairs",
-      "title": "Maharashtra FDA Issues Show-Cause Notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff",
-      "commentsCount": 48,
-      "isSinglePerspective": false,
-      "sharesCount": 210,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/q0553l5o_shah-rukh-khan-ajay-devgn-tiger-shroff_625x300_16_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-01/bc0cf9b6_amagi.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
     }
   ]
 }
