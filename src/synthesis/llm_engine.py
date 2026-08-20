@@ -72,7 +72,16 @@ class LLMSynthesisEngine:
                 provider_name = "Google Gemini Flash"
                 self.total_ai_calls += 1
 
-        # 4. Quaternary: Local Llama.cpp CPU (Llama-3.2-1B / Qwen2.5-1.5B)
+        # 4. Quaternary: Local Ollama Qwen (qwen2.5:1.5b / qwen2.5:3b)
+        if not raw_json:
+            from src.synthesis.providers.ollama_provider import ollama_qwen_provider
+            if ollama_qwen_provider.is_configured:
+                raw_json = ollama_qwen_provider.synthesize_cluster(cluster)
+                if raw_json:
+                    provider_name = f"Local Ollama ({ollama_qwen_provider.model_name})"
+                    self.total_ai_calls += 1
+
+        # 5. Quinary: Local Llama.cpp GGUF
         if not raw_json:
             from src.synthesis.providers.llamacpp_provider import llamacpp_provider
             raw_json = llamacpp_provider.synthesize_cluster(cluster)
@@ -80,10 +89,10 @@ class LLMSynthesisEngine:
                 provider_name = "Local Llama.cpp CPU (Qwen-2.5-3B)"
                 self.total_ai_calls += 1
 
-        # 5. Failsafe Fallback: Local Rule-Based NLP Synthesizer
+        # 6. Failsafe Fallback: Enhanced Rule-Based Editorial NLP Synthesizer
         if not raw_json and settings.ENABLE_LOCAL_FALLBACK:
             raw_json = self.fallback.synthesize_cluster(cluster)
-            provider_name = "Local Heuristic Fallback"
+            provider_name = "Enhanced Heuristic Editorial Fallback"
 
         if not raw_json:
             logger.error(f"Failed to synthesize cluster {cluster.cluster_id} through all providers.")
