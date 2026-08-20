@@ -7,63 +7,46 @@
     {
       "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
+      "summary": "This sci-fi novel is a riveting tale of an oppressive galactic empire. A rich widow, a disillusioned cop and a dim hypersled driver are caught in the machinations of the oppressive party ruling the Decurion Empire in Richard Swan's The Infinite State.",
+      "divergenceScore": 0,
       "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T17:03:41.263063+00:00",
+      "id": "art_d3301e09ca",
+      "title": "This sci-fi novel is a riveting tale of an oppressive galactic empire",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
       "perspectives": [
         {
           "keyPoints": [
-            "1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of.",
-            "The Indian won the second game 21-15 after losing the first game 11-21."
-          ],
-          "stanceTitle": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
-          "type": "viewpoint1",
-          "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
-          "id": "p_art_3dc0445dd0_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
+            "A rich widow, a disillusioned cop and a dim hypersled driver are caught in.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals",
-          "type": "viewpoint2",
-          "summary": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals. Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
-          "id": "p_art_3dc0445dd0_2",
-          "sourceName": "NDTV Profit",
+          "stanceTitle": "Science Exploration: This sci-fi novel is a riveting tale of an oppressive galactic empire",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_d3301e09ca_1",
+          "summary": "This sci-fi novel is a riveting tale of an oppressive galactic empire. A rich widow, a disillusioned cop and a dim hypersled driver are caught in the machinations of the oppressive party ruling the Decurion Empire in Richard Swan's The Infinite State.",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:50.359994+00:00",
-      "id": "art_3dc0445dd0",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/5sc2v9p8_pv-sindhu_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974440.jpg"
     },
     {
       "videoDuration": "02:45",
@@ -72,174 +55,262 @@
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "It is finally time to talk about the impact of fluctuating hormones. For decades, women have felt the need to hide the impact of changes in their hormones, while scientists have excluded women from research to avoid hormonal fluctuations complicating their research. Thankfully, this is starting to change",
       "divergenceScore": 0,
-      "summary": "How sex sheds evolutionary baggage. Why is there sex\u2014or, more precisely, sexual reproduction? If you're an evolutionary biologist, the answer isn't obvious. Sexual reproduction is biologically costly, requiring not only competition for mates but also the creation of entire populations in which only half the individuals can give birth.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Why is there sex\u2014or, more precisely, sexual reproduction?",
-            "If you're an evolutionary biologist, the answer isn't obvious."
-          ],
-          "stanceTitle": "How sex sheds evolutionary baggage",
-          "type": "directReport",
-          "summary": "How sex sheds evolutionary baggage. Why is there sex\u2014or, more precisely, sexual reproduction? If you're an evolutionary biologist, the answer isn't obvious. Sexual reproduction is biologically costly, requiring not only competition for mates but also the creation of entire populations in which only half the individuals can give birth.",
-          "id": "p_art_8f5e2e5a7f_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.920636+00:00",
-      "id": "art_8f5e2e5a7f",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T17:03:41.187630+00:00",
+      "id": "art_fdb5bfa596",
+      "title": "It is finally time to talk about the impact of fluctuating hormones",
       "bookmarksCount": 0,
       "category": "Space & Science",
-      "title": "How sex sheds evolutionary baggage",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "For decades, women have felt the need to hide the impact of changes in.",
+            "Thankfully, this is starting to change"
+          ],
+          "stanceTitle": "Science Exploration: It is finally time to talk about the impact of fluctuating hormones",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_fdb5bfa596_1",
+          "summary": "It is finally time to talk about the impact of fluctuating hormones. For decades, women have felt the need to hide the impact of changes in their hormones, while scientists have excluded women from research to avoid hormonal fluctuations complicating their research. Thankfully, this is starting to change",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
       "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/birds-mating.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308643212.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "The wild, gripping story of the psychedelic secreted by desert toads. Kimon de Greef's The Ego Trip chronicles the rise of a potent psychedelic drug, from the toads that secrete it to the man who claimed it has amazing powers. Olivia Goldhill discovers an extraordinary tale",
       "divergenceScore": 0,
-      "summary": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows. Traders under 30 accounted for 43% of the trader base in FY26, while 73% have annual incomes below Rs 5 lakh.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Traders under 30 accounted for 43% of the trader base in FY26, while 73% have annual incomes below Rs 5 lakh.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows",
-          "type": "directReport",
-          "summary": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows. Traders under 30 accounted for 43% of the trader base in FY26, while 73% have annual incomes below Rs 5 lakh.",
-          "id": "p_art_a34caed8a7_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.908773+00:00",
-      "id": "art_a34caed8a7",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T17:03:39.934353+00:00",
+      "id": "art_a72a8c3773",
+      "title": "The wild, gripping story of the psychedelic secreted by desert toads",
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Show",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Kimon de Greef's The Ego Trip chronicles the rise of a potent psychedelic drug,.",
+            "Olivia Goldhill discovers an extraordinary tale"
+          ],
+          "stanceTitle": "Science Exploration: The wild, gripping story of the psychedelic secreted by desert toads",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_a72a8c3773_1",
+          "summary": "The wild, gripping story of the psychedelic secreted by desert toads. Kimon de Greef's The Ego Trip chronicles the rise of a potent psychedelic drug, from the toads that secrete it to the man who claimed it has amazing powers. Olivia Goldhill discovers an extraordinary tale",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/m8005a0s_trade_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974307.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "Suggesting that ADHD is a myth is pseudoscientific and dangerous. ADHD is a real condition that can have serious consequences if undiagnosed. An ill-informed documentary that suggests it is a modern, social construct could cause harm, says Caroline Williams",
       "divergenceScore": 0,
-      "summary": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab. The initiative expands on Micron's earlier $250 billion investment in US manufacturing and R&D.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The initiative expands on Micron's earlier $250 billion investment in US manufacturing and R&D.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab",
-          "type": "directReport",
-          "summary": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab. The initiative expands on Micron's earlier $250 billion investment in US manufacturing and R&D.",
-          "id": "p_art_36a0619bcb_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.902004+00:00",
-      "id": "art_36a0619bcb",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T17:03:39.551069+00:00",
+      "id": "art_6832629cbf",
+      "title": "Suggesting that ADHD is a myth is pseudoscientific and dangerous",
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Micron Shares Jump As Chipmaker Plans $10 Billion AI Memory Research Lab",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "ADHD is a real condition that can have serious consequences if undiagnosed.",
+            "An ill-informed documentary that suggests it is a modern, social construct could cause harm,."
+          ],
+          "stanceTitle": "Science Exploration: Suggesting that ADHD is a myth is pseudoscientific and dangerous",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_6832629cbf_1",
+          "summary": "Suggesting that ADHD is a myth is pseudoscientific and dangerous. ADHD is a real condition that can have serious consequences if undiagnosed. An ill-informed documentary that suggests it is a modern, social construct could cause harm, says Caroline Williams",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-06/kgg7qf84_b_625x300_25_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308835355.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "NASA calls off rescue effort to save doomed telescope. The Swift observatory will now re-enter Earth\u2019s atmosphere in a few months, after a mission to boost it higher failed",
       "divergenceScore": 0,
-      "summary": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue. US Treasury Secretary Scott Bessent said buybacks of Treasury securities could be more than $4 billion per issue.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "US Treasury Secretary Scott Bessent said buybacks of Treasury securities could be more than.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue",
-          "type": "directReport",
-          "summary": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue. US Treasury Secretary Scott Bessent said buybacks of Treasury securities could be more than $4 billion per issue.",
-          "id": "p_art_eaa67e374b_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.895230+00:00",
-      "id": "art_eaa67e374b",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T17:03:39.529500+00:00",
+      "id": "art_65a8842e38",
+      "title": "NASA calls off rescue effort to save doomed telescope",
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Bessent Says Buybacks Could Be More Than $4 Billion Per Issue",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Swift observatory will now re-enter Earth\u2019s atmosphere in a few months, after a.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: NASA calls off rescue effort to save doomed telescope",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_65a8842e38_1",
+          "summary": "NASA calls off rescue effort to save doomed telescope. The Swift observatory will now re-enter Earth\u2019s atmosphere in a few months, after a mission to boost it higher failed",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cmad1mus_scott_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308888991.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Depression doesn\u2019t shrink the brain like we thought it did. For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory. But a large study using up-to-date scanning techniques suggests this may not be the case",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T17:03:38.191009+00:00",
+      "id": "art_2aa1e17175",
+      "title": "Depression doesn\u2019t shrink the brain like we thought it did",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory.",
+            "But a large study using up-to-date scanning techniques suggests this may not be the case"
+          ],
+          "stanceTitle": "Science Exploration: Depression doesn\u2019t shrink the brain like we thought it did",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_2aa1e17175_1",
+          "summary": "Depression doesn\u2019t shrink the brain like we thought it did. For the past decade, depression has been linked to a shrunken hippocampus, which has a vital role in memory. But a large study using up-to-date scanning techniques suggests this may not be the case",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308285036.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Two emerging tick viruses that can be deadly are spreading in the US. Heartland virus and Bourbon virus, which are transmitted by lone star ticks, have killed at least seven people in the US",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T17:03:34.518432+00:00",
+      "id": "art_77d592cc5d",
+      "title": "Two emerging tick viruses that can be deadly are spreading in the US",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Heartland virus and Bourbon virus, which are transmitted by lone star ticks, have killed.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: Two emerging tick viruses that can be deadly are spreading in the US",
+          "type": "directReport",
+          "sourceName": "New Scientist",
+          "id": "p_art_77d592cc5d_1",
+          "summary": "Two emerging tick viruses that can be deadly are spreading in the US. Heartland virus and Bourbon virus, which are transmitted by lone star ticks, have killed at least seven people in the US",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308899267.jpg"
     },
     {
       "videoDuration": "02:45",
@@ -248,130 +319,42 @@
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "Portfolio review takes on a new urgency for VCs as AI makes 2024\u2019s great deals look like 2026\u2019s clear mistakes. In venture capital, the half-life of a thesis has never been shorter.",
       "divergenceScore": 0,
-      "summary": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.. Treasury Secretary Scott Bessent has made waves this week with his plan to at least double his department\u2019s buybacks of longer-dated Treasury bonds.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Bessent\u2019s plan has analysts on edge..",
-            "Treasury Secretary Scott Bessent has made waves this week with his plan to at."
-          ],
-          "stanceTitle": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.",
-          "type": "directReport",
-          "summary": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.. Treasury Secretary Scott Bessent has made waves this week with his plan to at least double his department\u2019s buybacks of longer-dated Treasury bonds.",
-          "id": "p_art_4393095037_1",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.892819+00:00",
-      "id": "art_4393095037",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T17:03:34.448490+00:00",
+      "id": "art_5fa567d1aa",
+      "title": "Portfolio review takes on a new urgency for VCs as AI makes 2024\u2019s great deals look like 2026\u2019s",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "title": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-14260609"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "<p class=\"wp-block-paragraph\">Colossal Biosciences claims to have <a href=\"https://www.fastcompany.com/91313213/dire-wolves-pups-romulus-remus-extinction-resurrected-colossal-biosciences\" rel=\"noreferrer noopener\" target=\"_blank\">brought back the dire wolf</a>, and is now hard at work on its quest to resurrect several other species, including the woolly mammoth and the moa, a giant extinct bird.",
-      "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "While that\u2019s happening, the company is also pursuing a quieter, more near-term ambition: incubating.",
-            "The first was Form Bio, which <a href=\"https://www.businesswire.com/news/home/20220927005221/en/Colossal-Biosciences-Spins-Out-Form-Bio-to-Revolutionize-Computational-Life-Sciences\" rel=\"noreferrer noopener\" target=\"_blank\">has raised tens of."
+            "In venture capital, the half-life of a thesis has never been shorter.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "How Colossal is incubating an empire of startups",
+          "stanceTitle": "Executive Leadership: Portfolio review takes on a new urgency for VCs as AI makes 2024\u2019s great deals look like 2026\u2019s cl",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">Colossal Biosciences claims to have <a href=\"https://www.fastcompany.com/91313213/dire-wolves-pups-romulus-remus-extinction-resurrected-colossal-biosciences\" rel=\"noreferrer noopener\" target=\"_blank\">brought back the dire wolf</a>, and is now hard at work on its quest to resurrect several other species, including the woolly mammoth and the moa, a giant extinct bird.",
-          "id": "p_art_b61e69f3f9_1",
-          "sourceName": "Fast Company",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.879114+00:00",
-      "id": "art_b61e69f3f9",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "How Colossal is incubating an empire of startups",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592688-how-colossal-is-incubating-an-empire-of-startups.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Over four decades, Steve Hanke has pursued a worldwide quest to tame the hyperinflation that so frequently ravages developing nations. His solution: tying their currencies to the U.S.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "His solution: tying their currencies to the U.S.",
-            "dollar so their governments are no longer free to unleash an avalanche of pesos."
-          ],
-          "stanceTitle": "Exclusive: Venezuela, sick with hyperinflation, engages the \u2018money doctor\u2019 Steve Hanke for a dose of dollarization medic",
-          "type": "directReport",
-          "summary": "Over four decades, Steve Hanke has pursued a worldwide quest to tame the hyperinflation that so frequently ravages developing nations. His solution: tying their currencies to the U.S.",
-          "id": "p_art_e881a21abb_1",
           "sourceName": "Fortune",
+          "id": "p_art_5fa567d1aa_1",
+          "summary": "Portfolio review takes on a new urgency for VCs as AI makes 2024\u2019s great deals look like 2026\u2019s clear mistakes. In venture capital, the half-life of a thesis has never been shorter.",
           "quoteAuthor": "",
           "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
+          "sourceDomain": "fortune.com",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "fullMarkdownContent": ""
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.874952+00:00",
-      "id": "art_e881a21abb",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Exclusive: Venezuela, sick with hyperinflation, engages the \u2018money doctor\u2019 Steve Hanke for a do",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/hanke-e1787235949718.jpg?resize=1200,600"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/06/55325870880_ee66d123c3_o-e1781538480538.jpg?resize=1200,600"
     },
     {
       "videoDuration": "02:45",
@@ -380,594 +363,679 @@
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "Formula One Season Resumes, But Is Championship Already Decided?. History suggests overcoming Italian phenom Kimi Antonelli in this year's Formula One series will be difficult but not impossible.",
       "divergenceScore": 0,
-      "summary": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra Average bidder participation fell from 13 to 10 during FY26 as larger package sizes and higher net worth requirements favoured developers with stronger financial profiles Listen to This Article Competition intensity in Hybrid Annuity Model (HAM) projects is showing the first signs of reduction.",
+      "isBookmarked": false,
       "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\u201cIn FY26, particularly in the fourth quarter, newer HAM projects that were awarded had.",
-            "He added newer projects had higher bid costs, leading to the participation of developers."
-          ],
-          "stanceTitle": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra",
-          "type": "directReport",
-          "summary": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra Average bidder participation fell from 13 to 10 during FY26 as larger package sizes and higher net worth requirements favoured developers with stronger financial profiles Listen to This Article Competition intensity in Hybrid Annuity Model (HAM) projects is showing the first signs of reduction.",
-          "id": "p_art_e31f58a83f_1",
-          "sourceName": "Business Standard Economy",
-          "quoteAuthor": "",
-          "biasTag": "Macroeconomic Prudence",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "business-standard.com"
-        }
-      ],
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.834890+00:00",
-      "id": "art_e31f58a83f",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T17:03:34.436854+00:00",
+      "id": "art_9d57a3c3cf",
+      "title": "Formula One Season Resumes, But Is Championship Already Decided?",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "title": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "History suggests overcoming Italian phenom Kimi Antonelli in this year's Formula One series will.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Wealth & Entrepreneurship: Formula One Season Resumes, But Is Championship Already Decided?",
+          "type": "directReport",
+          "sourceName": "Forbes Business",
+          "id": "p_art_9d57a3c3cf_1",
+          "summary": "Formula One Season Resumes, But Is Championship Already Decided?. History suggests overcoming Italian phenom Kimi Antonelli in this year's Formula One series will be difficult but not impossible.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
       "sharesCount": 0,
-      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/10/thumb/fitandfill/1200X628/1783626412-7531.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a872fd7156e129fefed572e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Tech & AI",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "Chhattisgarh varsity cancels exam after paper leak allegations. The action is taken after students protest, alleging that questions were being circulated on social media hours before the exam was due to start",
       "divergenceScore": 0,
-      "summary": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised. It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T17:03:34.428253+00:00",
+      "id": "art_5f8e3f7f59",
+      "title": "Chhattisgarh varsity cancels exam after paper leak allegations",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The action is taken after students protest, alleging that questions were being circulated on.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Public Interest & Editorial: Chhattisgarh varsity cancels exam after paper leak allegations",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_5f8e3f7f59_1",
+          "summary": "Chhattisgarh varsity cancels exam after paper leak allegations. The action is taken after students protest, alleging that questions were being circulated on social media hours before the exam was due to start",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/hzlfgc/article71370526.ece/alternates/LANDSCAPE_1200/638192891510989930%201.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "India, Mexico finalise ToR for preferential trade agreement, signing soon. Proposed pact will cover a limited set of areas, including trade in goods, market access and rules of origin, as India seeks to expand its footprint in Latin America",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T17:03:34.421076+00:00",
+      "id": "art_ec8051ad57",
+      "title": "India, Mexico finalise ToR for preferential trade agreement, signing soon",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Proposed pact will cover a limited set of areas, including trade in goods, market.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Macroeconomic Prudence: India, Mexico finalise ToR for preferential trade agreement, signing soon",
+          "type": "directReport",
+          "sourceName": "Business Standard Economy",
+          "id": "p_art_ec8051ad57_1",
+          "summary": "India, Mexico finalise ToR for preferential trade agreement, signing soon. Proposed pact will cover a limited set of areas, including trade in goods, market access and rules of origin, as India seeks to expand its footprint in Latin America",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "sourceDomain": "business-standard.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/09/thumb/fitandfill/1200X628/1725849337-6863.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Stunning image of a polar bear with an outsized snack wins major award. Roie Galitz's breathtaking shot is one of the winners of the 2026 World Press Photo Contest, praised for its unusual perspective and scale",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.636956+00:00",
+      "id": "art_5c8230e5ee",
+      "title": "Stunning image of a polar bear with an outsized snack wins major award",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Roie Galitz's breathtaking shot is one of the winners of the 2026 World Press.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: Stunning image of a polar bear with an outsized snack wins major award",
+          "type": "viewpoint1",
+          "sourceName": "New Scientist",
+          "id": "p_art_5c8230e5ee_1",
+          "summary": "Stunning image of a polar bear with an outsized snack wins major award. Roie Galitz's breathtaking shot is one of the winners of the 2026 World Press Photo Contest, praised for its unusual perspective and scale",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Striking image of an orange-tailed damselfly peering through leaf wins photography competition - BBC.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Striking image of an orange-tailed damselfly peering through leaf wins photography competition -",
+          "type": "viewpoint2",
+          "sourceName": "BBC Wildlife Magazine",
+          "id": "p_art_5c8230e5ee_2",
+          "summary": "Striking image of an orange-tailed damselfly peering through leaf wins photography competition - BBC Wildlife Magazine. Striking image of an orange-tailed damselfly peering through leaf wins photography competition - BBC Wildlife Magazine",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "discoverwildlife.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307517761.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas. NCT 127 are coming to a theater near you on Sunday, September 20. Tickets for NCT 127 5TH TOUR \u2018NEO CITY : SEOUL -THE REDLINE\u2019 in CINEMAS go on sale Thursday, August 27.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.626508+00:00",
+      "id": "art_05c05709dd",
+      "title": "NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "NCT 127 are coming to a theater near you on Sunday, September 20.",
+            "Tickets for NCT 127 5TH TOUR \u2018NEO CITY : SEOUL -THE REDLINE\u2019 in CINEMAS go on sale Thursday, August 27."
+          ],
+          "stanceTitle": "Wealth & Entrepreneurship: NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas",
+          "type": "viewpoint1",
+          "sourceName": "Forbes Business",
+          "id": "p_art_05c05709dd_1",
+          "summary": "NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas. NCT 127 are coming to a theater near you on Sunday, September 20. Tickets for NCT 127 5TH TOUR \u2018NEO CITY : SEOUL -THE REDLINE\u2019 in CINEMAS go on sale Thursday, August 27.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard",
+          "type": "viewpoint2",
+          "sourceName": "Billboard",
+          "id": "p_art_05c05709dd_2",
+          "summary": "NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard. NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "billboard.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one. Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild house mice (Mus musculus) collected from farms in Germany.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.620152+00:00",
+      "id": "art_02fad11179",
+      "title": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild.",
+            "They searched for genes responsible for resistance to common antibiotics and correlated the presence."
+          ],
+          "stanceTitle": "Physics & Applied Tech: Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one",
+          "type": "viewpoint1",
+          "sourceName": "Phys.org",
+          "id": "p_art_02fad11179_1",
+          "summary": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one. Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild house mice (Mus musculus) collected from farms in Germany.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "New research reveals wild mice as reservoirs for antibiotic resistance - News-Medical",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: New research reveals wild mice as reservoirs for antibiotic resistance - News-Medical",
+          "type": "viewpoint2",
+          "sourceName": "News-Medical",
+          "id": "p_art_02fad11179_2",
+          "summary": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one. Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild house mice (Mus musculus) collected from farms in Germany.",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "news-medical.net",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-on-farm-mice.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Will personalised mRNA vaccines transform cancer treatments?. A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.612696+00:00",
+      "id": "art_7140b8d670",
+      "title": "Will personalised mRNA vaccines transform cancer treatments?",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: Will personalised mRNA vaccines transform cancer treatments?",
+          "type": "viewpoint1",
+          "sourceName": "New Scientist",
+          "id": "p_art_7140b8d670_1",
+          "summary": "Will personalised mRNA vaccines transform cancer treatments?. A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Firstpost",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Fi",
+          "type": "viewpoint2",
+          "sourceName": "Firstpost",
+          "id": "p_art_7140b8d670_2",
+          "summary": "Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Firstpost. Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Firstpost",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "firstpost.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work. AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.606000+00:00",
+      "id": "art_90db572636",
+      "title": "AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "AI companies have begun embedding watermarks in the output of their models to improve.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work",
+          "type": "viewpoint1",
+          "sourceName": "New Scientist",
+          "id": "p_art_90db572636_1",
+          "summary": "AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work. AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon",
+          "type": "viewpoint2",
+          "sourceName": "HackerNoon",
+          "id": "p_art_90db572636_2",
+          "summary": "The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon. The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "hackernoon.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308808886.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Chinese court sentences founder of troubled property developer Evergrande to life in prison. The Shenzhen Intermediate People's Court convicted Hui, 67, and Evergrande of engaging in large-scale financial fraud in inflating the group's assets and concealing its liabilities",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.598706+00:00",
+      "id": "art_7bb09274ac",
+      "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Shenzhen Intermediate People's Court convicted Hui, 67, and Evergrande of engaging in large-scale.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Institutional Diplomacy: Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu World",
+          "id": "p_art_7bb09274ac_1",
+          "summary": "Chinese court sentences founder of troubled property developer Evergrande to life in prison. The Shenzhen Intermediate People's Court convicted Hui, 67, and Evergrande of engaging in large-scale financial fraud in inflating the group's assets and concealing its liabilities",
+          "quoteAuthor": "",
+          "biasTag": "Institutional Diplomacy",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Legal & Regulatory Action: Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
+          "type": "viewpoint2",
+          "sourceName": "NPR",
+          "id": "p_art_7bb09274ac_2",
+          "summary": "Chinese court sentences founder of property developer Evergrande to life in prison - NPR. Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
+          "quoteAuthor": "",
+          "biasTag": "Critical Scrutiny",
+          "sourceDomain": "npr.org",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9msoke/article71370627.ece/alternates/LANDSCAPE_1200/2026-08-20T110048Z_1345718807_RC2A2NAOX63H_RTRMADP_3_CHINA-PROPERTY-DEBT-EVERGRANDE.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Women compete just as hard as men for top jobs and can win them more often, auction-style study suggests. New behavioral economics research on gender and competition, using bidding experiments, finds no overall gender gap in competitiveness; where a gap does appear, it is women who push hardest for the highest positions.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.589458+00:00",
+      "id": "art_a5f0dab42c",
+      "title": "Women compete just as hard as men for top jobs and can win them more often, auction-style study",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "New behavioral economics research on gender and competition, using bidding experiments, finds no overall.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Physics & Applied Tech: Women compete just as hard as men for top jobs and can win them more often, auction-style study ",
+          "type": "viewpoint1",
+          "sourceName": "Phys.org",
+          "id": "p_art_a5f0dab42c_1",
+          "summary": "Women compete just as hard as men for top jobs and can win them more often, auction-style study suggests. New behavioral economics research on gender and competition, using bidding experiments, finds no overall gender gap in competitiveness; where a gap does appear, it is women who push hardest for the highest positions.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Women compete just as hard as men for top jobs, and win them more often, new research finds - xjtlu.edu.cn",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Women compete just as hard as men for top jobs, and win them more often, new research finds - xj",
+          "type": "viewpoint2",
+          "sourceName": "xjtlu.edu.cn",
+          "id": "p_art_a5f0dab42c_2",
+          "summary": "Women compete just as hard as men for top jobs, and win them more often, new research finds - xjtlu.edu.cn. Women compete just as hard as men for top jobs, and win them more often, new research finds - xjtlu.edu.cn",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "xjtlu.edu.cn",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/female-employee.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha. The two countries are yet to hold the last round of talks on the renewal of the treaty that will expire on December 31, 2026",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.578551+00:00",
+      "id": "art_e9624e5006",
+      "title": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The two countries are yet to hold the last round of talks on the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Public Interest & Editorial: India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu National",
+          "id": "p_art_e9624e5006_1",
+          "summary": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha. The two countries are yet to hold the last round of talks on the renewal of the treaty that will expire on December 31, 2026",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Let Ganga Water Treaty Lapse: JD(U) MP - Deccan Chronicle",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Let Ganga Water Treaty Lapse: JD(U) MP - Deccan Chronicle",
+          "type": "viewpoint2",
+          "sourceName": "Deccan Chronicle",
+          "id": "p_art_e9624e5006_2",
+          "summary": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha. The two countries are yet to hold the last round of talks on the renewal of the treaty that will expire on December 31, 2026",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "deccanchronicle.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/s5jen0/article71370615.ece/alternates/LANDSCAPE_1200/20260730431L.jpg"
+    },
+    {
+      "tags": [
+        "Automotive & Energy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's doing its best to disrupt America's $1 billion golf cart industry. - The tiny Fiat Topolino isn't technically a car at all.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
-            "Key analytical takeaway and operational overview."
+            "Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's.",
+            "- The tiny Fiat Topolino isn't technically a car at all."
           ],
-          "stanceTitle": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
-          "type": "directReport",
-          "summary": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised. It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
-          "id": "p_art_88a9618e17_1",
-          "sourceName": "Engadget",
+          "stanceTitle": "EV Technology & Battery: The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
+          "type": "viewpoint1",
+          "summary": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's doing its best to disrupt America's $1 billion golf cart industry. - The tiny Fiat Topolino isn't technically a car at all.",
+          "id": "p_art_fb00001b36_1",
+          "sourceName": "InsideEVs",
           "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
+          "biasTag": "EV Technology & Battery",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 91,
-          "sourceDomain": "engadget.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.829019+00:00",
-      "id": "art_88a9618e17",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.engadget.com/img/gallery/teslas-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/l-intro-1787240908.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death. For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s death closes one chapter in a 42-year wait for justice; some expressed relief, others felt he had escaped the ultimate punishment for his crimes",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death",
-          "type": "directReport",
-          "summary": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death. For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s death closes one chapter in a 42-year wait for justice; some expressed relief, others felt he had escaped the ultimate punishment for his crimes",
-          "id": "p_art_daccb63922_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.813974+00:00",
-      "id": "art_daccb63922",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ouhkwu/article71369533.ece/alternates/LANDSCAPE_1200/sajjan-kumar_GOGOBFFPI5T.3.jpg.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "envoy Sergio Gor arrives in Ladakh; no high-profile meetings held. Officials said there is uncertainty over Mr. Gor meeting the Dalai Lama, who is currently staying in Leh",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Officials said there is uncertainty over Mr.",
-            "Gor meeting the Dalai Lama, who is currently staying in Leh"
-          ],
-          "stanceTitle": "U.S. envoy Sergio Gor arrives in Ladakh; no high-profile meetings held",
-          "type": "directReport",
-          "summary": "envoy Sergio Gor arrives in Ladakh; no high-profile meetings held. Officials said there is uncertainty over Mr. Gor meeting the Dalai Lama, who is currently staying in Leh",
-          "id": "p_art_36347bb5af_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.811602+00:00",
-      "id": "art_36347bb5af",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "U.S. envoy Sergio Gor arrives in Ladakh; no high-profile meetings held",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/staavj/article71369540.ece/alternates/LANDSCAPE_1200/20260820266L_uOkjub3.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019. Notices will be served to 23.45 lakh people who could not find their own or their parents\u2019 details in the 2002 electoral roll",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Notices will be served to 23.45 lakh people who could not find their own.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019",
-          "type": "directReport",
-          "summary": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019. Notices will be served to 23.45 lakh people who could not find their own or their parents\u2019 details in the 2002 electoral roll",
-          "id": "p_art_aa35d460a3_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.800860+00:00",
-      "id": "art_aa35d460a3",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepa",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9udyna/article71369320.ece/alternates/LANDSCAPE_1200/_DSC4655.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Assam and Meghalaya chief ministers agreed to jointly restore peace after Shillong violence - Ministers from both states will meet to discuss ways to normalise relations and build trust - Violence followed a rally in Shillong, with damage to vehicles and public property reported Assam and Meghalaya have stepped up efforts to contain tensions.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Sangma said he spoke to Sarma over the violence that erupted in Meghalaya's capital.",
-            "In a post on X, Sangma said the two chief ministers had agreed to."
-          ],
-          "stanceTitle": "Assam, Meghalaya Chief Ministers Join Hands To Defuse Tension After Shillong Violence",
-          "type": "directReport",
-          "summary": "- Assam and Meghalaya chief ministers agreed to jointly restore peace after Shillong violence - Ministers from both states will meet to discuss ways to normalise relations and build trust - Violence followed a rally in Shillong, with damage to vehicles and public property reported Assam and Meghalaya have stepped up efforts to contain tensions.",
-          "id": "p_art_474b832d5b_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.787241+00:00",
-      "id": "art_474b832d5b",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Assam, Meghalaya Chief Ministers Join Hands To Defuse Tension After Shillong Violence",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ha66idug_sangma-and-conrad_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Manav Suthar Shares Details Of His Practice After Demolishing Sri Lanka In 1st Test Manav Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as India defeated Sri Lanka by 165 runs in the opening Test on Wednesday.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "- IANS - Updated: August 20, 2026 04:14 pm IST India's young left-arm spinner.",
-            "Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as."
-          ],
-          "stanceTitle": "Manav Suthar Shares Details Of His Practice After Demolishing SL In 1st Test",
-          "type": "directReport",
-          "summary": "Manav Suthar Shares Details Of His Practice After Demolishing Sri Lanka In 1st Test Manav Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as India defeated Sri Lanka by 165 runs in the opening Test on Wednesday.",
-          "id": "p_art_a97db9a67e_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.783970+00:00",
-      "id": "art_a97db9a67e",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Manav Suthar Shares Details Of His Practice After Demolishing SL In 1st Test",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/uc9lbcpg_manav-suthar-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- A 50-year-old woman died in a lift accident in Andhra Pradesh's Prakasam district - The elevator moved down while its doors were open, trapping the woman inside - She was trapped while exiting the lift and suffered severe injuries A 50-year-old woman died in a freak lift accident on Sunday at a residential tower.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The victim was identified as Vanitha, who died later while undergoing the treatment.",
-            "According to reports, she had entered the lift along with her daughter and grandson."
-          ],
-          "stanceTitle": "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
-          "type": "directReport",
-          "summary": "- A 50-year-old woman died in a lift accident in Andhra Pradesh's Prakasam district - The elevator moved down while its doors were open, trapping the woman inside - She was trapped while exiting the lift and suffered severe injuries A 50-year-old woman died in a freak lift accident on Sunday at a residential tower.",
-          "id": "p_art_76363dbd55_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T16:38:48.760901+00:00",
-      "id": "art_76363dbd55",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/bvqt9olc_andhra-woman-trapped-in-lift_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "- PTI - Updated: August 20, 2026 05:25 pm IST - India mixed disability.",
-            "Riding on Arjun Gawre's 68 off 44 balls and captain Majid Magray's unbeaten 63."
-          ],
-          "stanceTitle": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
-          "type": "viewpoint1",
-          "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
-          "id": "p_art_856301bbee_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
+          "sourceDomain": "insideevs.com"
         },
         {
           "keyPoints": [
-            "India needed to avoid defeat to seal a place in the second round of the Hockey World Cup.",
-            "They did the job with much struggle."
-          ],
-          "stanceTitle": "Hockey WC Live: Goals Disallowed, India Survive Scare vs England To Advance",
-          "type": "viewpoint2",
-          "summary": "India vs England Highlights, Women's Hockey World Cup 2026: Indian defended with their lives to thwart the English attack and eked out a 0-0 draw in their final Pool D match of the FIH Women's Hockey World Cup 2026 in Amstelveen, Netherlands.",
-          "id": "p_art_856301bbee_2",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.714701+00:00",
-      "id": "art_856301bbee",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/l8uh4q38_sourav-ganguly_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The deportees arrived at the Roberts international airport outside Monrovia.",
-            "The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s."
-          ],
-          "stanceTitle": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-          "type": "viewpoint1",
-          "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
-          "id": "p_art_1eaa4f58ca_1",
-          "sourceName": "The Guardian World",
-          "quoteAuthor": "",
-          "biasTag": "Progressive International",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "theguardian.com"
-        },
-        {
-          "keyPoints": [
-            "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+            "Fiat Topolino Is The Tiny EV Golf Courses Suddenly Want - Motor1.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+          "stanceTitle": "Journalistic Reporting: Fiat Topolino Is The Tiny EV Golf Courses Suddenly Want - Motor1.com",
           "type": "viewpoint2",
-          "summary": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS. Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
-          "id": "p_art_1eaa4f58ca_2",
-          "sourceName": "UA.NEWS",
+          "summary": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's doing its best to disrupt America's $1 billion golf cart industry. - The tiny Fiat Topolino isn't technically a car at all.",
+          "id": "p_art_fb00001b36_2",
+          "sourceName": "Motor1.com",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "ua.news"
+          "sourceDomain": "motor1.com"
         }
       ],
       "readTimeMinutes": 2,
-      "videoUrl": "",
+      "title": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.679951+00:00",
-      "id": "art_1eaa4f58ca",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T16:52:55.502402+00:00",
+      "id": "art_fb00001b36",
+      "videoUrl": "",
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "category": "Automotive & Energy",
+      "isLiked": false,
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f25a8263193c86b4c6189eb9188aee52"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Bangkok said the talks focused on ways to enhance security cooperation on the nations'.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
-          "type": "viewpoint1",
-          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
-          "id": "p_art_964f8e40a5_1",
-          "sourceName": "The Hindu World",
-          "quoteAuthor": "",
-          "biasTag": "Institutional Diplomacy",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        },
-        {
-          "keyPoints": [
-            "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
-          "type": "viewpoint2",
-          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
-          "id": "p_art_964f8e40a5_2",
-          "sourceName": "ucanews.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ucanews.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.678022+00:00",
-      "id": "art_964f8e40a5",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/nyya9t/article71370502.ece/alternates/LANDSCAPE_1200/AFP_C63C9KB.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-            "Many lines of research align with the theory that aging is a direct result."
-          ],
-          "stanceTitle": "Why Aging May Be a Program, Not a Breakdown",
-          "type": "viewpoint1",
-          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-          "id": "p_art_d1f8cf7c6f_1",
-          "sourceName": "Quanta Magazine",
-          "quoteAuthor": "",
-          "biasTag": "Mathematics & Fundamental Physics",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 98,
-          "sourceDomain": "quantamagazine.org"
-        },
-        {
-          "keyPoints": [
-            "Mental health of older adults - World Health Organization (WHO)",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Mental health of older adults - World Health Organization (WHO)",
-          "type": "viewpoint2",
-          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-          "id": "p_art_d1f8cf7c6f_2",
-          "sourceName": "World Health Organization (WHO)",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "who.int"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.664575+00:00",
-      "id": "art_d1f8cf7c6f",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Why Aging May Be a Program, Not a Breakdown",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/cropped-Junyue-Cao-cr-Karan-Dias-Social.jpg"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     }
   ]
 }

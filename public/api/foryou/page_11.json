@@ -6,399 +6,460 @@
   "articles": [
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Oil prices jump after Trump declares economic war on Iran. President Donald Trump said in a post on Truth Social that any country supporting Iran\u2019s economy would face \u201ctremendous economic consequences.\u201d",
+      "summary": "- A woman apologised to Indian Army and police after her viral roadblock confrontation in Ladakh - The incident occurred near Minimarg check post during a temporary road closure on July 26 - She and other travellers waited six hours due to a VIP movement without clear communication A 25-year-old woman whose angry confrontation with.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"I Apologise To Indian Army\": Woman In Viral 'We Are Gen Z' Video",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.502203+00:00",
+      "id": "art_672c71c84a",
       "perspectives": [
         {
           "keyPoints": [
-            "President Donald Trump said in a post on Truth Social that any country supporting.",
+            "Speaking to NDTV for the first time since the video went viral, the woman.",
+            "\"I respect the Indian army so much."
+          ],
+          "stanceTitle": "\"I Apologise To Indian Army\": Woman In Viral 'We Are Gen Z' Video",
+          "type": "directReport",
+          "summary": "- A woman apologised to Indian Army and police after her viral roadblock confrontation in Ladakh - The incident occurred near Minimarg check post during a temporary road closure on July 26 - She and other travellers waited six hours due to a VIP movement without clear communication A 25-year-old woman whose angry confrontation with.",
+          "id": "p_art_672c71c84a_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/43hfuros_we-are-gen-z-_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
+      "id": "art_7bca469e57",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
+            "However, India has clarified that the government had nothing to do with the event."
+          ],
+          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+          "type": "viewpoint1",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Oil prices jump after Trump declares economic war on Iran",
-          "type": "directReport",
-          "summary": "Oil prices jump after Trump declares economic war on Iran. President Donald Trump said in a post on Truth Social that any country supporting Iran\u2019s economy would face \u201ctremendous economic consequences.\u201d",
-          "id": "p_art_bac10ab41a_1",
-          "sourceName": "MarketWatch Top Stories",
+          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
+          "type": "viewpoint2",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_2",
+          "sourceName": "NDTV Profit",
           "quoteAuthor": "",
-          "biasTag": "Market Analysis",
+          "biasTag": "Indian Corporate & Regulatory",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
+          "sourceDomain": "ndtvprofit.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.873549+00:00",
-      "id": "art_bac10ab41a",
-      "title": "Oil prices jump after Trump declares economic war on Iran",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-43202431"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.. Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that they see as not even needed.",
+      "summary": "- Fake motivational speaker Divya Jitendra Parmar coerced a woman into sending nude photos - The police have seized a laptop and a mobile phone used by Parmar - The police are investigating whether he targeted more women A 23-year-old man who pretended to be a motivational speaker has been arrested for tricking a young.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Fake Motivational Speaker Arrested For Taking Pune Woman's Nude Photos",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.384051+00:00",
+      "id": "art_5a7fd1615c",
       "perspectives": [
         {
           "keyPoints": [
-            "Here\u2019s its advice for investors..",
-            "Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that."
+            "The accused, Divya Jitendra Parmar, created an elaborate act to appear credible on social.",
+            "The incident was reported from Maharashtra's Pune."
           ],
-          "stanceTitle": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.",
+          "stanceTitle": "Fake Motivational Speaker Arrested For Taking Pune Woman's Nude Photos",
           "type": "directReport",
-          "summary": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.. Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that they see as not even needed.",
-          "id": "p_art_4f0c77e2ab_1",
-          "sourceName": "MarketWatch Top Stories",
+          "summary": "- Fake motivational speaker Divya Jitendra Parmar coerced a woman into sending nude photos - The police have seized a laptop and a mobile phone used by Parmar - The police are investigating whether he targeted more women A 23-year-old man who pretended to be a motivational speaker has been arrested for tricking a young.",
+          "id": "p_art_5a7fd1615c_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Market Analysis",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.871872+00:00",
-      "id": "art_4f0c77e2ab",
-      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advi",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-19641233"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/jquig0ms_spiritual-_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">In central Arizona, about 90 miles east of Phoenix, an old open-pit copper mine sits full of water.&nbsp;</p> <p class=\"wp-block-paragraph\">The mine closed in the 1980s, left to accumulate rain and groundwater.",
+      "summary": "- Former Bank of India DGM and five others sentenced to 10 years in bank fraud case - Convicts fined Rs 2.70 crore for Rs 2.39 crore fraud involving false loan documents - CBI registered case in 2010 after complaint by Bank of India, trial lasted years A special CBI court in Chennai has sentenced.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Ex-Bank Of India Employee Among 6 Sentenced To 10 Years In Fraud Case",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.367629+00:00",
+      "id": "art_9fb109bfde",
       "perspectives": [
         {
           "keyPoints": [
-            "These \u201cpit lakes,\u201d as they\u2019re called, are monitored so that they don\u2019t contaminate the.",
-            "SiTration&#8217;s CEO, Brendan Smith, says the two-month pilot will be able to extract two."
+            "The court, announcing its verdict, also imposed fines totalling Rs 2.70 crore on the.",
+            "Venkatachalam, a former deputy general manager of Bank of India; M."
           ],
-          "stanceTitle": "How one startup is recovering copper from old mines that were left for dead in the 1980s",
+          "stanceTitle": "Ex-Bank Of India Employee Among 6 Sentenced To 10 Years In Fraud Case",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">In central Arizona, about 90 miles east of Phoenix, an old open-pit copper mine sits full of water.&nbsp;</p> <p class=\"wp-block-paragraph\">The mine closed in the 1980s, left to accumulate rain and groundwater.",
-          "id": "p_art_5470edb86c_1",
-          "sourceName": "Fast Company",
+          "summary": "- Former Bank of India DGM and five others sentenced to 10 years in bank fraud case - Convicts fined Rs 2.70 crore for Rs 2.39 crore fraud involving false loan documents - CBI registered case in 2010 after complaint by Bank of India, trial lasted years A special CBI court in Chennai has sentenced.",
+          "id": "p_art_9fb109bfde_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.871039+00:00",
-      "id": "art_5470edb86c",
-      "title": "How one startup is recovering copper from old mines that were left for dead in the 1980s",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591887-SiTration.jpg"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/u374hdfk_bank-fraud-_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">Never before has a ketchup bottle been designed with such precise portion control.</p> <p class=\"wp-block-paragraph\">Heinz has released its first-ever customizable lid that comes with three settings for light, medium, and heavy labeled &#8220;Like,&#8221; &#8220;Love,&#8221; and &#8220;Crazy Love&#8221; for an increasingly heavier pour.",
+      "summary": "The trilateral Mecca security pact between Saudi Arabia (KSA), Turkey, and Pakistan wasn't really a bolt from the blue. For months, there had been confabulations between these three countries and Egypt, and the air was abuzz with a new regional security arrangement that was being worked out.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Opinion: Opinion | An India-Pakistan War Test: How Far Would Saudi Arabia And Turkey Go?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.365585+00:00",
+      "id": "art_d73c35f211",
       "perspectives": [
         {
           "keyPoints": [
-            "If the biggest challenge with old-school glass bottles is not knowing how much ketchup.",
-            "It works thanks to a two-part mechanism that controls the ketchup flow while creating."
+            "For months, there had been confabulations between these three countries and Egypt, and the.",
+            "This new arrangement is in addition to the bilateral Strategic Mutual Defence Agreement (SMDA)."
           ],
-          "stanceTitle": "Heinz\u2019s new adjustable cap looks simple. Its design process was another story",
+          "stanceTitle": "Opinion: Opinion | An India-Pakistan War Test: How Far Would Saudi Arabia And Turkey Go?",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">Never before has a ketchup bottle been designed with such precise portion control.</p> <p class=\"wp-block-paragraph\">Heinz has released its first-ever customizable lid that comes with three settings for light, medium, and heavy labeled &#8220;Like,&#8221; &#8220;Love,&#8221; and &#8220;Crazy Love&#8221; for an increasingly heavier pour.",
-          "id": "p_art_d1673d81cd_1",
-          "sourceName": "Fast Company",
+          "summary": "The trilateral Mecca security pact between Saudi Arabia (KSA), Turkey, and Pakistan wasn't really a bolt from the blue. For months, there had been confabulations between these three countries and Egypt, and the air was abuzz with a new regional security arrangement that was being worked out.",
+          "id": "p_art_d73c35f211_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.859687+00:00",
-      "id": "art_d1673d81cd",
-      "title": "Heinz\u2019s new adjustable cap looks simple. Its design process was another story",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591528-heinz-adjustable-cap.jpg"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2022-05/iio4thbg_shehbaz-sharif-prince-salman-pak-saudi-afp_625x300_01_May_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Every CEO wants to talk about AI\u2019s magic. Almost none want to talk about the boring problems standing in the way. Picture a railroad that spends billions on the fastest trains in the world, then runs them on the same aging rails. The trains aren\u2019t the constraint.",
+      "summary": "Former Chief Election Commissioner of Bhutan, Dasho Sonam Topgay, could become the 16th Secretary General of the South Asian Association for Regional Cooperation (SAARC), a body which has not seen a summit since the time the 2016 summit was called off following India's withdrawal from the event after the Uri terror attack.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Bhutan Nominates Former Election Body Chief For SAARC Secretary General Post",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.348212+00:00",
+      "id": "art_7603f0fa5d",
       "perspectives": [
         {
           "keyPoints": [
-            "Almost none want to talk about the boring problems standing in the way.",
-            "Picture a railroad that spends billions on the fastest trains in the world, then."
+            "According to reports, Topgay's name has been proposed by Bhutan, as under the alphabetical.",
+            "The current Secretary General, Bangladesh's Gholam Sarwar's term ends in October, and the regional."
           ],
-          "stanceTitle": "AI won\u2019t fix a broken company. Rewiring it will",
+          "stanceTitle": "Bhutan Nominates Former Election Body Chief For SAARC Secretary General Post",
           "type": "directReport",
-          "summary": "Every CEO wants to talk about AI\u2019s magic. Almost none want to talk about the boring problems standing in the way. Picture a railroad that spends billions on the fastest trains in the world, then runs them on the same aging rails. The trains aren\u2019t the constraint.",
-          "id": "p_art_fee10279cb_1",
-          "sourceName": "Fortune",
+          "summary": "Former Chief Election Commissioner of Bhutan, Dasho Sonam Topgay, could become the 16th Secretary General of the South Asian Association for Regional Cooperation (SAARC), a body which has not seen a summit since the time the 2016 summit was called off following India's withdrawal from the event after the Uri terror attack.",
+          "id": "p_art_7603f0fa5d_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.794284+00:00",
-      "id": "art_fee10279cb",
-      "title": "AI won\u2019t fix a broken company. Rewiring it will",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/sastry-manish.png?resize=1200,600"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/2ch872no_saarc_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "- In today\u2019s CEO Daily: The executive behind FarmVille shares lessons on creating and popularizing products in the AI era - The big leadership story: Who\u2019s in charge of corporate AI spending?",
+      "summary": "- Rahul Gandhi today said he last saw his parents together over 35 years ago - Rahul praised Sonia Gandhi's courage and dignity since Rajiv Gandhi's death - He expressed pride that his mother's memoir would finally be shared with the public It was 35 years ago when Rahul Gandhi last saw his famous parents.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"Papa Smiling, Looking Down Proudly At His Beautiful Sonia\": Rahul Gandhi",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.346137+00:00",
+      "id": "art_7711ef71e7",
       "perspectives": [
         {
           "keyPoints": [
-            "- The markets: A good day in Asian markets, with Korea leading the way.",
-            "Zynga founder Mark Pincus made social gaming a global habit."
+            "Since then, the Junior Gandhi, in a public post addressed to his mother, said.",
+            "\"I last saw you and Papa together more than 35 years ago."
           ],
-          "stanceTitle": "Zynga founder Mark Pincus: AI can get you to a B-plus, but it won\u2019t get you to an A",
+          "stanceTitle": "\"Papa Smiling, Looking Down Proudly At His Beautiful Sonia\": Rahul Gandhi",
           "type": "directReport",
-          "summary": "- In today\u2019s CEO Daily: The executive behind FarmVille shares lessons on creating and popularizing products in the AI era - The big leadership story: Who\u2019s in charge of corporate AI spending?",
-          "id": "p_art_92e8ee5cb0_1",
-          "sourceName": "Fortune",
+          "summary": "- Rahul Gandhi today said he last saw his parents together over 35 years ago - Rahul praised Sonia Gandhi's courage and dignity since Rajiv Gandhi's death - He expressed pride that his mother's memoir would finally be shared with the public It was 35 years ago when Rahul Gandhi last saw his famous parents.",
+          "id": "p_art_7711ef71e7_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.764849+00:00",
-      "id": "art_92e8ee5cb0",
-      "title": "Zynga founder Mark Pincus: AI can get you to a B-plus, but it won\u2019t get you to an A",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2260125364-e1787214066471.jpg?resize=1200,600"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/npb6uq04_sonia-becoming-_625x300_20_August_26.jpeg"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Climate change could cost London as much as \u00a336 billion ($50 billion) a year by the 2050s, the Mayor of London\u2019s office said in a report.",
+      "summary": "- A seven-year-old boy died after his neck was trapped in a parked bus door in Vadodara - The incident occurred at a garage on the outskirts of Vadodara on Wednesday evening - The bus door suddenly closed while the child was playing inside the stationary vehicle A seven-year-old boy died after his neck got.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "7-Year-Old Gujarat Boy Dies After Neck Trapped In Bus' Hydraulic Door",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.235538+00:00",
+      "id": "art_3731986e7c",
       "perspectives": [
         {
           "keyPoints": [
-            "Lost working hours, disruption to businesses and damage to infrastructure caused by extreme weather.",
-            "Businesses need to adapt to climate change, the report said, by adjusting working hours,."
+            "The incident happened on Wednesday evening at a garage on the outskirts of Vadodara.",
+            "The child, identified as Divyesh Rathwa, was playing near the garage when he entered the parked bus."
           ],
-          "stanceTitle": "Climate change to cost London up to \u00a336 billion a year by 2050s",
+          "stanceTitle": "7-Year-Old Gujarat Boy Dies After Neck Trapped In Bus' Hydraulic Door",
           "type": "directReport",
-          "summary": "Climate change could cost London as much as \u00a336 billion ($50 billion) a year by the 2050s, the Mayor of London\u2019s office said in a report.",
-          "id": "p_art_34b898eff9_1",
-          "sourceName": "Fortune",
+          "summary": "- A seven-year-old boy died after his neck was trapped in a parked bus door in Vadodara - The incident occurred at a garage on the outskirts of Vadodara on Wednesday evening - The bus door suddenly closed while the child was playing inside the stationary vehicle A seven-year-old boy died after his neck got.",
+          "id": "p_art_3731986e7c_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.726531+00:00",
-      "id": "art_34b898eff9",
-      "title": "Climate change to cost London up to \u00a336 billion a year by 2050s",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2282584831-e1787223279425.jpg?resize=1200,600"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/gavu2h78_vadodara-boy-_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Eastern Time today, oil had reached $95.40 per barrel, measured using the Brent benchmark. That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier. Will oil prices go up? Oil prices are inherently unpredictable.",
+      "summary": "- Rajinikanth's Jailer 2 is set to release on October 15, 2026 - A 32-second promo of the song Ala Bolelo was recently released - Anirudh Ravichander composed the music for Jailer 2 The anticipation surrounding Rajinikanth's upcoming film Jailer 2 is extremely high.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "'Irritating': Jailer 2 Song Promo Draws Flak Over Malayalam Pronunciation",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.232978+00:00",
+      "id": "art_86c7cfbe69",
       "perspectives": [
         {
           "keyPoints": [
-            "That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier.",
-            "Will oil prices go up?"
+            "The film is a sequel to Jailer, which was released in 2023, and is set to hit screens in October.",
+            "A 32-second promo of the song Ala Bolelo, featuring Rajinikanth and Shamna Kasim, was recently released."
           ],
-          "stanceTitle": "Current price of oil as of August 20, 2026",
+          "stanceTitle": "'Irritating': Jailer 2 Song Promo Draws Flak Over Malayalam Pronunciation",
           "type": "directReport",
-          "summary": "Eastern Time today, oil had reached $95.40 per barrel, measured using the Brent benchmark. That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier. Will oil prices go up? Oil prices are inherently unpredictable.",
-          "id": "p_art_0ba2e25c8d_1",
-          "sourceName": "Fortune",
+          "summary": "- Rajinikanth's Jailer 2 is set to release on October 15, 2026 - A 32-second promo of the song Ala Bolelo was recently released - Anirudh Ravichander composed the music for Jailer 2 The anticipation surrounding Rajinikanth's upcoming film Jailer 2 is extremely high.",
+          "id": "p_art_86c7cfbe69_1",
+          "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
+          "biasTag": "Trending & Viral",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.703644+00:00",
-      "id": "art_0ba2e25c8d",
-      "title": "Current price of oil as of August 20, 2026",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-August-20.jpg?resize=1200,600"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/klsv1p8s_jailer-2_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "What happens when large language models become commodities? Competitive advantage moves from the model itself to the balance sheet behind it. AI is now reversing 20 years of technology economics, turning what was once a software business into a capital-intensive industry.",
+      "summary": "- Prithviraj Sukumaran's Khalifa released on August 20 - Viewers praised Prithviraj's screen presence and Jake Bejoy's background score - Criticism focused on weak writing, predictable story, and lack of emotional depth Prithviraj Sukumaran's Khalifa released in theatres on August 20. The film has also attracted attention for a cameo appearance by Mohanlal.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "'No Emotional Connection': Prithviraj Sukumaran's Khalifa Sparks Mixed Reactions",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.221676+00:00",
+      "id": "art_433cf3b68e",
       "perspectives": [
         {
           "keyPoints": [
-            "Competitive advantage moves from the model itself to the balance sheet behind it.",
-            "AI is now reversing 20 years of technology economics, turning what was once a."
+            "The film has also attracted attention for a cameo appearance by Mohanlal.",
+            "Soon after the film's release, several viewers took to X to share their reactions."
           ],
-          "stanceTitle": "AI is becoming a financial engineering business",
+          "stanceTitle": "'No Emotional Connection': Prithviraj Sukumaran's Khalifa Sparks Mixed Reactions",
           "type": "directReport",
-          "summary": "What happens when large language models become commodities? Competitive advantage moves from the model itself to the balance sheet behind it. AI is now reversing 20 years of technology economics, turning what was once a software business into a capital-intensive industry.",
-          "id": "p_art_082a19bc33_1",
-          "sourceName": "Fortune",
+          "summary": "- Prithviraj Sukumaran's Khalifa released on August 20 - Viewers praised Prithviraj's screen presence and Jake Bejoy's background score - Criticism focused on weak writing, predictable story, and lack of emotional depth Prithviraj Sukumaran's Khalifa released in theatres on August 20. The film has also attracted attention for a cameo appearance by Mohanlal.",
+          "id": "p_art_433cf3b68e_1",
+          "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
+          "biasTag": "Trending & Viral",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.673439+00:00",
-      "id": "art_082a19bc33",
-      "title": "AI is becoming a financial engineering business",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/images-2.jpg?resize=1200,600"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/a4ir3ej_prithviraj_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -407,30 +468,473 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-20T14:11:40.864169+00:00",
-      "isBookmarked": false,
+      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
       "divergenceScore": 88,
-      "summary": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth MPD-2047 plans for a population of 32 million and shifts Delhi towards denser mixed-use growth around mass transit, land pooling and infrastructure-led urban expansion Listen to This Article The Union government on Thursday notified the Master Plan for Delhi 2047 (MPD-2047), estimating that the.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "videoUrl": "",
+      "title": "The generation that is most comfortable with AI might surprise you",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T11:38:22.648105+00:00",
-      "id": "art_522a06a55b",
-      "title": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
+      "id": "art_23ebb56e01",
       "perspectives": [
         {
           "keyPoints": [
-            "The plan seeks to meet this housing demand through redevelopment and densification of existing.",
-            "The Ministry of Housing and Urban Affairs has approved MPD-2047 as an extensive modification."
+            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
+            "That age group is the only one in which a majority did not say."
           ],
-          "stanceTitle": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth",
+          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
+          "type": "viewpoint1",
+          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+          "id": "p_art_23ebb56e01_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        },
+        {
+          "keyPoints": [
+            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
+          "type": "viewpoint2",
+          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
+          "id": "p_art_23ebb56e01_2",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-97655212"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Salman Khan's upcoming pan-India film is reportedly titled Monster - The film marks the first collaboration between Salman Khan and Dil Raju - Nayanthara has been cast as the female lead in Monster Salman Khan's upcoming film with producer Dil Raju has reportedly been titled Monster.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Salman Khan And Nayanthara's Next With Dil Raju Titled Monster: Report",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.149261+00:00",
+      "id": "art_d381f0e55a",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "According to a Filmfare report, the pan-India film is being made on a grand.",
+            "Nayanthara is the female lead."
+          ],
+          "stanceTitle": "Salman Khan And Nayanthara's Next With Dil Raju Titled Monster: Report",
           "type": "directReport",
-          "summary": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth MPD-2047 plans for a population of 32 million and shifts Delhi towards denser mixed-use growth around mass transit, land pooling and infrastructure-led urban expansion Listen to This Article The Union government on Thursday notified the Master Plan for Delhi 2047 (MPD-2047), estimating that the.",
-          "id": "p_art_522a06a55b_1",
+          "summary": "- Salman Khan's upcoming pan-India film is reportedly titled Monster - The film marks the first collaboration between Salman Khan and Dil Raju - Nayanthara has been cast as the female lead in Monster Salman Khan's upcoming film with producer Dil Raju has reportedly been titled Monster.",
+          "id": "p_art_d381f0e55a_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/744mecc4_salman-khan_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "India-Pakistan Players Skip Handshakes Before Match, But What Happened After Full-Time Wins Hearts While politics often threatens to overshadow India-Pakistan encounters, the clash in Amstelveen showcased a modern display of sportsmanship.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India-Pakistan Skip Pre-Match Handshakes, But Full-Time Gesture Wins Hearts",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.127187+00:00",
+      "id": "art_0814bf2563",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Vedant Yadav - Updated: August 20, 2026 10:26 am IST - India beat.",
+            "However, the intense battle on the field did not stop the teams from exchanging."
+          ],
+          "stanceTitle": "India-Pakistan Skip Pre-Match Handshakes, But Full-Time Gesture Wins Hearts",
+          "type": "directReport",
+          "summary": "India-Pakistan Players Skip Handshakes Before Match, But What Happened After Full-Time Wins Hearts While politics often threatens to overshadow India-Pakistan encounters, the clash in Amstelveen showcased a modern display of sportsmanship.",
+          "id": "p_art_0814bf2563_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/gaiu6rm_india-pakistan-hockey_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030 Four-time Formula One world champion Max Verstappen has signed a new contract with Red Bull until the end of 2030, the team announced on Thursday.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.121077+00:00",
+      "id": "art_695ade5cad",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Agence-France Presse - Updated: August 20, 2026 01:47 pm IST Four-time Formula One.",
+            "\"Four more years of full send."
+          ],
+          "stanceTitle": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030",
+          "type": "directReport",
+          "summary": "\"Simply Lovely\": Max Verstappen Signs New Red Bull Contract Until 2030 Four-time Formula One world champion Max Verstappen has signed a new contract with Red Bull until the end of 2030, the team announced on Thursday.",
+          "id": "p_art_695ade5cad_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/i2auuf04_max-verstappen-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared The International Cricket Council (ICC) Appeals Panel on Thursday rescinded the demerit point imposed on Lahore's Gaddafi Stadium - Posted by Abhishek Paul - Updated: August 20, 2026 04:46 pm IST - Lahore's Gaddafi Stadium had its demerit point for Unsatisfactory pitch rating rescinded by ICC.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.043586+00:00",
+      "id": "art_5faa851259",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The decision came after the panel reviewed match footage, the match referee's report, and.",
+            "The pitch had initially been rated 'Unsatisfactory' under the ICC Pitch and Outfield Monitoring."
+          ],
+          "stanceTitle": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared",
+          "type": "directReport",
+          "summary": "ICC Verdict Sparks Relief In Pakistan, Gaddafi Stadium Cleared The International Cricket Council (ICC) Appeals Panel on Thursday rescinded the demerit point imposed on Lahore's Gaddafi Stadium - Posted by Abhishek Paul - Updated: August 20, 2026 04:46 pm IST - Lahore's Gaddafi Stadium had its demerit point for Unsatisfactory pitch rating rescinded by ICC.",
+          "id": "p_art_5faa851259_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2025-02/74bv5278_gaddafi-stadium-lahore_625x300_01_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.008310+00:00",
+      "id": "art_dd9ba6f0a9",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The US Commission on International Religious Freedom (USCIRF) chair Asif Mahmood said Prime Minister.",
+            "Mahmood's remarks came weeks ahead of RSS Chief Mohan Bhagwat's visit to the US."
+          ],
+          "stanceTitle": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+          "type": "directReport",
+          "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+          "id": "p_art_dd9ba6f0a9_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/u9v3fvbc_mohan-bhagwat_625x300_15_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Russian influencer regrets calling \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong' The influencer showed the price of pani puri at the Dubai airport and pointed out that it cost AED 42 (around \u20b91,096).",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Russian influencer regrets calling  \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I wa",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:38.901002+00:00",
+      "id": "art_faf911a4b1",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A Russian influencer who previously expressed shock over paying \u20b960 for a plate of.",
+            "Irina Rudakova, a Russian model, actress and reality TV personality based in India, recently."
+          ],
+          "stanceTitle": "Russian influencer regrets calling  \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong'",
+          "type": "directReport",
+          "summary": "Russian influencer regrets calling \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong' The influencer showed the price of pani puri at the Dubai airport and pointed out that it cost AED 42 (around \u20b91,096).",
+          "id": "p_art_faf911a4b1_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Russian_influencer__1787224865385_1787224879911_fb4480ca-8247-4c12-a51f-28188dc55ab0.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019 The man said that certain aspects of life in India become more noticeable after spending years in a less populated country.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for conve",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:38.889288+00:00",
+      "id": "art_75aeda4da0",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "An Indian man who recently moved back to India from the US has opened.",
+            "Sharing a video on Instagram, user @theabroadlab said that certain aspects of life in."
+          ],
+          "stanceTitle": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019",
+          "type": "directReport",
+          "summary": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019 The man said that certain aspects of life in India become more noticeable after spending years in a less populated country.",
+          "id": "p_art_75aeda4da0_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Indian_man_1787229610896_1787229621348_146940a4-5ba7-42b9-83b2-cf45b9dad2ad.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.884445+00:00",
+      "id": "art_fea97f686f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A young girl from Arunachal Pradesh has responded to a comment about her appearance.",
+            "The post was shared by Instagram user Karga Tinkle Gongo."
+          ],
+          "stanceTitle": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+          "type": "viewpoint1",
+          "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+          "id": "p_art_fea97f686f_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        },
+        {
+          "keyPoints": [
+            "In the heartfelt clip, the child reportedly responds to someone who questioned whether she was 'Chinese'.",
+            "She makes it clear that she is Indian and says she feels hurt and."
+          ],
+          "stanceTitle": "\"Hum Bhi India Hain\": Arunachal Girl's Reply To 'Chinese' Remark Melts Hearts",
+          "type": "viewpoint2",
+          "summary": "- A young girl from Itanagar spoke out against being called Chinese due to her looks - She expressed feeling hurt and angry when her Indian nationality was questioned - The video highlighted challenges faced by people from Northeast India with stereotypes A video of a young girl from Itanagar, Arunachal Pradesh, has gone viral.",
+          "id": "p_art_fea97f686f_2",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2lmu7b58_arunachal-girl_625x300_20_August_26.jpeg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.733995+00:00",
+      "id": "art_160f18bf05",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The data covers nine key infrastructure sectors under the revamped Index of Core Industries.",
+            "The new series replaced the earlier 2011-12-based series."
+          ],
+          "stanceTitle": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+          "type": "viewpoint1",
+          "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+          "id": "p_art_160f18bf05_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "The reading marked the second of a new series, which replaces the earlier 2011-12.",
+            "The overall index rose further to 121.2 in July from 120.7 in the previous month."
+          ],
+          "stanceTitle": "Core industries growth slows to 5.4% in July as iron ore, power ease",
+          "type": "viewpoint2",
+          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
+          "id": "p_art_160f18bf05_2",
           "sourceName": "Business Standard Economy",
           "quoteAuthor": "",
           "biasTag": "Macroeconomic Prudence",
@@ -440,467 +944,13 @@
           "sourceDomain": "business-standard.com"
         }
       ],
-      "sharesCount": 0,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
       "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133375464,width-1200,height-630,imgsize-56822,overlay-economictimes/articleshow.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Black Myth: Zhong Kui is a follow-up to Black Myth: Wukong. Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black Myth: Wukong, has received an extended gameplay trailer.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black.",
-            "The trailer, shared by developer Game Science on Thursday, features a first look at."
-          ],
-          "stanceTitle": "Black Myth: Zhong Kui Gets New 15-Minute Gameplay Trailer That Shares First Look at Combat",
-          "type": "directReport",
-          "summary": "Black Myth: Zhong Kui is a follow-up to Black Myth: Wukong. Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black Myth: Wukong, has received an extended gameplay trailer.",
-          "id": "p_art_5cf0a1cdf9_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.637443+00:00",
-      "id": "art_5cf0a1cdf9",
-      "title": "Black Myth: Zhong Kui Gets New 15-Minute Gameplay Trailer That Shares First Look at Combat",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
       "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/black_myth_1787217893970.png"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T11:38:22.567324+00:00",
-      "id": "art_019eaf729c",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone.",
-            "Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely."
-          ],
-          "stanceTitle": "Consumer Hardware & Apps: iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
-          "type": "viewpoint1",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_cb87477534_1",
-          "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "sourceDomain": "gadgets360.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91",
-          "type": "viewpoint2",
-          "sourceName": "91mobiles.com",
-          "id": "p_art_cb87477534_2",
-          "summary": "iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com. iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "91mobiles.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/iqoo-15-rear-gadgets360_1763475278434.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Asus Jelly75 Keyboard KD201 is priced at Rs. Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India. It features a 22mm stand and adjustable tilt. It runs on up to an AMD Ryzen 5 40 processor and features dual 2W Dirac-enhanced speakers.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India.",
-            "It features a 22mm stand and adjustable tilt."
-          ],
-          "stanceTitle": "Asus VM240 AiO All-in-One Desktop PC Launched in India With 24-Inch Display, New Gaming Accessories Tag Along",
-          "type": "directReport",
-          "summary": "Asus Jelly75 Keyboard KD201 is priced at Rs. Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India. It features a 22mm stand and adjustable tilt. It runs on up to an AMD Ryzen 5 40 processor and features dual 2W Dirac-enhanced speakers.",
-          "id": "p_art_104958c137_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.535978+00:00",
-      "id": "art_104958c137",
-      "title": "Asus VM240 AiO All-in-One Desktop PC Launched in India With 24-Inch Display, New Gaming Accesso",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/asus_vm240_aio_1787214422405.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming.",
-            "The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date."
-          ],
-          "stanceTitle": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of Launch",
-          "type": "directReport",
-          "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
-          "id": "p_art_08b64e4966_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.489987+00:00",
-      "id": "art_08b64e4966",
-      "title": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of L",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/vivo_y31t_5g_vivo_main_1786950340636.png"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Infinix Hot 70 Pro 5G will be launched in Dive Blue, Mirage Green, Silk Glow Purple and Thermo Orange colours in India. Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the Transsion Holdings subsidiary announced on Thursday. The new Hot series smartphone is confirmed to be available in four colours.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the.",
-            "The new Hot series smartphone is confirmed to be available in four colours."
-          ],
-          "stanceTitle": "Infinix Hot 70 Pro 5G India Launch Confirmed for September, Design and Colours Revealed",
-          "type": "directReport",
-          "summary": "Infinix Hot 70 Pro 5G will be launched in Dive Blue, Mirage Green, Silk Glow Purple and Thermo Orange colours in India. Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the Transsion Holdings subsidiary announced on Thursday. The new Hot series smartphone is confirmed to be available in four colours.",
-          "id": "p_art_fe93048c2c_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.421525+00:00",
-      "id": "art_fe93048c2c",
-      "title": "Infinix Hot 70 Pro 5G India Launch Confirmed for September, Design and Colours Revealed",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/infinix_hot_70_pro_5g_1787218872117.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Google has not confirmed the feature or its release date, and could still change or cancel it. Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
-            "A new map option has reportedly been discovered in a test version of the."
-          ],
-          "stanceTitle": "Google Photos Could Soon Add a Map View to Ask Photos Search Results, Feature Spotted in APK Teardown",
-          "type": "directReport",
-          "summary": "Google has not confirmed the feature or its release date, and could still change or cancel it. Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
-          "id": "p_art_6494d393e9_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.369639+00:00",
-      "id": "art_6494d393e9",
-      "title": "Google Photos Could Soon Add a Map View to Ask Photos Search Results, Feature Spotted in APK Te",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/Google_photos_ask_map_google_1787219676791.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "The approval supports Coinbase\u2019s plans to bring traditional financial assets onto blockchain infrastructure. Photo Credit: Unsplash/PiggyBank Coinbase said that the Financial Services Regulatory Authority of Abu Dhabi Global Market ADGM has provided the exchange with Financial Services Permission to act as an intermediary in investments and custody services for the upcoming tokenised security service.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Unsplash/PiggyBank Coinbase said that the Financial Services Regulatory Authority of Abu Dhabi.",
-            "The approval puts Coinbase into the regulated financial services framework of ADGM as the."
-          ],
-          "stanceTitle": "Coinbase Expands Tokenisation Push With Abu Dhabi Regulatory Approval",
-          "type": "directReport",
-          "summary": "The approval supports Coinbase\u2019s plans to bring traditional financial assets onto blockchain infrastructure. Photo Credit: Unsplash/PiggyBank Coinbase said that the Financial Services Regulatory Authority of Abu Dhabi Global Market ADGM has provided the exchange with Financial Services Permission to act as an intermediary in investments and custody services for the upcoming tokenised security service.",
-          "id": "p_art_d64ad33266_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.352843+00:00",
-      "id": "art_d64ad33266",
-      "title": "Coinbase Expands Tokenisation Push With Abu Dhabi Regulatory Approval",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/coinbase_brings_tokenisation_to_uae_piggybank_unsplash_main_1787220571025.png"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Sennheiser's Momentum True Wireless 5 earbuds come with user-replaceable batteries There's also a new design for increased comfort. Sennheiser just announced a refresh of its popular Momentum True Wireless earbuds. The True Wireless 5 earbuds bring several new features to the table, but there's one that's particularly interesting. They ship with user-replaceable batteries.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Sennheiser just announced a refresh of its popular Momentum True Wireless earbuds.",
-            "The True Wireless 5 earbuds bring several new features to the table, but there's."
-          ],
-          "stanceTitle": "Sennheiser's Momentum True Wireless 5 earbuds come with user-replaceable batteries",
-          "type": "directReport",
-          "summary": "Sennheiser's Momentum True Wireless 5 earbuds come with user-replaceable batteries There's also a new design for increased comfort. Sennheiser just announced a refresh of its popular Momentum True Wireless earbuds. The True Wireless 5 earbuds bring several new features to the table, but there's one that's particularly interesting. They ship with user-replaceable batteries.",
-          "id": "p_art_31ef707727_1",
-          "sourceName": "Engadget",
-          "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "engadget.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.318219+00:00",
-      "id": "art_31ef707727",
-      "title": "Sennheiser's Momentum True Wireless 5 earbuds come with user-replaceable batteries",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://www.engadget.com/img/gallery/sennheisers-momentum-true-wireless-5-earbuds-come-with-user-replaceable-batteries/l-intro-1787066899.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Even ministers' dogs get better facilities: Dipke on condition of government schools. CJP founder Abhijeet Dipke asked people to force the leaders of political parties to work for education first and then come to seek votes",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "CJP founder Abhijeet Dipke asked people to force the leaders of political parties to.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Even ministers' dogs get better facilities: Dipke on condition of government schools",
-          "type": "directReport",
-          "summary": "Even ministers' dogs get better facilities: Dipke on condition of government schools. CJP founder Abhijeet Dipke asked people to force the leaders of political parties to work for education first and then come to seek votes",
-          "id": "p_art_faaa4747b2_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.258620+00:00",
-      "id": "art_faaa4747b2",
-      "title": "Even ministers' dogs get better facilities: Dipke on condition of government schools",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/bg1pnr/article71368790.ece/alternates/LANDSCAPE_1200/dipke%20.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Liquor 'scam' case: ED searches residence of Chhattisgarh Congress leader days after it arrests him. The ED's raids are also under way at a few other locations in Raipur, but officials have not yet confirmed which case the searches are linked to",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The ED's raids are also under way at a few other locations in Raipur,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Liquor 'scam' case: ED searches residence of Chhattisgarh Congress leader days after it arrests him",
-          "type": "directReport",
-          "summary": "Liquor 'scam' case: ED searches residence of Chhattisgarh Congress leader days after it arrests him. The ED's raids are also under way at a few other locations in Raipur, but officials have not yet confirmed which case the searches are linked to",
-          "id": "p_art_97ca15c717_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T11:38:22.196112+00:00",
-      "id": "art_97ca15c717",
-      "title": "Liquor 'scam' case: ED searches residence of Chhattisgarh Congress leader days after it arrests",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/ogvh5t/article65005839.ece/alternates/LANDSCAPE_1200/thvli-Enforcement-Directorate-ED"
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133376047,width-1200,height-630,imgsize-163742,overlay-economictimes/articleshow.jpg"
     }
   ]
 }

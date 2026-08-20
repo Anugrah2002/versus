@@ -1,535 +1,457 @@
 {
   "page": 3,
-  "total_pages": 6,
-  "total_articles": 110,
+  "total_pages": 7,
+  "total_articles": 138,
   "has_more": true,
   "articles": [
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
+      "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "And the hype is already spilling into the real world: One U.S.",
-            "Army unit in Fort Stewart, Georgia is offering active-duty soldiers a four-day pass to."
+            "Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed.",
+            "These wounds, which may persist for months or even years, affect about 1% to."
           ],
-          "stanceTitle": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter week to steal cars in the lo",
+          "stanceTitle": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
           "type": "viewpoint1",
-          "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
-          "id": "p_art_8bf1521629_1",
-          "sourceName": "Fortune",
+          "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
+          "id": "p_art_b85323c844_1",
+          "sourceName": "Phys.org",
           "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        },
-        {
-          "keyPoints": [
-            "Here\u2019s why - The Indian Express.",
-            "Pakistan and Philippines announce 4-day work week."
-          ],
-          "stanceTitle": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
-          "type": "viewpoint2",
-          "summary": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express. Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
-          "id": "p_art_8bf1521629_2",
-          "sourceName": "Indian Express",
-          "quoteAuthor": "",
-          "biasTag": "Investigative Journalism",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "indianexpress.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.950293+00:00",
-      "id": "art_8bf1521629",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter wee",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Orthopaedic surgeon KJ Reddy, who specialises in knee, hip and sports injuries, posted a.",
-            "He wrote that it was a pleasure knowing Prabhas and described him as \"warm and gracious\"."
-          ],
-          "stanceTitle": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
-          "type": "viewpoint1",
-          "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
-          "id": "p_art_672f718616_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
-          "type": "viewpoint2",
-          "summary": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION. Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
-          "id": "p_art_672f718616_2",
-          "sourceName": "WION",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "wionews.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.948213+00:00",
-      "id": "art_672f718616",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2tkaar8s_prabhas_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Social Media Posts Go Viral.",
-            "IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his."
-          ],
-          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
-          "type": "viewpoint1",
-          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
-          "id": "p_art_dbaea3e258_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Social Media Posts Go Viral.",
-            "Here's What FDA Chief Says - NDTV Profit."
-          ],
-          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
-          "type": "viewpoint2",
-          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit. Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
-          "id": "p_art_dbaea3e258_2",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.945762+00:00",
-      "id": "art_dbaea3e258",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cp9tu4mo_tukaram-mundhe_625x300_20_August_26.png"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine.",
-            "Langer, known as the \u201cEdison of Medicine,\u201d witnessed his equity in the biotech business."
-          ],
-          "stanceTitle": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-paying job offers to \u2018have mo",
-          "type": "viewpoint1",
-          "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
-          "id": "p_art_93e26acd1a_1",
-          "sourceName": "Fortune",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        },
-        {
-          "keyPoints": [
-            "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
-          "type": "viewpoint2",
-          "summary": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com. Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
-          "id": "p_art_93e26acd1a_2",
-          "sourceName": "Livemint",
-          "quoteAuthor": "",
-          "biasTag": "Financial & Policy",
+          "biasTag": "Physics & Applied Tech",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "sourceDomain": "livemint.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.765751+00:00",
-      "id": "art_93e26acd1a",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-payi",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\u201cI feel good,\u201d she says.",
-            "\u201cI don\u2019t know if excited is the right word, but I feel good.\u201d Ogwumike, 36, was the league\u2019s No."
-          ],
-          "stanceTitle": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the players",
-          "type": "viewpoint1",
-          "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
-          "id": "p_art_21577e0cef_1",
-          "sourceName": "Fortune",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
+          "sourceDomain": "phys.org"
         },
         {
           "keyPoints": [
-            "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA.",
+            "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish ",
+          "stanceTitle": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -",
           "type": "viewpoint2",
-          "summary": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal. Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal",
-          "id": "p_art_21577e0cef_2",
-          "sourceName": "Swish Appeal",
+          "summary": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers. Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers",
+          "id": "p_art_b85323c844_2",
+          "sourceName": "Frontiers",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "swishappeal.com"
+          "sourceDomain": "frontiersin.org"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.761436+00:00",
-      "id": "art_21577e0cef",
+      "publishedAt": "2026-08-20T16:38:48.522851+00:00",
+      "id": "art_b85323c844",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the pla",
+      "category": "Space & Science",
+      "title": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291227081.jpg?resize=1200,600"
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/wound-dressing.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Western oil refinery closures set to continue despite war shock. North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
+      "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "North America and Europe to lose further capacity to turn oil into petrol, diesel.",
-            "Key analytical takeaway and operational overview."
+            "The candela, the international unit of light in use for almost a century, forms the basis of photometry.",
+            "According to a new study, measurements derived from it systematically misjudge the brightness of."
           ],
-          "stanceTitle": "Western oil refinery closures set to continue despite war shock",
+          "stanceTitle": "Illuminating the limits of the international unit of light, the candela",
           "type": "viewpoint1",
-          "summary": "Western oil refinery closures set to continue despite war shock. North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
-          "id": "p_art_de7f30324f_1",
-          "sourceName": "Financial Times Global",
+          "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
+          "id": "p_art_bbf104e9ed_1",
+          "sourceName": "Phys.org",
           "quoteAuthor": "",
-          "biasTag": "Global Capital & Markets",
+          "biasTag": "Physics & Applied Tech",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "ft.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
         },
         {
           "keyPoints": [
-            "Without Middle East crude, some refineries have to shut down - marketplace.org",
+            "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Without Middle East crude, some refineries have to shut down - marketplace.org",
+          "stanceTitle": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Ligh",
           "type": "viewpoint2",
-          "summary": "Western oil refinery closures set to continue despite war shock. North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
-          "id": "p_art_de7f30324f_2",
-          "sourceName": "marketplace.org",
+          "summary": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com. Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com",
+          "id": "p_art_bbf104e9ed_2",
+          "sourceName": "Newswire.com",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "marketplace.org"
+          "sourceDomain": "newswire.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.723818+00:00",
-      "id": "art_de7f30324f",
+      "publishedAt": "2026-08-20T16:38:48.487241+00:00",
+      "id": "art_bbf104e9ed",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Western oil refinery closures set to continue despite war shock",
+      "category": "Space & Science",
+      "title": "Illuminating the limits of the international unit of light, the candela",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b41b438-ab3d-4ffe-a329-9ef7b5a4b834.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-the-brightne.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off Benchmark 10-year government bond yield rises 5 basis points to 6.87 per cent as markets increasingly price in the possibility of a rate hike at the next policy review Listen to This Article Government bond yields surged on Thursday as hawkish signals from.",
+      "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The yield on the benchmark 10-year government bond settled at 6.87 per cent, against.",
-            "The yield on the five-year government bond rose by 7 basis points (bps) to settle at 6.52 per cent."
+            "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium.",
+            "Understanding selenium metabolism relies on accurately detecting and identifying selenosugars."
           ],
-          "stanceTitle": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off",
+          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism",
           "type": "viewpoint1",
-          "summary": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off Benchmark 10-year government bond yield rises 5 basis points to 6.87 per cent as markets increasingly price in the possibility of a rate hike at the next policy review Listen to This Article Government bond yields surged on Thursday as hawkish signals from.",
-          "id": "p_art_a96976dc50_1",
-          "sourceName": "Business Standard Economy",
+          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+          "id": "p_art_d9dc0b6bf0_1",
+          "sourceName": "Phys.org",
           "quoteAuthor": "",
-          "biasTag": "Macroeconomic Prudence",
+          "biasTag": "Physics & Applied Tech",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "business-standard.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
         },
         {
           "keyPoints": [
-            "Investors dump India bonds after hawkish RBI minutes - bfsi.economictimes.indiatimes.com",
+            "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Investors dump India bonds after hawkish RBI minutes - bfsi.economictimes.indiatimes.com",
+          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
           "type": "viewpoint2",
-          "summary": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off Benchmark 10-year government bond yield rises 5 basis points to 6.87 per cent as markets increasingly price in the possibility of a rate hike at the next policy review Listen to This Article Government bond yields surged on Thursday as hawkish signals from.",
-          "id": "p_art_a96976dc50_2",
-          "sourceName": "Economic Times",
-          "quoteAuthor": "",
-          "biasTag": "Business & Economy",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "bfsi.economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.706269+00:00",
-      "id": "art_a96976dc50",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "In an interview with the Financial Express, he said that it will not be correct to call it a U-turn; it is rather a calibration as the move demonstrated the central bank\u2019s ability to remain flexible and data-dependent amid rapidly changing conditions.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Defending the central bank's decision, Malhotra described it as a well-thought-out, calibrated, prudent and.",
-            "Also read: RBI to close FCNR(B) forex swap facility early after strong dollar inflow."
-          ],
-          "stanceTitle": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains",
-          "type": "viewpoint1",
-          "summary": "In an interview with the Financial Express, he said that it will not be correct to call it a U-turn; it is rather a calibration as the move demonstrated the central bank\u2019s ability to remain flexible and data-dependent amid rapidly changing conditions.",
-          "id": "p_art_9e7bb5f48e_1",
-          "sourceName": "Economic Times Economy",
-          "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        },
-        {
-          "keyPoints": [
-            "Governor Malhotra explains - The Economic Times.",
-            "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn?"
-          ],
-          "stanceTitle": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains - The Economic T",
-          "type": "viewpoint2",
-          "summary": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains - The Economic Times. RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains - The Economic Times",
-          "id": "p_art_9e7bb5f48e_2",
-          "sourceName": "The Economic Times",
+          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
+          "id": "p_art_d9dc0b6bf0_2",
+          "sourceName": "EurekAlert!",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "economictimes.com"
+          "sourceDomain": "eurekalert.org"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.667953+00:00",
-      "id": "art_9e7bb5f48e",
+      "publishedAt": "2026-08-20T16:38:48.485581+00:00",
+      "id": "art_d9dc0b6bf0",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra ",
+      "category": "Space & Science",
+      "title": "International review standardizes selenosugar nomenclature and selenium metabolism",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133362927,width-1200,height-630,imgsize-115722,overlay-economictimes/articleshow.jpg"
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-review-s.jpg"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Listen to this article in summarized format Sugar prices have increased nearly 40% over the past two months amid tightening supplies, putting pressure on consumers and prompting the world\u2019s biggest sugar consumer to turn to imports.",
+      "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Also read: India tightens sugar stock limits to tame record prices The decision marks.",
-            "The move comes as sugar demand is expected to strengthen between August and November,."
+            "The most prominent difference between human male and female skeletons is the pelvis, which.",
+            "Scientists have long believed the human pelvis evolved mainly as a compromise between walking."
           ],
-          "stanceTitle": "India allows duty-free sugar imports as prices climb ahead of festive season",
+          "stanceTitle": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
           "type": "viewpoint1",
-          "summary": "Listen to this article in summarized format Sugar prices have increased nearly 40% over the past two months amid tightening supplies, putting pressure on consumers and prompting the world\u2019s biggest sugar consumer to turn to imports.",
-          "id": "p_art_ba4802b71f_1",
-          "sourceName": "Economic Times Economy",
+          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+          "id": "p_art_beb82278a6_1",
+          "sourceName": "Phys.org",
           "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
+          "biasTag": "Physics & Applied Tech",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
         },
         {
           "keyPoints": [
-            "India's return to the global sugar market could support benchmark prices in London and New York",
+            "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "India Allows Duty-Free Import Of 1 Million Tonnes Of Raw Sugar To Curb Record Prices",
+          "stanceTitle": "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
           "type": "viewpoint2",
-          "summary": "India Allows Duty-Free Import Of 1 Million Tonnes Of Raw Sugar To Curb Record Prices. India's return to the global sugar market could support benchmark prices in London and New York",
-          "id": "p_art_ba4802b71f_2",
+          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
+          "id": "p_art_beb82278a6_2",
+          "sourceName": "JNS.org",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "jns.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.482136+00:00",
+      "id": "art_beb82278a6",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and biped",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthal-reconstruc.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Accurately determining fish body size and weight is essential for fisheries resource management and.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+          "type": "viewpoint1",
+          "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+          "id": "p_art_53d85cadb4_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+          "type": "viewpoint2",
+          "summary": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp. 3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
+          "id": "p_art_53d85cadb4_2",
+          "sourceName": "tsukuba.ac.jp",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "tsukuba.ac.jp"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.480156+00:00",
+      "id": "art_53d85cadb4",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-imaging-and-machine.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "What happened in the first moments of the universe\u2014before the building blocks of life.",
+            "Physicists at the CERN research facility in Switzerland are trying to answer this question."
+          ],
+          "stanceTitle": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+          "type": "viewpoint1",
+          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+          "id": "p_art_96361b83b9_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        },
+        {
+          "keyPoints": [
+            "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
+          "type": "viewpoint2",
+          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
+          "id": "p_art_96361b83b9_2",
+          "sourceName": "Scientific Frontline",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "sflorg.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.457696+00:00",
+      "id": "art_96361b83b9",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-l.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury.",
+            "A spokesperson for the company said the decision had been made at the conclusion."
+          ],
+          "stanceTitle": "Bernard Matthews confirms closure of Derby factory",
+          "type": "viewpoint1",
+          "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
+          "id": "p_art_6ce8859930_1",
+          "sourceName": "BBC Business",
+          "quoteAuthor": "",
+          "biasTag": "Balanced Global Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "bbc.co.uk"
+        },
+        {
+          "keyPoints": [
+            "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+          "type": "viewpoint2",
+          "summary": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live. Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+          "id": "p_art_6ce8859930_2",
+          "sourceName": "Derbyshire Live",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "derbytelegraph.co.uk"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.420165+00:00",
+      "id": "art_6ce8859930",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Bernard Matthews confirms closure of Derby factory",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Kotak is acting as the broker for the deal, while the sellers will be.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+          "type": "viewpoint1",
+          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+          "id": "p_art_4f2ee9b2a1_1",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -537,505 +459,156 @@
           "quote": "",
           "sourceCredibility": 92,
           "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.659249+00:00",
-      "id": "art_ba4802b71f",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "India allows duty-free sugar imports as prices climb ahead of festive season",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133380050,width-1200,height-630,imgsize-130368,overlay-economictimes/articleshow.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "OpenAI introduces new safety tool to protect user privacy. Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished. No OpenAI employee can view the content, and unless a company chooses to opt in, none of that data is used to train AI models.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished.",
-            "No OpenAI employee can view the content, and unless a company chooses to opt."
-          ],
-          "stanceTitle": "OpenAI introduces new safety tool to protect user privacy",
-          "type": "viewpoint1",
-          "summary": "OpenAI introduces new safety tool to protect user privacy. Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished. No OpenAI employee can view the content, and unless a company chooses to opt in, none of that data is used to train AI models.",
-          "id": "p_art_5cb344fd54_1",
-          "sourceName": "Economic Times Tech",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
         },
         {
           "keyPoints": [
-            "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times",
+            "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times",
+          "stanceTitle": "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
           "type": "viewpoint2",
-          "summary": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times. OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times",
-          "id": "p_art_5cb344fd54_2",
-          "sourceName": "The New York Times",
+          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+          "id": "p_art_4f2ee9b2a1_2",
+          "sourceName": "bestmediainfo.com",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "nytimes.com"
+          "sourceDomain": "bestmediainfo.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.623352+00:00",
-      "id": "art_5cb344fd54",
+      "publishedAt": "2026-08-20T16:38:48.392083+00:00",
+      "id": "art_4f2ee9b2a1",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "OpenAI introduces new safety tool to protect user privacy",
+      "category": "Business & Policy",
+      "title": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133380728,imgsize-60914.cms"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-01/bc0cf9b6_amagi.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Tech & AI",
+        "Business & Policy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow. Over the last two years, Cashfree reported marginal growth in revenue and no improvement in the bottom line following a year-long ban by the Reserve Bank of India on online payment aggregators from onboarding new merchants, which was lifted in late 2023.",
+      "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Over the last two years, Cashfree reported marginal growth in revenue and no improvement.",
+            "Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow",
+          "stanceTitle": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6",
           "type": "viewpoint1",
-          "summary": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow. Over the last two years, Cashfree reported marginal growth in revenue and no improvement in the bottom line following a year-long ban by the Reserve Bank of India on online payment aggregators from onboarding new merchants, which was lifted in late 2023.",
-          "id": "p_art_e31989771e_1",
-          "sourceName": "Economic Times Tech",
+          "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+          "id": "p_art_acd164422b_1",
+          "sourceName": "NDTV Profit",
           "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
+          "biasTag": "Indian Corporate & Regulatory",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
+          "sourceDomain": "ndtvprofit.com"
         },
         {
           "keyPoints": [
-            "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times",
+            "NITI Aayog: Early Vocational & Employability Skills in Schools - Rediff MoneyWiz",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times",
+          "stanceTitle": "NITI Aayog: Early Vocational & Employability Skills in Schools - Rediff MoneyWiz",
           "type": "viewpoint2",
-          "summary": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times. Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times",
-          "id": "p_art_e31989771e_2",
-          "sourceName": "The Economic Times",
+          "summary": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6. Niti Aayog said implementation remains limited, with fewer than 1 in 12 secondary schools offering vocational subjects.",
+          "id": "p_art_acd164422b_2",
+          "sourceName": "Rediff MoneyWiz",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "economictimes.com"
+          "sourceDomain": "money.rediff.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.615884+00:00",
-      "id": "art_e31989771e",
+      "publishedAt": "2026-08-20T16:38:48.310924+00:00",
+      "id": "art_acd164422b",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow",
+      "category": "Business & Policy",
+      "title": "NITI Aayog Proposes Vocational Tracks From Class 9, Employability Skills From Class 6",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133381071,imgsize-1262368.cms"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lrshe16o_bb_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "Tech & AI",
+        "Business & Policy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale. Walmart expects Flipkart\u2019s Big Billion Days sales event moving from Q3 to Q4 to weigh about 100 basis points on growth next quarter. The company said India drove growth in Walmart International\u2019s operating income and advertising revenue.",
+      "summary": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More. Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Walmart expects Flipkart\u2019s Big Billion Days sales event moving from Q3 to Q4 to.",
-            "The company said India drove growth in Walmart International\u2019s operating income and advertising revenue."
+            "Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale",
+          "stanceTitle": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More",
           "type": "viewpoint1",
-          "summary": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale. Walmart expects Flipkart\u2019s Big Billion Days sales event moving from Q3 to Q4 to weigh about 100 basis points on growth next quarter. The company said India drove growth in Walmart International\u2019s operating income and advertising revenue.",
-          "id": "p_art_34b4cf8166_1",
-          "sourceName": "Economic Times Tech",
+          "summary": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More. Tata Motors rolls out August discounts, exchange bonuses and loyalty benefits across select cars and EVs.",
+          "id": "p_art_37f05dcfb2_1",
+          "sourceName": "NDTV Profit",
           "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
+          "biasTag": "Indian Corporate & Regulatory",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
+          "sourceDomain": "ndtvprofit.com"
         },
         {
           "keyPoints": [
-            "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times",
+            "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times",
+          "stanceTitle": "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
           "type": "viewpoint2",
-          "summary": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times. Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times",
-          "id": "p_art_34b4cf8166_2",
-          "sourceName": "The Economic Times",
+          "summary": "Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV. Tata Cars Discounts Aug'26: Up To Rs 3.5 Lakh Off On Curvv, Harrier EV, Nexon And More - NDTV",
+          "id": "p_art_37f05dcfb2_2",
+          "sourceName": "NDTV",
           "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
+          "biasTag": "National Headlines",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.com"
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.573751+00:00",
-      "id": "art_34b4cf8166",
+      "publishedAt": "2026-08-20T16:38:48.298059+00:00",
+      "id": "art_37f05dcfb2",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133381793,imgsize-37166.cms"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming.",
-            "The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date."
-          ],
-          "stanceTitle": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of Launch",
-          "type": "viewpoint1",
-          "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
-          "id": "p_art_140f6da6e2_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        },
-        {
-          "keyPoints": [
-            "Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com",
-          "type": "viewpoint2",
-          "summary": "Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com. Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com",
-          "id": "p_art_140f6da6e2_2",
-          "sourceName": "91mobiles.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "91mobiles.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.508420+00:00",
-      "id": "art_140f6da6e2",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of L",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Horizon Hunters Gathering, a live service co-op title, was announced in February. Photo Credit: Sony/ Guerrilla Games Horizon Hunters Gathering, the co-op action title in development at Guerrilla Games, has hit a hurdle. Sony is reportedly overhauling the title after negative player feedback on its live service elements.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Sony/ Guerrilla Games Horizon Hunters Gathering, the co-op action title in development.",
-            "Sony is reportedly overhauling the title after negative player feedback on its live service elements."
-          ],
-          "stanceTitle": "Sony's Live Service Co-Op Game Horizon Hunters Gathering Reportedly Being Rebooted After Poor Player Feedback",
-          "type": "viewpoint1",
-          "summary": "Horizon Hunters Gathering, a live service co-op title, was announced in February. Photo Credit: Sony/ Guerrilla Games Horizon Hunters Gathering, the co-op action title in development at Guerrilla Games, has hit a hurdle. Sony is reportedly overhauling the title after negative player feedback on its live service elements.",
-          "id": "p_art_37afbd51c8_1",
-          "sourceName": "Gadgets 360 NDTV",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "gadgets360.com"
-        },
-        {
-          "keyPoints": [
-            "Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st",
-          "type": "viewpoint2",
-          "summary": "Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st. Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st",
-          "id": "p_art_37afbd51c8_2",
-          "sourceName": "MP1st",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "mp1st.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.503177+00:00",
-      "id": "art_37afbd51c8",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Sony's Live Service Co-Op Game Horizon Hunters Gathering Reportedly Being Rebooted After Poor P",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Australia passes law to charge tech companies levies unless they reach deals with news publishers Meta, Google, TikTok and LinkedIn will have to pay millions to support local news outlets under Australia's new rules. Australia will force Meta, Google, TikTok, LinkedIn and others to pay levies if they don't reach deals with local news publishers.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Australia will force Meta, Google, TikTok, LinkedIn and others to pay levies if they.",
-            "Both houses of the country's parliament passed a law that will force them to."
-          ],
-          "stanceTitle": "Australia passes law to charge tech companies levies unless they reach deals with news publishers",
-          "type": "viewpoint1",
-          "summary": "Australia passes law to charge tech companies levies unless they reach deals with news publishers Meta, Google, TikTok and LinkedIn will have to pay millions to support local news outlets under Australia's new rules. Australia will force Meta, Google, TikTok, LinkedIn and others to pay levies if they don't reach deals with local news publishers.",
-          "id": "p_art_6a6b746b84_1",
-          "sourceName": "Engadget",
-          "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "engadget.com"
-        },
-        {
-          "keyPoints": [
-            "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
-          "type": "viewpoint2",
-          "summary": "Australia passes law to levy tech giants that fail to pay for local news - Reuters. Australia passes law to levy tech giants that fail to pay for local news - Reuters",
-          "id": "p_art_6a6b746b84_2",
-          "sourceName": "Reuters",
-          "quoteAuthor": "",
-          "biasTag": "Global Wire",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 98,
-          "sourceDomain": "reuters.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.489367+00:00",
-      "id": "art_6a6b746b84",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Australia passes law to charge tech companies levies unless they reach deals with news publishe",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "You can soon stream Crunchyroll on your car's infotainment system The anime streaming service has started appearing on the Appning app store. Streaming video apps have become commonplace on in-car infotainment systems.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Streaming video apps have become commonplace on in-car infotainment systems.",
-            "You might soon have another way to watch anime in your car (depending on."
-          ],
-          "stanceTitle": "You can soon stream Crunchyroll on your car's infotainment system",
-          "type": "viewpoint1",
-          "summary": "You can soon stream Crunchyroll on your car's infotainment system The anime streaming service has started appearing on the Appning app store. Streaming video apps have become commonplace on in-car infotainment systems.",
-          "id": "p_art_3721195aca_1",
-          "sourceName": "Engadget",
-          "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "engadget.com"
-        },
-        {
-          "keyPoints": [
-            "Exclusive: New Crunchyroll Collab Brings Anime Streaming to Cars - CNET",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Exclusive: New Crunchyroll Collab Brings Anime Streaming to Cars - CNET",
-          "type": "viewpoint2",
-          "summary": "You can soon stream Crunchyroll on your car's infotainment system The anime streaming service has started appearing on the Appning app store. Streaming video apps have become commonplace on in-car infotainment systems.",
-          "id": "p_art_3721195aca_2",
-          "sourceName": "CNET",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "cnet.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.463085+00:00",
-      "id": "art_3721195aca",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "You can soon stream Crunchyroll on your car's infotainment system",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Google now allows you to add your favorite new sources to Search It's also adding Gemini to its Discover Feed. Google is making it easier for people to support their favorite publications by introducing a new \"Preferred Sources\" button webmasters can add to their websites.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Google is making it easier for people to support their favorite publications by introducing.",
-            "\"When readers click this button, it adds the site as a Preferred Source on."
-          ],
-          "stanceTitle": "Google now allows you to add your favorite new sources to Search",
-          "type": "viewpoint1",
-          "summary": "Google now allows you to add your favorite new sources to Search It's also adding Gemini to its Discover Feed. Google is making it easier for people to support their favorite publications by introducing a new \"Preferred Sources\" button webmasters can add to their websites.",
-          "id": "p_art_b0499701f3_1",
-          "sourceName": "Engadget",
-          "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "engadget.com"
-        },
-        {
-          "keyPoints": [
-            "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
-          "type": "viewpoint2",
-          "summary": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch. Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
-          "id": "p_art_b0499701f3_2",
-          "sourceName": "TechCrunch",
-          "quoteAuthor": "",
-          "biasTag": "Venture & Startups",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "techcrunch.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.408244+00:00",
-      "id": "art_b0499701f3",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Google now allows you to add your favorite new sources to Search",
+      "category": "Business & Policy",
+      "title": "Tata Motors August Discounts: Up To Rs 3.5 Lakh Off On Curvv EV, Harrier EV, Nexon And More",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
@@ -1050,179 +623,606 @@
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore. The results highlight a mixed performance for Manipal Health, with robust revenue growth and higher operating earnings offset by margin compression and exceptional costs.",
+      "summary": "India eases rupee invoicing rules for exporters under Foreign Trade Policy. The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative to conventional foreign-currency settlements in international trade",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The results highlight a mixed performance for Manipal Health, with robust revenue growth and.",
+            "The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore",
+          "stanceTitle": "India eases rupee invoicing rules for exporters under Foreign Trade Policy",
           "type": "viewpoint1",
-          "summary": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore. The results highlight a mixed performance for Manipal Health, with robust revenue growth and higher operating earnings offset by margin compression and exceptional costs.",
-          "id": "p_art_17fe9dc9d8_1",
-          "sourceName": "NDTV Trending News",
+          "summary": "India eases rupee invoicing rules for exporters under Foreign Trade Policy. The policy change removes uncertainty over eligible rupee receipts while offering exporters an alternative to conventional foreign-currency settlements in international trade",
+          "id": "p_art_28c7e900f5_1",
+          "sourceName": "The Hindu Business Line",
           "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
+          "biasTag": "Public Interest & Fiscal Balance",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 94,
+          "sourceDomain": "thehindubusinessline.com"
         },
         {
           "keyPoints": [
-            "The widening gap between revenue and Ebitda growth resulted in the decline in operating margin.",
+            "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore",
+          "stanceTitle": "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
           "type": "viewpoint2",
-          "summary": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore. The widening gap between revenue and Ebitda growth resulted in the decline in operating margin.",
-          "id": "p_art_17fe9dc9d8_2",
-          "sourceName": "NDTV Profit",
+          "summary": "India eases rules for rupee export payments, seeks to widen trade settlement - Reuters. India eases rules for rupee export payments, seeks to widen trade settlement - Reuters",
+          "id": "p_art_28c7e900f5_2",
+          "sourceName": "Reuters",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
+          "biasTag": "Global Wire",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceCredibility": 98,
+          "sourceDomain": "reuters.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.376843+00:00",
-      "id": "art_17fe9dc9d8",
+      "publishedAt": "2026-08-20T16:38:48.295076+00:00",
+      "id": "art_28c7e900f5",
       "isLiked": false,
       "bookmarksCount": 0,
       "category": "Business & Policy",
-      "title": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore",
+      "title": "India eases rupee invoicing rules for exporters under Foreign Trade Policy",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/m9ujhsb_health_625x300_20_August_26.jpg"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition. In their letters, Basic Education Officers in Azamgarh, Ballia, Sultanpur, and Balrampur cited the adverse impact of \u201cunauthorised entry\u201d on school operations",
+      "summary": "New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender. On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll on hypothetical matchups in the 2028 presidential election.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "In their letters, Basic Education Officers in Azamgarh, Ballia, Sultanpur, and Balrampur cited the.",
+            "On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "U.P. order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition",
+          "stanceTitle": "Ossoff, Buttigieg, Or AOC? New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender",
           "type": "viewpoint1",
-          "summary": "order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition. In their letters, Basic Education Officers in Azamgarh, Ballia, Sultanpur, and Balrampur cited the adverse impact of \u201cunauthorised entry\u201d on school operations",
-          "id": "p_art_1ab02a80fc_1",
-          "sourceName": "The Hindu National",
+          "summary": "New Poll Reveals Which Democrat Is The Top 2028 Presidential Contender. On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed a new poll on hypothetical matchups in the 2028 presidential election.",
+          "id": "p_art_df4b987fef_1",
+          "sourceName": "Forbes Business",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
+          "biasTag": "Wealth & Entrepreneurship",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
         },
         {
           "keyPoints": [
-            "YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ...",
+            "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ... - Bhaskar",
+          "stanceTitle": "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot T",
           "type": "viewpoint2",
-          "summary": "YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ... YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ...",
-          "id": "p_art_1ab02a80fc_2",
-          "sourceName": "Bhaskar English",
+          "summary": "August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot Tests - - Emerson Polling. August 2026 National Poll: Democrats Lead Congressional Ballot by Eight Points; Rubio Outperforms Vance on 2028 Ballot Tests - - Emerson Polling",
+          "id": "p_art_df4b987fef_2",
+          "sourceName": "- Emerson Polling",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "bhaskarenglish.in"
+          "sourceDomain": "emersoncollegepolling.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.354888+00:00",
-      "id": "art_1ab02a80fc",
+      "publishedAt": "2026-08-20T16:38:48.283792+00:00",
+      "id": "art_df4b987fef",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "U.P. order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition",
+      "category": "Work & Economy",
+      "title": "Ossoff, Buttigieg, Or AOC? New Poll Reveals Which Democrat Is The Top 2028 Presidential Contend",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/7jt28p/article71370439.ece/alternates/LANDSCAPE_1200/PTI05_01_2024_000004B.jpg"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "NAMASTE to be expanded to rural India, include more workers. NCSC flags high rejection rate in self-employment scheme; of almost 1 lakh sewer and septic tank workers identified under the scheme, only 810 approved for capital subsidies, of which 147 recieved money",
+      "summary": "A hacker known as \u201cCyberLeek\u201d has been spilling the secrets of Rockstar\u2019s GTA VI, one of the most eagerly anticipated games of all time. The hacking group (or possibly individual) has released multiple clips of GTA VI footage, a world map and a few unconfirmed gameplay details.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "NCSC flags high rejection rate in self-employment scheme; of almost 1 lakh sewer and.",
-            "Key analytical takeaway and operational overview."
+            "The hacking group (or possibly individual) has released multiple clips of GTA VI footage,.",
+            "Many of the clips have since been taken down by copyright strikes."
           ],
-          "stanceTitle": "NAMASTE to be expanded to rural India, include more workers",
+          "stanceTitle": "The \u2018GTA VI\u2019 Leak Controversy, Explained",
           "type": "viewpoint1",
-          "summary": "NAMASTE to be expanded to rural India, include more workers. NCSC flags high rejection rate in self-employment scheme; of almost 1 lakh sewer and septic tank workers identified under the scheme, only 810 approved for capital subsidies, of which 147 recieved money",
-          "id": "p_art_32924c4216_1",
-          "sourceName": "The Hindu National",
+          "summary": "A hacker known as \u201cCyberLeek\u201d has been spilling the secrets of Rockstar\u2019s GTA VI, one of the most eagerly anticipated games of all time. The hacking group (or possibly individual) has released multiple clips of GTA VI footage, a world map and a few unconfirmed gameplay details.",
+          "id": "p_art_ecfedb0945_1",
+          "sourceName": "Forbes Business",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
+          "biasTag": "Wealth & Entrepreneurship",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
         },
         {
           "keyPoints": [
-            "Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing",
+            "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing",
+          "stanceTitle": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of Indi",
           "type": "viewpoint2",
-          "summary": "Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing. Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing",
-          "id": "p_art_32924c4216_2",
-          "sourceName": "India Retailing",
+          "summary": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of India. GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay - The Times of India",
+          "id": "p_art_ecfedb0945_2",
+          "sourceName": "Times of India",
           "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
+          "biasTag": "Mainstream National",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "web.indiaretailing.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "timesofindia.indiatimes.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.313756+00:00",
-      "id": "art_32924c4216",
+      "publishedAt": "2026-08-20T16:38:48.281844+00:00",
+      "id": "art_ecfedb0945",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "NAMASTE to be expanded to rural India, include more workers",
+      "category": "Work & Economy",
+      "title": "The \u2018GTA VI\u2019 Leak Controversy, Explained",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/f82u1t/article68937648.ece/alternates/LANDSCAPE_1200/IMG-20241112-WA0004.jpg"
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a87057e422d7b59d13f14fd/0x0.jpg?format=jpg&crop=960,540,x0,y82,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Jon Ossoff, D-Ga., defended his comments about Trump aide Natalie Harp amid intense blowback from President Donald Trump and his allies this week, accusing the White House of having a \u201cmelt down\u201d over his remarks\u2014as some on the left have questioned whether Ossoff went too far.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Key Facts Ossoff said \u201cit\u2019s been amazing to watch this White House melt down.",
+            "The senator said Sunday during a campaign rally that Trump \u201cwants to build his."
+          ],
+          "stanceTitle": "Ossoff Says MAGA \u2018Melt Down\u2019 Over His Natalie Harp Comments Has Been \u2018Amazing\u2019: \u2018The Truth Hurts\u2019",
+          "type": "viewpoint1",
+          "summary": "Jon Ossoff, D-Ga., defended his comments about Trump aide Natalie Harp amid intense blowback from President Donald Trump and his allies this week, accusing the White House of having a \u201cmelt down\u201d over his remarks\u2014as some on the left have questioned whether Ossoff went too far.",
+          "id": "p_art_9cdbe79eb7_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "MAGA Is Melting Down Over Jon Ossoff \u2014 And Experts Spot How It Smells Of A Scandal - HuffPost",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "MAGA Is Melting Down Over Jon Ossoff \u2014 And Experts Spot How It Smells Of A Scandal - HuffPost",
+          "type": "viewpoint2",
+          "summary": "MAGA Is Melting Down Over Jon Ossoff \u2014 And Experts Spot How It Smells Of A Scandal - HuffPost. MAGA Is Melting Down Over Jon Ossoff \u2014 And Experts Spot How It Smells Of A Scandal - HuffPost",
+          "id": "p_art_9cdbe79eb7_2",
+          "sourceName": "HuffPost",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "huffpost.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.275594+00:00",
+      "id": "art_9cdbe79eb7",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Ossoff Says MAGA \u2018Melt Down\u2019 Over His Natalie Harp Comments Has Been \u2018Amazing\u2019: \u2018The Truth Hurt",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Lady Gaga is now three-quarters of the way toward completing her EGOT, the coveted acronym made up of Emmy, Grammy, Oscar and Tony Awards \u2013 the four biggest prizes in different entertainment fields.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Gaga has won 16 Grammys out of 45 nominations, as well as one Academy.",
+            "This year, she has another chance to add to her Emmy collection, as the."
+          ],
+          "stanceTitle": "Lady Gaga\u2019s Emmy-Nominated Smash May Lead To More Grammy Nods",
+          "type": "viewpoint1",
+          "summary": "Lady Gaga is now three-quarters of the way toward completing her EGOT, the coveted acronym made up of Emmy, Grammy, Oscar and Tony Awards \u2013 the four biggest prizes in different entertainment fields.",
+          "id": "p_art_af86508f06_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "Daily Bruin Reacts: Analyzing Grammy nominations from overlooked acts, smash hits - Daily Bruin",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Daily Bruin Reacts: Analyzing Grammy nominations from overlooked acts, smash hits - Daily Bruin",
+          "type": "viewpoint2",
+          "summary": "Daily Bruin Reacts: Analyzing Grammy nominations from overlooked acts, smash hits - Daily Bruin. Daily Bruin Reacts: Analyzing Grammy nominations from overlooked acts, smash hits - Daily Bruin",
+          "id": "p_art_af86508f06_2",
+          "sourceName": "Daily Bruin",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "dailybruin.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.212933+00:00",
+      "id": "art_af86508f06",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Lady Gaga\u2019s Emmy-Nominated Smash May Lead To More Grammy Nods",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The IRS has updated its guidance on the business interest expense deduction to reflect changes and clarifications made by the One Big Beautiful Bill Act (OBBBA). The revised FAQs address the section 163(j) rules following changes made by the 2017 Tax Cuts and Jobs Act and OBBBA and remove outdated CARES Act guidance.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The revised FAQs address the section 163(j) rules following changes made by the 2017.",
+            "Here\u2019s what you need to know."
+          ],
+          "stanceTitle": "IRS Updates Business Interest Deduction Guidance Following Tax Law Changes",
+          "type": "viewpoint1",
+          "summary": "The IRS has updated its guidance on the business interest expense deduction to reflect changes and clarifications made by the One Big Beautiful Bill Act (OBBBA). The revised FAQs address the section 163(j) rules following changes made by the 2017 Tax Cuts and Jobs Act and OBBBA and remove outdated CARES Act guidance.",
+          "id": "p_art_eb67248421_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "Reevaluating the Section 163(j) Interest Expense Limitation: Technical Insights from IRS Fact Sheet FS-2026-14.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Reevaluating the Section 163(j) Interest Expense Limitation: Technical Insights from IRS Fact Sheet FS-2026-14 - Current",
+          "type": "viewpoint2",
+          "summary": "Reevaluating the Section 163(j) Interest Expense Limitation: Technical Insights from IRS Fact Sheet FS-2026-14 - Current Federal Tax Developments. Reevaluating the Section 163(j) Interest Expense Limitation: Technical Insights from IRS Fact Sheet FS-2026-14 - Current Federal Tax Developments",
+          "id": "p_art_eb67248421_2",
+          "sourceName": "Current Federal Tax Developments",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "currentfederaltaxdevelopments.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.193253+00:00",
+      "id": "art_eb67248421",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "IRS Updates Business Interest Deduction Guidance Following Tax Law Changes",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The United States Tennis Association on Thursday announced the largest player compensation package in professional tennis history, reaching $108 million at the 2026 U.S. This represents a 20 percent increase from the previous record set at the 2025 U.S.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "This represents a 20 percent increase from the previous record set at the 2025 U.S.",
+            "Open ($90 million) - the second consecutive year of a 20 percent increase and."
+          ],
+          "stanceTitle": "U.S. Open To Pay Players $108 Million, The Highest Total In Tennis",
+          "type": "viewpoint1",
+          "summary": "The United States Tennis Association on Thursday announced the largest player compensation package in professional tennis history, reaching $108 million at the 2026 U.S. This represents a 20 percent increase from the previous record set at the 2025 U.S.",
+          "id": "p_art_31b82ebf88_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "US Open Announces Record $108 Million Prize Purse - ASHARQ AL-AWSAT English",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "US Open Announces Record $108 Million Prize Purse - ASHARQ AL-AWSAT English",
+          "type": "viewpoint2",
+          "summary": "The United States Tennis Association on Thursday announced the largest player compensation package in professional tennis history, reaching $108 million at the 2026 U.S. This represents a 20 percent increase from the previous record set at the 2025 U.S.",
+          "id": "p_art_31b82ebf88_2",
+          "sourceName": "ASHARQ AL-AWSAT English",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "english.aawsat.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.190321+00:00",
+      "id": "art_31b82ebf88",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "U.S. Open To Pay Players $108 Million, The Highest Total In Tennis",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "There are albums you listen to, albums you love, and albums that quietly rearrange the architecture of your inner life. Frank Ocean\u2019s Blonde belongs to the third category. 20, 2016, after four years of rumors, false starts, disappearing acts and increasingly unhinged fan speculation, Blonde arrived with almost no traditional rollout.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Frank Ocean\u2019s Blonde belongs to the third category.",
+            "20, 2016, after four years of rumors, false starts, disappearing acts and increasingly unhinged."
+          ],
+          "stanceTitle": "Frank Ocean\u2019s \u2018Blonde\u2019 At 10: Until Further Notice",
+          "type": "viewpoint1",
+          "summary": "There are albums you listen to, albums you love, and albums that quietly rearrange the architecture of your inner life. Frank Ocean\u2019s Blonde belongs to the third category. 20, 2016, after four years of rumors, false starts, disappearing acts and increasingly unhinged fan speculation, Blonde arrived with almost no traditional rollout.",
+          "id": "p_art_e8002b5c25_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "Frank Ocean Is Finally Free, Mystery Intact (Published 2016) - The New York Times",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Frank Ocean Is Finally Free, Mystery Intact (Published 2016) - The New York Times",
+          "type": "viewpoint2",
+          "summary": "Frank Ocean Is Finally Free, Mystery Intact (Published 2016) - The New York Times. Frank Ocean Is Finally Free, Mystery Intact (Published 2016) - The New York Times",
+          "id": "p_art_e8002b5c25_2",
+          "sourceName": "The New York Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "nytimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.184662+00:00",
+      "id": "art_e8002b5c25",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Frank Ocean\u2019s \u2018Blonde\u2019 At 10: Until Further Notice",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Daryl Dixon is about to come to an end (the show, not the character) after its fourth season arrives in 2027. The Negan/Maggie team-up series Dead City is currently airing its third season, where a fourth may not happen. So, is The Walking Dead over now?",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Negan/Maggie team-up series Dead City is currently airing its third season, where a fourth may not happen.",
+            "So, is The Walking Dead over now?"
+          ],
+          "stanceTitle": "\u2018The Walking Dead\u2019 Isn\u2019t Dead After \u2018Dead City,\u2019 Scott Gimple Reveals",
+          "type": "viewpoint1",
+          "summary": "Daryl Dixon is about to come to an end (the show, not the character) after its fourth season arrives in 2027. The Negan/Maggie team-up series Dead City is currently airing its third season, where a fourth may not happen. So, is The Walking Dead over now?",
+          "id": "p_art_55f2ecbc4d_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "Lauren Cohan Reflects on 15 Years of \u2018Walking Dead\u2019 and Making Her Own Movies (Exclusive) - People.com",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Lauren Cohan Reflects on 15 Years of \u2018Walking Dead\u2019 and Making Her Own Movies (Exclusive) - People.com",
+          "type": "viewpoint2",
+          "summary": "Lauren Cohan Reflects on 15 Years of \u2018Walking Dead\u2019 and Making Her Own Movies (Exclusive) - People.com. Lauren Cohan Reflects on 15 Years of \u2018Walking Dead\u2019 and Making Her Own Movies (Exclusive) - People.com",
+          "id": "p_art_55f2ecbc4d_2",
+          "sourceName": "People.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "people.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.178676+00:00",
+      "id": "art_55f2ecbc4d",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "\u2018The Walking Dead\u2019 Isn\u2019t Dead After \u2018Dead City,\u2019 Scott Gimple Reveals",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "This is the time of year on the college football calendar when polls, watchlists and projections dominate the conversation. As the sand slips through the hourglass and Week 0 action gets closer and closer, forbes.com offers its top 10 list of power conference players heading into the 2026 season.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "As the sand slips through the hourglass and Week 0 action gets closer and.",
+            "Jeremiah Smith Junior | Receiver | Ohio State Born: Miami Gardens, Fla."
+          ],
+          "stanceTitle": "Top 10 Power Conference Players To Watch In 2026",
+          "type": "viewpoint1",
+          "summary": "This is the time of year on the college football calendar when polls, watchlists and projections dominate the conversation. As the sand slips through the hourglass and Week 0 action gets closer and closer, forbes.com offers its top 10 list of power conference players heading into the 2026 season.",
+          "id": "p_art_1f5f5db694_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "The 40 most important players in college football in 2026 - ESPN",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "The 40 most important players in college football in 2026 - ESPN",
+          "type": "viewpoint2",
+          "summary": "This is the time of year on the college football calendar when polls, watchlists and projections dominate the conversation. As the sand slips through the hourglass and Week 0 action gets closer and closer, forbes.com offers its top 10 list of power conference players heading into the 2026 season.",
+          "id": "p_art_1f5f5db694_2",
+          "sourceName": "ESPN",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "espn.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.174113+00:00",
+      "id": "art_1f5f5db694",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Top 10 Power Conference Players To Watch In 2026",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ]
 }

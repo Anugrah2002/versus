@@ -6,240 +6,47 @@
   "articles": [
     {
       "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Aster DM Quality Care share price has been under pressure for a month now.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Aster DM Quality Care share price has been under pressure for a month now.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Here's Why",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_2682d0dcec_1",
-          "summary": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Aster DM Quality Care share price has been under pressure for a month now.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Here's Why",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.936265+00:00",
-      "id": "art_2682d0dcec",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ch9105tc_aster-dm-share-price-slides_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'. Jefferies expects Turtlemint's revenue to grow at a 38% CAGR over the next three years, with the brokerage pointing to the company's position in the point-of-sale-person insurance distribution segment as a key growth driver.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Jefferies expects Turtlemint's revenue to grow at a 38% CAGR over the next three.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_9fb8da72cd_1",
-          "summary": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'. Jefferies expects Turtlemint's revenue to grow at a 38% CAGR over the next three years, with the brokerage pointing to the company's position in the point-of-sale-person insurance distribution segment as a key growth driver.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.925035+00:00",
-      "id": "art_9fb8da72cd",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/vvc58ok4_turtlemint-fintech-solutions_625x300_20_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Left-hander, Tarik Skubal is still getting acclimated to pitching for the World Champion Los Angeles Dodgers. Skubal, 29, was traded by the Detroit Tigers to Los Angeles one day before the August 3 Major League Baseball Trade deadline. Skubal is now pitching in a totally new environment, with a new team, in a new league.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Skubal, 29, was traded by the Detroit Tigers to Los Angeles one day before.",
-            "Skubal is now pitching in a totally new environment, with a new team, in a new league."
-          ],
-          "stanceTitle": "2 Time Cy Young Award Winner Tarik Skubal Settling In With The Dodgers",
-          "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_9f92ee795e_1",
-          "summary": "Left-hander, Tarik Skubal is still getting acclimated to pitching for the World Champion Los Angeles Dodgers. Skubal, 29, was traded by the Detroit Tigers to Los Angeles one day before the August 3 Major League Baseball Trade deadline. Skubal is now pitching in a totally new environment, with a new team, in a new league.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "2 Time Cy Young Award Winner Tarik Skubal Settling In With The Dodgers",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.887642+00:00",
-      "id": "art_9f92ee795e",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85e5b35ff758de783ebf43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "In today\u2019s column, I examine and bust or straighten out various misleading myths regarding the recently released AI text-oriented watermarking feature of Anthropic. The mainstream news and social media have been making zany and incorrect claims about what this particular technique of watermarking is and does.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The mainstream news and social media have been making zany and incorrect claims about.",
-            "This, in turn, has tended to create widespread confusion and undue consternation among people."
-          ],
-          "stanceTitle": "Busting Those Misleading Myths About Anthropic AI Watermarking During Proofreading Or Fixing Typos",
-          "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_78fda35c04_1",
-          "summary": "In today\u2019s column, I examine and bust or straighten out various misleading myths regarding the recently released AI text-oriented watermarking feature of Anthropic. The mainstream news and social media have been making zany and incorrect claims about what this particular technique of watermarking is and does.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Busting Those Misleading Myths About Anthropic AI Watermarking During Proofreading Or Fixing Ty",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.884737+00:00",
-      "id": "art_78fda35c04",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8613b411e42db002ee209a/0x0.jpg?format=jpg&crop=1901,1425,x363,y0,safe&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "- Sunny Deol and Shabana Azmi starred together in Batwara 1947 - In 2001, Shabana Azmi criticised Sunny Deol's film Gadar: Ek Prem Katha for its portrayal - She said the film confused nationalism with religion Sunny Deol and Shabana Azmi recently shared screen space in Batwara 1947.",
       "divergenceScore": 0,
-      "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The US Commission on International Religious Freedom (USCIRF) chair Asif Mahmood said Prime Minister.",
-            "Mahmood's remarks came weeks ahead of RSS Chief Mohan Bhagwat's visit to the US."
+            "The film released in theatres on August 14.",
+            "The two actors may now have worked together, but they had a different equation back in 2001."
           ],
-          "stanceTitle": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_e9e3309adb_1",
-          "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+          "stanceTitle": "When Sunny Deol Called Out Shabana Azmi For Calling Gadar A 'Provocative' Film",
+          "type": "directReport",
+          "summary": "- Sunny Deol and Shabana Azmi starred together in Batwara 1947 - In 2001, Shabana Azmi criticised Sunny Deol's film Gadar: Ek Prem Katha for its portrayal - She said the film confused nationalism with religion Sunny Deol and Shabana Azmi recently shared screen space in Batwara 1947.",
+          "id": "p_art_63e757147f_1",
+          "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
-          "biasTag": "National Headlines",
+          "biasTag": "Trending & Viral",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
+          "sourceCredibility": 93,
           "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
-          "type": "viewpoint2",
-          "sourceName": "The Hindu National",
-          "id": "p_art_e9e3309adb_2",
-          "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
         }
       ],
       "readTimeMinutes": 2,
-      "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+      "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.878704+00:00",
-      "id": "art_e9e3309adb",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T11:38:21.152741+00:00",
+      "id": "art_63e757147f",
+      "title": "When Sunny Deol Called Out Shabana Azmi For Calling Gadar A 'Provocative' Film",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
+      "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d5tfnz/article71368120.ece/alternates/LANDSCAPE_1200/20260815313L.jpg"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/5thh6u5s_batwara-1947_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -247,62 +54,736 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+      "videoDuration": "02:45",
+      "summary": "AB De Villiers Makes Bold Virat Kohli-Sachin Tendulkar Comparison: \"Raised The Bar\" AB de Villiers pointed out that Kohli and Tendulkar's success away from home has inspired the current crop of Indian players to raise their game on overseas tours.",
       "divergenceScore": 0,
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief.",
+            "- Vedant Yadav - Updated: August 20, 2026 02:21 pm IST - AB de.",
+            "However, de Villiers suggested that Kohli did more than Tendulkar to establish himself as."
+          ],
+          "stanceTitle": "AB De Villiers Makes Bold Kohli-Tendulkar Comparison: \"Raised The Bar\"",
+          "type": "directReport",
+          "summary": "AB De Villiers Makes Bold Virat Kohli-Sachin Tendulkar Comparison: \"Raised The Bar\" AB de Villiers pointed out that Kohli and Tendulkar's success away from home has inspired the current crop of Indian players to raise their game on overseas tours.",
+          "id": "p_art_d00788fa55_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:21.053921+00:00",
+      "id": "art_d00788fa55",
+      "title": "AB De Villiers Makes Bold Kohli-Tendulkar Comparison: \"Raised The Bar\"",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2022-03/h9r6a43g_virat-kohli-sachin-tendulkar-afp_625x300_03_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- Vijay Vikram Singh clarified Bigg Boss is an invitation not audition-based show - He stated he only provides voiceovers and has no role in contestant selection - Singh urged people to stop messaging him for Bigg Boss entry assistance Vijay Vikram Singh, the voice behind Bigg Boss's iconic narrator, shared a video on Instagram.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "In the video, he said, \"Aise messages mere paas bahut saare aate hain ki,.",
+            "Dekhiye sahab, Bigg Boss jo hai, yeh ek invitation-based reality show hai, audition-based reality."
+          ],
+          "stanceTitle": "'Stop Messaging Me': Bigg Boss Narrator Explains Selection Process",
+          "type": "directReport",
+          "summary": "- Vijay Vikram Singh clarified Bigg Boss is an invitation not audition-based show - He stated he only provides voiceovers and has no role in contestant selection - Singh urged people to stop messaging him for Bigg Boss entry assistance Vijay Vikram Singh, the voice behind Bigg Boss's iconic narrator, shared a video on Instagram.",
+          "id": "p_art_38a6ca81c9_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:20.895562+00:00",
+      "id": "art_38a6ca81c9",
+      "title": "'Stop Messaging Me': Bigg Boss Narrator Explains Selection Process",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/kbu8nb2c_salman-_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "- A Pakistani TikTok creator with over 1.3 million followers was shot dead near Islamabad - Shamso Bibi was killed on August 14 after reportedly receiving death threats over money - Police arrested four suspects linked to the murder and the alleged gunman\u2019s escape A 28-year-old Pakistani TikTok creator with more than 1.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Shamso Bibi, known online as Ayesha Gilamana, was killed on Pakistan's Independence Day.",
+            "Her brother, Niamatullah, has appealed to Punjab Chief Minister Maryam Nawaz Sharif to intervene in the case."
+          ],
+          "stanceTitle": "Pak TikToker With Over 1.3 Million Followers Shot Dead In Car Near Islamabad",
+          "type": "directReport",
+          "summary": "- A Pakistani TikTok creator with over 1.3 million followers was shot dead near Islamabad - Shamso Bibi was killed on August 14 after reportedly receiving death threats over money - Police arrested four suspects linked to the murder and the alleged gunman\u2019s escape A 28-year-old Pakistani TikTok creator with more than 1.",
+          "id": "p_art_1f0082db2b_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:20.734810+00:00",
+      "id": "art_1f0082db2b",
+      "title": "Pak TikToker With Over 1.3 Million Followers Shot Dead In Car Near Islamabad",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/fp2de94o_shamso-bibi_625x300_19_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "'Get To Eat Beautiful Vegetarian Food': Australia Great Expresses Love For India Shane Watson described India as a \"second home\", saying he has felt more welcomed and supported by Indian cricket fans than in Australia. He credited the IPL's arrival in 2008 for strengthening his connection with India.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "He credited the IPL's arrival in 2008 for strengthening his connection with India.",
+            "- ANI - Updated: August 20, 2026 12:35 pm IST Former Australia all-rounder Shane."
+          ],
+          "stanceTitle": "'Get To Eat Beautiful Vegetarian Food': Australia Great Expresses Love For India",
+          "type": "directReport",
+          "summary": "'Get To Eat Beautiful Vegetarian Food': Australia Great Expresses Love For India Shane Watson described India as a \"second home\", saying he has felt more welcomed and supported by Indian cricket fans than in Australia. He credited the IPL's arrival in 2008 for strengthening his connection with India.",
+          "id": "p_art_6c5ed9388c_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:20.535538+00:00",
+      "id": "art_6c5ed9388c",
+      "title": "'Get To Eat Beautiful Vegetarian Food': Australia Great Expresses Love For India",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/662clb5k_shane-watson-getty_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Ajinkya Rahane Mimics Ravi Shastri On Air, Leaves Everyone In Splits. Watch Former India captain Ajinkya Rahane sparked a laughing riot inside a studio after he impersonated legendary all-rounder Ravi Shastri, amid the 1st Test against Sri Lanka in Galle.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Watch Former India captain Ajinkya Rahane sparked a laughing riot inside a studio after.",
+            "- Vedant Yadav - Updated: August 20, 2026 07:30 am IST Former India captain."
+          ],
+          "stanceTitle": "Ajinkya Rahane Mimics Ravi Shastri On Air, Leaves Everyone In Splits. Watch",
+          "type": "directReport",
+          "summary": "Ajinkya Rahane Mimics Ravi Shastri On Air, Leaves Everyone In Splits. Watch Former India captain Ajinkya Rahane sparked a laughing riot inside a studio after he impersonated legendary all-rounder Ravi Shastri, amid the 1st Test against Sri Lanka in Galle.",
+          "id": "p_art_e535bf8f8e_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:20.412910+00:00",
+      "id": "art_e535bf8f8e",
+      "title": "Ajinkya Rahane Mimics Ravi Shastri On Air, Leaves Everyone In Splits. Watch",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cbnqo0dc_1_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Exclusive - \"I Am Also A Human\": PBKS Star's Honest Admission After IPL 2026 Dismal Show PBKS batter Shashank Singh, who has been with the franchise since 2024, spoke about the team's downfall and how they dealt with the setback.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Tushar Mamgaain - Updated: August 20, 2026 03:52 pm IST IPL 2026 turned.",
+            "The team, which finally enjoyed the success of reaching the playoffs after 11 years."
+          ],
+          "stanceTitle": "\"I Am Also A Human\": PBKS Star's Honest Admission After IPL 2026 Dismal Show",
+          "type": "directReport",
+          "summary": "Exclusive - \"I Am Also A Human\": PBKS Star's Honest Admission After IPL 2026 Dismal Show PBKS batter Shashank Singh, who has been with the franchise since 2024, spoke about the team's downfall and how they dealt with the setback.",
+          "id": "p_art_e4b64ffbc1_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:20.163963+00:00",
+      "id": "art_e4b64ffbc1",
+      "title": "\"I Am Also A Human\": PBKS Star's Honest Admission After IPL 2026 Dismal Show",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/9akl9ik_shashank-singh_625x300_03_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "\"Ravindra Jadeja Isn't That Attacking Spinner Anymore\": R Ashwin's Blunt Verdict Ravindra Jadeja picked up four wickets in the match, but Ravichandran Ashwin said the all-rounder's role in the team has evolved, with his contributions now being more significant as a middle-order batter than as an attacking spinner.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Posted by Vedant Yadav - Updated: August 20, 2026 02:47 pm IST -.",
+            "He is a batter who will give experience with ball,\" he said Former India."
+          ],
+          "stanceTitle": "\"Jadeja Isn't That Attacking Spinner Anymore\": Ashwin's Blunt Verdict",
+          "type": "directReport",
+          "summary": "\"Ravindra Jadeja Isn't That Attacking Spinner Anymore\": R Ashwin's Blunt Verdict Ravindra Jadeja picked up four wickets in the match, but Ravichandran Ashwin said the all-rounder's role in the team has evolved, with his contributions now being more significant as a middle-order batter than as an attacking spinner.",
+          "id": "p_art_1363ff3b74_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:19.990069+00:00",
+      "id": "art_1363ff3b74",
+      "title": "\"Jadeja Isn't That Attacking Spinner Anymore\": Ashwin's Blunt Verdict",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/d2booji8_ravindra-jadeja-getty_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "London hostel kicks out Indian guest \u2014 but it wasn\u2019t a case of racism An Indian travel vlogger has shared a video showing a fellow Indian who was kicked out of a hostel in London.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "An Indian travel vlogger has shared a video showing a fellow Indian who was kicked out of a hostel in London.",
+            "Rahul, who also goes by Nomad Mikey on Instagram, shared footage of the woman."
+          ],
+          "stanceTitle": "London hostel kicks out Indian guest \u2014 but it wasn\u2019t a case of racism",
+          "type": "directReport",
+          "summary": "London hostel kicks out Indian guest \u2014 but it wasn\u2019t a case of racism An Indian travel vlogger has shared a video showing a fellow Indian who was kicked out of a hostel in London.",
+          "id": "p_art_eb82b72fa0_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:19.839789+00:00",
+      "id": "art_eb82b72fa0",
+      "title": "London hostel kicks out Indian guest \u2014 but it wasn\u2019t a case of racism",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/110_1787219728491_1787219747674_71afeeb1-ad2e-4dd6-9095-9327c6ac0478.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Man says Indian parents with high net worth are making Gen Z kids 'unemployable', sparks debate The man argued that high-net-worth parents who spend years building wealth to secure their children's future may end up taking away their motivation to work.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A social media post claiming that wealthy Indian parents are inadvertently making their Gen.",
+            "In an X post, user Prem Soni argued that high-net-worth (HNI) parents who spend."
+          ],
+          "stanceTitle": "Man says Indian parents with high net worth are making Gen Z kids 'unemployable', sparks debate",
+          "type": "directReport",
+          "summary": "Man says Indian parents with high net worth are making Gen Z kids 'unemployable', sparks debate The man argued that high-net-worth parents who spend years building wealth to secure their children's future may end up taking away their motivation to work.",
+          "id": "p_art_57bda4b3f4_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:19.673295+00:00",
+      "id": "art_57bda4b3f4",
+      "title": "Man says Indian parents with high net worth are making Gen Z kids 'unemployable', sparks debate",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/family_1787220343254_1787220357217_49df2e9c-b714-4c21-bf95-c5286d1e3e37.png"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "64-year-old man completes MTech, plans IIM Lucknow course: \u2018He never stopped learning\u2019 A 64-year-old man completed his MTech while working and earning top grades, inspiring many to continue their education regardless of age. A 64-year-old man has completed his MTech and ranked among the top 10 students in his class while continuing to work.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A 64-year-old man has completed his MTech and ranked among the top 10 students.",
+            "His son shared the achievement on X, noting that his father balanced his studies."
+          ],
+          "stanceTitle": "64-year-old man completes MTech, plans IIM Lucknow course: \u2018He never stopped learning\u2019",
+          "type": "directReport",
+          "summary": "64-year-old man completes MTech, plans IIM Lucknow course: \u2018He never stopped learning\u2019 A 64-year-old man completed his MTech while working and earning top grades, inspiring many to continue their education regardless of age. A 64-year-old man has completed his MTech and ranked among the top 10 students in his class while continuing to work.",
+          "id": "p_art_b9677ec14c_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:19.435121+00:00",
+      "id": "art_b9677ec14c",
+      "title": "64-year-old man completes MTech, plans IIM Lucknow course: \u2018He never stopped learning\u2019",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Untitled_design_1787222258365_1787222262422_589eeac2-f9f1-476e-abab-ded1bdb8f17d.png"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots. Ruling BNP candidate Mirza Fakhrul Islam Alamgir is facing Colonel (retd) Oli Ahmed, LDP Chairperson and the nominee of the Jamaat-e-Islami-led 11-party Opposition alliance",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Ruling BNP candidate Mirza Fakhrul Islam Alamgir is facing Colonel (retd) Oli Ahmed, LDP.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
-          "type": "viewpoint2",
-          "sourceName": "The Hindu National",
-          "id": "p_art_e9e3309adb_2",
-          "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+          "stanceTitle": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots",
+          "type": "directReport",
+          "summary": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots. Ruling BNP candidate Mirza Fakhrul Islam Alamgir is facing Colonel (retd) Oli Ahmed, LDP Chairperson and the nominee of the Jamaat-e-Islami-led 11-party Opposition alliance",
+          "id": "p_art_97929ad76e_1",
+          "sourceName": "The Hindu World",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
+          "biasTag": "Institutional Diplomacy",
           "sourceDomain": "thehindu.com",
           "quote": "",
-          "sourceCredibility": 96,
+          "sourceCredibility": 95,
           "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
-      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "title": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.878704+00:00",
-      "id": "art_e9e3309adb_split",
+      "publishedAt": "2026-08-20T10:03:45.032631+00:00",
+      "id": "art_97929ad76e",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "videoUrl": "",
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d5tfnz/article71368120.ece/alternates/LANDSCAPE_1200/20260815313L.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/obcug1/article71368479.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
     },
     {
       "tags": [
-        "Work & Economy",
+        "Automotive & Energy",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "This New App Puts 200,000 EV Chargers Across North America in One Place The operators\u2019 original pricing is passed through with no markup on energy costs. There is one big caveat, though. - Octopus Energy has launched a new smartphone app that integrates over 200,000 individual EV chargers in North America.",
       "divergenceScore": 0,
-      "summary": "Update 08/20/26: Fortnite is down for the big Season 4 update. Read on to find out when the game is set to come back online and what to expect from the new season. See more updates at the bottom of this post.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Read on to find out when the game is set to come back online and what to expect from the new season.",
-            "See more updates at the bottom of this post."
+            "There is one big caveat, though.",
+            "- Octopus Energy has launched a new smartphone app that integrates over 200,000 individual."
           ],
-          "stanceTitle": "\u2018Fortnite\u2019 Servers Down: Here\u2019s When Season 4 Goes Live And What\u2019s New In \u2018Override\u2019",
+          "stanceTitle": "This New App Puts 200,000 EV Chargers Across North America in One Place",
           "type": "directReport",
+          "summary": "This New App Puts 200,000 EV Chargers Across North America in One Place The operators\u2019 original pricing is passed through with no markup on energy costs. There is one big caveat, though. - Octopus Energy has launched a new smartphone app that integrates over 200,000 individual EV chargers in North America.",
+          "id": "p_art_bba97e6c3b_1",
+          "sourceName": "InsideEVs",
+          "quoteAuthor": "",
+          "biasTag": "EV Technology & Battery",
+          "sourceDomain": "insideevs.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "This New App Puts 200,000 EV Chargers Across North America in One Place",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:45.014765+00:00",
+      "id": "art_bba97e6c3b",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Automotive & Energy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://cdn.motor1.com/images/mgl/xq36VG/s1/octopus-energy-app.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Area affected by wildfires in Europe could almost triple due to climate change. Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributions from the Senckenberg Society for Nature Research.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires.",
+            "In a low-emissions scenario (SSP1-2.6), the researchers calculate that roughly 39% more land would."
+          ],
+          "stanceTitle": "Area affected by wildfires in Europe could almost triple due to climate change",
+          "type": "directReport",
+          "summary": "Area affected by wildfires in Europe could almost triple due to climate change. Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributions from the Senckenberg Society for Nature Research.",
+          "id": "p_art_483dee4abc_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Area affected by wildfires in Europe could almost triple due to climate change",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.993346+00:00",
+      "id": "art_483dee4abc",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/wildfire-europe.jpg"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?. Here is a detailed look at the latest GMP and key IPO details for each issue.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Here is a detailed look at the latest GMP and key IPO details for each issue.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?",
+          "type": "directReport",
+          "summary": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?. Here is a detailed look at the latest GMP and key IPO details for each issue.",
+          "id": "p_art_22316b6285_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Tempsens Instruments vs Gaja Capital IPO GMP \u2014 Which IPO Offers Better Listing Gains?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.926206+00:00",
+      "id": "art_22316b6285",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/n6h8kqt4_gmp_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing. Awarapan 2 leads at the box office; Batwara 1947 collections fall sharply",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Awarapan 2 leads at the box office; Batwara 1947 collections fall sharply",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing",
+          "type": "directReport",
+          "summary": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing. Awarapan 2 leads at the box office; Batwara 1947 collections fall sharply",
+          "id": "p_art_a6d350d4c7_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Awarapan 2 vs Batwara 1947 Box Office Collection Day 6: Check How The Two Films Performing",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.923687+00:00",
+      "id": "art_a6d350d4c7",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cmu7hk3c_awarapan-2-vs-batwara-1947_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?. Airport lounges provide travellers with a comfortable place to relax, WIFI, food and more.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Airport lounges provide travellers with a comfortable place to relax, WIFI, food and more.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?",
+          "type": "directReport",
+          "summary": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?. Airport lounges provide travellers with a comfortable place to relax, WIFI, food and more.",
+          "id": "p_art_fb28215c0a_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "These Credit Cards Still Offer Free Access To Airport Lounges: Do You Own Any?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.853410+00:00",
+      "id": "art_fb28215c0a",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-01/e43c4c6f_iStock_810303626.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T11:38:21.217288+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "After observing what moves stocks for decades, I\u2019ve come to a simple conclusion: stock prices move up when companies report better than expected results and raise their forecasts. Applying this rule leads to three stocks investors may consider when looking for stock to buy ahead of their next earnings reports.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T10:03:44.827354+00:00",
+      "id": "art_86cb47d9f3",
+      "title": "3 Undervalued Stocks To Buy Now For September 2026",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Applying this rule leads to three stocks investors may consider when looking for stock.",
+            "Top Undervalued Stocks To Buy Now In September 2026 More specifically, I looked for."
+          ],
+          "stanceTitle": "3 Undervalued Stocks To Buy Now For September 2026",
+          "type": "directReport",
+          "summary": "After observing what moves stocks for decades, I\u2019ve come to a simple conclusion: stock prices move up when companies report better than expected results and raise their forecasts. Applying this rule leads to three stocks investors may consider when looking for stock to buy ahead of their next earnings reports.",
+          "id": "p_art_86cb47d9f3_1",
           "sourceName": "Forbes Business",
-          "id": "p_art_f1a1442d6e_1",
-          "summary": "Update 08/20/26: Fortnite is down for the big Season 4 update. Read on to find out when the game is set to come back online and what to expect from the new season. See more updates at the bottom of this post.",
           "quoteAuthor": "",
           "biasTag": "Wealth & Entrepreneurship",
           "fullMarkdownContent": "",
@@ -311,19 +792,10 @@
           "sourceDomain": "forbes.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "title": "\u2018Fortnite\u2019 Servers Down: Here\u2019s When Season 4 Goes Live And What\u2019s New In \u2018Override\u2019",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.871418+00:00",
-      "id": "art_f1a1442d6e",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a860a1b5f4c65467d678bc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/9l75qh14_stock-market-today_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
     },
     {
       "tags": [
@@ -332,42 +804,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?. \u201cHe also has a brokerage account, but there\u2019s only $500 in it.\u201d",
       "divergenceScore": 0,
-      "summary": "7 things you should always keep in your car. For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
-            "Key analytical takeaway and operational overview."
+            "Should we buy him stocks instead?.",
+            "\u201cHe also has a brokerage account, but there\u2019s only $500 in it.\u201d"
           ],
-          "stanceTitle": "7 things you should always keep in your car",
+          "stanceTitle": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?",
           "type": "directReport",
+          "summary": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?. \u201cHe also has a brokerage account, but there\u2019s only $500 in it.\u201d",
+          "id": "p_art_fe912dd034_1",
           "sourceName": "MarketWatch Top Stories",
-          "id": "p_art_5f44b02d6f_1",
-          "summary": "7 things you should always keep in your car. For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
           "quoteAuthor": "",
           "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
+          "sourceDomain": "marketwatch.com",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
+          "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
-      "title": "7 things you should always keep in your car",
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.862603+00:00",
-      "id": "art_5f44b02d6f",
-      "videoUrl": "",
+      "publishedAt": "2026-08-20T10:03:44.673786+00:00",
+      "id": "art_fe912dd034",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "isLiked": false,
+      "videoUrl": "",
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-91856917"
+      "heroImageUrl": "https://images.mktw.net/im-94025750"
     },
     {
       "tags": [
@@ -376,526 +848,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
+      "summary": "<p class=\"wp-block-paragraph\">When the refrigeration system failed at an ice rink outside Kalamazoo, Michigan, last September, the Kalamazoo Optimist Hockey Association\u2014whose club had skated there for six decades\u2014was suddenly without a home rink. A month later, a private investment firm bought the building for $3.5 million and promised to reopen it.",
       "divergenceScore": 0,
-      "summary": "More SpaceX stock is about to hit the market. About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
-            "Key analytical takeaway and operational overview."
+            "A month later, a private investment firm bought the building for $3.5 million and promised to reopen it.",
+            "No local buyer could have moved that quickly.</p> <p class=\"wp-block-paragraph\">KOHA is a nonprofit with."
           ],
-          "stanceTitle": "More SpaceX stock is about to hit the market. Here\u2019s what to know.",
+          "stanceTitle": "Private equity is coming for your kid\u2019s sports league",
           "type": "directReport",
-          "sourceName": "MarketWatch Top Stories",
-          "id": "p_art_5adb62c220_1",
-          "summary": "More SpaceX stock is about to hit the market. About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "More SpaceX stock is about to hit the market. Here\u2019s what to know.",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.847205+00:00",
-      "id": "art_5adb62c220",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-80723995"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million. Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Decades ago, the property was used as the headquarters of an LSD operation run.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
-          "type": "directReport",
-          "sourceName": "MarketWatch Top Stories",
-          "id": "p_art_77a8a61255_1",
-          "summary": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million. Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.811152+00:00",
-      "id": "art_77a8a61255",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-28792592"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "<p class=\"wp-block-paragraph\">We live in a world of distraction. In the time it took me to write this sentence, I got a new email alert on my computer, two new DMs, and an alert on my phone that my Duolingo streak is in jeopardy.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "In the time it took me to write this sentence, I got a new.",
-            "With all of this outside interference, how in the world do you manage to."
-          ],
-          "stanceTitle": "How to get your attention span back",
-          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\">When the refrigeration system failed at an ice rink outside Kalamazoo, Michigan, last September, the Kalamazoo Optimist Hockey Association\u2014whose club had skated there for six decades\u2014was suddenly without a home rink. A month later, a private investment firm bought the building for $3.5 million and promised to reopen it.",
+          "id": "p_art_255efa50c0_1",
           "sourceName": "Fast Company",
-          "id": "p_art_430949fc44_1",
-          "summary": "<p class=\"wp-block-paragraph\">We live in a world of distraction. In the time it took me to write this sentence, I got a new email alert on my computer, two new DMs, and an alert on my phone that my Duolingo streak is in jeopardy.",
           "quoteAuthor": "",
           "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
+          "sourceDomain": "fastcompany.com",
           "quote": "",
           "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
-      "title": "How to get your attention span back",
+      "title": "Private equity is coming for your kid\u2019s sports league",
       "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.793347+00:00",
-      "id": "art_430949fc44",
-      "videoUrl": "",
+      "publishedAt": "2026-08-20T10:03:44.622992+00:00",
+      "id": "art_255efa50c0",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "isLiked": false,
+      "videoUrl": "",
       "sharesCount": 0,
       "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91590493-Work-Life-How-to-get-your-attention-span-back.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "<p class=\"wp-block-paragraph\">Bank of America has announced a unique change to its <a href=\"https://www.fastcompany.com/section/hybrid-work\">hybrid work policy</a>: it will <a href=\"https://www.hrdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/828003/\">prohibit employees from working remotely on consecutive days</a>.</p> <p class=\"wp-block-paragraph\">Starting on September 14, Bank of America staff in hybrid roles will still have two remote days each week, but they can\u2019t be back-to-back.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The decision is intended to promote collaboration and optimize the usage of the bank\u2019s.",
-            "Most of Bank of America\u2019s client-facing employees, such as those working at financial centers."
-          ],
-          "stanceTitle": "Why do companies care which days you work from home?",
-          "type": "directReport",
-          "sourceName": "Fast Company",
-          "id": "p_art_748fe2a36a_1",
-          "summary": "<p class=\"wp-block-paragraph\">Bank of America has announced a unique change to its <a href=\"https://www.fastcompany.com/section/hybrid-work\">hybrid work policy</a>: it will <a href=\"https://www.hrdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/828003/\">prohibit employees from working remotely on consecutive days</a>.</p> <p class=\"wp-block-paragraph\">Starting on September 14, Bank of America staff in hybrid roles will still have two remote days each week, but they can\u2019t be back-to-back.",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Why do companies care which days you work from home?",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.787704+00:00",
-      "id": "art_748fe2a36a",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592352-why-do-companies-care-which-days-you-work-from-home.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "<p class=\"wp-block-paragraph\">Perimenopause and menopause, normal transitions that impact people who menstruate as hormone levels begin to fall off, might be more disruptive to the work lives of those experiencing symptoms than previously thought.</p> <p class=\"wp-block-paragraph\">Perimenopause and menopause often come with a variety of symptoms, like hot flashes, anxiety, sleep disruptions, and brain fog.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "And, unfortunately, they don&#8217;t only show up after work hours\u2014giving people who experience them.",
-            "Respondents said that the most difficult parts of their jobs included things that required."
-          ],
-          "stanceTitle": "Perimenopause, menopause symptoms may cost employees nearly 35 workdays a year",
-          "type": "directReport",
-          "sourceName": "Fast Company",
-          "id": "p_art_2843ba0b63_1",
-          "summary": "<p class=\"wp-block-paragraph\">Perimenopause and menopause, normal transitions that impact people who menstruate as hormone levels begin to fall off, might be more disruptive to the work lives of those experiencing symptoms than previously thought.</p> <p class=\"wp-block-paragraph\">Perimenopause and menopause often come with a variety of symptoms, like hot flashes, anxiety, sleep disruptions, and brain fog.",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Perimenopause, menopause symptoms may cost employees nearly 35 workdays a year",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.783727+00:00",
-      "id": "art_2843ba0b63",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91591907-perimenopause-symptoms-cost-women-35-work-days-a-year.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "<p class=\"wp-block-paragraph\">Why are some people better at getting promoted than others? In an ideal world, the answer would be merit, which is basically a mix of talent and hard work.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "In an ideal world, the answer would be merit, which is basically a mix of talent and hard work.",
-            "This simple but rare combination would result in higher levels of performance that would."
-          ],
-          "stanceTitle": "5 underrated career strategies for getting promoted",
-          "type": "directReport",
-          "sourceName": "Fast Company",
-          "id": "p_art_fceb775072_1",
-          "summary": "<p class=\"wp-block-paragraph\">Why are some people better at getting promoted than others? In an ideal world, the answer would be merit, which is basically a mix of talent and hard work.",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "5 underrated career strategies for getting promoted",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.777974+00:00",
-      "id": "art_fceb775072",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91586421-5-underrated-promotion-strategies.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Consumers are getting fed up with AI slop found on online marketplaces, and companies are beginning to take note. About a year ago, online 3D model marketplace CGTrader introduced the ability for designers to upload AI-generated assets for purchase on the platform, in addition to the digital models they rendered themselves.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "About a year ago, online 3D model marketplace CGTrader introduced the ability for designers.",
-            "The site has more than two million 3D models for sale, which serve as."
-          ],
-          "stanceTitle": "\u2018Buyers aren\u2019t yet opening their wallets\u2019: AI-generated assets are flooding marketplaces, but consumers are snubbing the",
-          "type": "directReport",
-          "sourceName": "Fortune",
-          "id": "p_art_46dc2ad0d5_1",
-          "summary": "Consumers are getting fed up with AI slop found on online marketplaces, and companies are beginning to take note. About a year ago, online 3D model marketplace CGTrader introduced the ability for designers to upload AI-generated assets for purchase on the platform, in addition to the digital models they rendered themselves.",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "\u2018Buyers aren\u2019t yet opening their wallets\u2019: AI-generated assets are flooding marketplaces, but c",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.759028+00:00",
-      "id": "art_46dc2ad0d5",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289238743.jpg?resize=1200,600"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "It\u2019s no secret teachers in the U.S. Despite putting in far more work hours than other adults each week, teachers in many states make less than the U.S. median salary of about $64,220. So one philanthropist decided to do something about it.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Despite putting in far more work hours than other adults each week, teachers in.",
-            "median salary of about $64,220."
-          ],
-          "stanceTitle": "Teachers in one of San Francisco\u2019s richest suburbs are so underpaid that a philanthropist just gave each of them $9,161",
-          "type": "directReport",
-          "sourceName": "Fortune",
-          "id": "p_art_9538941506_1",
-          "summary": "It\u2019s no secret teachers in the U.S. Despite putting in far more work hours than other adults each week, teachers in many states make less than the U.S. median salary of about $64,220. So one philanthropist decided to do something about it.",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Teachers in one of San Francisco\u2019s richest suburbs are so underpaid that a philanthropist just ",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.710449+00:00",
-      "id": "art_9538941506",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1732864155-e1787162150931.jpg?resize=1200,600"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Everyone agrees that someone is calling the shots on a corporate AI strategy. It\u2019s just that a lot of executives aren\u2019t clear on who that is.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "It\u2019s just that a lot of executives aren\u2019t clear on who that is.",
-            "Only 34% of C-suite executives in a new Pearl Meyer survey said it\u2019s consistently."
-          ],
-          "stanceTitle": "Companies are spending trillions on AI. The C-suite doesn\u2019t know who is in charge of it",
-          "type": "directReport",
-          "sourceName": "Fortune",
-          "id": "p_art_7bf5050d9b_1",
-          "summary": "Everyone agrees that someone is calling the shots on a corporate AI strategy. It\u2019s just that a lot of executives aren\u2019t clear on who that is.",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "fortune.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Companies are spending trillions on AI. The C-suite doesn\u2019t know who is in charge of it",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.708209+00:00",
-      "id": "art_7bf5050d9b",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2232058756-e1787099752590.jpg?resize=1200,600"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "RBI's hawkish minutes rattle bond market investors, put rate hikes in play Deputy Governor Poonam Gupta flagged a possible rate hike later this year as policymakers grew more wary of inflation risks despite retaining a neutral stance Listen to This Article By Ruchi Bhatia India\u2019s central bank wrong-footed investors by opening the door to interest-rate.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Minutes of the Reserve Bank\u2019s August meeting released on Wednesday showed a growing inclination.",
-            "Deputy Governor Poonam Gupta raised the possibility of a rate hike later this year,."
-          ],
-          "stanceTitle": "RBI's hawkish minutes rattle bond market investors, put rate hikes in play",
-          "type": "directReport",
-          "sourceName": "Business Standard Economy",
-          "id": "p_art_b390a3efc2_1",
-          "summary": "RBI's hawkish minutes rattle bond market investors, put rate hikes in play Deputy Governor Poonam Gupta flagged a possible rate hike later this year as policymakers grew more wary of inflation risks despite retaining a neutral stance Listen to This Article By Ruchi Bhatia India\u2019s central bank wrong-footed investors by opening the door to interest-rate.",
-          "quoteAuthor": "",
-          "biasTag": "Macroeconomic Prudence",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "business-standard.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "RBI's hawkish minutes rattle bond market investors, put rate hikes in play",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.704811+00:00",
-      "id": "art_b390a3efc2",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/10/thumb/fitandfill/1200X628/1775843377-8684.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "'Industry must utilise FTAs, focus on value addition, and diversify mkts' India's trade agreements are a gateway to wider markets, but industry must actively use them, a Commerce Ministry official said, urging firms to leverage FTAs, add value and diversify export markets Listen to This Article The government on Thursday mooted that the industry must.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "All the trade agreements which India has signed \"is a door, but doors, however.",
-            "It is the industry that must walk through them,\" said Additional Secretary in the."
-          ],
-          "stanceTitle": "'Industry must utilise FTAs, focus on value addition, and diversify mkts'",
-          "type": "directReport",
-          "sourceName": "Business Standard Economy",
-          "id": "p_art_56952f5081_1",
-          "summary": "'Industry must utilise FTAs, focus on value addition, and diversify mkts' India's trade agreements are a gateway to wider markets, but industry must actively use them, a Commerce Ministry official said, urging firms to leverage FTAs, add value and diversify export markets Listen to This Article The government on Thursday mooted that the industry must.",
-          "quoteAuthor": "",
-          "biasTag": "Macroeconomic Prudence",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "business-standard.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "'Industry must utilise FTAs, focus on value addition, and diversify mkts'",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.693429+00:00",
-      "id": "art_56952f5081",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/05/thumb/featurecrop/1200X628/1772733965-4764.jpg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "The paper, prepared by SBI Caps, said large capital projects require confidence not just in current demand but also in the visibility of future cash flows. Persistent uncertainty over pricing, input costs and end-market demand is prompting companies to defer investments.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Persistent uncertainty over pricing, input costs and end-market demand is prompting companies to defer.",
-            "Also Read: Finance Minister Nirmala Sitharaman urges PSBs to sharpen youth outreach, build ahead."
-          ],
-          "stanceTitle": "Private capex confidence still catching up as uncertainty clouds investment decisions",
-          "type": "directReport",
-          "sourceName": "Economic Times Economy",
-          "id": "p_art_289bfa6b9c_1",
-          "summary": "The paper, prepared by SBI Caps, said large capital projects require confidence not just in current demand but also in the visibility of future cash flows. Persistent uncertainty over pricing, input costs and end-market demand is prompting companies to defer investments.",
-          "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "title": "Private capex confidence still catching up as uncertainty clouds investment decisions",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T09:08:46.670631+00:00",
-      "id": "art_289bfa6b9c",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133366174,width-1200,height-630,imgsize-68748,overlay-economictimes/articleshow.jpg"
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-3-91592344-private-equity-is-coming-for-your-kids-sports-league.jpg"
     }
   ]
 }

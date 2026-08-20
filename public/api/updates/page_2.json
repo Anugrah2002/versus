@@ -5,6 +5,578 @@
   "has_more": true,
   "articles": [
     {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra Average bidder participation fell from 13 to 10 during FY26 as larger package sizes and higher net worth requirements favoured developers with stronger financial profiles Listen to This Article Competition intensity in Hybrid Annuity Model (HAM) projects is showing the first signs of reduction.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\u201cIn FY26, particularly in the fourth quarter, newer HAM projects that were awarded had.",
+            "He added newer projects had higher bid costs, leading to the participation of developers."
+          ],
+          "stanceTitle": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra",
+          "type": "directReport",
+          "summary": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra Average bidder participation fell from 13 to 10 during FY26 as larger package sizes and higher net worth requirements favoured developers with stronger financial profiles Listen to This Article Competition intensity in Hybrid Annuity Model (HAM) projects is showing the first signs of reduction.",
+          "id": "p_art_e31f58a83f_1",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.834890+00:00",
+      "id": "art_e31f58a83f",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Competition in HAM projects starts easing as MoRTH tightens norms: Ind-Ra",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/10/thumb/fitandfill/1200X628/1783626412-7531.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised. It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
+          "type": "directReport",
+          "summary": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised. It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+          "id": "p_art_88a9618e17_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "engadget.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.829019+00:00",
+      "id": "art_88a9618e17",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.engadget.com/img/gallery/teslas-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/l-intro-1787240908.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death. For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s death closes one chapter in a 42-year wait for justice; some expressed relief, others felt he had escaped the ultimate punishment for his crimes",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death",
+          "type": "directReport",
+          "summary": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death. For families who lost loved ones and witnesses who saw the violence unfold, Kumar\u2019s death closes one chapter in a 42-year wait for justice; some expressed relief, others felt he had escaped the ultimate punishment for his crimes",
+          "id": "p_art_daccb63922_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.813974+00:00",
+      "id": "art_daccb63922",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "\u2018There was fire everywhere\u2019: 1984 riot survivors recall the horror after Sajjan Kumar\u2019s death",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ouhkwu/article71369533.ece/alternates/LANDSCAPE_1200/sajjan-kumar_GOGOBFFPI5T.3.jpg.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "envoy Sergio Gor arrives in Ladakh; no high-profile meetings held. Officials said there is uncertainty over Mr. Gor meeting the Dalai Lama, who is currently staying in Leh",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Officials said there is uncertainty over Mr.",
+            "Gor meeting the Dalai Lama, who is currently staying in Leh"
+          ],
+          "stanceTitle": "U.S. envoy Sergio Gor arrives in Ladakh; no high-profile meetings held",
+          "type": "directReport",
+          "summary": "envoy Sergio Gor arrives in Ladakh; no high-profile meetings held. Officials said there is uncertainty over Mr. Gor meeting the Dalai Lama, who is currently staying in Leh",
+          "id": "p_art_36347bb5af_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.811602+00:00",
+      "id": "art_36347bb5af",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "U.S. envoy Sergio Gor arrives in Ladakh; no high-profile meetings held",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/staavj/article71369540.ece/alternates/LANDSCAPE_1200/20260820266L_uOkjub3.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019. Notices will be served to 23.45 lakh people who could not find their own or their parents\u2019 details in the 2002 electoral roll",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Notices will be served to 23.45 lakh people who could not find their own.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019",
+          "type": "directReport",
+          "summary": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepancy\u2019. Notices will be served to 23.45 lakh people who could not find their own or their parents\u2019 details in the 2002 electoral roll",
+          "id": "p_art_aa35d460a3_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.800860+00:00",
+      "id": "art_aa35d460a3",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for \u2018logical discrepa",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9udyna/article71369320.ece/alternates/LANDSCAPE_1200/_DSC4655.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- Assam and Meghalaya chief ministers agreed to jointly restore peace after Shillong violence - Ministers from both states will meet to discuss ways to normalise relations and build trust - Violence followed a rally in Shillong, with damage to vehicles and public property reported Assam and Meghalaya have stepped up efforts to contain tensions.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sangma said he spoke to Sarma over the violence that erupted in Meghalaya's capital.",
+            "In a post on X, Sangma said the two chief ministers had agreed to."
+          ],
+          "stanceTitle": "Assam, Meghalaya Chief Ministers Join Hands To Defuse Tension After Shillong Violence",
+          "type": "directReport",
+          "summary": "- Assam and Meghalaya chief ministers agreed to jointly restore peace after Shillong violence - Ministers from both states will meet to discuss ways to normalise relations and build trust - Violence followed a rally in Shillong, with damage to vehicles and public property reported Assam and Meghalaya have stepped up efforts to contain tensions.",
+          "id": "p_art_474b832d5b_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.787241+00:00",
+      "id": "art_474b832d5b",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Assam, Meghalaya Chief Ministers Join Hands To Defuse Tension After Shillong Violence",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ha66idug_sangma-and-conrad_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Manav Suthar Shares Details Of His Practice After Demolishing Sri Lanka In 1st Test Manav Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as India defeated Sri Lanka by 165 runs in the opening Test on Wednesday.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- IANS - Updated: August 20, 2026 04:14 pm IST India's young left-arm spinner.",
+            "Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as."
+          ],
+          "stanceTitle": "Manav Suthar Shares Details Of His Practice After Demolishing SL In 1st Test",
+          "type": "directReport",
+          "summary": "Manav Suthar Shares Details Of His Practice After Demolishing Sri Lanka In 1st Test Manav Suthar produced a match-winning performance in only his second Test, claiming 10 wickets as India defeated Sri Lanka by 165 runs in the opening Test on Wednesday.",
+          "id": "p_art_a97db9a67e_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.783970+00:00",
+      "id": "art_a97db9a67e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Manav Suthar Shares Details Of His Practice After Demolishing SL In 1st Test",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/uc9lbcpg_manav-suthar-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- A 50-year-old woman died in a lift accident in Andhra Pradesh's Prakasam district - The elevator moved down while its doors were open, trapping the woman inside - She was trapped while exiting the lift and suffered severe injuries A 50-year-old woman died in a freak lift accident on Sunday at a residential tower.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The victim was identified as Vanitha, who died later while undergoing the treatment.",
+            "According to reports, she had entered the lift along with her daughter and grandson."
+          ],
+          "stanceTitle": "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
+          "type": "directReport",
+          "summary": "- A 50-year-old woman died in a lift accident in Andhra Pradesh's Prakasam district - The elevator moved down while its doors were open, trapping the woman inside - She was trapped while exiting the lift and suffered severe injuries A 50-year-old woman died in a freak lift accident on Sunday at a residential tower.",
+          "id": "p_art_76363dbd55_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T16:38:48.760901+00:00",
+      "id": "art_76363dbd55",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/bvqt9olc_andhra-woman-trapped-in-lift_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The founder of Evergrande, one of China\u2019s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with a net worth of $42.5bn (\u00a331.2bn) in 2017, pleaded guilty in April to eight charges.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.957416+00:00",
+      "id": "art_24d52d0697",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with.",
+            "These included misuse of funds, fundraising fraud, illegally taking public deposits, illegally extending loans,."
+          ],
+          "stanceTitle": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
+          "type": "directReport",
+          "summary": "The founder of Evergrande, one of China\u2019s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China\u2019s richest man, with a net worth of $42.5bn (\u00a331.2bn) in 2017, pleaded guilty in April to eight charges.",
+          "id": "p_art_24d52d0697_1",
+          "sourceName": "The Guardian World",
+          "quoteAuthor": "",
+          "biasTag": "Progressive International",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "theguardian.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac49f1fd6c0ac5e76f54b2df69486a41"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "A China Strategy That Lasts",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.937915+00:00",
+      "id": "art_6496579834",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It has done so by integrating national security, economic security, energy policy, and environmental policy.",
+            "In sectors as varied as automobiles, chemicals, and solar panels, the Chinese government\u2019s policies."
+          ],
+          "stanceTitle": "A China Strategy That Lasts",
+          "type": "directReport",
+          "summary": "For decades, Beijing has used trade not only as a means to generate economic growth but also as a geopolitical tool to attract investment, strengthen its industrial base, expand its economy, and support its military. It has done so by integrating national security, economic security, energy policy, and environmental policy.",
+          "id": "p_art_6496579834_1",
+          "sourceName": "Foreign Affairs",
+          "quoteAuthor": "",
+          "biasTag": "Global Order & Statecraft",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 97,
+          "sourceDomain": "foreignaffairs.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/18/2025-10-21T071723Z_2041563590_RC2MFHA25KIA_RTRMADP_3_CHINA-ECONOMY.JPG?itok=kynd26aF"
+    },
+    {
+      "tags": [
+        "Automotive & Energy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time With up to 1,917 lb-ft of torque, two transmissions, and fully independent axles, the Tatra Force e-Drive BEV sounds like a beast. - Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.931969+00:00",
+      "id": "art_e824d75f53",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
+            "- The Force e-Drive BEV is an 8x8 work truck with four-axle independent suspension."
+          ],
+          "stanceTitle": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
+          "type": "directReport",
+          "summary": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time With up to 1,917 lb-ft of torque, two transmissions, and fully independent axles, the Tatra Force e-Drive BEV sounds like a beast. - Czechia\u2019s Tatra Trucks has unveiled its first electric model.",
+          "id": "p_art_e824d75f53_1",
+          "sourceName": "InsideEVs",
+          "quoteAuthor": "",
+          "biasTag": "EV Technology & Battery",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "insideevs.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Automotive & Energy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://cdn.motor1.com/images/mgl/koK30B/s1/tatra-force-e-drive-8x8-bev.jpg"
+    },
+    {
+      "tags": [
+        "Automotive & Energy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers The Chinese-made Zeekr vans are fitted with Waymo\u2019s sixth-generation hardware and software suite. - Waymo is now offering paid rides in its new Ojai autonomous vans. - The Zeekr-made electric robotaxis are available for all riders in three U.S.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.911214+00:00",
+      "id": "art_e4f68584ee",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "- Waymo is now offering paid rides in its new Ojai autonomous vans.",
+            "- The Zeekr-made electric robotaxis are available for all riders in three U.S."
+          ],
+          "stanceTitle": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers",
+          "type": "directReport",
+          "summary": "Waymo\u2019s New Robotaxi Minivans Are Now Taking Paying Passengers The Chinese-made Zeekr vans are fitted with Waymo\u2019s sixth-generation hardware and software suite. - Waymo is now offering paid rides in its new Ojai autonomous vans. - The Zeekr-made electric robotaxis are available for all riders in three U.S.",
+          "id": "p_art_e4f68584ee_1",
+          "sourceName": "InsideEVs",
+          "quoteAuthor": "",
+          "biasTag": "EV Technology & Battery",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "insideevs.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Automotive & Energy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://cdn.motor1.com/images/mgl/Ak3obO/s1/waymo-ojai.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Are We Thinking Correctly About AI Intelligence? Introduction When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning?",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.901166+00:00",
+      "id": "art_222afe762c",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Introduction When an LLM answers a question, is it reasoning like humans, or just.",
+            "The distinction isn\u2019t just philosophical, this determines what we can trust AI to do,."
+          ],
+          "stanceTitle": "Are We Thinking Correctly About AI Intelligence?",
+          "type": "directReport",
+          "summary": "Are We Thinking Correctly About AI Intelligence? Introduction When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning?",
+          "id": "p_art_222afe762c_1",
+          "sourceName": "Quanta Magazine",
+          "quoteAuthor": "",
+          "biasTag": "Mathematics & Fundamental Physics",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 98,
+          "sourceDomain": "quantamagazine.org"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+    },
+    {
       "tags": [
         "Space & Science",
         "Verified News",
@@ -311,579 +883,6 @@
       "isSinglePerspective": true,
       "sharesCount": 0,
       "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/ocean-time-travellers.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "ALMA uncovers sulfur for the first time around a rare class of supergiant star. Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.723405+00:00",
-      "id": "art_6b99061ccc",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive.",
-            "The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant."
-          ],
-          "stanceTitle": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-          "type": "directReport",
-          "summary": "ALMA uncovers sulfur for the first time around a rare class of supergiant star. Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-          "id": "p_art_6b99061ccc_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Researchers gain access to crucial deliberations on deep-sea mining. As competition between the United States and China intensifies over critical minerals, pressure is mounting to begin exploitation of deep-sea minerals before a code to regulate mining of the seabed in areas beyond national jurisdiction is agreed to.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Researchers gain access to crucial deliberations on deep-sea mining",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.720314+00:00",
-      "id": "art_93cb47da56",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "As competition between the United States and China intensifies over critical minerals, pressure is.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Researchers gain access to crucial deliberations on deep-sea mining",
-          "type": "directReport",
-          "summary": "Researchers gain access to crucial deliberations on deep-sea mining. As competition between the United States and China intensifies over critical minerals, pressure is mounting to begin exploitation of deep-sea minerals before a code to regulate mining of the seabed in areas beyond national jurisdiction is agreed to.",
-          "id": "p_art_93cb47da56_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/deep-sea-mining.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Clubbing may boost well-being for women in midlife. An online survey published in the journal Psychology of Music asked 136 women ages 40 and older about their experiences at electronic dance music (EDM) events.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Clubbing may boost well-being for women in midlife",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.718760+00:00",
-      "id": "art_c823678144",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "An online survey published in the journal Psychology of Music asked 136 women ages.",
-            "Nine in 10 respondents (91%) said clubbing contributes positively to their well-being, with more."
-          ],
-          "stanceTitle": "Clubbing may boost well-being for women in midlife",
-          "type": "directReport",
-          "summary": "Clubbing may boost well-being for women in midlife. An online survey published in the journal Psychology of Music asked 136 women ages 40 and older about their experiences at electronic dance music (EDM) events.",
-          "id": "p_art_c823678144_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/clubbing-boosts-well-b.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn. Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the resulting surface warming can offset 6% to 20% of the climate benefit they are credited with.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.713544+00:00",
-      "id": "art_7d3bc087ac",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the.",
-            "Canada's current carbon accounting frameworks measure the carbon stored but largely omit the heat."
-          ],
-          "stanceTitle": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn",
-          "type": "directReport",
-          "summary": "Dark boreal forests of Canada absorb enough heat to cancel up to a 5th of their climate benefit, scientists warn. Dense evergreen plantations in Canada's boreal forest absorb so much winter sunlight that the resulting surface warming can offset 6% to 20% of the climate benefit they are credited with.",
-          "id": "p_art_7d3bc087ac_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2015/borealforest.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest. A new study from Murdoch University has found that Environmental, Social and Governance (ESG) downgrades trigger significantly larger share price losses when they come as a surprise to optimistic investors.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors t",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.684375+00:00",
-      "id": "art_977dbdde30",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new study from Murdoch University has found that Environmental, Social and Governance (ESG).",
-            "The findings are published in the journal International Review of Economics &amp; Finance."
-          ],
-          "stanceTitle": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest",
-          "type": "directReport",
-          "summary": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest. A new study from Murdoch University has found that Environmental, Social and Governance (ESG) downgrades trigger significantly larger share price losses when they come as a surprise to optimistic investors.",
-          "id": "p_art_977dbdde30_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/investor.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Children prefer fair punishment to unequal treatment, study finds. Consistent enforcement of rules is more important than the severity of the punishment itself, and children expect adults to treat every member of their group impartially and equally.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Children prefer fair punishment to unequal treatment, study finds",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.639725+00:00",
-      "id": "art_09d647af64",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Consistent enforcement of rules is more important than the severity of the punishment itself,.",
-            "Moreover, fair punishment brings emotional relief to children, according to research by scientists from."
-          ],
-          "stanceTitle": "Children prefer fair punishment to unequal treatment, study finds",
-          "type": "directReport",
-          "summary": "Children prefer fair punishment to unequal treatment, study finds. Consistent enforcement of rules is more important than the severity of the punishment itself, and children expect adults to treat every member of their group impartially and equally.",
-          "id": "p_art_09d647af64_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-looking-at-bo.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Reform UK proposes tax rebates for firms to boost apprenticeships - Published Young apprentices should have part of their wages paid by taxpayers, according to Reform UK plans, external aimed at delivering a \"skills revolution\".",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.629297+00:00",
-      "id": "art_9f16edfa4e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The party's education spokeswoman Suella Braverman said a Reform government would introduce an \"apprenticeship.",
-            "She also advised students receiving their GCSE exam results on Thursday \"not to get."
-          ],
-          "stanceTitle": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-          "type": "directReport",
-          "summary": "Reform UK proposes tax rebates for firms to boost apprenticeships - Published Young apprentices should have part of their wages paid by taxpayers, according to Reform UK plans, external aimed at delivering a \"skills revolution\".",
-          "id": "p_art_9f16edfa4e_1",
-          "sourceName": "BBC Business",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b45/live/3ff3d920-9c9d-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Danone \u20ac1bn takeover of Huel approved by watchdog - Published Danone's takeover of the British meal supplement maker Huel has been cleared by the competition watchdog. The Competition and Markets Authority (CMA) has given the \u20ac1bn (\u00a3864m) deal the green light following a review.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Danone \u20ac1bn takeover of Huel approved by watchdog",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.624753+00:00",
-      "id": "art_f5d31bdf88",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Competition and Markets Authority (CMA) has given the \u20ac1bn (\u00a3864m) deal the green.",
-            "Huel, based in Hertfordshire, was founded by Julian Hearn in 2015 to provide nutritionally."
-          ],
-          "stanceTitle": "Danone \u20ac1bn takeover of Huel approved by watchdog",
-          "type": "directReport",
-          "summary": "Danone \u20ac1bn takeover of Huel approved by watchdog - Published Danone's takeover of the British meal supplement maker Huel has been cleared by the competition watchdog. The Competition and Markets Authority (CMA) has given the \u20ac1bn (\u00a3864m) deal the green light following a review.",
-          "id": "p_art_f5d31bdf88_1",
-          "sourceName": "BBC Business",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/460d/live/b579d640-9c7a-11f1-8413-79a38c9f8909.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term. The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of tins for edible oil.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.583231+00:00",
-      "id": "art_1fb521fe06",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term",
-          "type": "directReport",
-          "summary": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term. The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of tins for edible oil.",
-          "id": "p_art_1fb521fe06_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/g2jmvhds_tukaram-mundhe_625x300_03_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost. Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively, while Dow Jones Industrial Average dipped 0.22% to $53,413",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "One-Day Blip? Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback B",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.576227+00:00",
-      "id": "art_124107a7de",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "One-Day Blip? Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost",
-          "type": "directReport",
-          "summary": "Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost. Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively, while Dow Jones Industrial Average dipped 0.22% to $53,413",
-          "id": "p_art_124107a7de_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-05/9asflnt4_x_625x300_29_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay. Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.567505+00:00",
-      "id": "art_d7d62a240a",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay.",
-            "Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027."
-          ],
-          "stanceTitle": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay",
-          "type": "directReport",
-          "summary": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay. Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027.",
-          "id": "p_art_d7d62a240a_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-06/vj31o1nc_apple-iphone_625x300_10_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields. Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN network.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-20T14:11:40.553318+00:00",
-      "id": "art_d438ce4d91",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields",
-          "type": "directReport",
-          "summary": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields. Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN network.",
-          "id": "p_art_d438ce4d91_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-02/d9qqon5g_railtel_625x300_02_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-20T16:38:48.688797+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Yemen's Iran-backed Houthi rebels said on Thursday that they targeted an airport and a facility belonging to state-owned oil giant Aramco in Saudi Arabia's southern Najran region, near the Yemeni border.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:40.532597+00:00",
-      "id": "art_ff260c75c7",
-      "title": "Houthis Claim They Attacked Airport, Aramco Facilities In Saudi Arabia",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The group \"successfully carried out two military operations using drones: the first targeted a.",
-            "Earlier on Thursday, Iran's Revolutionary Guards had warned that Saudi Arabia would be \"unable."
-          ],
-          "stanceTitle": "Houthis Claim They Attacked Airport, Aramco Facilities In Saudi Arabia",
-          "type": "directReport",
-          "summary": "Yemen's Iran-backed Houthi rebels said on Thursday that they targeted an airport and a facility belonging to state-owned oil giant Aramco in Saudi Arabia's southern Najran region, near the Yemeni border.",
-          "id": "p_art_ff260c75c7_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-05/0k7775m8_strait-of-hormuz_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
     }
   ]
 }

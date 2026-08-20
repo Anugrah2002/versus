@@ -1,558 +1,69 @@
 {
   "page": 6,
-  "total_pages": 6,
-  "total_articles": 110,
-  "has_more": false,
+  "total_pages": 7,
+  "total_articles": 138,
+  "has_more": true,
   "articles": [
     {
       "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "summary": "New Delhi: Union Minister for Commerce and Industry Piyush Goyal on Monday held a meeting with Sundeep Sikka, MD and CEO of Nippon Life India Asset Management Ltd, and discussed measures to deepen retail investment and strengthen India's asset management ecosystem.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "A major political and legal showdown over fiscal federalism is brewing with Chief Ministers of Congress-ruled states preparing to move the Supreme Court of India against the newly passed Mines and Minerals Development and Regulation Amendment Act, sources have said.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Union Minister Piyush Goyal discusses scaling up retail investment with Nippon Life India AMC C",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T01:42:08.923122+00:00",
-      "id": "art_02474d8b50",
       "perspectives": [
         {
           "keyPoints": [
-            "New Delhi: Union Minister for Commerce and Industry Piyush Goyal on Monday held a meeting with Sundeep Sikka, MD and CEO of Nippon Life India Asset Management Ltd, and discussed measures to deepen retail investment and strengthen India's asset management ecosystem.",
-            "Key analytical takeaway and operational overview."
+            "Top Congress sources said Chief Ministers from Telangana Revanth Reddy, Karnataka Chief Minister DK.",
+            "They also wish to challenge the constitutionality of the legislation passed during parliament's monsoon."
           ],
-          "stanceTitle": "Corporate & Market Realism: Union Minister Piyush Goyal discusses scaling up retail investment with Nippon Life India AM",
+          "stanceTitle": "Congress-Ruled States To Challenge Mines Law In Top Court: Sources",
           "type": "viewpoint1",
-          "sourceName": "Economic Times Economy",
-          "id": "p_art_3eea90ddff_1",
-          "summary": "New Delhi: Union Minister for Commerce and Industry Piyush Goyal on Monday held a meeting with Sundeep Sikka, MD and CEO of Nippon Life India Asset Management Ltd, and discussed measures to deepen retail investment and strengthen India's asset management ecosystem.",
+          "summary": "A major political and legal showdown over fiscal federalism is brewing with Chief Ministers of Congress-ruled states preparing to move the Supreme Court of India against the newly passed Mines and Minerals Development and Regulation Amendment Act, sources have said.",
+          "id": "p_art_52373c4bc5_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
-          "sourceDomain": "economictimes.indiatimes.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Union Minister Piyush Goyal holds talks with UK MPs on economic growth, innovation - News On AIR",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: Union Minister Piyush Goyal holds talks with UK MPs on economic growth, innovation - News On AIR",
-          "type": "viewpoint2",
-          "sourceName": "News On AIR",
-          "id": "p_art_3eea90ddff_2",
-          "summary": "Union Minister Piyush Goyal holds talks with UK MPs on economic growth, innovation - News On AIR. Union Minister Piyush Goyal holds talks with UK MPs on economic growth, innovation - News On AIR",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "newsonair.gov.in",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133309049,width-1200,height-630,imgsize-125574,overlay-economictimes/articleshow.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Bad Bunny is already one of the most successful artists of all time on many of Billboard\u2019s Latin charts. His music has also performed exceptionally well on tallies that are not centered entirely around Spanish-language music, but the Latin-focused rosters are where he dominates like few others. Bunny almost always appears at No.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-17T16:37:45.651243+00:00",
-      "id": "art_0286559e6d",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "His music has also performed exceptionally well on tallies that are not centered entirely.",
-            "Bunny almost always appears at No."
-          ],
-          "stanceTitle": "Wealth & Entrepreneurship: Bad Bunny Blocks Himself From A New No. 1 Hit",
-          "type": "viewpoint1",
-          "sourceName": "Forbes Business",
-          "id": "p_art_3c3a1c8a10_1",
-          "summary": "Bad Bunny is already one of the most successful artists of all time on many of Billboard\u2019s Latin charts. His music has also performed exceptionally well on tallies that are not centered entirely around Spanish-language music, but the Latin-focused rosters are where he dominates like few others. Bunny almost always appears at No.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Here\u2019s Every Reference You Might Have Missed at Bad Bunny\u2019s Super Bowl Halftime Show - Billboard",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: Here\u2019s Every Reference You Might Have Missed at Bad Bunny\u2019s Super Bowl Halftime Show - Billboard",
-          "type": "viewpoint2",
-          "sourceName": "Billboard",
-          "id": "p_art_3c3a1c8a10_2",
-          "summary": "Here\u2019s Every Reference You Might Have Missed at Bad Bunny\u2019s Super Bowl Halftime Show - Billboard. Here\u2019s Every Reference You Might Have Missed at Bad Bunny\u2019s Super Bowl Halftime Show - Billboard",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "billboard.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Bad Bunny Blocks Himself From A New No. 1 Hit",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/698a81ee99ed6a45bae8e563/0x0.jpg?format=jpg&crop=1839,1035,x792,y159,safe&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the wrong stocks. Studies showing younger investors believe gambling is a reasonable path to wealth creation, and not all that different from investing, \u201cconcerns me deeply,\u201d Liz Ann Sonders said.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-17T15:33:22.982722+00:00",
-      "id": "art_020d1eb32f",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Studies showing younger investors believe gambling is a reasonable path to wealth creation, and.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Market Analysis: Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the w",
-          "type": "viewpoint1",
-          "sourceName": "MarketWatch Top Stories",
-          "id": "p_art_3148e4d3c8_1",
-          "summary": "Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the wrong stocks. Studies showing younger investors believe gambling is a reasonable path to wealth creation, and not all that different from investing, \u201cconcerns me deeply,\u201d Liz Ann Sonders said.",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
-          "sourceDomain": "marketwatch.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "The costly mistakes experts say investors are making - RNZ",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Policy Constraints & Oversight: The costly mistakes experts say investors are making - RNZ",
-          "type": "viewpoint2",
-          "sourceName": "RNZ",
-          "id": "p_art_3148e4d3c8_2",
-          "summary": "Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the wrong stocks. Studies showing younger investors believe gambling is a reasonable path to wealth creation, and not all that different from investing, \u201cconcerns me deeply,\u201d Liz Ann Sonders said.",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "rnz.co.nz",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the w",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-41445177"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "What is the Retro app for and how do you use it?. Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T15:53:21.545015+00:00",
-      "id": "art_00e6acd592",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Let's look at how to use the Retro app, whether it's free and whether.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "What is the Retro app for and how do you use it?",
-          "type": "viewpoint1",
-          "sourceName": "Engadget",
-          "id": "p_art_915c0cc87d_1",
-          "summary": "What is the Retro app for and how do you use it?. Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-          "quoteAuthor": "",
-          "biasTag": "Hardware & Gadgets",
-          "sourceDomain": "engadget.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "These are the best photo editing apps to use in 2026 - Amateur Photographer",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "These are the best photo editing apps to use in 2026 - Amateur Photographer",
-          "type": "viewpoint2",
-          "sourceName": "Amateur Photographer",
-          "id": "p_art_915c0cc87d_2",
-          "summary": "These are the best photo editing apps to use in 2026 - Amateur Photographer. These are the best photo editing apps to use in 2026 - Amateur Photographer",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "amateurphotographer.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "What is the Retro app for and how do you use it?",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "What does Anthropic stand to gain and risk with its IPO | Explained. With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T13:58:14.929385+00:00",
-      "id": "art_00a5dece1f",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "What does Anthropic stand to gain and risk with its IPO | Explained",
-          "type": "viewpoint1",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_f7ab0f5de9_1",
-          "summary": "What does Anthropic stand to gain and risk with its IPO | Explained. With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView",
-          "type": "viewpoint2",
-          "sourceName": "TradingView",
-          "id": "p_art_f7ab0f5de9_2",
-          "summary": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView. IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "tradingview.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "What does Anthropic stand to gain and risk with its IPO | Explained",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/b2vhqf/article71344129.ece/alternates/LANDSCAPE_1200/2026-08-04T170005Z_1150976281_RC2LU7ATMBAY_RTRMADP_3_TECH-AI-ANTHROPIC.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T11:33:26.379455+00:00",
-      "id": "art_01139c281e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-          "type": "viewpoint1",
-          "sourceName": "Ars Technica",
-          "id": "p_art_b90b5a987a_1",
-          "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-          "quoteAuthor": "",
-          "biasTag": "Technical Depth & Security",
-          "sourceDomain": "arstechnica.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
-          "type": "viewpoint2",
-          "sourceName": "PreventionWeb.net",
-          "id": "p_art_b90b5a987a_2",
-          "summary": "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net. Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "preventionweb.net",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "lastUpgradedAt": "2026-08-16T14:15:10.767717+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Ukrainian forces have reportedly started using balloons to deliver FPV drones equipped with Starlink Mini terminals deep into Russian-occupied territory in southern Ukraine. This emerging tactic was reported by \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b \u0421\u043f\u0435\u0446\u043d\u0430\u0437\u0430 (Arkhangel Spetsnaza), a Russian military blogger, on his Telegram channel.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T11:33:26.373785+00:00",
-      "id": "art_023166de6b",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "This emerging tactic was reported by \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b \u0421\u043f\u0435\u0446\u043d\u0430\u0437\u0430 (Arkhangel Spetsnaza), a Russian military blogger,.",
-            "In an August 12 post, he stated that balloon-delivered Ukrainian FPV drones were being."
-          ],
-          "stanceTitle": "Wealth & Entrepreneurship: Ukraine Uses Balloons And Starlink To Extend The Range Of FPV Drones",
-          "type": "viewpoint1",
-          "sourceName": "Forbes Business",
-          "id": "p_art_32a429a50b_1",
-          "summary": "Ukrainian forces have reportedly started using balloons to deliver FPV drones equipped with Starlink Mini terminals deep into Russian-occupied territory in southern Ukraine. This emerging tactic was reported by \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b \u0421\u043f\u0435\u0446\u043d\u0430\u0437\u0430 (Arkhangel Spetsnaza), a Russian military blogger, on his Telegram channel.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Ukraine tests balloon-launched drones to extend UAV strike range - Aerospace Global News",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: Ukraine tests balloon-launched drones to extend UAV strike range - Aerospace Global News",
-          "type": "viewpoint2",
-          "sourceName": "Aerospace Global News",
-          "id": "p_art_32a429a50b_2",
-          "summary": "Ukraine tests balloon-launched drones to extend UAV strike range - Aerospace Global News. Ukraine tests balloon-launched drones to extend UAV strike range - Aerospace Global News",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "aerospaceglobalnews.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Ukraine Uses Balloons And Starlink To Extend The Range Of FPV Drones",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc407b0d4-3905-4a37-841b-f7df2df6809b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Hurricane poised to hit Hawaii as El Ni\u00f1o stirs Pacific. A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with hurricane-force gales on Saturday, bringing dangerous winds, rainfall and heavy surf.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 1420,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-16T10:46:59.911084+00:00",
-      "id": "art_01c06cdd76",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Physics & Applied Tech: Hurricane poised to hit Hawaii as El Ni\u00f1o stirs Pacific",
-          "type": "viewpoint1",
-          "sourceName": "Phys.org",
-          "id": "p_art_67e9a3b498_1",
-          "summary": "Hurricane poised to hit Hawaii as El Ni\u00f1o stirs Pacific. A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with hurricane-force gales on Saturday, bringing dangerous winds, rainfall and heavy surf.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "sourceDomain": "phys.org",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "Hurricane poised to hit Hawaii as El Nino stirs Pacific - Myanmar International TV",
+            "Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Journalistic Reporting: Hurricane poised to hit Hawaii as El Nino stirs Pacific - Myanmar International TV",
+          "stanceTitle": "Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald",
           "type": "viewpoint2",
-          "sourceName": "Myanmar International TV",
-          "id": "p_art_67e9a3b498_2",
-          "summary": "Hurricane poised to hit Hawaii as El Nino stirs Pacific - Myanmar International TV. Hurricane poised to hit Hawaii as El Nino stirs Pacific - Myanmar International TV",
+          "summary": "Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald. Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald",
+          "id": "p_art_52373c4bc5_2",
+          "sourceName": "National Herald",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "myanmaritv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "nationalheraldindia.com"
         }
       ],
-      "bookmarksCount": 340,
-      "category": "Space & Science",
-      "title": "Hurricane poised to hit Hawaii as El Ni\u00f1o stirs Pacific",
-      "commentsCount": 48,
-      "isSinglePerspective": false,
-      "sharesCount": 210,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tropical-storm-lala-is.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home - Published For 30 years, a dead body known as \"Green Boots\" has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-      "likesCount": 1420,
-      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-16T10:46:55.125538+00:00",
-      "id": "art_029f5cde90",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The lime mountaineering boots worn by an Indian climber who died in 1996 have been a grim trail marker for.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "International Overview: He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-          "type": "viewpoint1",
-          "sourceName": "BBC India",
-          "id": "p_art_7d2dd44718_1",
-          "summary": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home - Published For 30 years, a dead body known as \"Green Boots\" has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-          "quoteAuthor": "",
-          "biasTag": "International Overview",
-          "sourceDomain": "bbc.co.uk",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Lying frozen on Mount Everest for nearly 30 years, wearing 'Green Boots', the famous.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Mainstream National: Lying frozen on Mount Everest for nearly 30 years, wearing 'Green Boots', the famous remains are no",
-          "type": "viewpoint2",
-          "sourceName": "Times of India",
-          "id": "p_art_7d2dd44718_2",
-          "summary": "Lying frozen on Mount Everest for nearly 30 years, wearing 'Green Boots', the famous remains are now the - The Times of India. Lying frozen on Mount Everest for nearly 30 years, wearing 'Green Boots', the famous remains are now the - The Times of India",
-          "quoteAuthor": "",
-          "biasTag": "Mainstream National",
-          "sourceDomain": "timesofindia.indiatimes.com",
-          "quote": "",
-          "sourceCredibility": 90,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 340,
-      "category": "Space & Science",
-      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "commentsCount": 48,
+      "publishedAt": "2026-08-20T16:38:46.532766+00:00",
+      "id": "art_52373c4bc5",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Congress-Ruled States To Challenge Mines Law In Top Court: Sources",
+      "commentsCount": 0,
       "isSinglePerspective": false,
-      "sharesCount": 210,
-      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/cropped-Junyue-Cao-cr-Karan-Dias-Social.jpg"
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/dgm5g8vc_lok-sabha-monsoon_625x300_20_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "videoDuration": "02:45",
@@ -563,57 +74,1156 @@
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "The Maharashtra Food and Drug Administration has issued a show-cause notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff for promoting pan masala through an advertisement. The actors have been directed to discontinue their participation in the campaign and remove all promotional content from their social media handles.",
-      "likesCount": 1420,
+      "summary": "- A biker's motorcycle fell into a rainwater-filled pothole near Bengaluru's Gunjur area - A tanker ran over the bike but the man escaped injury by letting go and moving away - The tanker driver fled initially but was stopped; he had no license or number plate A biker had a narrow escape after his.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The rider, identified as Saurabh, who works with Walmart in Bengaluru, was riding through.",
+            "As he lost control, a tanker approaching from behind appeared to fail to notice."
+          ],
+          "stanceTitle": "Video: Bengaluru Rider Almost Run Over By Tanker After Bike Hits Pothole",
+          "type": "viewpoint1",
+          "summary": "- A biker's motorcycle fell into a rainwater-filled pothole near Bengaluru's Gunjur area - A tanker ran over the bike but the man escaped injury by letting go and moving away - The tanker driver fled initially but was stopped; he had no license or number plate A biker had a narrow escape after his.",
+          "id": "p_art_e0b79d448a_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express",
+          "type": "viewpoint2",
+          "summary": "Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express. Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express",
+          "id": "p_art_e0b79d448a_2",
+          "sourceName": "Indian Express",
+          "quoteAuthor": "",
+          "biasTag": "Investigative Journalism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "indianexpress.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:46.379981+00:00",
+      "id": "art_e0b79d448a",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Video: Bengaluru Rider Almost Run Over By Tanker After Bike Hits Pothole",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- Lingamaneni Sanjush, son of an MP, charged for rash driving in Hyderabad fatal crash - Victim Bharathi Mukhi, 26, was crossing the road in Madhapur when hit by the Aston Martin he was driving - The accident occurred on August 16 near Inorbit Mall where Bharathi worked at Lifestyle store After a 26-year-old woman.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Victim Bharathi Mukhi, who worked at the Lifestyle clothing store at Inorbit Mall, died.",
+            "The Cyberabad area police identified Sanjush, 21, whose father is a businessman and MP."
+          ],
+          "stanceTitle": "Rajya Sabha MP's Son Charged As Aston Martin Car Crash Kills Woman In Hyderabad",
+          "type": "viewpoint1",
+          "summary": "- Lingamaneni Sanjush, son of an MP, charged for rash driving in Hyderabad fatal crash - Victim Bharathi Mukhi, 26, was crossing the road in Madhapur when hit by the Aston Martin he was driving - The accident occurred on August 16 near Inorbit Mall where Bharathi worked at Lifestyle store After a 26-year-old woman.",
+          "id": "p_art_7f298b84b5_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today",
+          "type": "viewpoint2",
+          "summary": "AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today. AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today",
+          "id": "p_art_7f298b84b5_2",
+          "sourceName": "Telangana Today",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "telanganatoday.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:46.171102+00:00",
+      "id": "art_7f298b84b5",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Rajya Sabha MP's Son Charged As Aston Martin Car Crash Kills Woman In Hyderabad",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ncaq2vac_hyderabad-aston-martin-accident_650x400_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- The Supreme Court formed a five-member expert panel to probe police force on NEET protesters - The panel is led by ex-judge Justice R Subhash Reddy and includes former judges and officials - The committee will assess police use of force, including pellet guns and tear gas The Supreme Court on Thursday constituted a.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The committee is headed by former top court judge Justice R Subhash Reddy.",
+            "A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana."
+          ],
+          "stanceTitle": "Top Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
+          "type": "viewpoint1",
+          "summary": "- The Supreme Court formed a five-member expert panel to probe police force on NEET protesters - The panel is led by ex-judge Justice R Subhash Reddy and includes former judges and officials - The committee will assess police use of force, including pellet guns and tear gas The Supreme Court on Thursday constituted a.",
+          "id": "p_art_bfdd07c73c_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "The court said the inquiry should not be a \u201cone-time exercise\u201d and suggested the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "SC forms five-member panel to probe NEET protest violence",
+          "type": "viewpoint2",
+          "summary": "SC forms five-member panel to probe NEET protest violence. The court said the inquiry should not be a \u201cone-time exercise\u201d and suggested the panel take up allegations of targeted violence, harassment, and molestation of female protesters on a priority basis",
+          "id": "p_art_bfdd07c73c_2",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:46.043122+00:00",
+      "id": "art_bfdd07c73c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Top Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/19euh6/article71278426.ece/alternates/LANDSCAPE_1200/2026-07-25T122231Z_1350243138_RC2WKMAX6260_RTRMADP_3_INDIA-POLITICS.JPG"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:40.991739+00:00",
+      "id": "art_28488eaa91",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "</p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens,.",
+            "But over the last 24 hours, things have finally begun to turn around.</p> <p."
+          ],
+          "stanceTitle": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
+          "type": "viewpoint1",
+          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
+          "id": "p_art_28488eaa91_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        },
+        {
+          "keyPoints": [
+            "After months of slumber, digital currencies are waking up, with bitcoin and ethereum shooting.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
+          "type": "viewpoint2",
+          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
+          "id": "p_art_28488eaa91_2",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-28575996"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T16:38:48.722879+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Walmart shares tumble as sales growth slows to six-year low. Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+      "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-16T10:39:05.698870+00:00",
-      "id": "art_00d0dd27b9",
+      "publishedAt": "2026-08-20T14:11:40.150125+00:00",
+      "id": "art_63d8da45a9",
+      "title": "Walmart shares tumble as sales growth slows to six-year low",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
       "perspectives": [
         {
           "keyPoints": [
-            "The actors have been directed to discontinue their participation in the campaign and remove.",
+            "Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Maharashtra FDA Issues Show-Cause Notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff",
+          "stanceTitle": "Walmart shares tumble as sales growth slows to six-year low",
           "type": "viewpoint1",
+          "summary": "Walmart shares tumble as sales growth slows to six-year low. Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+          "id": "p_art_63d8da45a9_1",
+          "sourceName": "Financial Times Global",
+          "quoteAuthor": "",
+          "biasTag": "Global Capital & Markets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "ft.com"
+        },
+        {
+          "keyPoints": [
+            "Total revenue rose 5.9% in the second quarter, while operating income lept 28.8%.",
+            "The retailer posted solid sales and profits in the most recent quarter, aided by."
+          ],
+          "stanceTitle": "Walmart Reports Strong Q2 Online Sales, But Store Results Disappoint Analysts",
+          "type": "viewpoint2",
+          "summary": "announced its financial results for the second quarter of fiscal year 2027 and retail analysts were not impressed, despite some impressive metrics. Total revenue rose 5.9% in the second quarter, while operating income lept 28.8%.",
+          "id": "p_art_63d8da45a9_2",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-26125004"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
+      "id": "art_7bca469e57",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
+            "However, India has clarified that the government had nothing to do with the event."
+          ],
+          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+          "type": "viewpoint1",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_b4063176a2_1",
-          "summary": "The Maharashtra Food and Drug Administration has issued a show-cause notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff for promoting pan masala through an advertisement. The actors have been directed to discontinue their participation in the campaign and remove all promotional content from their social media handles.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
+          "type": "viewpoint2",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_2",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "The generation that is most comfortable with AI might surprise you",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
+      "id": "art_23ebb56e01",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
+            "That age group is the only one in which a majority did not say."
+          ],
+          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
+          "type": "viewpoint1",
+          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+          "id": "p_art_23ebb56e01_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        },
+        {
+          "keyPoints": [
+            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
+          "type": "viewpoint2",
+          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
+          "id": "p_art_23ebb56e01_2",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-97655212"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.884445+00:00",
+      "id": "art_fea97f686f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A young girl from Arunachal Pradesh has responded to a comment about her appearance.",
+            "The post was shared by Instagram user Karga Tinkle Gongo."
+          ],
+          "stanceTitle": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+          "type": "viewpoint1",
+          "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+          "id": "p_art_fea97f686f_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        },
+        {
+          "keyPoints": [
+            "In the heartfelt clip, the child reportedly responds to someone who questioned whether she was 'Chinese'.",
+            "She makes it clear that she is Indian and says she feels hurt and."
+          ],
+          "stanceTitle": "\"Hum Bhi India Hain\": Arunachal Girl's Reply To 'Chinese' Remark Melts Hearts",
+          "type": "viewpoint2",
+          "summary": "- A young girl from Itanagar spoke out against being called Chinese due to her looks - She expressed feeling hurt and angry when her Indian nationality was questioned - The video highlighted challenges faced by people from Northeast India with stereotypes A video of a young girl from Itanagar, Arunachal Pradesh, has gone viral.",
+          "id": "p_art_fea97f686f_2",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2lmu7b58_arunachal-girl_625x300_20_August_26.jpeg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.733995+00:00",
+      "id": "art_160f18bf05",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The data covers nine key infrastructure sectors under the revamped Index of Core Industries.",
+            "The new series replaced the earlier 2011-12-based series."
+          ],
+          "stanceTitle": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+          "type": "viewpoint1",
+          "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+          "id": "p_art_160f18bf05_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "The reading marked the second of a new series, which replaces the earlier 2011-12.",
+            "The overall index rose further to 121.2 in July from 120.7 in the previous month."
+          ],
+          "stanceTitle": "Core industries growth slows to 5.4% in July as iron ore, power ease",
+          "type": "viewpoint2",
+          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
+          "id": "p_art_160f18bf05_2",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133376047,width-1200,height-630,imgsize-163742,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T11:38:22.567324+00:00",
+      "id": "art_019eaf729c",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone.",
+            "Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely."
+          ],
+          "stanceTitle": "Consumer Hardware & Apps: iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
+          "type": "viewpoint1",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_cb87477534_1",
+          "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "sourceDomain": "gadgets360.com",
+          "quote": "",
+          "sourceCredibility": 91,
           "fullMarkdownContent": ""
         },
         {
           "keyPoints": [
-            "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh.",
+            "iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat",
+          "stanceTitle": "Journalistic Reporting: iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91",
           "type": "viewpoint2",
-          "sourceName": "LawBeat",
-          "id": "p_art_b4063176a2_2",
-          "summary": "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat. Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat",
+          "sourceName": "91mobiles.com",
+          "id": "p_art_cb87477534_2",
+          "summary": "iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com. iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "lawbeat.in",
+          "sourceDomain": "91mobiles.com",
           "quote": "",
           "sourceCredibility": 92,
           "fullMarkdownContent": ""
         }
       ],
-      "bookmarksCount": 340,
-      "category": "World Affairs",
-      "title": "Maharashtra FDA Issues Show-Cause Notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff",
-      "commentsCount": 48,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
+      "sharesCount": 0,
       "isSinglePerspective": false,
-      "sharesCount": 210,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/q0553l5o_shah-rukh-khan-ajay-devgn-tiger-shroff_625x300_16_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/iqoo-15-rear-gadgets360_1763475278434.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T03:05:12.333005+00:00",
+      "id": "art_006f80f544",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Trending News",
+          "id": "p_art_c0ae20516a_1",
+          "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 93,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "What's The Catalyst - NDTV Profit.",
+            "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip."
+          ],
+          "stanceTitle": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
+          "type": "viewpoint2",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_c0ae20516a_2",
+          "summary": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit. Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/toor59qg_gold_625x300_19_August_26.png"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "K-pop superstar Yeonjun of TOMORROW X TOGETHER (TXT) is having a busy summer. Since the release of his second solo EP, NO LABELS: PART 02, in July, the 26-year-old South Korean artist has been doing extensive promotions in Korea and the U.S.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T15:54:18.152352+00:00",
+      "id": "art_014c34f9be",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Since the release of his second solo EP, NO LABELS: PART 02, in July,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Wealth & Entrepreneurship: Inside Yeonjun\u2019s U.S. Summer \u2018Ice Cream\u2019 Takeover",
+          "type": "viewpoint1",
+          "sourceName": "Forbes Business",
+          "id": "p_art_a02ac8f772_1",
+          "summary": "K-pop superstar Yeonjun of TOMORROW X TOGETHER (TXT) is having a busy summer. Since the release of his second solo EP, NO LABELS: PART 02, in July, the 26-year-old South Korean artist has been doing extensive promotions in Korea and the U.S.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Times",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Time",
+          "type": "viewpoint2",
+          "sourceName": "The Korea Times",
+          "id": "p_art_a02ac8f772_2",
+          "summary": "From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Times. From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "koreatimes.co.kr",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Inside Yeonjun\u2019s U.S. Summer \u2018Ice Cream\u2019 Takeover",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84fdb4cac8140d74e81b5c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions. It would be established under the Sports Development Authority of Tamil Nadu at a cost of \u20b95 crore, says Aadhav Arjuna",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T11:33:35.302017+00:00",
+      "id": "art_0189dd6161",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It would be established under the Sports Development Authority of Tamil Nadu at a.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Public Interest & Editorial: Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu National",
+          "id": "p_art_33c124548f_1",
+          "summary": "Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions. It would be established under the Sports Development Authority of Tamil Nadu at a cost of \u20b95 crore, says Aadhav Arjuna",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure -.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Investigative Journalism: Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure - The N",
+          "type": "viewpoint2",
+          "sourceName": "Indian Express",
+          "id": "p_art_33c124548f_2",
+          "summary": "Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure - The New Indian Express. Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure - The New Indian Express",
+          "quoteAuthor": "",
+          "biasTag": "Investigative Journalism",
+          "sourceDomain": "newindianexpress.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/lxzi61/article71361560.ece/alternates/LANDSCAPE_1200/IMG_TH19AADHAV_2_1_MBG0FH0J.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Improved institutional demand supports the market, but weak spot activity continues to limit momentum. Photo Credit: Unsplash/Shubham Dhage Bitcoin traded near Rs. 61.1 lakh on Wednesday as the cryptocurrency market showed signs of recovery around this level after buyers returned and briefly pushed Bitcoin towards Rs. Ethereum (ETH) was trading near Rs.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Bitcoin Rebounds as $297.6 Million Flows Into US Spot ETFs",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T10:37:17.468565+00:00",
+      "id": "art_02205f3fe9",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Unsplash/Shubham Dhage Bitcoin traded near Rs.",
+            "61.1 lakh on Wednesday as the cryptocurrency market showed signs of recovery around this."
+          ],
+          "stanceTitle": "Consumer Hardware & Apps: Bitcoin Rebounds as $297.6 Million Flows Into US Spot ETFs",
+          "type": "viewpoint1",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_c11e3cf51b_1",
+          "summary": "Improved institutional demand supports the market, but weak spot activity continues to limit momentum. Photo Credit: Unsplash/Shubham Dhage Bitcoin traded near Rs. 61.1 lakh on Wednesday as the cryptocurrency market showed signs of recovery around this level after buyers returned and briefly pushed Bitcoin towards Rs. Ethereum (ETH) was trading near Rs.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "sourceDomain": "gadgets360.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "type": "viewpoint2",
+          "sourceName": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "id": "p_art_c11e3cf51b_2",
+          "summary": "Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774. Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "digitaltoday.co.kr",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/cryptomarkets19082026_shubhamdhage_unsplash_main_1787118179436.png"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T07:50:27.248948+00:00",
+      "id": "art_0022614d3f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
+          "type": "viewpoint1",
+          "sourceName": "Fortune",
+          "id": "p_art_e16f8f482d_1",
+          "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "sourceDomain": "fortune.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+          "type": "viewpoint2",
+          "sourceName": "The Next Web",
+          "id": "p_art_e16f8f482d_2",
+          "summary": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web. Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "thenextweb.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2220872848-e1787082939234.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticke",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T07:50:26.250099+00:00",
+      "id": "art_024d54d5d5",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Trending News: \u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticke",
+          "type": "viewpoint1",
+          "sourceName": "Hindustan Times Trending",
+          "id": "p_art_f671927a31_1",
+          "summary": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "sourceDomain": "hindustantimes.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having An Indian",
+          "type": "viewpoint2",
+          "sourceName": "News18",
+          "id": "p_art_f671927a31_2",
+          "summary": "Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having An Indian Passport I - News18. Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having An Indian Passport I - News18",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "news18.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/Manoj_Ahirwar_1787122615834_1787122628528_11bfd5e1-a7da-46f5-93aa-08d2afe1f7b9.png"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T19:33:35.419088+00:00",
+      "id": "art_00c0315c72",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
+          "type": "viewpoint1",
+          "sourceName": "Forbes Business",
+          "id": "p_art_fdf2a05b3a_1",
+          "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - ",
+          "type": "viewpoint2",
+          "sourceName": "Vinanet",
+          "id": "p_art_fdf2a05b3a_2",
+          "summary": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet. Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "vinanet.vn",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/66a06830498293a95d042a3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T18:50:23.628512+00:00",
+      "id": "art_00b08c0bd2",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_4159bf9062_1",
+          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
+          "type": "viewpoint2",
+          "sourceName": "A News",
+          "id": "p_art_4159bf9062_2",
+          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "anews.com.tr",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/r516jmt4_jeff-bezos_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T16:40:10.775328+00:00",
+      "id": "art_017a8b3df3",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Work Culture & Innovation: The White House wants private companies to hack cybercriminals. What could go wrong?",
+          "type": "viewpoint1",
+          "sourceName": "Fast Company",
+          "id": "p_art_83d7ca483b_1",
+          "summary": "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "sourceDomain": "fastcompany.com",
+          "quote": "",
+          "sourceCredibility": 90,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Trump administration wants to allow companies to hack foreign cybercriminals - NPR",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Trump administration wants to allow companies to hack foreign cybercriminals - NPR",
+          "type": "viewpoint2",
+          "sourceName": "NPR",
+          "id": "p_art_83d7ca483b_2",
+          "summary": "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "npr.org",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "The White House wants private companies to hack cybercriminals. What could go wrong?",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91590550-private-firms-will-now-be-carrying-out-cyberattacks-for-white-house.jpg"
     }
   ]
 }

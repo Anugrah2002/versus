@@ -1,1228 +1,1228 @@
 {
   "page": 1,
-  "total_pages": 6,
-  "total_articles": 110,
+  "total_pages": 7,
+  "total_articles": 138,
   "has_more": true,
   "articles": [
     {
       "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "summary": "Stunning image of a polar bear with an outsized snack wins major award. Roie Galitz's breathtaking shot is one of the winners of the 2026 World Press Photo Contest, praised for its unusual perspective and scale",
       "divergenceScore": 88,
-      "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.636956+00:00",
+      "id": "art_5c8230e5ee",
+      "title": "Stunning image of a polar bear with an outsized snack wins major award",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Roie Galitz's breathtaking shot is one of the winners of the 2026 World Press.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: Stunning image of a polar bear with an outsized snack wins major award",
+          "type": "viewpoint1",
+          "sourceName": "New Scientist",
+          "id": "p_art_5c8230e5ee_1",
+          "summary": "Stunning image of a polar bear with an outsized snack wins major award. Roie Galitz's breathtaking shot is one of the winners of the 2026 World Press Photo Contest, praised for its unusual perspective and scale",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Striking image of an orange-tailed damselfly peering through leaf wins photography competition - BBC.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Striking image of an orange-tailed damselfly peering through leaf wins photography competition -",
+          "type": "viewpoint2",
+          "sourceName": "BBC Wildlife Magazine",
+          "id": "p_art_5c8230e5ee_2",
+          "summary": "Striking image of an orange-tailed damselfly peering through leaf wins photography competition - BBC Wildlife Magazine. Striking image of an orange-tailed damselfly peering through leaf wins photography competition - BBC Wildlife Magazine",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "discoverwildlife.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307517761.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas. NCT 127 are coming to a theater near you on Sunday, September 20. Tickets for NCT 127 5TH TOUR \u2018NEO CITY : SEOUL -THE REDLINE\u2019 in CINEMAS go on sale Thursday, August 27.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.626508+00:00",
+      "id": "art_05c05709dd",
+      "title": "NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "NCT 127 are coming to a theater near you on Sunday, September 20.",
+            "Tickets for NCT 127 5TH TOUR \u2018NEO CITY : SEOUL -THE REDLINE\u2019 in CINEMAS go on sale Thursday, August 27."
+          ],
+          "stanceTitle": "Wealth & Entrepreneurship: NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas",
+          "type": "viewpoint1",
+          "sourceName": "Forbes Business",
+          "id": "p_art_05c05709dd_1",
+          "summary": "NCT 127 Brings Their 5TH TOUR \u2018NEO CITY: SEOUL THE REDLINE\u2019 To Cinemas. NCT 127 are coming to a theater near you on Sunday, September 20. Tickets for NCT 127 5TH TOUR \u2018NEO CITY : SEOUL -THE REDLINE\u2019 in CINEMAS go on sale Thursday, August 27.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard",
+          "type": "viewpoint2",
+          "sourceName": "Billboard",
+          "id": "p_art_05c05709dd_2",
+          "summary": "NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard. NCT 127 Bringing 5th Tour 'NEO CITY : SEOUL - THE REDLINE' To Theaters - Billboard",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "billboard.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one. Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild house mice (Mus musculus) collected from farms in Germany.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.620152+00:00",
+      "id": "art_02fad11179",
+      "title": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild.",
+            "They searched for genes responsible for resistance to common antibiotics and correlated the presence."
+          ],
+          "stanceTitle": "Physics & Applied Tech: Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one",
+          "type": "viewpoint1",
+          "sourceName": "Phys.org",
+          "id": "p_art_02fad11179_1",
+          "summary": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one. Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild house mice (Mus musculus) collected from farms in Germany.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "New research reveals wild mice as reservoirs for antibiotic resistance - News-Medical",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: New research reveals wild mice as reservoirs for antibiotic resistance - News-Medical",
+          "type": "viewpoint2",
+          "sourceName": "News-Medical",
+          "id": "p_art_02fad11179_2",
+          "summary": "Farm mice study shows antibiotic resistance is an environmental problem, not just a medical one. Scientists analyzed the genomes of gut microorganisms from an extensive population of 875 wild house mice (Mus musculus) collected from farms in Germany.",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "news-medical.net",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-on-farm-mice.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Will personalised mRNA vaccines transform cancer treatments?. A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.612696+00:00",
+      "id": "art_7140b8d670",
+      "title": "Will personalised mRNA vaccines transform cancer treatments?",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: Will personalised mRNA vaccines transform cancer treatments?",
+          "type": "viewpoint1",
+          "sourceName": "New Scientist",
+          "id": "p_art_7140b8d670_1",
+          "summary": "Will personalised mRNA vaccines transform cancer treatments?. A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Firstpost",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Fi",
+          "type": "viewpoint2",
+          "sourceName": "Firstpost",
+          "id": "p_art_7140b8d670_2",
+          "summary": "Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Firstpost. Your tumour, your vaccine: How Moderna and Merck mRNA therapy could change cancer treatment - Firstpost",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "firstpost.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work. AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.606000+00:00",
+      "id": "art_90db572636",
+      "title": "AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "AI companies have begun embedding watermarks in the output of their models to improve.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Science Exploration: AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work",
+          "type": "viewpoint1",
+          "sourceName": "New Scientist",
+          "id": "p_art_90db572636_1",
+          "summary": "AI firms are watermarking generated text \u2013 here\u2019s why it won\u2019t work. AI companies have begun embedding watermarks in the output of their models to improve transparency and help crack down on misinformation, disinformation and cheating on homework, but there are limitations to this approach",
+          "quoteAuthor": "",
+          "biasTag": "Science Exploration",
+          "sourceDomain": "newscientist.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon",
+          "type": "viewpoint2",
+          "sourceName": "HackerNoon",
+          "id": "p_art_90db572636_2",
+          "summary": "The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon. The Data Purity Myth: Why Next-Gen AI Needs to Read AI-Generated Text - HackerNoon",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "hackernoon.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308808886.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Chinese court sentences founder of troubled property developer Evergrande to life in prison. The Shenzhen Intermediate People's Court convicted Hui, 67, and Evergrande of engaging in large-scale financial fraud in inflating the group's assets and concealing its liabilities",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.598706+00:00",
+      "id": "art_7bb09274ac",
+      "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Shenzhen Intermediate People's Court convicted Hui, 67, and Evergrande of engaging in large-scale.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Institutional Diplomacy: Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu World",
+          "id": "p_art_7bb09274ac_1",
+          "summary": "Chinese court sentences founder of troubled property developer Evergrande to life in prison. The Shenzhen Intermediate People's Court convicted Hui, 67, and Evergrande of engaging in large-scale financial fraud in inflating the group's assets and concealing its liabilities",
+          "quoteAuthor": "",
+          "biasTag": "Institutional Diplomacy",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Legal & Regulatory Action: Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
+          "type": "viewpoint2",
+          "sourceName": "NPR",
+          "id": "p_art_7bb09274ac_2",
+          "summary": "Chinese court sentences founder of property developer Evergrande to life in prison - NPR. Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
+          "quoteAuthor": "",
+          "biasTag": "Critical Scrutiny",
+          "sourceDomain": "npr.org",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9msoke/article71370627.ece/alternates/LANDSCAPE_1200/2026-08-20T110048Z_1345718807_RC2A2NAOX63H_RTRMADP_3_CHINA-PROPERTY-DEBT-EVERGRANDE.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Women compete just as hard as men for top jobs and can win them more often, auction-style study suggests. New behavioral economics research on gender and competition, using bidding experiments, finds no overall gender gap in competitiveness; where a gap does appear, it is women who push hardest for the highest positions.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.589458+00:00",
+      "id": "art_a5f0dab42c",
+      "title": "Women compete just as hard as men for top jobs and can win them more often, auction-style study",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "New behavioral economics research on gender and competition, using bidding experiments, finds no overall.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Physics & Applied Tech: Women compete just as hard as men for top jobs and can win them more often, auction-style study ",
+          "type": "viewpoint1",
+          "sourceName": "Phys.org",
+          "id": "p_art_a5f0dab42c_1",
+          "summary": "Women compete just as hard as men for top jobs and can win them more often, auction-style study suggests. New behavioral economics research on gender and competition, using bidding experiments, finds no overall gender gap in competitiveness; where a gap does appear, it is women who push hardest for the highest positions.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Women compete just as hard as men for top jobs, and win them more often, new research finds - xjtlu.edu.cn",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Women compete just as hard as men for top jobs, and win them more often, new research finds - xj",
+          "type": "viewpoint2",
+          "sourceName": "xjtlu.edu.cn",
+          "id": "p_art_a5f0dab42c_2",
+          "summary": "Women compete just as hard as men for top jobs, and win them more often, new research finds - xjtlu.edu.cn. Women compete just as hard as men for top jobs, and win them more often, new research finds - xjtlu.edu.cn",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "xjtlu.edu.cn",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/female-employee.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha. The two countries are yet to hold the last round of talks on the renewal of the treaty that will expire on December 31, 2026",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T17:03:27.578551+00:00",
+      "id": "art_e9624e5006",
+      "title": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The two countries are yet to hold the last round of talks on the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Public Interest & Editorial: India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu National",
+          "id": "p_art_e9624e5006_1",
+          "summary": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha. The two countries are yet to hold the last round of talks on the renewal of the treaty that will expire on December 31, 2026",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Let Ganga Water Treaty Lapse: JD(U) MP - Deccan Chronicle",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Let Ganga Water Treaty Lapse: JD(U) MP - Deccan Chronicle",
+          "type": "viewpoint2",
+          "sourceName": "Deccan Chronicle",
+          "id": "p_art_e9624e5006_2",
+          "summary": "India-Bangladesh Ganga Water Treaty not in Bihar\u2019s interests, says JD(U)\u2019s Sanjay Jha. The two countries are yet to hold the last round of talks on the renewal of the treaty that will expire on December 31, 2026",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "deccanchronicle.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/s5jen0/article71370615.ece/alternates/LANDSCAPE_1200/20260730431L.jpg"
+    },
+    {
+      "tags": [
+        "Automotive & Energy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's doing its best to disrupt America's $1 billion golf cart industry. - The tiny Fiat Topolino isn't technically a car at all.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of.",
-            "The Indian won the second game 21-15 after losing the first game 11-21."
+            "Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's.",
+            "- The tiny Fiat Topolino isn't technically a car at all."
           ],
-          "stanceTitle": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
+          "stanceTitle": "EV Technology & Battery: The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
           "type": "viewpoint1",
-          "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match at the BWF Badminton World Championships. The Indian won the second game 21-15 after losing the first game 11-21.",
-          "id": "p_art_3dc0445dd0_1",
-          "sourceName": "NDTV Trending News",
+          "summary": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's doing its best to disrupt America's $1 billion golf cart industry. - The tiny Fiat Topolino isn't technically a car at all.",
+          "id": "p_art_fb00001b36_1",
+          "sourceName": "InsideEVs",
           "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
+          "biasTag": "EV Technology & Battery",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "insideevs.com"
         },
         {
           "keyPoints": [
-            "Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
+            "Fiat Topolino Is The Tiny EV Golf Courses Suddenly Want - Motor1.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals",
+          "stanceTitle": "Journalistic Reporting: Fiat Topolino Is The Tiny EV Golf Courses Suddenly Want - Motor1.com",
           "type": "viewpoint2",
-          "summary": "Disappointment For India As PV Sindhu, Ayush Shetty Crash Out In World Championships Pre-Quarterfinals. Two-time Olympic medallist PV Sindhu lost a gruelling match 11-21 21-15 17-21 to China's Wang Zhi Yi.",
-          "id": "p_art_3dc0445dd0_2",
-          "sourceName": "NDTV Profit",
+          "summary": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market Fiat's \"little mouse\" is more golf cart than car, and it's doing its best to disrupt America's $1 billion golf cart industry. - The tiny Fiat Topolino isn't technically a car at all.",
+          "id": "p_art_fb00001b36_2",
+          "sourceName": "Motor1.com",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
+          "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceDomain": "motor1.com"
         }
       ],
       "readTimeMinutes": 2,
-      "videoUrl": "",
+      "title": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:50.359994+00:00",
-      "id": "art_3dc0445dd0",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T16:52:55.502402+00:00",
+      "id": "art_fb00001b36",
+      "videoUrl": "",
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Badminton WC Live: Sindhu Knocked Out, Satwiksairaj/Chirag Match On",
+      "category": "Automotive & Energy",
+      "isLiked": false,
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/5sc2v9p8_pv-sindhu_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "The American Middle East is finished. The regional order that has prevailed since 1991 has been one of the many casualties of the U.S.-Israeli war with Iran. The American and Israeli failure to dislodge the regime in Tehran has proved the bankruptcy of decades of sanctions and violence.",
       "divergenceScore": 88,
-      "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "- PTI - Updated: August 20, 2026 05:25 pm IST - India mixed disability.",
-            "Riding on Arjun Gawre's 68 off 44 balls and captain Majid Magray's unbeaten 63."
+            "The regional order that has prevailed since 1991 has been one of the many.",
+            "The American and Israeli failure to dislodge the regime in Tehran has proved the."
           ],
-          "stanceTitle": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
+          "stanceTitle": "Global Order & Statecraft: The End of the American Middle East",
           "type": "viewpoint1",
-          "summary": "24 Years Later, Sourav Ganguly's Lord's Moment Returns, Courtesy Of Indian Mixed Disability Team The Indian mixed disability cricket team defeated England by 118 runs in the seventh and final T20I here and celebrated the consolation win by recreating Sourav Ganguly's iconic shirt-waving celebration at the Lord's balcony.",
-          "id": "p_art_856301bbee_1",
-          "sourceName": "NDTV Trending News",
+          "summary": "The American Middle East is finished. The regional order that has prevailed since 1991 has been one of the many casualties of the U.S.-Israeli war with Iran. The American and Israeli failure to dislodge the regime in Tehran has proved the bankruptcy of decades of sanctions and violence.",
+          "id": "p_art_6d0b8c8fb1_1",
+          "sourceName": "Foreign Affairs",
           "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
+          "biasTag": "Global Order & Statecraft",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 97,
+          "sourceDomain": "foreignaffairs.com"
         },
         {
           "keyPoints": [
-            "India needed to avoid defeat to seal a place in the second round of the Hockey World Cup.",
-            "They did the job with much struggle."
+            "The end of the American way of war?",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Hockey WC Live: Goals Disallowed, India Survive Scare vs England To Advance",
+          "stanceTitle": "Journalistic Reporting: The end of the American way of war? - Brookings",
           "type": "viewpoint2",
-          "summary": "India vs England Highlights, Women's Hockey World Cup 2026: Indian defended with their lives to thwart the English attack and eked out a 0-0 draw in their final Pool D match of the FIH Women's Hockey World Cup 2026 in Amstelveen, Netherlands.",
-          "id": "p_art_856301bbee_2",
-          "sourceName": "NDTV Trending News",
+          "summary": "The American Middle East is finished. The regional order that has prevailed since 1991 has been one of the many casualties of the U.S.-Israeli war with Iran. The American and Israeli failure to dislodge the regime in Tehran has proved the bankruptcy of decades of sanctions and violence.",
+          "id": "p_art_6d0b8c8fb1_2",
+          "sourceName": "Brookings",
           "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
+          "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "brookings.edu"
         }
       ],
       "readTimeMinutes": 2,
-      "videoUrl": "",
+      "title": "The End of the American Middle East",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.714701+00:00",
-      "id": "art_856301bbee",
-      "isLiked": false,
+      "publishedAt": "2026-08-20T16:52:55.159646+00:00",
+      "id": "art_6d0b8c8fb1",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "title": "24 Years Later, Ganguly's Lord's Moment Returns, Courtesy Of Team India",
+      "isLiked": false,
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/l8uh4q38_sourav-ganguly_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/06/1_FA-lynch-essay-map_crop.jpg?itok=UKIBf6cA"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "When people think about the risks of mixing AI and armed forces, their thoughts often drift to one famous film franchise: The Terminator. American scientists invent a superintelligent computer system, called Skynet. The Department of Defense then integrates it into the military and embodies its intelligence into lethal robots.",
       "divergenceScore": 88,
-      "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
+      "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The deportees arrived at the Roberts international airport outside Monrovia.",
-            "The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s."
+            "American scientists invent a superintelligent computer system, called Skynet.",
+            "The Department of Defense then integrates it into the military and embodies its intelligence."
           ],
-          "stanceTitle": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+          "stanceTitle": "Global Order & Statecraft: How AI Could Hollow Out the U.S. Military",
           "type": "viewpoint1",
-          "summary": "The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration\u2019s crackdown on immigration.",
-          "id": "p_art_1eaa4f58ca_1",
+          "summary": "When people think about the risks of mixing AI and armed forces, their thoughts often drift to one famous film franchise: The Terminator. American scientists invent a superintelligent computer system, called Skynet. The Department of Defense then integrates it into the military and embodies its intelligence into lethal robots.",
+          "id": "p_art_36a9caf232_1",
+          "sourceName": "Foreign Affairs",
+          "quoteAuthor": "",
+          "biasTag": "Global Order & Statecraft",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 97,
+          "sourceDomain": "foreignaffairs.com"
+        },
+        {
+          "keyPoints": [
+            "Did Striking Iran Restore or Hollow Out U.S Global Leadership - Modern Diplomacy",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Did Striking Iran Restore or Hollow Out U.S Global Leadership - Modern Diplomacy",
+          "type": "viewpoint2",
+          "summary": "Did Striking Iran Restore or Hollow Out U.S Global Leadership - Modern Diplomacy. Did Striking Iran Restore or Hollow Out U.S Global Leadership - Modern Diplomacy",
+          "id": "p_art_36a9caf232_2",
+          "sourceName": "Modern Diplomacy",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "moderndiplomacy.eu"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "How AI Could Hollow Out the U.S. Military",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:52:54.914679+00:00",
+      "id": "art_36a9caf232",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/08/17/22026-06-28T194807Z_1719337274_RC253MAL1AWJ_RTRMADP_3_USA-250-FAIR.jpg?itok=IgRX3Rrb"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?. Wall Street is hoping that John Ternus will shift Apple\u2019s AI strategy by spending more, pursuing larger mergers and doubling down on innovation.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Can its next CEO bring back the element of surprise?.",
+            "Wall Street is hoping that John Ternus will shift Apple\u2019s AI strategy by spending."
+          ],
+          "stanceTitle": "Market Analysis: Apple has gotten too predictable. Can its next CEO bring back the element of surprise?",
+          "type": "viewpoint1",
+          "summary": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?. Wall Street is hoping that John Ternus will shift Apple\u2019s AI strategy by spending more, pursuing larger mergers and doubling down on innovation.",
+          "id": "p_art_3ec5321599_1",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        },
+        {
+          "keyPoints": [
+            "Here's What It Means for Investors.",
+            "Nvidia Stock Could Become the Next Apple."
+          ],
+          "stanceTitle": "Journalistic Reporting: Nvidia Stock Could Become the Next Apple. Here's What It Means for Investors. - The Motley Fool",
+          "type": "viewpoint2",
+          "summary": "Nvidia Stock Could Become the Next Apple. Here's What It Means for Investors. Nvidia Stock Could Become the Next Apple. Here's What It Means for Investors.",
+          "id": "p_art_3ec5321599_2",
+          "sourceName": "The Motley Fool",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fool.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:52:54.754385+00:00",
+      "id": "art_3ec5321599",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-44495712"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "\u2018Cleaner and safer\u2019: Foreign tourists praise Delhi Metro over Western underground systems Two travel creators shared what impressed them about the Delhi Metro, from security checks to women-only coaches. Two foreign travellers have shared their experience of using the Delhi Metro, praising its cleanliness, security and facilities for women.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Two foreign travellers have shared their experience of using the Delhi Metro, praising its.",
+            "They compared the network with underground transport systems in Western cities and said they."
+          ],
+          "stanceTitle": "Trending News: \u2018Cleaner and safer\u2019: Foreign tourists praise Delhi Metro over Western underground systems",
+          "type": "viewpoint1",
+          "summary": "\u2018Cleaner and safer\u2019: Foreign tourists praise Delhi Metro over Western underground systems Two travel creators shared what impressed them about the Delhi Metro, from security checks to women-only coaches. Two foreign travellers have shared their experience of using the Delhi Metro, praising its cleanliness, security and facilities for women.",
+          "id": "p_art_d9bc5235b4_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "sourceDomain": "hindustantimes.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Female Foreign Tourists Praise Delhi Metro, Call It 'Cleaner And Safer Than London Underground' - NDTV",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "National Headlines: Female Foreign Tourists Praise Delhi Metro, Call It 'Cleaner And Safer Than London Underground' - ND",
+          "type": "viewpoint2",
+          "summary": "Female Foreign Tourists Praise Delhi Metro, Call It 'Cleaner And Safer Than London Underground' - NDTV. Female Foreign Tourists Praise Delhi Metro, Call It 'Cleaner And Safer Than London Underground' - NDTV",
+          "id": "p_art_d9bc5235b4_2",
+          "sourceName": "NDTV",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 93,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:47:53.187208+00:00",
+      "id": "art_d9bc5235b4",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "\u2018Cleaner and safer\u2019: Foreign tourists praise Delhi Metro over Western underground systems",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The landslide happened on Tuesday afternoon in the village of Zamboye, about 50km (31.",
+            "Footage on social media appeared to show an avalanche of sand descend on a."
+          ],
+          "stanceTitle": "Progressive International: More than 100 dead after goldmine collapses in Central African Republic",
+          "type": "viewpoint1",
+          "summary": "More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.",
+          "id": "p_art_70120f5e10_1",
           "sourceName": "The Guardian World",
           "quoteAuthor": "",
           "biasTag": "Progressive International",
-          "fullMarkdownContent": "",
+          "sourceDomain": "theguardian.com",
           "quote": "",
           "sourceCredibility": 94,
-          "sourceDomain": "theguardian.com"
+          "fullMarkdownContent": ""
         },
         {
           "keyPoints": [
-            "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+            "Central African Republic Gold Mine Collapse Kills 100+ - Frontline Magazine",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
+          "stanceTitle": "Independent National: Central African Republic Gold Mine Collapse Kills 100+ - Frontline Magazine",
           "type": "viewpoint2",
-          "summary": "Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS. Liberia has agreed to accept up to 1,200 people deported from the United States - UA.NEWS",
-          "id": "p_art_1eaa4f58ca_2",
-          "sourceName": "UA.NEWS",
+          "summary": "More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.",
+          "id": "p_art_70120f5e10_2",
+          "sourceName": "The Hindu",
           "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
+          "biasTag": "Independent National",
+          "sourceDomain": "frontline.thehindu.com",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ua.news"
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.679951+00:00",
-      "id": "art_1eaa4f58ca",
+      "publishedAt": "2026-08-20T16:47:52.844421+00:00",
+      "id": "art_70120f5e10",
       "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "title": "More than 100 dead after goldmine collapses in Central African Republic",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f25a8263193c86b4c6189eb9188aee52"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
+      "summary": "Indian techie on H-1B visa plans to return to India after layoff and endless job search: \u2018I\u2019ve decided to call it quits' Despite the setbacks, the H-1B holder said that he had not lost hope and believed that things could work out better for him in India.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Bangkok said the talks focused on ways to enhance security cooperation on the nations'.",
-            "Key analytical takeaway and operational overview."
+            "An Indian H-1B visa holder has decided to return to India after being laid.",
+            "In a Reddit post titled 'Returning after layoff."
           ],
-          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
+          "stanceTitle": "Trending News: Indian techie on H-1B visa plans to return to India after layoff and endless job search: \u2018I\u2019ve decided to",
           "type": "viewpoint1",
-          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
-          "id": "p_art_964f8e40a5_1",
-          "sourceName": "The Hindu World",
+          "summary": "Indian techie on H-1B visa plans to return to India after layoff and endless job search: \u2018I\u2019ve decided to call it quits' Despite the setbacks, the H-1B holder said that he had not lost hope and believed that things could work out better for him in India.",
+          "id": "p_art_c49867fed7_1",
+          "sourceName": "Hindustan Times Trending",
           "quoteAuthor": "",
-          "biasTag": "Institutional Diplomacy",
-          "fullMarkdownContent": "",
+          "biasTag": "Trending News",
+          "sourceDomain": "hindustantimes.com",
           "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
         },
         {
           "keyPoints": [
-            "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
+            "US President Trump\u2019s H-1B visa crackdown is starting to drive tech talent back to.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Thai, Myanmar military chiefs meet as post-coup thaw progresses - ucanews.com",
+          "stanceTitle": "Journalistic Reporting: US President Trump\u2019s H-1B visa crackdown is starting to drive tech talent back to India, China -",
           "type": "viewpoint2",
-          "summary": "Thai, Myanmar military chiefs meet as post-coup thaw progresses. Bangkok said the talks focused on ways to enhance security cooperation on the nations' 2,400-kilometre (1,500-mile) border, where the war in Myanmar has seeded instability",
-          "id": "p_art_964f8e40a5_2",
-          "sourceName": "ucanews.com",
+          "summary": "US President Trump\u2019s H-1B visa crackdown is starting to drive tech talent back to India, China - Asia News Network. US President Trump\u2019s H-1B visa crackdown is starting to drive tech talent back to India, China - Asia News Network",
+          "id": "p_art_c49867fed7_2",
+          "sourceName": "Asia News Network",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
+          "sourceDomain": "asianews.network",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "ucanews.com"
+          "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.678022+00:00",
-      "id": "art_964f8e40a5",
+      "publishedAt": "2026-08-20T16:47:52.818304+00:00",
+      "id": "art_c49867fed7",
       "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
+      "title": "Indian techie on H-1B visa plans to return to India after layoff and endless job search: \u2018I\u2019ve ",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/nyya9t/article71370502.ece/alternates/LANDSCAPE_1200/AFP_C63C9KB.jpg"
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Office_1759815626634_1759815626793_1787243189044_3c0fc071-b043-4757-95b9-b2c91a99863f.png"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "Space & Science",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
+      "summary": "Romania destroys drone near offshore gas project, blames Russia. In the latest incident, the drone that was destroyed was \"loaded with explosives\" and did not originate from Ukraine, Defence Minister Radu Miruta said on Facebook",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-            "Many lines of research align with the theory that aging is a direct result."
+            "In the latest incident, the drone that was destroyed was \"loaded with explosives\" and.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Why Aging May Be a Program, Not a Breakdown",
+          "stanceTitle": "Institutional Diplomacy: Romania destroys drone near offshore gas project, blames Russia",
           "type": "viewpoint1",
-          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-          "id": "p_art_d1f8cf7c6f_1",
-          "sourceName": "Quanta Magazine",
+          "summary": "Romania destroys drone near offshore gas project, blames Russia. In the latest incident, the drone that was destroyed was \"loaded with explosives\" and did not originate from Ukraine, Defence Minister Radu Miruta said on Facebook",
+          "id": "p_art_92e703d83f_1",
+          "sourceName": "The Hindu World",
           "quoteAuthor": "",
-          "biasTag": "Mathematics & Fundamental Physics",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 98,
-          "sourceDomain": "quantamagazine.org"
-        },
-        {
-          "keyPoints": [
-            "Mental health of older adults - World Health Organization (WHO)",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Mental health of older adults - World Health Organization (WHO)",
-          "type": "viewpoint2",
-          "summary": "Why Aging May Be a Program, Not a Breakdown Introduction In some ways, we know aging when we see it, from the graying of hair to the wrinkling of skin to declines in motor, sensory, and cognitive capacities. Yet the underlying biology of aging remains a matter of uncertainty and debate.",
-          "id": "p_art_d1f8cf7c6f_2",
-          "sourceName": "World Health Organization (WHO)",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "who.int"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.664575+00:00",
-      "id": "art_d1f8cf7c6f",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Why Aging May Be a Program, Not a Breakdown",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/08/cropped-Junyue-Cao-cr-Karan-Dias-Social.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Global sand dunes map reveals clues to distant worlds, including Mars. A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new study from Monash University has delivered the most complete and accurate digital.",
-            "The research, published in Nature Communications, answers long-standing questions about why dunes form where."
-          ],
-          "stanceTitle": "Global sand dunes map reveals clues to distant worlds, including Mars",
-          "type": "viewpoint1",
-          "summary": "Global sand dunes map reveals clues to distant worlds, including Mars. A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date.",
-          "id": "p_art_34c62082d7_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
-          "type": "viewpoint2",
-          "summary": "World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune. World-first global sand dunes map reveals clues to distant worlds, including Mars - The National Tribune",
-          "id": "p_art_34c62082d7_2",
-          "sourceName": "The National Tribune",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "nationaltribune.com.au"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.652351+00:00",
-      "id": "art_34c62082d7",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Global sand dunes map reveals clues to distant worlds, including Mars",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/world-first-global-san-1.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Welcome back to our series on interstellar travel!",
-            "In our first installment, we examined attempts to realize nuclear propulsion and how the."
-          ],
-          "stanceTitle": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
-          "type": "viewpoint1",
-          "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
-          "id": "p_art_0909d3d8bd_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails - Universe Today",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails - Universe Today",
-          "type": "viewpoint2",
-          "summary": "Interstellar travel IV: Solar, magnetic, & directed-energy sails. Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star.",
-          "id": "p_art_0909d3d8bd_2",
-          "sourceName": "Universe Today",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "universetoday.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.618266+00:00",
-      "id": "art_0909d3d8bd",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/interstellar-travel-iv.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize. When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "When people shop for a home, they tend to focus on the information listings.",
-            "Rarely do listings show how a home can shape a household's carbon footprint through energy use and commuting."
-          ],
-          "stanceTitle": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
-          "type": "viewpoint1",
-          "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize. When people shop for a home, they tend to focus on the information listings put front and center: price, floor area, number of bedrooms and location.",
-          "id": "p_art_e71025bbfe_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
-          "type": "viewpoint2",
-          "summary": "Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation. Homebuyers are choosing homes with much higher carbon footprints than they realize - The Conversation",
-          "id": "p_art_e71025bbfe_2",
-          "sourceName": "The Conversation",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "theconversation.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.593699+00:00",
-      "id": "art_e71025bbfe",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/homebuyers-are-choosin.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires. Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Firefighters have been battling a vast wildfire in the hills above Blaenavon in south.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires",
-          "type": "viewpoint1",
-          "summary": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires. Firefighters have been battling a vast wildfire in the hills above Blaenavon in south Wales, spreading across more than 4,000 hectares (9,900 acres), for three weeks.",
-          "id": "p_art_554a6a08e1_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
-          "type": "viewpoint2",
-          "summary": "Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation. Over 75% of UK wetlands have been destroyed \u2013 restoring them would help prevent wildfires - The Conversation",
-          "id": "p_art_554a6a08e1_2",
-          "sourceName": "The Conversation",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "theconversation.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.584333+00:00",
-      "id": "art_554a6a08e1",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Over 75% of UK wetlands have been destroyed\u2014restoring them would help prevent wildfires",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2020/wildfire.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban. Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022, nearly 250,000 public comments flooded in\u2014a record response that led the Biden administration to delay a final decision.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban",
-          "type": "viewpoint1",
-          "summary": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban. Food and Drug Administration (FDA) proposed banning menthol cigarettes and flavored cigars in 2022, nearly 250,000 public comments flooded in\u2014a record response that led the Biden administration to delay a final decision.",
-          "id": "p_art_1b6bc5165e_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au",
-          "type": "viewpoint2",
-          "summary": "\u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au. \u2018We handed over billions to organised crime\u2019: How official neglect and incompetence fuelled the tobacco war - SMH.com.au",
-          "id": "p_art_1b6bc5165e_2",
-          "sourceName": "SMH.com.au",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "smh.com.au"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.574063+00:00",
-      "id": "art_1b6bc5165e",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Tobacco companies helped flood the federal comment process that stalled menthol cigarette ban",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/menthol-cigarette-ban.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The first wave of bird flu is the worst: What can Australia learn from overseas?. Hundreds of dead birds are now being reported as the lethal H5N1 strain of bird flu begins to spread across Australia. Government reports show the virus is circulating in resident birds.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Hundreds of dead birds are now being reported as the lethal H5N1 strain of.",
-            "Government reports show the virus is circulating in resident birds."
-          ],
-          "stanceTitle": "The first wave of bird flu is the worst: What can Australia learn from overseas?",
-          "type": "viewpoint1",
-          "summary": "The first wave of bird flu is the worst: What can Australia learn from overseas?. Hundreds of dead birds are now being reported as the lethal H5N1 strain of bird flu begins to spread across Australia. Government reports show the virus is circulating in resident birds.",
-          "id": "p_art_039d73983c_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
-          "type": "viewpoint2",
-          "summary": "The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation. The first wave of bird flu is the worst: what Australia can learn from overseas - The Conversation",
-          "id": "p_art_039d73983c_2",
-          "sourceName": "The Conversation",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "theconversation.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.567918+00:00",
-      "id": "art_039d73983c",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "The first wave of bird flu is the worst: What can Australia learn from overseas?",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-sea-bird.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new Northwestern Medicine study has uncovered key molecular design principles that could help.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Designing supramolecular therapies to cross the blood-brain barrier",
-          "type": "viewpoint1",
-          "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
-          "id": "p_art_ec25cdc688_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Novel Stem Cell Platform Improves Study of Endometriosis - EIN News",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Novel Stem Cell Platform Improves Study of Endometriosis - EIN News",
-          "type": "viewpoint2",
-          "summary": "Designing supramolecular therapies to cross the blood-brain barrier. A new Northwestern Medicine study has uncovered key molecular design principles that could help supramolecular therapeutics cross the blood-brain barrier, a major challenge for this novel approach to treating neurological disorders.",
-          "id": "p_art_ec25cdc688_2",
-          "sourceName": "EIN News",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "einnews.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.562629+00:00",
-      "id": "art_ec25cdc688",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Designing supramolecular therapies to cross the blood-brain barrier",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/human-brain.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed.",
-            "These wounds, which may persist for months or even years, affect about 1% to."
-          ],
-          "stanceTitle": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
-          "type": "viewpoint1",
-          "summary": "Nanoparticle combines two strategies to speed up the healing of chronic wounds. Researchers at the University of S\u00e3o Paulo (USP) in Ribeir\u00e3o Preto, Brazil, have developed a nanoparticle that can address the various factors hindering the healing of chronic wounds, which include ulcers associated with diabetes and pressure ulcers common among bedridden individuals.",
-          "id": "p_art_b85323c844_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential -",
-          "type": "viewpoint2",
-          "summary": "Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers. Combining exercise and nanoparticle-based therapies: a review of physiological synergies and pharmacological potential - Frontiers",
-          "id": "p_art_b85323c844_2",
-          "sourceName": "Frontiers",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "frontiersin.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.522851+00:00",
-      "id": "art_b85323c844",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Nanoparticle combines two strategies to speed up the healing of chronic wounds",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/wound-dressing.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The candela, the international unit of light in use for almost a century, forms the basis of photometry.",
-            "According to a new study, measurements derived from it systematically misjudge the brightness of."
-          ],
-          "stanceTitle": "Illuminating the limits of the international unit of light, the candela",
-          "type": "viewpoint1",
-          "summary": "Illuminating the limits of the international unit of light, the candela. The candela, the international unit of light in use for almost a century, forms the basis of photometry. According to a new study, measurements derived from it systematically misjudge the brightness of colored light sources and depart markedly from human perception.",
-          "id": "p_art_bbf104e9ed_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Ligh",
-          "type": "viewpoint2",
-          "summary": "Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com. Vadzo Imaging Positions the IMX715 GigE Camera for Outdoor Vision: Innova-715CRS Delivers ONVIF-Compliant Ultra-Low Light and PTZ Long Range Capability - Newswire.com",
-          "id": "p_art_bbf104e9ed_2",
-          "sourceName": "Newswire.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "newswire.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.487241+00:00",
-      "id": "art_bbf104e9ed",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Illuminating the limits of the international unit of light, the candela",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-the-brightne.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium.",
-            "Understanding selenium metabolism relies on accurately detecting and identifying selenosugars."
-          ],
-          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism",
-          "type": "viewpoint1",
-          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
-          "id": "p_art_d9dc0b6bf0_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "International review standardizes selenosugar nomenclature and selenium metabolism - EurekAlert!",
-          "type": "viewpoint2",
-          "summary": "International review standardizes selenosugar nomenclature and selenium metabolism. Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars.",
-          "id": "p_art_d9dc0b6bf0_2",
-          "sourceName": "EurekAlert!",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "eurekalert.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.485581+00:00",
-      "id": "art_d9dc0b6bf0",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "International review standardizes selenosugar nomenclature and selenium metabolism",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-review-s.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The most prominent difference between human male and female skeletons is the pelvis, which.",
-            "Scientists have long believed the human pelvis evolved mainly as a compromise between walking."
-          ],
-          "stanceTitle": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
-          "type": "viewpoint1",
-          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
-          "id": "p_art_beb82278a6_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Israeli-Spanish study challenges long-held view of human pelvis evolution - JNS.org",
-          "type": "viewpoint2",
-          "summary": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking. The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains.",
-          "id": "p_art_beb82278a6_2",
-          "sourceName": "JNS.org",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "jns.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.482136+00:00",
-      "id": "art_beb82278a6",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and biped",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/neanderthal-reconstruc.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Accurately determining fish body size and weight is essential for fisheries resource management and.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
-          "type": "viewpoint1",
-          "summary": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna. Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
-          "id": "p_art_53d85cadb4_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
-          "type": "viewpoint2",
-          "summary": "3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp. 3D Imaging and Machine Learning Improve Noncontact Weight Estimation of Frozen Skipjack Tuna - tsukuba.ac.jp",
-          "id": "p_art_53d85cadb4_2",
-          "sourceName": "tsukuba.ac.jp",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "tsukuba.ac.jp"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.480156+00:00",
-      "id": "art_53d85cadb4",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-imaging-and-machine.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "What happened in the first moments of the universe\u2014before the building blocks of life.",
-            "Physicists at the CERN research facility in Switzerland are trying to answer this question."
-          ],
-          "stanceTitle": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
-          "type": "viewpoint1",
-          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
-          "id": "p_art_96361b83b9_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        },
-        {
-          "keyPoints": [
-            "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Quark-Gluon Plasma Created with Small Atomic Nuclei - Scientific Frontline",
-          "type": "viewpoint2",
-          "summary": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments. What happened in the first moments of the universe\u2014before the building blocks of life and the world we know today came into existence?",
-          "id": "p_art_96361b83b9_2",
-          "sourceName": "Scientific Frontline",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "sflorg.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.457696+00:00",
-      "id": "art_96361b83b9",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-create-a-l.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury.",
-            "A spokesperson for the company said the decision had been made at the conclusion."
-          ],
-          "stanceTitle": "Bernard Matthews confirms closure of Derby factory",
-          "type": "viewpoint1",
-          "summary": "Bernard Matthews confirms closure of city factory - Published A British food giant is set to close its factory in Derby amid \"significant financial losses\". Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street by the end of 2026.",
-          "id": "p_art_6ce8859930_1",
-          "sourceName": "BBC Business",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "fullMarkdownContent": "",
+          "biasTag": "Institutional Diplomacy",
+          "sourceDomain": "thehindu.com",
           "quote": "",
           "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
+          "fullMarkdownContent": ""
         },
         {
           "keyPoints": [
-            "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+            "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
+          "stanceTitle": "Global Wire: Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
           "type": "viewpoint2",
-          "summary": "Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live. Bernard Matthews factory in Derby to close, leaving 600 jobs at risk - Derbyshire Live",
-          "id": "p_art_6ce8859930_2",
-          "sourceName": "Derbyshire Live",
+          "summary": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters. Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
+          "id": "p_art_92e703d83f_2",
+          "sourceName": "Reuters",
           "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
+          "biasTag": "Global Wire",
+          "sourceDomain": "reuters.com",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "derbytelegraph.co.uk"
+          "sourceCredibility": 98,
+          "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.420165+00:00",
-      "id": "art_6ce8859930",
+      "publishedAt": "2026-08-20T16:47:52.714638+00:00",
+      "id": "art_92e703d83f",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Bernard Matthews confirms closure of Derby factory",
+      "category": "World Affairs",
+      "title": "Romania destroys drone near offshore gas project, blames Russia",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Space & Science",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
+      "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Kotak is acting as the broker for the deal, while the sellers will be.",
+            "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls,.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+          "stanceTitle": "Scientific Reporting: Parental control features in ChatGPT for Teens | Explained",
           "type": "viewpoint1",
-          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
-          "id": "p_art_4f2ee9b2a1_1",
-          "sourceName": "NDTV Profit",
+          "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
+          "id": "p_art_4bb0d95d9b_1",
+          "sourceName": "The Hindu Sci-Tech",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
+          "biasTag": "Scientific Reporting",
+          "sourceDomain": "thehindu.com",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
         },
         {
           "keyPoints": [
-            "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
+            "Introducing ChatGPT for Teens: Built for learning, backed by protections - OpenAI",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "SaaS firm Amagi Media Labs secures SEBI approval for IPO - bestmediainfo.com",
+          "stanceTitle": "Journalistic Reporting: Introducing ChatGPT for Teens: Built for learning, backed by protections - OpenAI",
           "type": "viewpoint2",
-          "summary": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal. Kotak is acting as the broker for the deal, while the sellers will be subject to a 90-day lock-in period for any further sale.",
-          "id": "p_art_4f2ee9b2a1_2",
-          "sourceName": "bestmediainfo.com",
+          "summary": "Parental control features in ChatGPT for Teens | Explained. ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, \u201cquiet hours\u201d, study mode, and notifications for situations that need real-world interventions",
+          "id": "p_art_4bb0d95d9b_2",
+          "sourceName": "OpenAI",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
+          "sourceDomain": "openai.com",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "bestmediainfo.com"
+          "fullMarkdownContent": ""
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:48.392083+00:00",
-      "id": "art_4f2ee9b2a1",
+      "publishedAt": "2026-08-20T16:47:52.700480+00:00",
+      "id": "art_4bb0d95d9b",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Accel, Trudy Holdings, AVP I Fund To Sell Rs 600 Crore Stake In Amagi Media Labs Via Block Deal",
+      "category": "Space & Science",
+      "title": "Parental control features in ChatGPT for Teens | Explained",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-01/bc0cf9b6_amagi.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/6101uo/article71367843.ece/alternates/LANDSCAPE_1200/ChatGPT_Teens_33976.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The reading marked the second print of the new series, with the base year.",
+            "The overall index rose further to 121.2 in July, up from 120.7 the previous month."
+          ],
+          "stanceTitle": "Macroeconomic Prudence: Core industries growth slows to 5.4% in July as iron ore, power ease",
+          "type": "viewpoint1",
+          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
+          "id": "p_art_72d6ef22b3_1",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "sourceDomain": "business-standard.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Growth in core sectors slows to 5.4% in July 2026 - The Hindu",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Risks & Scrutiny: Growth in core sectors slows to 5.4% in July 2026 - The Hindu",
+          "type": "viewpoint2",
+          "summary": "Growth in core sectors slows to 5.4% in July 2026 - The Hindu. Growth in core sectors slows to 5.4% in July 2026 - The Hindu",
+          "id": "p_art_72d6ef22b3_2",
+          "sourceName": "The Hindu",
+          "quoteAuthor": "",
+          "biasTag": "Critical Scrutiny",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:47:52.675913+00:00",
+      "id": "art_72d6ef22b3",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Core industries growth slows to 5.4% in July as iron ore, power ease",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Delhi Master Plan 2047 eyes private investment for 4 mn affordable homes Plan promotes small-format housing and redevelopment of slums and unauthorised colonies, while pushing high-density growth, transit-oriented development and new transport networks Listen to This Article Even as it aims to accommodate an estimated 32 million people in the national capital by 2047, the.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "As part of the new Master Plan for Delhi (MPD) 2047 notified on Thursday,.",
+            "Officials in the know told Business Standard that appropriate incentives will be provided to."
+          ],
+          "stanceTitle": "Macroeconomic Prudence: Delhi Master Plan 2047 eyes private investment for 4 mn affordable homes",
+          "type": "viewpoint1",
+          "summary": "Delhi Master Plan 2047 eyes private investment for 4 mn affordable homes Plan promotes small-format housing and redevelopment of slums and unauthorised colonies, while pushing high-density growth, transit-oriented development and new transport networks Listen to This Article Even as it aims to accommodate an estimated 32 million people in the national capital by 2047, the.",
+          "id": "p_art_809024e1b4_1",
+          "sourceName": "Business Standard Economy",
+          "quoteAuthor": "",
+          "biasTag": "Macroeconomic Prudence",
+          "sourceDomain": "business-standard.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Delhi Master Plan 2047 eyes air taxis to ease congestion, expand mobility options |.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Mainstream Daily: Delhi Master Plan 2047 eyes air taxis to ease congestion, expand mobility options | Hindustan Times - ",
+          "type": "viewpoint2",
+          "summary": "Delhi Master Plan 2047 eyes air taxis to ease congestion, expand mobility options | Hindustan Times - Hindustan Times. Delhi Master Plan 2047 eyes air taxis to ease congestion, expand mobility options | Hindustan Times - Hindustan Times",
+          "id": "p_art_809024e1b4_2",
+          "sourceName": "Hindustan Times",
+          "quoteAuthor": "",
+          "biasTag": "Mainstream Daily",
+          "sourceDomain": "hindustantimes.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:47:52.646211+00:00",
+      "id": "art_809024e1b4",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Delhi Master Plan 2047 eyes private investment for 4 mn affordable homes",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/04/thumb/fitandfill/1200X628/1707065310-5442.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "DNA's physical properties may shape which mutations evolution preserves. Nearly every cell in the human body contains essentially the same genetic information, yet different cells activate different genes. For regulatory proteins to reach these genes, DNA must be accessible.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Nearly every cell in the human body contains essentially the same genetic information, yet.",
+            "For regulatory proteins to reach these genes, DNA must be accessible."
+          ],
+          "stanceTitle": "Physics & Applied Tech: DNA's physical properties may shape which mutations evolution preserves",
+          "type": "viewpoint1",
+          "summary": "DNA's physical properties may shape which mutations evolution preserves. Nearly every cell in the human body contains essentially the same genetic information, yet different cells activate different genes. For regulatory proteins to reach these genes, DNA must be accessible.",
+          "id": "p_art_d262f0009e_1",
+          "sourceName": "Phys.org",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Modeling of DNA microarray data by using physical properties of hybridization - PNAS",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Journalistic Reporting: Modeling of DNA microarray data by using physical properties of hybridization - PNAS",
+          "type": "viewpoint2",
+          "summary": "Modeling of DNA microarray data by using physical properties of hybridization - PNAS. Modeling of DNA microarray data by using physical properties of hybridization - PNAS",
+          "id": "p_art_d262f0009e_2",
+          "sourceName": "PNAS",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "pnas.org",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:47:52.589270+00:00",
+      "id": "art_d262f0009e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "DNA's physical properties may shape which mutations evolution preserves",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/dnas-physical-properti.jpg"
     }
   ]
 }

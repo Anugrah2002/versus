@@ -57,21 +57,28 @@ class MultiSourceSearchDiscovery:
         Strips common news prefixes like 'Explained:', 'Opinion:', 'Watch:', etc.
         """
         clean_title = re.sub(r"^(?:explained|opinion|watch|exclusive|analysis|fact check|live updates|first post|report):\s*", "", title, flags=re.IGNORECASE)
-        # Remove quotes and punctuation
         clean_title = re.sub(r"['\"`“”‘’:,|—–\-]", " ", clean_title)
         
-        # Stopwords to filter out
         stopwords = {
-            "a", "an", "the", "in", "on", "at", "to", "for", "of", "and", "or", "is", "are",
-            "was", "were", "be", "been", "has", "have", "had", "with", "by", "after", "amid",
-            "says", "said", "over", "from", "into", "why", "how", "what", "who", "will",
-            "could", "would", "about", "today", "yesterday", "tomorrow", "more", "most", "may"
+            "the", "and", "for", "with", "from", "that", "this", "they", "have", "been", "has", "was", "were", 
+            "are", "will", "would", "could", "should", "their", "there", "what", "which", "when", "where", 
+            "why", "how", "all", "any", "both", "each", "few", "more", "most", "other", "some", "such", 
+            "than", "too", "very", "can", "may", "might", "must", "says", "said", "after", "amid", "over"
         }
-        words = [w for w in clean_title.split() if w.lower() not in stopwords and len(w) >= 3]
         
-        # Take the most salient 3 to 5 words
-        query = " ".join(words[:5])
-        return query.strip()
+        # Extract proper nouns (capitalized words) first
+        words = clean_title.split()
+        proper_nouns = [w for w in words if len(w) > 2 and w[0].isupper() and w.lower() not in stopwords]
+        other_words = [w for w in words if len(w) > 3 and w.lower() not in stopwords and w not in proper_nouns]
+        
+        # Build query: prefer proper nouns, pad with other salient words
+        query_words = proper_nouns[:4]
+        if len(query_words) < 3:
+            query_words.extend(other_words[:(4 - len(query_words))])
+            
+        # Add a recency filter for Google News
+        query = " ".join(query_words).strip()
+        return query
 
     def query_google_news_rss(self, query: str, exclude_domain: str = "") -> List[RawCandidate]:
         """
@@ -81,7 +88,7 @@ class MultiSourceSearchDiscovery:
         if not query:
             return []
 
-        encoded_q = urllib.parse.quote(query)
+        encoded_q = urllib.parse.quote(f"{query} when:1d")
         rss_url = f"https://news.google.com/rss/search?q={encoded_q}&hl=en-IN&gl=IN&ceid=IN:en"
 
         candidates: List[RawCandidate] = []
@@ -182,11 +189,19 @@ class MultiSourceSearchDiscovery:
         title_overlap = tokens_p_title.intersection(tokens_c_title)
         body_overlap = tokens_p_body.intersection(tokens_c_body)
 
-        # 1. Direct title keyword agreement (>= 2 shared words)
+        # 1. Reject identical syndication (News Wire Syndrome)
+        # If the bodies are practically identical, they are the same syndicated wire report. 
+        # We cannot extract two distinct perspectives from identical text.
+        if len(tokens_p_body) > 0 and len(tokens_c_body) > 0:
+            jaccard_sim = len(body_overlap) / len(tokens_p_body.union(tokens_c_body))
+            if jaccard_sim > 0.45: # High Jaccard similarity means nearly identical text
+                return False
+
+        # 2. Direct title keyword agreement (>= 2 shared words)
         if len(title_overlap) >= 2:
             return True
 
-        # 2. At least 1 shared title keyword + strong body context agreement (>= 3 words)
+        # 3. At least 1 shared title keyword + strong body context agreement (>= 3 words)
         if len(title_overlap) >= 1 and len(body_overlap) >= 3:
             return True
 

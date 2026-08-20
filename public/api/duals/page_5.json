@@ -1,36 +1,945 @@
 {
   "page": 5,
-  "total_pages": 6,
-  "total_articles": 110,
+  "total_pages": 7,
+  "total_articles": 138,
   "has_more": true,
   "articles": [
     {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming.",
+            "The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date."
+          ],
+          "stanceTitle": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of Launch",
+          "type": "viewpoint1",
+          "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
+          "id": "p_art_140f6da6e2_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        },
+        {
+          "keyPoints": [
+            "Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com",
+          "type": "viewpoint2",
+          "summary": "Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com. Vivo Y31T India launch tipped with 7,200mAh battery, Snapdragon 4 Gen 2 - 91mobiles.com",
+          "id": "p_art_140f6da6e2_2",
+          "sourceName": "91mobiles.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "91mobiles.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.508420+00:00",
+      "id": "art_140f6da6e2",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of L",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Horizon Hunters Gathering, a live service co-op title, was announced in February. Photo Credit: Sony/ Guerrilla Games Horizon Hunters Gathering, the co-op action title in development at Guerrilla Games, has hit a hurdle. Sony is reportedly overhauling the title after negative player feedback on its live service elements.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Sony/ Guerrilla Games Horizon Hunters Gathering, the co-op action title in development.",
+            "Sony is reportedly overhauling the title after negative player feedback on its live service elements."
+          ],
+          "stanceTitle": "Sony's Live Service Co-Op Game Horizon Hunters Gathering Reportedly Being Rebooted After Poor Player Feedback",
+          "type": "viewpoint1",
+          "summary": "Horizon Hunters Gathering, a live service co-op title, was announced in February. Photo Credit: Sony/ Guerrilla Games Horizon Hunters Gathering, the co-op action title in development at Guerrilla Games, has hit a hurdle. Sony is reportedly overhauling the title after negative player feedback on its live service elements.",
+          "id": "p_art_37afbd51c8_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        },
+        {
+          "keyPoints": [
+            "Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st",
+          "type": "viewpoint2",
+          "summary": "Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st. Report: Horizon Live Service Game \"Hunters Gathering\" Being Rebooted After Negative Feedback - MP1st",
+          "id": "p_art_37afbd51c8_2",
+          "sourceName": "MP1st",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "mp1st.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.503177+00:00",
+      "id": "art_37afbd51c8",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Sony's Live Service Co-Op Game Horizon Hunters Gathering Reportedly Being Rebooted After Poor P",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Australia passes law to charge tech companies levies unless they reach deals with news publishers Meta, Google, TikTok and LinkedIn will have to pay millions to support local news outlets under Australia's new rules. Australia will force Meta, Google, TikTok, LinkedIn and others to pay levies if they don't reach deals with local news publishers.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Australia will force Meta, Google, TikTok, LinkedIn and others to pay levies if they.",
+            "Both houses of the country's parliament passed a law that will force them to."
+          ],
+          "stanceTitle": "Australia passes law to charge tech companies levies unless they reach deals with news publishers",
+          "type": "viewpoint1",
+          "summary": "Australia passes law to charge tech companies levies unless they reach deals with news publishers Meta, Google, TikTok and LinkedIn will have to pay millions to support local news outlets under Australia's new rules. Australia will force Meta, Google, TikTok, LinkedIn and others to pay levies if they don't reach deals with local news publishers.",
+          "id": "p_art_6a6b746b84_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "engadget.com"
+        },
+        {
+          "keyPoints": [
+            "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
+          "type": "viewpoint2",
+          "summary": "Australia passes law to levy tech giants that fail to pay for local news - Reuters. Australia passes law to levy tech giants that fail to pay for local news - Reuters",
+          "id": "p_art_6a6b746b84_2",
+          "sourceName": "Reuters",
+          "quoteAuthor": "",
+          "biasTag": "Global Wire",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 98,
+          "sourceDomain": "reuters.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.489367+00:00",
+      "id": "art_6a6b746b84",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Australia passes law to charge tech companies levies unless they reach deals with news publishe",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "You can soon stream Crunchyroll on your car's infotainment system The anime streaming service has started appearing on the Appning app store. Streaming video apps have become commonplace on in-car infotainment systems.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Streaming video apps have become commonplace on in-car infotainment systems.",
+            "You might soon have another way to watch anime in your car (depending on."
+          ],
+          "stanceTitle": "You can soon stream Crunchyroll on your car's infotainment system",
+          "type": "viewpoint1",
+          "summary": "You can soon stream Crunchyroll on your car's infotainment system The anime streaming service has started appearing on the Appning app store. Streaming video apps have become commonplace on in-car infotainment systems.",
+          "id": "p_art_3721195aca_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "engadget.com"
+        },
+        {
+          "keyPoints": [
+            "Exclusive: New Crunchyroll Collab Brings Anime Streaming to Cars - CNET",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Exclusive: New Crunchyroll Collab Brings Anime Streaming to Cars - CNET",
+          "type": "viewpoint2",
+          "summary": "You can soon stream Crunchyroll on your car's infotainment system The anime streaming service has started appearing on the Appning app store. Streaming video apps have become commonplace on in-car infotainment systems.",
+          "id": "p_art_3721195aca_2",
+          "sourceName": "CNET",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "cnet.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.463085+00:00",
+      "id": "art_3721195aca",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "You can soon stream Crunchyroll on your car's infotainment system",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Google now allows you to add your favorite new sources to Search It's also adding Gemini to its Discover Feed. Google is making it easier for people to support their favorite publications by introducing a new \"Preferred Sources\" button webmasters can add to their websites.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Google is making it easier for people to support their favorite publications by introducing.",
+            "\"When readers click this button, it adds the site as a Preferred Source on."
+          ],
+          "stanceTitle": "Google now allows you to add your favorite new sources to Search",
+          "type": "viewpoint1",
+          "summary": "Google now allows you to add your favorite new sources to Search It's also adding Gemini to its Discover Feed. Google is making it easier for people to support their favorite publications by introducing a new \"Preferred Sources\" button webmasters can add to their websites.",
+          "id": "p_art_b0499701f3_1",
+          "sourceName": "Engadget",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "engadget.com"
+        },
+        {
+          "keyPoints": [
+            "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
+          "type": "viewpoint2",
+          "summary": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch. Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
+          "id": "p_art_b0499701f3_2",
+          "sourceName": "TechCrunch",
+          "quoteAuthor": "",
+          "biasTag": "Venture & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "techcrunch.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.408244+00:00",
+      "id": "art_b0499701f3",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Google now allows you to add your favorite new sources to Search",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore. The results highlight a mixed performance for Manipal Health, with robust revenue growth and higher operating earnings offset by margin compression and exceptional costs.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The results highlight a mixed performance for Manipal Health, with robust revenue growth and.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore",
+          "type": "viewpoint1",
+          "summary": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore. The results highlight a mixed performance for Manipal Health, with robust revenue growth and higher operating earnings offset by margin compression and exceptional costs.",
+          "id": "p_art_17fe9dc9d8_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "The widening gap between revenue and Ebitda growth resulted in the decline in operating margin.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore",
+          "type": "viewpoint2",
+          "summary": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore. The widening gap between revenue and Ebitda growth resulted in the decline in operating margin.",
+          "id": "p_art_17fe9dc9d8_2",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.376843+00:00",
+      "id": "art_17fe9dc9d8",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Manipal Health Q1 Results: Profit Cracks 8% As Margin Shrinks; Revenue Tops Rs 3,000 Crore",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/m9ujhsb_health_625x300_20_August_26.jpg"
+    },
+    {
+      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition. In their letters, Basic Education Officers in Azamgarh, Ballia, Sultanpur, and Balrampur cited the adverse impact of \u201cunauthorised entry\u201d on school operations",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:38.884445+00:00",
-      "id": "art_fea97f686f",
       "perspectives": [
         {
           "keyPoints": [
-            "A young girl from Arunachal Pradesh has responded to a comment about her appearance.",
-            "The post was shared by Instagram user Karga Tinkle Gongo."
+            "In their letters, Basic Education Officers in Azamgarh, Ballia, Sultanpur, and Balrampur cited the.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+          "stanceTitle": "U.P. order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition",
           "type": "viewpoint1",
-          "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
-          "id": "p_art_fea97f686f_1",
+          "summary": "order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition. In their letters, Basic Education Officers in Azamgarh, Ballia, Sultanpur, and Balrampur cited the adverse impact of \u201cunauthorised entry\u201d on school operations",
+          "id": "p_art_1ab02a80fc_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        },
+        {
+          "keyPoints": [
+            "YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ...",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ... - Bhaskar",
+          "type": "viewpoint2",
+          "summary": "YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ... YouTubers banned from entering UP govt schools: Restrictions on taking photos, videos; CJP running \u2018School ...",
+          "id": "p_art_1ab02a80fc_2",
+          "sourceName": "Bhaskar English",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "bhaskarenglish.in"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.354888+00:00",
+      "id": "art_1ab02a80fc",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "U.P. order \u2018banning YouTubers\u2019 from schools earns stinging rebuke from opposition",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/7jt28p/article71370439.ece/alternates/LANDSCAPE_1200/PTI05_01_2024_000004B.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "NAMASTE to be expanded to rural India, include more workers. NCSC flags high rejection rate in self-employment scheme; of almost 1 lakh sewer and septic tank workers identified under the scheme, only 810 approved for capital subsidies, of which 147 recieved money",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "NCSC flags high rejection rate in self-employment scheme; of almost 1 lakh sewer and.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "NAMASTE to be expanded to rural India, include more workers",
+          "type": "viewpoint1",
+          "summary": "NAMASTE to be expanded to rural India, include more workers. NCSC flags high rejection rate in self-employment scheme; of almost 1 lakh sewer and septic tank workers identified under the scheme, only 810 approved for capital subsidies, of which 147 recieved money",
+          "id": "p_art_32924c4216_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        },
+        {
+          "keyPoints": [
+            "Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing",
+          "type": "viewpoint2",
+          "summary": "Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing. Namaste India launches fresh milk in Bihar; plans \u20b9350 crore phased investment - India Retailing",
+          "id": "p_art_32924c4216_2",
+          "sourceName": "India Retailing",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "web.indiaretailing.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.313756+00:00",
+      "id": "art_32924c4216",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "NAMASTE to be expanded to rural India, include more workers",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/f82u1t/article68937648.ece/alternates/LANDSCAPE_1200/IMG-20241112-WA0004.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sajjan Kumar had been in custody since December 2018, when he surrendered following the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Sajjan Kumar: From Congress veteran to convict",
+          "type": "viewpoint1",
+          "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
+          "id": "p_art_e73d1f8637_1",
+          "sourceName": "The Hindu National",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        },
+        {
+          "keyPoints": [
+            "From 3-time Congress MP to 1984 riots convict - The Times of India",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Who was Sajjan Kumar? From 3-time Congress MP to 1984 riots convict - The Times of India",
+          "type": "viewpoint2",
+          "summary": "From 3-time Congress MP to 1984 riots convict - The Times of India. From 3-time Congress MP to 1984 riots convict - The Times of India",
+          "id": "p_art_e73d1f8637_2",
+          "sourceName": "Times of India",
+          "quoteAuthor": "",
+          "biasTag": "Mainstream National",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "timesofindia.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.300794+00:00",
+      "id": "art_e73d1f8637",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Sajjan Kumar: From Congress veteran to convict",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/sc0pl6/article71368894.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000155B.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The denial came two days after Syria accused Israel of hitting a disused military.",
+            "Israel said a Turkish military delegation had recently visited the site, with a Syrian."
+          ],
+          "stanceTitle": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
+          "type": "viewpoint1",
+          "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
+          "id": "p_art_8c8c7b49a1_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "The denial came two days after Syria accused Israel of hitting a disused military.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Turkiye denies military visit to Syria air base hit by Israel",
+          "type": "viewpoint2",
+          "summary": "Turkiye denies military visit to Syria air base hit by Israel. The denial came two days after Syria accused Israel of hitting a disused military air base near the northwestern city of Aleppo that was damaged during the civil war",
+          "id": "p_art_8c8c7b49a1_2",
+          "sourceName": "The Hindu World",
+          "quoteAuthor": "",
+          "biasTag": "Institutional Diplomacy",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.260489+00:00",
+      "id": "art_8c8c7b49a1",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/dlh1b2/article71369697.ece/alternates/LANDSCAPE_1200/2026-08-20T125909Z_971278450_RC2B2NAQBJ9Q_RTRMADP_3_ISRAEL-SYRIA-TURKEY-SECURITY-MINISTRY.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "As emergency teams work to rescue those trapped, the rains and cool weather have.",
+            "The blaze in Belgium erupted following an intense heatwave with temperatures reaching 37 degrees."
+          ],
+          "stanceTitle": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
+          "type": "viewpoint1",
+          "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
+          "id": "p_art_d1e06ec26c_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
+          "type": "viewpoint2",
+          "summary": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review. What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
+          "id": "p_art_d1e06ec26c_2",
+          "sourceName": "MIT Technology Review",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "technologyreview.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.216863+00:00",
+      "id": "art_d1e06ec26c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/38g55go8_uk-wildfire_625x300_14_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The incident took place Thursday afternoon on a Churchgate-Borivali local between Mahim and Bandra stations.",
+            "The victim suffered severe injuries after falling from the moving train."
+          ],
+          "stanceTitle": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
+          "type": "viewpoint1",
+          "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
+          "id": "p_art_b5221c6407_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
+          "type": "viewpoint2",
+          "summary": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18. 62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
+          "id": "p_art_b5221c6407_2",
+          "sourceName": "News18",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "news18.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.205777+00:00",
+      "id": "art_b5221c6407",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/f9hoc308_mumbai-locals_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Police first received word of a JCB theft in the Khallikote police station area on August 14.",
+            "What followed was an extended pursuit, with teams from four different police stations, Khallikote,."
+          ],
+          "stanceTitle": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
+          "type": "viewpoint1",
+          "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
+          "id": "p_art_f2db45277d_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "#manchestereveningnews #fails #cctv - facebook.com.",
+            "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting."
+          ],
+          "stanceTitle": "Manchester Evening News. . Oops! \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningn",
+          "type": "viewpoint2",
+          "summary": "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com. \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com",
+          "id": "p_art_f2db45277d_2",
+          "sourceName": "facebook.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "facebook.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.148481+00:00",
+      "id": "art_f2db45277d",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/df0fa5qo_jcb_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Jailed former Pakistani Prime Minister Imran Khan would not confront the military or army chief Asim Munir if freed, one of his closest aides told Reuters, portraying Munir as able to extend a \"healing hand\" after a legal breakthrough this week.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The comments, which came after Pakistan's top court ordered Khan to be moved to.",
+            "Its supporters have for years rallied against Munir, who is seen by them as."
+          ],
+          "stanceTitle": "Imran Khan's Aide Signals Possible Reconciliation With Pak Military: Report",
+          "type": "viewpoint1",
+          "summary": "Jailed former Pakistani Prime Minister Imran Khan would not confront the military or army chief Asim Munir if freed, one of his closest aides told Reuters, portraying Munir as able to extend a \"healing hand\" after a legal breakthrough this week.",
+          "id": "p_art_5137495042_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals...",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals... - Moneycont",
+          "type": "viewpoint2",
+          "summary": "'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals... 'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals...",
+          "id": "p_art_5137495042_2",
+          "sourceName": "Moneycontrol",
+          "quoteAuthor": "",
+          "biasTag": "Financial Markets",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "moneycontrol.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.104836+00:00",
+      "id": "art_5137495042",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Imran Khan's Aide Signals Possible Reconciliation With Pak Military: Report",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2022-03/toipf60o_imran-khan-file-photo_625x300_12_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "- Kishu Singh became an Indian Army lieutenant after 14 attempts at defence exams - He cleared the CDS exam in May after failing selection tests multiple times - His dream began at age nine, inspired by India's 2011 World Cup win and movie 'Border' It started as a sudden surge of patriotism after a.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Kishu Singh, 24, is now a lieutenant after cracking the Combined Defence Services (CDS) exam in May.",
+            "He had turned to CDS, a test conducted twice a year by the Union."
+          ],
+          "stanceTitle": "Inspired By Border When He Was 9, Bihar Man Realises Army Dream After 14 Attempts",
+          "type": "viewpoint1",
+          "summary": "- Kishu Singh became an Indian Army lieutenant after 14 attempts at defence exams - He cleared the CDS exam in May after failing selection tests multiple times - His dream began at age nine, inspired by India's 2011 World Cup win and movie 'Border' It started as a sudden surge of patriotism after a.",
+          "id": "p_art_f6803c2294_1",
+          "sourceName": "NDTV Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "'If Dems get in, this will be America': Trump warns US of Spain-style border.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "'If Dems get in, this will be America': Trump warns US of Spain-style border chaos ahead of midterms - The Economic Time",
+          "type": "viewpoint2",
+          "summary": "'If Dems get in, this will be America': Trump warns US of Spain-style border chaos ahead of midterms - The Economic Times. 'If Dems get in, this will be America': Trump warns US of Spain-style border chaos ahead of midterms - The Economic Times",
+          "id": "p_art_f6803c2294_2",
+          "sourceName": "The Economic Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.100966+00:00",
+      "id": "art_f6803c2294",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Inspired By Border When He Was 9, Bihar Man Realises Army Dream After 14 Attempts",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/flpv6hd_kishu-singh_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been in survival mode'. The man said that although he has achieved his professional goals, the journey has taken an emotional toll.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The man said that although he has achieved his professional goals, the journey has taken an emotional toll.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been in survival mode'",
+          "type": "viewpoint1",
+          "summary": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been in survival mode'. The man said that although he has achieved his professional goals, the journey has taken an emotional toll.",
+          "id": "p_art_a534f56e85_1",
           "sourceName": "Hindustan Times Trending",
           "quoteAuthor": "",
           "biasTag": "Trending News",
@@ -41,13 +950,57 @@
         },
         {
           "keyPoints": [
-            "In the heartfelt clip, the child reportedly responds to someone who questioned whether she was 'Chinese'.",
-            "She makes it clear that she is Indian and says she feels hurt and."
+            "India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "\"Hum Bhi India Hain\": Arunachal Girl's Reply To 'Chinese' Remark Melts Hearts",
+          "stanceTitle": "India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat",
           "type": "viewpoint2",
-          "summary": "- A young girl from Itanagar spoke out against being called Chinese due to her looks - She expressed feeling hurt and angry when her Indian nationality was questioned - The video highlighted challenges faced by people from Northeast India with stereotypes A video of a young girl from Itanagar, Arunachal Pradesh, has gone viral.",
-          "id": "p_art_fea97f686f_2",
+          "summary": "India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat. India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat",
+          "id": "p_art_a534f56e85_2",
+          "sourceName": "ETV Bharat",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "etvbharat.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.066527+00:00",
+      "id": "art_a534f56e85",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been ",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/madhur_mehta_1787237611199_1787237617791_9a8ffe4f-3990-473f-970b-68c855f0f142.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Deepika Padukone could be joining Ranbir Kapoor and Alia Bhatt in Brahmastra 2. The actress is reportedly in talks with director Ayan Mukerji for the role of Amruta in the much-awaited sequel. While nothing has been officially confirmed yet, discussions are said to be underway.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The actress is reportedly in talks with director Ayan Mukerji for the role of.",
+            "While nothing has been officially confirmed yet, discussions are said to be underway."
+          ],
+          "stanceTitle": "Deepika To Join Ranbir And Alia In Brahmastra 2? Here's What We Know",
+          "type": "viewpoint1",
+          "summary": "Deepika Padukone could be joining Ranbir Kapoor and Alia Bhatt in Brahmastra 2. The actress is reportedly in talks with director Ayan Mukerji for the role of Amruta in the much-awaited sequel. While nothing has been officially confirmed yet, discussions are said to be underway.",
+          "id": "p_art_21fb2a912c_1",
           "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
           "biasTag": "Trending & Viral",
@@ -55,259 +1008,38 @@
           "quote": "",
           "sourceCredibility": 93,
           "sourceDomain": "ndtv.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2lmu7b58_arunachal-girl_625x300_20_August_26.jpeg"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:38.733995+00:00",
-      "id": "art_160f18bf05",
-      "perspectives": [
+        },
         {
           "keyPoints": [
-            "The data covers nine key infrastructure sectors under the revamped Index of Core Industries.",
-            "The new series replaced the earlier 2011-12-based series."
+            "Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2?",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
-          "type": "viewpoint1",
-          "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
-          "id": "p_art_160f18bf05_1",
-          "sourceName": "Economic Times Economy",
+          "stanceTitle": "Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2? - India Today",
+          "type": "viewpoint2",
+          "summary": "Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2? Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2?",
+          "id": "p_art_21fb2a912c_2",
+          "sourceName": "India Today",
           "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
+          "biasTag": "National Perspective",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        },
-        {
-          "keyPoints": [
-            "The reading marked the second of a new series, which replaces the earlier 2011-12.",
-            "The overall index rose further to 121.2 in July from 120.7 in the previous month."
-          ],
-          "stanceTitle": "Core industries growth slows to 5.4% in July as iron ore, power ease",
-          "type": "viewpoint2",
-          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
-          "id": "p_art_160f18bf05_2",
-          "sourceName": "Business Standard Economy",
-          "quoteAuthor": "",
-          "biasTag": "Macroeconomic Prudence",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "business-standard.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133376047,width-1200,height-630,imgsize-163742,overlay-economictimes/articleshow.jpg"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T11:38:22.567324+00:00",
-      "id": "art_019eaf729c",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone.",
-            "Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely."
-          ],
-          "stanceTitle": "Consumer Hardware & Apps: iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
-          "type": "viewpoint1",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_cb87477534_1",
-          "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "sourceDomain": "gadgets360.com",
-          "quote": "",
           "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91",
-          "type": "viewpoint2",
-          "sourceName": "91mobiles.com",
-          "id": "p_art_cb87477534_2",
-          "summary": "iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com. iQOO Neo 12 tipped with 2K 165Hz display and 9,000mAh battery, could launch later this year - 91mobiles.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "91mobiles.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "indiatoday.in"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/iqoo-15-rear-gadgets360_1763475278434.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T03:05:12.333005+00:00",
-      "id": "art_006f80f544",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Trending News",
-          "id": "p_art_c0ae20516a_1",
-          "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "What's The Catalyst - NDTV Profit.",
-            "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip."
-          ],
-          "stanceTitle": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
-          "type": "viewpoint2",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_c0ae20516a_2",
-          "summary": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit. Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
+      "publishedAt": "2026-08-20T16:38:46.996835+00:00",
+      "id": "art_21fb2a912c",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "title": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "title": "Deepika To Join Ranbir And Alia In Brahmastra 2? Here's What We Know",
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/toor59qg_gold_625x300_19_August_26.png"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "K-pop superstar Yeonjun of TOMORROW X TOGETHER (TXT) is having a busy summer. Since the release of his second solo EP, NO LABELS: PART 02, in July, the 26-year-old South Korean artist has been doing extensive promotions in Korea and the U.S.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T15:54:18.152352+00:00",
-      "id": "art_014c34f9be",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Since the release of his second solo EP, NO LABELS: PART 02, in July,.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Wealth & Entrepreneurship: Inside Yeonjun\u2019s U.S. Summer \u2018Ice Cream\u2019 Takeover",
-          "type": "viewpoint1",
-          "sourceName": "Forbes Business",
-          "id": "p_art_a02ac8f772_1",
-          "summary": "K-pop superstar Yeonjun of TOMORROW X TOGETHER (TXT) is having a busy summer. Since the release of his second solo EP, NO LABELS: PART 02, in July, the 26-year-old South Korean artist has been doing extensive promotions in Korea and the U.S.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Times",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Time",
-          "type": "viewpoint2",
-          "sourceName": "The Korea Times",
-          "id": "p_art_a02ac8f772_2",
-          "summary": "From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Times. From Yeonjun, Dino to Evan: HYBE artists take creative control in solo releases - The Korea Times",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "koreatimes.co.kr",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Inside Yeonjun\u2019s U.S. Summer \u2018Ice Cream\u2019 Takeover",
-      "sharesCount": 0,
       "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84fdb4cac8140d74e81b5c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "sharesCount": 0,
+      "heroImageUrl": "https://i.ndtvimg.com/i/2018-01/deepika-ndtv_650x400_61515925333.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "videoDuration": "02:45",
@@ -316,791 +1048,59 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions. It would be established under the Sports Development Authority of Tamil Nadu at a cost of \u20b95 crore, says Aadhav Arjuna",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The Delhi High Court on Thursday questioned the Centre for its failure to respond, even after a year, to a petition seeking recognition of same-sex couples as medical representatives during medical treatment.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T11:33:35.302017+00:00",
-      "id": "art_0189dd6161",
       "perspectives": [
         {
           "keyPoints": [
-            "It would be established under the Sports Development Authority of Tamil Nadu at a.",
-            "Key analytical takeaway and operational overview."
+            "The court orally observed that when people are allowed to enter into a live-in.",
+            "\"The law recognises a live-in relationship between a man and a woman."
           ],
-          "stanceTitle": "Public Interest & Editorial: Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions",
+          "stanceTitle": "'Why Will Law Not Allow Live-In Between Same-Sex Couples?' Court Asks Centre",
           "type": "viewpoint1",
-          "sourceName": "The Hindu National",
-          "id": "p_art_33c124548f_1",
-          "summary": "Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions. It would be established under the Sports Development Authority of Tamil Nadu at a cost of \u20b95 crore, says Aadhav Arjuna",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure -.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Investigative Journalism: Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure - The N",
-          "type": "viewpoint2",
-          "sourceName": "Indian Express",
-          "id": "p_art_33c124548f_2",
-          "summary": "Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure - The New Indian Express. Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure - The New Indian Express",
-          "quoteAuthor": "",
-          "biasTag": "Investigative Journalism",
-          "sourceDomain": "newindianexpress.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Tamil Nadu government to set up Talent Research Wing to groom future Olympic champions",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/lxzi61/article71361560.ece/alternates/LANDSCAPE_1200/IMG_TH19AADHAV_2_1_MBG0FH0J.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Improved institutional demand supports the market, but weak spot activity continues to limit momentum. Photo Credit: Unsplash/Shubham Dhage Bitcoin traded near Rs. 61.1 lakh on Wednesday as the cryptocurrency market showed signs of recovery around this level after buyers returned and briefly pushed Bitcoin towards Rs. Ethereum (ETH) was trading near Rs.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Bitcoin Rebounds as $297.6 Million Flows Into US Spot ETFs",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T10:37:17.468565+00:00",
-      "id": "art_02205f3fe9",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Unsplash/Shubham Dhage Bitcoin traded near Rs.",
-            "61.1 lakh on Wednesday as the cryptocurrency market showed signs of recovery around this."
-          ],
-          "stanceTitle": "Consumer Hardware & Apps: Bitcoin Rebounds as $297.6 Million Flows Into US Spot ETFs",
-          "type": "viewpoint1",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_c11e3cf51b_1",
-          "summary": "Improved institutional demand supports the market, but weak spot activity continues to limit momentum. Photo Credit: Unsplash/Shubham Dhage Bitcoin traded near Rs. 61.1 lakh on Wednesday as the cryptocurrency market showed signs of recovery around this level after buyers returned and briefly pushed Bitcoin towards Rs. Ethereum (ETH) was trading near Rs.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "sourceDomain": "gadgets360.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "type": "viewpoint2",
-          "sourceName": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "id": "p_art_c11e3cf51b_2",
-          "summary": "Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774. Bitcoin spot ETF inflows rebound, $487 million enters in two days - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "digitaltoday.co.kr",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/cryptomarkets19082026_shubhamdhage_unsplash_main_1787118179436.png"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T07:50:27.248948+00:00",
-      "id": "art_0022614d3f",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
-          "type": "viewpoint1",
-          "sourceName": "Fortune",
-          "id": "p_art_e16f8f482d_1",
-          "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "sourceDomain": "fortune.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
-          "type": "viewpoint2",
-          "sourceName": "The Next Web",
-          "id": "p_art_e16f8f482d_2",
-          "summary": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web. Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "thenextweb.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2220872848-e1787082939234.jpg?resize=1200,600"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticke",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T07:50:26.250099+00:00",
-      "id": "art_024d54d5d5",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Trending News: \u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticke",
-          "type": "viewpoint1",
-          "sourceName": "Hindustan Times Trending",
-          "id": "p_art_f671927a31_1",
-          "summary": "\u2018Having an Indian passport is sad\u2019: Founder after being grilled over hotels, cash, return ticket in Timor Leste An entrepreneur has claimed that he was stopped for additional questioning because of his Indian passport after landing in the tiny nation of Timor Leste.",
-          "quoteAuthor": "",
-          "biasTag": "Trending News",
-          "sourceDomain": "hindustantimes.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having An Indian",
-          "type": "viewpoint2",
-          "sourceName": "News18",
-          "id": "p_art_f671927a31_2",
-          "summary": "Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having An Indian Passport I - News18. Founder Says He Was Grilled In Timor-Leste Over Hotel, Cash And Return Ticket: \u2018Having An Indian Passport I - News18",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "news18.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/Manoj_Ahirwar_1787122615834_1787122628528_11bfd5e1-a7da-46f5-93aa-08d2afe1f7b9.png"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T19:33:35.419088+00:00",
-      "id": "art_00c0315c72",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
-          "type": "viewpoint1",
-          "sourceName": "Forbes Business",
-          "id": "p_art_fdf2a05b3a_1",
-          "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - ",
-          "type": "viewpoint2",
-          "sourceName": "Vinanet",
-          "id": "p_art_fdf2a05b3a_2",
-          "summary": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet. Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "vinanet.vn",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/66a06830498293a95d042a3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T18:50:23.628512+00:00",
-      "id": "art_00b08c0bd2",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_4159bf9062_1",
-          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
-          "type": "viewpoint2",
-          "sourceName": "A News",
-          "id": "p_art_4159bf9062_2",
-          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "anews.com.tr",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/r516jmt4_jeff-bezos_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T16:40:10.775328+00:00",
-      "id": "art_017a8b3df3",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Work Culture & Innovation: The White House wants private companies to hack cybercriminals. What could go wrong?",
-          "type": "viewpoint1",
-          "sourceName": "Fast Company",
-          "id": "p_art_83d7ca483b_1",
-          "summary": "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "sourceDomain": "fastcompany.com",
-          "quote": "",
-          "sourceCredibility": 90,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Trump administration wants to allow companies to hack foreign cybercriminals - NPR",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Journalistic Reporting: Trump administration wants to allow companies to hack foreign cybercriminals - NPR",
-          "type": "viewpoint2",
-          "sourceName": "NPR",
-          "id": "p_art_83d7ca483b_2",
-          "summary": "<p class=\"wp-block-paragraph\">The White House last week made some drastic changes to federal hacking policy, issuing a presidential memorandum that allows vetted private companies to initiate cyberattacks against hacker groups.",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "npr.org",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "The White House wants private companies to hack cybercriminals. What could go wrong?",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91590550-private-firms-will-now-be-carrying-out-cyberattacks-for-white-house.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T15:39:18.472715+00:00",
-      "id": "art_005f4dccfe",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Home Depot posts solid 2nd quarter gains, but housing slump leaves outlook unchanged for rest o",
-          "type": "viewpoint1",
-          "sourceName": "Fast Company",
-          "id": "p_art_1ba429344a_1",
-          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "sourceDomain": "fastcompany.com",
-          "quote": "",
-          "sourceCredibility": 90,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Lowe's Q2 Earnings: What HD and LOW Say About the U.S.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Home Depot vs. Lowe's Q2 Earnings: What HD and LOW Say About the U.S. Consumer - TradingView",
-          "type": "viewpoint2",
-          "sourceName": "TradingView",
-          "id": "p_art_1ba429344a_2",
-          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "tradingview.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "title": "Home Depot posts solid 2nd quarter gains, but housing slump leaves outlook unchanged for rest o",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/AP26230361999609.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Mumbai Food Safety Crackdown: FDA Suspends Licences Of Chembur Zepto, Otters Club, 3 Others. Mumbai FDA cracks down on Zepto, clubs, restaurants over food safety violations.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T14:41:48.009576+00:00",
-      "id": "art_01abf79c09",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Mumbai FDA cracks down on Zepto, clubs, restaurants over food safety violations.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Indian Corporate & Regulatory: Mumbai Food Safety Crackdown: FDA Suspends Licences Of Chembur Zepto, Otters Club, 3 Othe",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_073d557d38_1",
-          "summary": "Mumbai Food Safety Crackdown: FDA Suspends Licences Of Chembur Zepto, Otters Club, 3 Others. Mumbai FDA cracks down on Zepto, clubs, restaurants over food safety violations.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Cockroaches in kitchen, \u2018unsafe\u2019 food storage: FDA suspends food licences of more Mumbai eateries - The Hindu",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Independent National: Cockroaches in kitchen, \u2018unsafe\u2019 food storage: FDA suspends food licences of more Mumbai eateries ",
-          "type": "viewpoint2",
-          "sourceName": "The Hindu",
-          "id": "p_art_073d557d38_2",
-          "summary": "Cockroaches in kitchen, \u2018unsafe\u2019 food storage: FDA suspends food licences of more Mumbai eateries - The Hindu. Cockroaches in kitchen, \u2018unsafe\u2019 food storage: FDA suspends food licences of more Mumbai eateries - The Hindu",
-          "quoteAuthor": "",
-          "biasTag": "Independent National",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Mumbai Food Safety Crackdown: FDA Suspends Licences Of Chembur Zepto, Otters Club, 3 Others",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/sua6hbbs_fda_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Phone by Google version 234.0.9 reportedly includes a reference to the Scam Detection feature. Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid potential scams during phone calls, could soon be available in another Android smartphone brand.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T14:41:47.334111+00:00",
-      "id": "art_00f7957341",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Vivo Phones Could Get Google\u2019s Scam Detection Feature, Suggests APK Teardown",
-          "type": "viewpoint1",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_09456c14ec_1",
-          "summary": "Phone by Google version 234.0.9 reportedly includes a reference to the Scam Detection feature. Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid potential scams during phone calls, could soon be available in another Android smartphone brand.",
-          "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "sourceDomain": "gadgets360.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
-          "type": "viewpoint2",
-          "sourceName": "GSMArena.com",
-          "id": "p_art_09456c14ec_2",
-          "summary": "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com. Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "gsmarena.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "title": "Vivo Phones Could Get Google\u2019s Scam Detection Feature, Suggests APK Teardown",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.gadgets360cdn.com/large/scam_detection_google_1787057509228.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "Maternity leave for third child of women government employees raised to 365 days. Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Maternity leave for third child of women government employees raised to 365 days",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T13:00:31.861759+00:00",
-      "id": "art_004b155937",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Women government employees are now granted 365 days of maternity leave for their first.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Maternity leave for third child of women government employees raised to 365 days",
-          "type": "viewpoint1",
-          "sourceName": "The Hindu National",
-          "id": "p_art_c4a5637c16_1",
-          "summary": "Maternity leave for third child of women government employees raised to 365 days. Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
-          "type": "viewpoint2",
-          "sourceName": "NDTV",
-          "id": "p_art_c4a5637c16_2",
-          "summary": "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV. Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/mhbmya/article71360475.ece/alternates/LANDSCAPE_1200/DSC_1606.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "BJP's Team Nitin Nabin In Place, Why Government May Now Opt For A Reshuffle",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T13:00:31.211854+00:00",
-      "id": "art_0064149e48",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "It is believed that a reshuffle could take place in view of the coming.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "BJP's Team Nitin Nabin In Place, Why Government May Now Opt For A Reshuffle",
-          "type": "viewpoint1",
+          "summary": "The Delhi High Court on Thursday questioned the Centre for its failure to respond, even after a year, to a petition seeking recognition of same-sex couples as medical representatives during medical treatment.",
+          "id": "p_art_34714c259c_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_f7750b00e7_1",
-          "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "BJP\u2019s New Team Signals Trouble Ahead of 2027 Polls - Frontline Magazine",
+            "Law does not bar live-in relationship between two men: Delhi HC in plea to.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "BJP\u2019s New Team Signals Trouble Ahead of 2027 Polls - Frontline Magazine",
+          "stanceTitle": "Law does not bar live-in relationship between two men: Delhi HC in plea to let queer partners give medical consent - Bar",
           "type": "viewpoint2",
-          "sourceName": "The Hindu",
-          "id": "p_art_f7750b00e7_2",
-          "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
+          "summary": "Law does not bar live-in relationship between two men: Delhi HC in plea to let queer partners give medical consent - Bar and Bench. Law does not bar live-in relationship between two men: Delhi HC in plea to let queer partners give medical consent - Bar and Bench",
+          "id": "p_art_34714c259c_2",
+          "sourceName": "Bar and Bench",
           "quoteAuthor": "",
-          "biasTag": "Independent National",
-          "sourceDomain": "frontline.thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2024-08/8tl0dqd8_north-block_625x300_07_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Trump's Approval Rating Falls To Lowest Level of His Presidency: Poll. Trump's approval hits a new low at 33% as Iran war and rising costs weigh on voters",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Trump's Approval Rating Falls To Lowest Level of His Presidency: Poll",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T11:33:44.580172+00:00",
-      "id": "art_01237377a8",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Trump's approval hits a new low at 33% as Iran war and rising costs weigh on voters",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Indian Corporate & Regulatory: Trump's Approval Rating Falls To Lowest Level of His Presidency: Poll",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_fa259b15c2_1",
-          "summary": "Trump's Approval Rating Falls To Lowest Level of His Presidency: Poll. Trump's approval hits a new low at 33% as Iran war and rising costs weigh on voters",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Global Wire: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
-          "type": "viewpoint2",
-          "sourceName": "Reuters",
-          "id": "p_art_fa259b15c2_2",
-          "summary": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters. EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
-          "quoteAuthor": "",
-          "biasTag": "Global Wire",
-          "sourceDomain": "reuters.com",
-          "quote": "",
-          "sourceCredibility": 98,
-          "fullMarkdownContent": ""
+          "sourceDomain": "barandbench.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
+      "readTimeMinutes": 2,
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:46.982134+00:00",
+      "id": "art_34714c259c",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "'Why Will Law Not Allow Live-In Between Same-Sex Couples?' Court Asks Centre",
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/i47ore5k_trump_625x300_18_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://i.ndtvimg.com/i/2018-01/delhi-high-court_650x400_51516587873.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "videoDuration": "02:45",
@@ -1111,57 +1111,57 @@
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "ED raids underway in Keralam in CMRL pay-off case involving Pinarayi Vijayan\u2019s daughter. Raids in Kozhikode are a follow-up to searches conducted on May 27 at Pinarayi\u2019s then rented house in Thiruvananthapuram, his ancestral home in Kannur, and residence of former Public Works Minister and Ms.",
+      "summary": "The Central Consumer Protection Authority (CCPA) has imposed a Rs 1 lakh penalty on Amazon Seller Services, the marketplace arm of e-commerce major Amazon, for hosting misleading listings that sold ordinary sweets as \"Shri Ram Mandir Ayodhya Prasad\".",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T06:58:57.438431+00:00",
-      "id": "art_015392d361",
       "perspectives": [
         {
           "keyPoints": [
-            "Raids in Kozhikode are a follow-up to searches conducted on May 27 at Pinarayi\u2019s.",
-            "Key analytical takeaway and operational overview."
+            "A two-member bench of the central consumer regulator found that Amazon, on its e-commerce.",
+            "\"The CCPA hereby imposes a penalty of Rs 1,00,000/- on the opposite party (Amazon."
           ],
-          "stanceTitle": "Public Interest & Editorial: ED raids underway in Keralam in CMRL pay-off case involving Pinarayi Vijayan\u2019s daughter",
+          "stanceTitle": "Amazon Fined Rs 1 Lakh For Selling Ordinary Sweets As \"Ram Mandir Prasad\"",
           "type": "viewpoint1",
-          "sourceName": "The Hindu National",
-          "id": "p_art_dec6b4685a_1",
-          "summary": "ED raids underway in Keralam in CMRL pay-off case involving Pinarayi Vijayan\u2019s daughter. Raids in Kozhikode are a follow-up to searches conducted on May 27 at Pinarayi\u2019s then rented house in Thiruvananthapuram, his ancestral home in Kannur, and residence of former Public Works Minister and Ms.",
+          "summary": "The Central Consumer Protection Authority (CCPA) has imposed a Rs 1 lakh penalty on Amazon Seller Services, the marketplace arm of e-commerce major Amazon, for hosting misleading listings that sold ordinary sweets as \"Shri Ram Mandir Ayodhya Prasad\".",
+          "id": "p_art_fc0498f4fd_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "Third round of ED raids underway in CMRL-Exalogic case involving T Veena - The South First",
+            "CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Journalistic Reporting: Third round of ED raids underway in CMRL-Exalogic case involving T Veena - The South First",
+          "stanceTitle": "CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times",
           "type": "viewpoint2",
-          "sourceName": "The South First",
-          "id": "p_art_dec6b4685a_2",
-          "summary": "Third round of ED raids underway in CMRL-Exalogic case involving T Veena - The South First. Third round of ED raids underway in CMRL-Exalogic case involving T Veena - The South First",
+          "summary": "CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times. CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times",
+          "id": "p_art_fc0498f4fd_2",
+          "sourceName": "Economic Times",
           "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "sourceDomain": "thesouthfirst.com",
+          "biasTag": "Business & Economy",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 93,
+          "sourceDomain": "economictimes.indiatimes.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:46.855479+00:00",
+      "id": "art_fc0498f4fd",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "title": "ED raids underway in Keralam in CMRL pay-off case involving Pinarayi Vijayan\u2019s daughter",
+      "title": "Amazon Fined Rs 1 Lakh For Selling Ordinary Sweets As \"Ram Mandir Prasad\"",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/7epy5y/article71359247.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-18%20at%2012.14.59.jpeg"
+      "heroImageUrl": "https://c.ndtvimg.com/2022-11/sunsqfu_amazon-reuters_625x300_15_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
       "videoDuration": "02:45",
@@ -1170,59 +1170,59 @@
         "Verified News",
         "Trending"
       ],
-      "summary": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days. The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas\u2019s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Actor and UNICEF India national ambassador Ayushmann Khurrana recently visited a village in Jalna in Maharashtra, where he interacted with children and local communities as part of a UNICEF-supported Kinship and Community Care programme. The initiative aims to protect children affected by seasonal migration by providing family- and community-based care.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-18T01:42:09.150265+00:00",
-      "id": "art_0087e51a1d",
       "perspectives": [
         {
           "keyPoints": [
-            "The comments came as Jared Kushner and Netanyahu agreed that an American general would.",
-            "Key analytical takeaway and operational overview."
+            "The initiative aims to protect children affected by seasonal migration by providing family- and.",
+            "He also met and interacted with children from a primary school in Chendai Tepli."
           ],
-          "stanceTitle": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days",
+          "stanceTitle": "Ayushmann Khurrana Spotlights Children Affected by Seasonal Migration, Calls For Care",
           "type": "viewpoint1",
-          "sourceName": "The Hindu World",
-          "id": "p_art_d097bc132d_1",
-          "summary": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days. The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas\u2019s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
+          "summary": "Actor and UNICEF India national ambassador Ayushmann Khurrana recently visited a village in Jalna in Maharashtra, where he interacted with children and local communities as part of a UNICEF-supported Kinship and Community Care programme. The initiative aims to protect children affected by seasonal migration by providing family- and community-based care.",
+          "id": "p_art_4ca0901b3f_1",
+          "sourceName": "NDTV Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Institutional Diplomacy",
-          "sourceDomain": "thehindu.com",
+          "biasTag": "National Headlines",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 94,
+          "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
+            "Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
+          "stanceTitle": "Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration - Bollywood Hung",
           "type": "viewpoint2",
-          "sourceName": "WION",
-          "id": "p_art_d097bc132d_2",
-          "summary": "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION. 'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
+          "summary": "Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration - Bollywood Hungama. Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration - Bollywood Hungama",
+          "id": "p_art_4ca0901b3f_2",
+          "sourceName": "Bollywood Hungama",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
-          "sourceDomain": "wionews.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "bollywoodhungama.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:46.699245+00:00",
+      "id": "art_4ca0901b3f",
+      "isLiked": false,
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "title": "Ayushmann Khurrana Spotlights Children Affected by Seasonal Migration, Calls For Care",
       "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/yydtvx/article71358085.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/91l6q3dk_ayushman-khurrana_625x300_20_August_26.jpeg"
     }
   ]
 }

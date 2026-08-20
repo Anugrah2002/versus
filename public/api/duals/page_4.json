@@ -1,840 +1,535 @@
 {
   "page": 4,
-  "total_pages": 6,
-  "total_articles": 110,
+  "total_pages": 7,
+  "total_articles": 138,
   "has_more": true,
   "articles": [
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
+      "summary": "The Hunting Wives, originally a Starz production, proved to be a huge hit on Netflix when it came to the service. 1.6 billion minutes watched, hitting #1 in the US, and staying five weeks on the Netflix top 10 list.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Sajjan Kumar had been in custody since December 2018, when he surrendered following the.",
-            "Key analytical takeaway and operational overview."
+            "1.6 billion minutes watched, hitting #1 in the US, and staying five weeks on the Netflix top 10 list.",
+            "That obviously came with a season 2 renewal, and now Netflix has unveiled a."
           ],
-          "stanceTitle": "Sajjan Kumar: From Congress veteran to convict",
+          "stanceTitle": "\u2018The Hunting Wives\u2019 Season 2 Reveals A 2026 Release Date On Netflix",
           "type": "viewpoint1",
-          "summary": "Sajjan Kumar: From Congress veteran to convict. Sajjan Kumar had been in custody since December 2018, when he surrendered following the Delhi High Court\u2019s decision to overturn his acquittal in a case relating to the killing of five members of a Sikh family and the burning of a gurdwara.",
-          "id": "p_art_e73d1f8637_1",
-          "sourceName": "The Hindu National",
+          "summary": "The Hunting Wives, originally a Starz production, proved to be a huge hit on Netflix when it came to the service. 1.6 billion minutes watched, hitting #1 in the US, and staying five weeks on the Netflix top 10 list.",
+          "id": "p_art_5503a01084_1",
+          "sourceName": "Forbes Business",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
+          "biasTag": "Wealth & Entrepreneurship",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
         },
         {
           "keyPoints": [
-            "From 3-time Congress MP to 1984 riots convict - The Times of India",
+            "48 Of The Most Anticipated New & Returning Scripted Shows of 2026 - Deadline",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Who was Sajjan Kumar? From 3-time Congress MP to 1984 riots convict - The Times of India",
+          "stanceTitle": "48 Of The Most Anticipated New & Returning Scripted Shows of 2026 - Deadline",
           "type": "viewpoint2",
-          "summary": "From 3-time Congress MP to 1984 riots convict - The Times of India. From 3-time Congress MP to 1984 riots convict - The Times of India",
-          "id": "p_art_e73d1f8637_2",
-          "sourceName": "Times of India",
+          "summary": "48 Of The Most Anticipated New & Returning Scripted Shows of 2026 - Deadline. 48 Of The Most Anticipated New & Returning Scripted Shows of 2026 - Deadline",
+          "id": "p_art_5503a01084_2",
+          "sourceName": "Deadline",
           "quoteAuthor": "",
-          "biasTag": "Mainstream National",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "deadline.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.091922+00:00",
+      "id": "art_5503a01084",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "\u2018The Hunting Wives\u2019 Season 2 Reveals A 2026 Release Date On Netflix",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Topline Spectrum operator Charter Communications and Cox closed their $34.5 billion deal to merge into a single cable giant on Thursday, and announced Cox customers can expect access to Spectrum plans beginning in mid-September.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Key Facts Charter was already the largest cable provider in the country with 31.",
+            "Charter acquired the privately-owned Cox with a combination of stock and $4 billion in."
+          ],
+          "stanceTitle": "Charter Communications Closes $34.5 Billion Merger With Cox\u2014Forming New Cable Giant",
+          "type": "viewpoint1",
+          "summary": "Topline Spectrum operator Charter Communications and Cox closed their $34.5 billion deal to merge into a single cable giant on Thursday, and announced Cox customers can expect access to Spectrum plans beginning in mid-September.",
+          "id": "p_art_299c396652_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        },
+        {
+          "keyPoints": [
+            "New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty - The Hollywood Reporter",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty - The Hollywood Reporter",
+          "type": "viewpoint2",
+          "summary": "New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty - The Hollywood Reporter. New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty - The Hollywood Reporter",
+          "id": "p_art_299c396652_2",
+          "sourceName": "The Hollywood Reporter",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hollywoodreporter.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.082348+00:00",
+      "id": "art_299c396652",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Charter Communications Closes $34.5 Billion Merger With Cox\u2014Forming New Cable Giant",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, concedes pessimistic strategist. The rise in bond yields renders markets more vulnerable to bad news, observes the \u201cpermabear\u201d Albert Edwards of Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The rise in bond yields renders markets more vulnerable to bad news, observes the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, concedes pessimistic strategi",
+          "type": "viewpoint1",
+          "summary": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, concedes pessimistic strategist. The rise in bond yields renders markets more vulnerable to bad news, observes the \u201cpermabear\u201d Albert Edwards of Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.",
+          "id": "p_art_e7505d33b4_1",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        },
+        {
+          "keyPoints": [
+            "Economic Factors Leading to World War II: A Detailed Analysis - Investopedia",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Economic Factors Leading to World War II: A Detailed Analysis - Investopedia",
+          "type": "viewpoint2",
+          "summary": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, concedes pessimistic strategist. The rise in bond yields renders markets more vulnerable to bad news, observes the \u201cpermabear\u201d Albert Edwards of Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.",
+          "id": "p_art_e7505d33b4_2",
+          "sourceName": "Investopedia",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "investopedia.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.065823+00:00",
+      "id": "art_e7505d33b4",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, conc",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-22276124"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The energy market\u2019s rising \u2018crack spread\u2019 is threatening to break the American consumer. The energy market is sending a warning to cash-strapped consumers: Don\u2019t expect prices at the pump to come down anytime soon.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The energy market is sending a warning to cash-strapped consumers: Don\u2019t expect prices at.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "The energy market\u2019s rising \u2018crack spread\u2019 is threatening to break the American consumer",
+          "type": "viewpoint1",
+          "summary": "The energy market\u2019s rising \u2018crack spread\u2019 is threatening to break the American consumer. The energy market is sending a warning to cash-strapped consumers: Don\u2019t expect prices at the pump to come down anytime soon.",
+          "id": "p_art_07e74ce145_1",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        },
+        {
+          "keyPoints": [
+            "Singapore Jet Kerosene (Platts) Dubai (Platts) Crack Spread Futures (Aug 2027) Trade Ideas \u2014.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Singapore Jet Kerosene (Platts) Dubai (Platts) Crack Spread Futures (Aug 2027) Trade Ideas \u2014 NYMEX:ASDQ2027 - TradingVie",
+          "type": "viewpoint2",
+          "summary": "Singapore Jet Kerosene (Platts) Dubai (Platts) Crack Spread Futures (Aug 2027) Trade Ideas \u2014 NYMEX:ASDQ2027 - TradingView. Singapore Jet Kerosene (Platts) Dubai (Platts) Crack Spread Futures (Aug 2027) Trade Ideas \u2014 NYMEX:ASDQ2027 - TradingView",
+          "id": "p_art_07e74ce145_2",
+          "sourceName": "TradingView",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "tradingview.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:48.064155+00:00",
+      "id": "art_07e74ce145",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "The energy market\u2019s rising \u2018crack spread\u2019 is threatening to break the American consumer",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-39978890"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "<p class=\"wp-block-paragraph\">An <a href=\"https://www.fastcompany.com/91586979/if-you-run-solo-business-heres-how-ai-agents-can-help-you\">AI agent</a> deployed inside a bank or hospital system does not sit still. It queries databases, moves files, and calls other software on its own schedule. To do any of that, it needs credentials, just like an employee does.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It queries databases, moves files, and calls other software on its own schedule.",
+            "To do any of that, it needs credentials, just like an employee does."
+          ],
+          "stanceTitle": "Palo Alto Networks and NTT DATA team up on a $1 billion AI security push",
+          "type": "viewpoint1",
+          "summary": "<p class=\"wp-block-paragraph\">An <a href=\"https://www.fastcompany.com/91586979/if-you-run-solo-business-heres-how-ai-agents-can-help-you\">AI agent</a> deployed inside a bank or hospital system does not sit still. It queries databases, moves files, and calls other software on its own schedule. To do any of that, it needs credentials, just like an employee does.",
+          "id": "p_art_4150d66456_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 90,
-          "sourceDomain": "timesofindia.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.300794+00:00",
-      "id": "art_e73d1f8637",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Sajjan Kumar: From Congress veteran to convict",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/sc0pl6/article71368894.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000155B.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The denial came two days after Syria accused Israel of hitting a disused military.",
-            "Israel said a Turkish military delegation had recently visited the site, with a Syrian."
-          ],
-          "stanceTitle": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
-          "type": "viewpoint1",
-          "summary": "Turkey on Thursday denied having any military presence at an air base in northern Syria struck by Israel earlier this week, and vowed to continue \"resolutely\" supporting Syrian sovereignty.",
-          "id": "p_art_8c8c7b49a1_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
+          "sourceDomain": "fastcompany.com"
         },
         {
           "keyPoints": [
-            "The denial came two days after Syria accused Israel of hitting a disused military.",
+            "NTT DATA and Palo Alto Networks Sign Global Strategic Alliance to Accelerate Secure AI.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Turkiye denies military visit to Syria air base hit by Israel",
+          "stanceTitle": "NTT DATA and Palo Alto Networks Sign Global Strategic Alliance to Accelerate Secure AI Transformation - NTT, Inc.",
           "type": "viewpoint2",
-          "summary": "Turkiye denies military visit to Syria air base hit by Israel. The denial came two days after Syria accused Israel of hitting a disused military air base near the northwestern city of Aleppo that was damaged during the civil war",
-          "id": "p_art_8c8c7b49a1_2",
-          "sourceName": "The Hindu World",
-          "quoteAuthor": "",
-          "biasTag": "Institutional Diplomacy",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.260489+00:00",
-      "id": "art_8c8c7b49a1",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "'Won't Fall Into Netanyahu's Trap': Turkey Denies Visit To Syria Air Base",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/dlh1b2/article71369697.ece/alternates/LANDSCAPE_1200/2026-08-20T125909Z_971278450_RC2B2NAQBJ9Q_RTRMADP_3_ISRAEL-SYRIA-TURKEY-SECURITY-MINISTRY.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "As emergency teams work to rescue those trapped, the rains and cool weather have.",
-            "The blaze in Belgium erupted following an intense heatwave with temperatures reaching 37 degrees."
-          ],
-          "stanceTitle": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
-          "type": "viewpoint1",
-          "summary": "Over the past couple of weeks, firefighters have been working round the clock, tackling Belgium's largest wildfire on record. As emergency teams work to rescue those trapped, the rains and cool weather have brought in some respite in the country.",
-          "id": "p_art_d1e06ec26c_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
-          "type": "viewpoint2",
-          "summary": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review. What\u2019s behind this summer\u2019s heat, and why 2027 could be worse - MIT Technology Review",
-          "id": "p_art_d1e06ec26c_2",
-          "sourceName": "MIT Technology Review",
+          "summary": "NTT DATA and Palo Alto Networks Sign Global Strategic Alliance to Accelerate Secure AI Transformation - NTT, Inc.. NTT DATA and Palo Alto Networks Sign Global Strategic Alliance to Accelerate Secure AI Transformation - NTT, Inc.",
+          "id": "p_art_4150d66456_2",
+          "sourceName": "NTT, Inc.",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "technologyreview.com"
+          "sourceDomain": "services.global.ntt"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.216863+00:00",
-      "id": "art_d1e06ec26c",
+      "publishedAt": "2026-08-20T16:38:48.062683+00:00",
+      "id": "art_4150d66456",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Explained: El Nino's Role in Europe's Extreme Summer Heat and Wildfires",
+      "category": "Work & Economy",
+      "title": "Palo Alto Networks and NTT DATA team up on a $1 billion AI security push",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/38g55go8_uk-wildfire_625x300_14_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
+      "summary": "<p class=\"wp-block-paragraph\">It costs about $5 and takes roughly 15 minutes to train an <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> model that can help determine where America&#8217;s next data centers should be built.</p> <p class=\"wp-block-paragraph\">That&#8217;s not a rounding error.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The incident took place Thursday afternoon on a Churchgate-Borivali local between Mahim and Bandra stations.",
-            "The victim suffered severe injuries after falling from the moving train."
+            "The world is debating hundred-billion-dollar AI investments and warning that we need fleets of.",
+            "Before we build another plant, we should figure out how much of the grid."
           ],
-          "stanceTitle": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
+          "stanceTitle": "Can AI solve the energy problem it created?",
           "type": "viewpoint1",
-          "summary": "- A 62-year-old specially-abled passenger died after falling from a moving Mumbai local train - The incident occurred on a Churchgate-Borivali train between Mahim and Bandra stations Thursday - An argument over seating in the Divyangjan coach led to a physical confrontation and the push A 62-year-old specially-abled passenger died after he was allegedly pushed.",
-          "id": "p_art_b5221c6407_1",
-          "sourceName": "NDTV Top Stories",
+          "summary": "<p class=\"wp-block-paragraph\">It costs about $5 and takes roughly 15 minutes to train an <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> model that can help determine where America&#8217;s next data centers should be built.</p> <p class=\"wp-block-paragraph\">That&#8217;s not a rounding error.",
+          "id": "p_art_218181be2e_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "National Headlines",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         },
         {
           "keyPoints": [
-            "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A.",
+            "AI's Energy Paradox: Can Artificial Intelligence Help Solve The Power Crisis It Is Creating?",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
+          "stanceTitle": "AI's Energy Paradox: Can Artificial Intelligence Help Solve The Power Crisis It Is Creating? - BW Businessworld",
           "type": "viewpoint2",
-          "summary": "62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18. 62-Year-Old Dies After Being Pushed From Mumbai Train, Accused Says He Was 'Chasing A Crow' | India News - News18",
-          "id": "p_art_b5221c6407_2",
-          "sourceName": "News18",
+          "summary": "AI's Energy Paradox: Can Artificial Intelligence Help Solve The Power Crisis It Is Creating? AI's Energy Paradox: Can Artificial Intelligence Help Solve The Power Crisis It Is Creating?",
+          "id": "p_art_218181be2e_2",
+          "sourceName": "BW Businessworld",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "news18.com"
+          "sourceDomain": "businessworld.in"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.205777+00:00",
-      "id": "art_b5221c6407",
+      "publishedAt": "2026-08-20T16:38:48.050059+00:00",
+      "id": "art_218181be2e",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
+      "category": "Work & Economy",
+      "title": "Can AI solve the energy problem it created?",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/f9hoc308_mumbai-locals_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
+      "summary": "Treasury data confirmed last night that U.S. national debt now stands at $40 trillion, with the government now expected to spend more than $1 trillion in interest on the debt in the fiscal year of 2026.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Police first received word of a JCB theft in the Khallikote police station area on August 14.",
-            "What followed was an extended pursuit, with teams from four different police stations, Khallikote,."
+            "national debt now stands at $40 trillion, with the government now expected to spend.",
+            "Debt hawks have been warning policymakers for some time that the nation\u2019s fiscal path."
           ],
-          "stanceTitle": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
+          "stanceTitle": "As U.S. debt hits $40 trillion, Americans will foot the bill: $700 a month for retirees, and homebuyers could take a $53",
           "type": "viewpoint1",
-          "summary": "- A stolen JCB sparked a dramatic chase in Odisha's Ganjam district - The chase spanned four police limits: Khallikote, Rambha, Purushottampur, and Kabisuryanagar - The suspect broke through multiple police barricades while driving the stolen JCB at high speed A stolen JCB, a string of police barricades and a chase that stretched across four.",
-          "id": "p_art_f2db45277d_1",
-          "sourceName": "NDTV Top Stories",
+          "summary": "Treasury data confirmed last night that U.S. national debt now stands at $40 trillion, with the government now expected to spend more than $1 trillion in interest on the debt in the fiscal year of 2026.",
+          "id": "p_art_934fb13dce_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "National Headlines",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         },
         {
           "keyPoints": [
-            "#manchestereveningnews #fails #cctv - facebook.com.",
-            "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting."
+            "Here\u2019s why that matters - CNN.",
+            "National debt reaches grim $40 trillion milestone."
           ],
-          "stanceTitle": "Manchester Evening News. . Oops! \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningn",
+          "stanceTitle": "National debt reaches grim $40 trillion milestone. Here\u2019s why that matters - CNN",
           "type": "viewpoint2",
-          "summary": "\ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com. \ud83e\udd26\u200d\u2640\ufe0f The postie delivered more than what this driver was expecting. #manchestereveningnews #fails #cctv - facebook.com",
-          "id": "p_art_f2db45277d_2",
-          "sourceName": "facebook.com",
+          "summary": "National debt reaches grim $40 trillion milestone. Here\u2019s why that matters - CNN. National debt reaches grim $40 trillion milestone. Here\u2019s why that matters - CNN",
+          "id": "p_art_934fb13dce_2",
+          "sourceName": "CNN",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "facebook.com"
+          "sourceDomain": "cnn.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.148481+00:00",
-      "id": "art_f2db45277d",
+      "publishedAt": "2026-08-20T16:38:47.955559+00:00",
+      "id": "art_934fb13dce",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "On Camera, Man Drives Stolen JCB Through Police Barricades In Dramatic Chase",
+      "category": "Work & Economy",
+      "title": "As U.S. debt hits $40 trillion, Americans will foot the bill: $700 a month for retirees, and ho",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/df0fa5qo_jcb_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287743880-e1787225569890.jpg?resize=1200,600"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Jailed former Pakistani Prime Minister Imran Khan would not confront the military or army chief Asim Munir if freed, one of his closest aides told Reuters, portraying Munir as able to extend a \"healing hand\" after a legal breakthrough this week.",
+      "summary": "Florida Democratic voters delivered another shock upset to the party establishment by nominating state Rep. Angie Nixon, a democratic socialist, over Alex Vindman, a moderate former national security professional who played a central role in President Donald Trump\u2019s first impeachment.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The comments, which came after Pakistan's top court ordered Khan to be moved to.",
-            "Its supporters have for years rallied against Munir, who is seen by them as."
+            "Angie Nixon, a democratic socialist, over Alex Vindman, a moderate former national security professional.",
+            "Democrats have hoped to mount a comeback in the diverse, populous and economically dynamic."
           ],
-          "stanceTitle": "Imran Khan's Aide Signals Possible Reconciliation With Pak Military: Report",
+          "stanceTitle": "Another Democratic primary, another shocking DSA upset as Angie Nixon adds to moderates\u2019 heartburn over seemingly unstop",
           "type": "viewpoint1",
-          "summary": "Jailed former Pakistani Prime Minister Imran Khan would not confront the military or army chief Asim Munir if freed, one of his closest aides told Reuters, portraying Munir as able to extend a \"healing hand\" after a legal breakthrough this week.",
-          "id": "p_art_5137495042_1",
-          "sourceName": "NDTV Top Stories",
+          "summary": "Florida Democratic voters delivered another shock upset to the party establishment by nominating state Rep. Angie Nixon, a democratic socialist, over Alex Vindman, a moderate former national security professional who played a central role in President Donald Trump\u2019s first impeachment.",
+          "id": "p_art_d95c50d30c_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "National Headlines",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         },
         {
           "keyPoints": [
-            "'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals...",
+            "Another democratic socialist victory \u2013 Angie Nixon in Florida \u2013 sends shock waves through.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals... - Moneycont",
+          "stanceTitle": "Another democratic socialist victory \u2013 Angie Nixon in Florida \u2013 sends shock waves through party establishment - The Guar",
           "type": "viewpoint2",
-          "summary": "'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals... 'If Imran Khan was released tomorrow...': Ex-PM would avoid military confrontation if freed, aide signals...",
-          "id": "p_art_5137495042_2",
-          "sourceName": "Moneycontrol",
-          "quoteAuthor": "",
-          "biasTag": "Financial Markets",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "moneycontrol.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.104836+00:00",
-      "id": "art_5137495042",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Imran Khan's Aide Signals Possible Reconciliation With Pak Military: Report",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2022-03/toipf60o_imran-khan-file-photo_625x300_12_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- Kishu Singh became an Indian Army lieutenant after 14 attempts at defence exams - He cleared the CDS exam in May after failing selection tests multiple times - His dream began at age nine, inspired by India's 2011 World Cup win and movie 'Border' It started as a sudden surge of patriotism after a.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Kishu Singh, 24, is now a lieutenant after cracking the Combined Defence Services (CDS) exam in May.",
-            "He had turned to CDS, a test conducted twice a year by the Union."
-          ],
-          "stanceTitle": "Inspired By Border When He Was 9, Bihar Man Realises Army Dream After 14 Attempts",
-          "type": "viewpoint1",
-          "summary": "- Kishu Singh became an Indian Army lieutenant after 14 attempts at defence exams - He cleared the CDS exam in May after failing selection tests multiple times - His dream began at age nine, inspired by India's 2011 World Cup win and movie 'Border' It started as a sudden surge of patriotism after a.",
-          "id": "p_art_f6803c2294_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "'If Dems get in, this will be America': Trump warns US of Spain-style border.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "'If Dems get in, this will be America': Trump warns US of Spain-style border chaos ahead of midterms - The Economic Time",
-          "type": "viewpoint2",
-          "summary": "'If Dems get in, this will be America': Trump warns US of Spain-style border chaos ahead of midterms - The Economic Times. 'If Dems get in, this will be America': Trump warns US of Spain-style border chaos ahead of midterms - The Economic Times",
-          "id": "p_art_f6803c2294_2",
-          "sourceName": "The Economic Times",
+          "summary": "Another democratic socialist victory \u2013 Angie Nixon in Florida \u2013 sends shock waves through party establishment - The Guardian. Another democratic socialist victory \u2013 Angie Nixon in Florida \u2013 sends shock waves through party establishment - The Guardian",
+          "id": "p_art_d95c50d30c_2",
+          "sourceName": "The Guardian",
           "quoteAuthor": "",
           "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "economictimes.com"
+          "sourceDomain": "theguardian.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.100966+00:00",
-      "id": "art_f6803c2294",
+      "publishedAt": "2026-08-20T16:38:47.953225+00:00",
+      "id": "art_d95c50d30c",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Inspired By Border When He Was 9, Bihar Man Realises Army Dream After 14 Attempts",
+      "category": "Work & Economy",
+      "title": "Another Democratic primary, another shocking DSA upset as Angie Nixon adds to moderates\u2019 heartb",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/flpv6hd_kishu-singh_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2290939639-e1787236641881.jpg?resize=1200,600"
     },
     {
       "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been in survival mode'. The man said that although he has achieved his professional goals, the journey has taken an emotional toll.",
+      "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The man said that although he has achieved his professional goals, the journey has taken an emotional toll.",
-            "Key analytical takeaway and operational overview."
+            "And the hype is already spilling into the real world: One U.S.",
+            "Army unit in Fort Stewart, Georgia is offering active-duty soldiers a four-day pass to."
           ],
-          "stanceTitle": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been in survival mode'",
+          "stanceTitle": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter week to steal cars in the lo",
           "type": "viewpoint1",
-          "summary": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been in survival mode'. The man said that although he has achieved his professional goals, the journey has taken an emotional toll.",
-          "id": "p_art_a534f56e85_1",
-          "sourceName": "Hindustan Times Trending",
+          "summary": "After a series of delays, Grand Theft Auto VI is expected to release later this year and be one of the biggest launches in video game history. And the hype is already spilling into the real world: One U.S.",
+          "id": "p_art_8bf1521629_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "Trending News",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "hindustantimes.com"
+          "sourceDomain": "fortune.com"
         },
         {
           "keyPoints": [
-            "India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat",
-            "Key analytical takeaway and operational overview."
+            "Here\u2019s why - The Indian Express.",
+            "Pakistan and Philippines announce 4-day work week."
           ],
-          "stanceTitle": "India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat",
+          "stanceTitle": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
           "type": "viewpoint2",
-          "summary": "India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat. India, Bangladesh Seek To Keep Economic Ties From Spiralling Amid Political Tensions - ETV Bharat",
-          "id": "p_art_a534f56e85_2",
-          "sourceName": "ETV Bharat",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "etvbharat.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:47.066527+00:00",
-      "id": "art_a534f56e85",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Indian man in US says visa uncertainty keeps him from buying home, starting family: 'I've been ",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/madhur_mehta_1787237611199_1787237617791_9a8ffe4f-3990-473f-970b-68c855f0f142.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Deepika Padukone could be joining Ranbir Kapoor and Alia Bhatt in Brahmastra 2. The actress is reportedly in talks with director Ayan Mukerji for the role of Amruta in the much-awaited sequel. While nothing has been officially confirmed yet, discussions are said to be underway.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The actress is reportedly in talks with director Ayan Mukerji for the role of.",
-            "While nothing has been officially confirmed yet, discussions are said to be underway."
-          ],
-          "stanceTitle": "Deepika To Join Ranbir And Alia In Brahmastra 2? Here's What We Know",
-          "type": "viewpoint1",
-          "summary": "Deepika Padukone could be joining Ranbir Kapoor and Alia Bhatt in Brahmastra 2. The actress is reportedly in talks with director Ayan Mukerji for the role of Amruta in the much-awaited sequel. While nothing has been officially confirmed yet, discussions are said to be underway.",
-          "id": "p_art_21fb2a912c_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2?",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2? - India Today",
-          "type": "viewpoint2",
-          "summary": "Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2? Deepika Padukone to join Ranbir Kapoor, Alia Bhatt in Ayan Mukerji's Brahmastra 2?",
-          "id": "p_art_21fb2a912c_2",
-          "sourceName": "India Today",
-          "quoteAuthor": "",
-          "biasTag": "National Perspective",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "indiatoday.in"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.996835+00:00",
-      "id": "art_21fb2a912c",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Deepika To Join Ranbir And Alia In Brahmastra 2? Here's What We Know",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://i.ndtvimg.com/i/2018-01/deepika-ndtv_650x400_61515925333.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The Delhi High Court on Thursday questioned the Centre for its failure to respond, even after a year, to a petition seeking recognition of same-sex couples as medical representatives during medical treatment.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The court orally observed that when people are allowed to enter into a live-in.",
-            "\"The law recognises a live-in relationship between a man and a woman."
-          ],
-          "stanceTitle": "'Why Will Law Not Allow Live-In Between Same-Sex Couples?' Court Asks Centre",
-          "type": "viewpoint1",
-          "summary": "The Delhi High Court on Thursday questioned the Centre for its failure to respond, even after a year, to a petition seeking recognition of same-sex couples as medical representatives during medical treatment.",
-          "id": "p_art_34714c259c_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Law does not bar live-in relationship between two men: Delhi HC in plea to.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Law does not bar live-in relationship between two men: Delhi HC in plea to let queer partners give medical consent - Bar",
-          "type": "viewpoint2",
-          "summary": "Law does not bar live-in relationship between two men: Delhi HC in plea to let queer partners give medical consent - Bar and Bench. Law does not bar live-in relationship between two men: Delhi HC in plea to let queer partners give medical consent - Bar and Bench",
-          "id": "p_art_34714c259c_2",
-          "sourceName": "Bar and Bench",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "barandbench.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.982134+00:00",
-      "id": "art_34714c259c",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "'Why Will Law Not Allow Live-In Between Same-Sex Couples?' Court Asks Centre",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://i.ndtvimg.com/i/2018-01/delhi-high-court_650x400_51516587873.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The Central Consumer Protection Authority (CCPA) has imposed a Rs 1 lakh penalty on Amazon Seller Services, the marketplace arm of e-commerce major Amazon, for hosting misleading listings that sold ordinary sweets as \"Shri Ram Mandir Ayodhya Prasad\".",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A two-member bench of the central consumer regulator found that Amazon, on its e-commerce.",
-            "\"The CCPA hereby imposes a penalty of Rs 1,00,000/- on the opposite party (Amazon."
-          ],
-          "stanceTitle": "Amazon Fined Rs 1 Lakh For Selling Ordinary Sweets As \"Ram Mandir Prasad\"",
-          "type": "viewpoint1",
-          "summary": "The Central Consumer Protection Authority (CCPA) has imposed a Rs 1 lakh penalty on Amazon Seller Services, the marketplace arm of e-commerce major Amazon, for hosting misleading listings that sold ordinary sweets as \"Shri Ram Mandir Ayodhya Prasad\".",
-          "id": "p_art_fc0498f4fd_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times",
-          "type": "viewpoint2",
-          "summary": "CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times. CCPA fines Amazon Rs 1 lakh for selling sweets as Ayodhya Ram Mandir prasad - The Economic Times",
-          "id": "p_art_fc0498f4fd_2",
-          "sourceName": "Economic Times",
-          "quoteAuthor": "",
-          "biasTag": "Business & Economy",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 93,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.855479+00:00",
-      "id": "art_fc0498f4fd",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Amazon Fined Rs 1 Lakh For Selling Ordinary Sweets As \"Ram Mandir Prasad\"",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2022-11/sunsqfu_amazon-reuters_625x300_15_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Actor and UNICEF India national ambassador Ayushmann Khurrana recently visited a village in Jalna in Maharashtra, where he interacted with children and local communities as part of a UNICEF-supported Kinship and Community Care programme. The initiative aims to protect children affected by seasonal migration by providing family- and community-based care.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The initiative aims to protect children affected by seasonal migration by providing family- and.",
-            "He also met and interacted with children from a primary school in Chendai Tepli."
-          ],
-          "stanceTitle": "Ayushmann Khurrana Spotlights Children Affected by Seasonal Migration, Calls For Care",
-          "type": "viewpoint1",
-          "summary": "Actor and UNICEF India national ambassador Ayushmann Khurrana recently visited a village in Jalna in Maharashtra, where he interacted with children and local communities as part of a UNICEF-supported Kinship and Community Care programme. The initiative aims to protect children affected by seasonal migration by providing family- and community-based care.",
-          "id": "p_art_4ca0901b3f_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration - Bollywood Hung",
-          "type": "viewpoint2",
-          "summary": "Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration - Bollywood Hungama. Ayushmann Khurrana visits Jalna; calls for safer childhoods for children affected by seasonal migration - Bollywood Hungama",
-          "id": "p_art_4ca0901b3f_2",
-          "sourceName": "Bollywood Hungama",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "bollywoodhungama.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.699245+00:00",
-      "id": "art_4ca0901b3f",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Ayushmann Khurrana Spotlights Children Affected by Seasonal Migration, Calls For Care",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/91l6q3dk_ayushman-khurrana_625x300_20_August_26.jpeg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "A major political and legal showdown over fiscal federalism is brewing with Chief Ministers of Congress-ruled states preparing to move the Supreme Court of India against the newly passed Mines and Minerals Development and Regulation Amendment Act, sources have said.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Top Congress sources said Chief Ministers from Telangana Revanth Reddy, Karnataka Chief Minister DK.",
-            "They also wish to challenge the constitutionality of the legislation passed during parliament's monsoon."
-          ],
-          "stanceTitle": "Congress-Ruled States To Challenge Mines Law In Top Court: Sources",
-          "type": "viewpoint1",
-          "summary": "A major political and legal showdown over fiscal federalism is brewing with Chief Ministers of Congress-ruled states preparing to move the Supreme Court of India against the newly passed Mines and Minerals Development and Regulation Amendment Act, sources have said.",
-          "id": "p_art_52373c4bc5_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald",
-          "type": "viewpoint2",
-          "summary": "Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald. Karnataka, Kerala, Telangana likely to challenge mines law amendments in SC - National Herald",
-          "id": "p_art_52373c4bc5_2",
-          "sourceName": "National Herald",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "nationalheraldindia.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.532766+00:00",
-      "id": "art_52373c4bc5",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Congress-Ruled States To Challenge Mines Law In Top Court: Sources",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/dgm5g8vc_lok-sabha-monsoon_625x300_20_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- A biker's motorcycle fell into a rainwater-filled pothole near Bengaluru's Gunjur area - A tanker ran over the bike but the man escaped injury by letting go and moving away - The tanker driver fled initially but was stopped; he had no license or number plate A biker had a narrow escape after his.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The rider, identified as Saurabh, who works with Walmart in Bengaluru, was riding through.",
-            "As he lost control, a tanker approaching from behind appeared to fail to notice."
-          ],
-          "stanceTitle": "Video: Bengaluru Rider Almost Run Over By Tanker After Bike Hits Pothole",
-          "type": "viewpoint1",
-          "summary": "- A biker's motorcycle fell into a rainwater-filled pothole near Bengaluru's Gunjur area - A tanker ran over the bike but the man escaped injury by letting go and moving away - The tanker driver fled initially but was stopped; he had no license or number plate A biker had a narrow escape after his.",
-          "id": "p_art_e0b79d448a_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express",
-          "type": "viewpoint2",
-          "summary": "Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express. Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash - The Indian Express",
-          "id": "p_art_e0b79d448a_2",
+          "summary": "Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express. Pakistan and Philippines announce 4-day work week. Here\u2019s why - The Indian Express",
+          "id": "p_art_8bf1521629_2",
           "sourceName": "Indian Express",
           "quoteAuthor": "",
           "biasTag": "Investigative Journalism",
@@ -847,12 +542,12 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.379981+00:00",
-      "id": "art_e0b79d448a",
+      "publishedAt": "2026-08-20T16:38:47.950293+00:00",
+      "id": "art_8bf1521629",
       "isLiked": false,
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Video: Bengaluru Rider Almost Run Over By Tanker After Bike Hits Pothole",
+      "category": "Work & Economy",
+      "title": "The four-day week is here thanks to GTA 6\u2014some employers are giving staff a one-off shorter wee",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
@@ -867,79 +562,18 @@
       ],
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "- Lingamaneni Sanjush, son of an MP, charged for rash driving in Hyderabad fatal crash - Victim Bharathi Mukhi, 26, was crossing the road in Madhapur when hit by the Aston Martin he was driving - The accident occurred on August 16 near Inorbit Mall where Bharathi worked at Lifestyle store After a 26-year-old woman.",
+      "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Victim Bharathi Mukhi, who worked at the Lifestyle clothing store at Inorbit Mall, died.",
-            "The Cyberabad area police identified Sanjush, 21, whose father is a businessman and MP."
+            "Orthopaedic surgeon KJ Reddy, who specialises in knee, hip and sports injuries, posted a.",
+            "He wrote that it was a pleasure knowing Prabhas and described him as \"warm and gracious\"."
           ],
-          "stanceTitle": "Rajya Sabha MP's Son Charged As Aston Martin Car Crash Kills Woman In Hyderabad",
+          "stanceTitle": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
           "type": "viewpoint1",
-          "summary": "- Lingamaneni Sanjush, son of an MP, charged for rash driving in Hyderabad fatal crash - Victim Bharathi Mukhi, 26, was crossing the road in Madhapur when hit by the Aston Martin he was driving - The accident occurred on August 16 near Inorbit Mall where Bharathi worked at Lifestyle store After a 26-year-old woman.",
-          "id": "p_art_7f298b84b5_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today",
-          "type": "viewpoint2",
-          "summary": "AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today. AP Rajya Sabha MP\u2019s son arrested in Hyderabad accident death case - Telangana Today",
-          "id": "p_art_7f298b84b5_2",
-          "sourceName": "Telangana Today",
-          "quoteAuthor": "",
-          "biasTag": "Journalistic Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "telanganatoday.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.171102+00:00",
-      "id": "art_7f298b84b5",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Rajya Sabha MP's Son Charged As Aston Martin Car Crash Kills Woman In Hyderabad",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ncaq2vac_hyderabad-aston-martin-accident_650x400_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "- The Supreme Court formed a five-member expert panel to probe police force on NEET protesters - The panel is led by ex-judge Justice R Subhash Reddy and includes former judges and officials - The committee will assess police use of force, including pellet guns and tear gas The Supreme Court on Thursday constituted a.",
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The committee is headed by former top court judge Justice R Subhash Reddy.",
-            "A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana."
-          ],
-          "stanceTitle": "Top Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
-          "type": "viewpoint1",
-          "summary": "- The Supreme Court formed a five-member expert panel to probe police force on NEET protesters - The panel is led by ex-judge Justice R Subhash Reddy and includes former judges and officials - The committee will assess police use of force, including pellet guns and tear gas The Supreme Court on Thursday constituted a.",
-          "id": "p_art_bfdd07c73c_1",
+          "summary": "- Orthopaedic surgeon KJ Reddy shared a picture with actor Prabhas on Instagram - Reddy praised Prabhas for his humility despite immense success and positive attitude - Fans expressed concern about Prabhas' health and past leg and knee injuries Fans of actor Prabhas have expressed concern about his health after an orthopaedic surgeon from Apollo.",
+          "id": "p_art_672f718616_1",
           "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
           "biasTag": "Trending & Viral",
@@ -950,128 +584,240 @@
         },
         {
           "keyPoints": [
-            "The court said the inquiry should not be a \u201cone-time exercise\u201d and suggested the.",
+            "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "SC forms five-member panel to probe NEET protest violence",
+          "stanceTitle": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
           "type": "viewpoint2",
-          "summary": "SC forms five-member panel to probe NEET protest violence. The court said the inquiry should not be a \u201cone-time exercise\u201d and suggested the panel take up allegations of targeted violence, harassment, and molestation of female protesters on a priority basis",
-          "id": "p_art_bfdd07c73c_2",
-          "sourceName": "The Hindu National",
+          "summary": "Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION. Prabhas\u2019 picture with doctor goes viral, fans concerned over actor\u2019s health - WION",
+          "id": "p_art_672f718616_2",
+          "sourceName": "WION",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T16:38:46.043122+00:00",
-      "id": "art_bfdd07c73c",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "Top Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/19euh6/article71278426.ece/alternates/LANDSCAPE_1200/2026-07-25T122231Z_1350243138_RC2WKMAX6260_RTRMADP_3_INDIA-POLITICS.JPG"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-      "divergenceScore": 88,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:40.991739+00:00",
-      "id": "art_28488eaa91",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "</p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens,.",
-            "But over the last 24 hours, things have finally begun to turn around.</p> <p."
-          ],
-          "stanceTitle": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
-          "type": "viewpoint1",
-          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-          "id": "p_art_28488eaa91_1",
-          "sourceName": "Fast Company",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        },
-        {
-          "keyPoints": [
-            "After months of slumber, digital currencies are waking up, with bitcoin and ethereum shooting.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
-          "type": "viewpoint2",
-          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
-          "id": "p_art_28488eaa91_2",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
+          "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
+          "sourceDomain": "wionews.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "readTimeMinutes": 2,
       "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.948213+00:00",
+      "id": "art_672f718616",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Prabhas's Health Concern Fans After Doctor Writes About His 'Sacrifices'",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-28575996"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2tkaar8s_prabhas_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900"
     },
     {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Social Media Posts Go Viral.",
+            "IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his."
+          ],
+          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
+          "type": "viewpoint1",
+          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. IAS officer Tukaram Mundhe, known for strict enforcement, denies social media claims of his 26th transfer, currently serving as Maharashtra FDA Commissioner.",
+          "id": "p_art_dbaea3e258_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        },
+        {
+          "keyPoints": [
+            "Social Media Posts Go Viral.",
+            "Here's What FDA Chief Says - NDTV Profit."
+          ],
+          "stanceTitle": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
+          "type": "viewpoint2",
+          "summary": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit. Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chief Says - NDTV Profit",
+          "id": "p_art_dbaea3e258_2",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.945762+00:00",
+      "id": "art_dbaea3e258",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Tukaram Mundhe Transferred To Rajasthan? Social Media Posts Go Viral. Here's What FDA Chie",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/cp9tu4mo_tukaram-mundhe_625x300_20_August_26.png"
+    },
+    {
+      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-20T16:38:48.722879+00:00",
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "Walmart shares tumble as sales growth slows to six-year low. Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+      "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:40.150125+00:00",
-      "id": "art_63d8da45a9",
-      "title": "Walmart shares tumble as sales growth slows to six-year low",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
       "perspectives": [
         {
           "keyPoints": [
-            "Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
+            "Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine.",
+            "Langer, known as the \u201cEdison of Medicine,\u201d witnessed his equity in the biotech business."
+          ],
+          "stanceTitle": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-paying job offers to \u2018have mo",
+          "type": "viewpoint1",
+          "summary": "The net worths of CEOs and founders are largely at the whim of their company stock\u2014all it takes is one breakout earnings report or blockbuster news to shake up their fortunes. Now, Moderna cofounder Robert Langer has re-entered the billionaires club following promising cancer vaccine trials that sent the company\u2019s stock soaring.",
+          "id": "p_art_93e26acd1a_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        },
+        {
+          "keyPoints": [
+            "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Walmart shares tumble as sales growth slows to six-year low",
+          "stanceTitle": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
+          "type": "viewpoint2",
+          "summary": "Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com. Moderna co-founder Robert Langer is a billionaire once again as stock more than doubles - livemint.com",
+          "id": "p_art_93e26acd1a_2",
+          "sourceName": "Livemint",
+          "quoteAuthor": "",
+          "biasTag": "Financial & Policy",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "livemint.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.765751+00:00",
+      "id": "art_93e26acd1a",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Moderna co-founder is a billionaire once again at $1.7 billion\u2014he once turned down 20 high-payi",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\u201cI feel good,\u201d she says.",
+            "\u201cI don\u2019t know if excited is the right word, but I feel good.\u201d Ogwumike, 36, was the league\u2019s No."
+          ],
+          "stanceTitle": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the players",
           "type": "viewpoint1",
-          "summary": "Walmart shares tumble as sales growth slows to six-year low. Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
-          "id": "p_art_63d8da45a9_1",
+          "summary": "Nneka Ogwumike is on Zoom from her hotel room in Boston, getting ready for one of the biggest moments of her career: in two days, she\u2019ll announce her retirement from the WNBA. \u201cI feel good,\u201d she says.",
+          "id": "p_art_21577e0cef_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        },
+        {
+          "keyPoints": [
+            "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish ",
+          "type": "viewpoint2",
+          "summary": "Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal. Defined by grace and greatness, Nneka Ogwumike announces she will retire from the WNBA at the end of the season - Swish Appeal",
+          "id": "p_art_21577e0cef_2",
+          "sourceName": "Swish Appeal",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "swishappeal.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.761436+00:00",
+      "id": "art_21577e0cef",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Nneka Ogwumike\u2019s WNBA legacy isn\u2019t just her 11 All-Star nods. It\u2019s a 364% pay raise for the pla",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291227081.jpg?resize=1200,600"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Western oil refinery closures set to continue despite war shock. North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "North America and Europe to lose further capacity to turn oil into petrol, diesel.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Western oil refinery closures set to continue despite war shock",
+          "type": "viewpoint1",
+          "summary": "Western oil refinery closures set to continue despite war shock. North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
+          "id": "p_art_de7f30324f_1",
           "sourceName": "Financial Times Global",
           "quoteAuthor": "",
           "biasTag": "Global Capital & Markets",
@@ -1082,71 +828,196 @@
         },
         {
           "keyPoints": [
-            "Total revenue rose 5.9% in the second quarter, while operating income lept 28.8%.",
-            "The retailer posted solid sales and profits in the most recent quarter, aided by."
+            "Without Middle East crude, some refineries have to shut down - marketplace.org",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Walmart Reports Strong Q2 Online Sales, But Store Results Disappoint Analysts",
+          "stanceTitle": "Without Middle East crude, some refineries have to shut down - marketplace.org",
           "type": "viewpoint2",
-          "summary": "announced its financial results for the second quarter of fiscal year 2027 and retail analysts were not impressed, despite some impressive metrics. Total revenue rose 5.9% in the second quarter, while operating income lept 28.8%.",
-          "id": "p_art_63d8da45a9_2",
-          "sourceName": "Forbes Business",
+          "summary": "Western oil refinery closures set to continue despite war shock. North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
+          "id": "p_art_de7f30324f_2",
+          "sourceName": "marketplace.org",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Journalistic Reporting",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "marketplace.org"
         }
       ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.723818+00:00",
+      "id": "art_de7f30324f",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Western oil refinery closures set to continue despite war shock",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-26125004"
+      "heroImageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b41b438-ab3d-4ffe-a329-9ef7b5a4b834.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off Benchmark 10-year government bond yield rises 5 basis points to 6.87 per cent as markets increasingly price in the possibility of a rate hike at the next policy review Listen to This Article Government bond yields surged on Thursday as hawkish signals from.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
-      "id": "art_7bca469e57",
       "perspectives": [
         {
           "keyPoints": [
-            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
-            "However, India has clarified that the government had nothing to do with the event."
+            "The yield on the benchmark 10-year government bond settled at 6.87 per cent, against.",
+            "The yield on the five-year government bond rose by 7 basis points (bps) to settle at 6.52 per cent."
           ],
-          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+          "stanceTitle": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off",
           "type": "viewpoint1",
-          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
-          "id": "p_art_7bca469e57_1",
-          "sourceName": "NDTV Top Stories",
+          "summary": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off Benchmark 10-year government bond yield rises 5 basis points to 6.87 per cent as markets increasingly price in the possibility of a rate hike at the next policy review Listen to This Article Government bond yields surged on Thursday as hawkish signals from.",
+          "id": "p_art_a96976dc50_1",
+          "sourceName": "Business Standard Economy",
           "quoteAuthor": "",
-          "biasTag": "National Headlines",
+          "biasTag": "Macroeconomic Prudence",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
         },
         {
           "keyPoints": [
-            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
+            "Investors dump India bonds after hawkish RBI minutes - bfsi.economictimes.indiatimes.com",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
+          "stanceTitle": "Investors dump India bonds after hawkish RBI minutes - bfsi.economictimes.indiatimes.com",
           "type": "viewpoint2",
-          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
-          "id": "p_art_7bca469e57_2",
+          "summary": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off Benchmark 10-year government bond yield rises 5 basis points to 6.87 per cent as markets increasingly price in the possibility of a rate hike at the next policy review Listen to This Article Government bond yields surged on Thursday as hawkish signals from.",
+          "id": "p_art_a96976dc50_2",
+          "sourceName": "Economic Times",
+          "quoteAuthor": "",
+          "biasTag": "Business & Economy",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "bfsi.economictimes.indiatimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.706269+00:00",
+      "id": "art_a96976dc50",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "In an interview with the Financial Express, he said that it will not be correct to call it a U-turn; it is rather a calibration as the move demonstrated the central bank\u2019s ability to remain flexible and data-dependent amid rapidly changing conditions.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Defending the central bank's decision, Malhotra described it as a well-thought-out, calibrated, prudent and.",
+            "Also read: RBI to close FCNR(B) forex swap facility early after strong dollar inflow."
+          ],
+          "stanceTitle": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains",
+          "type": "viewpoint1",
+          "summary": "In an interview with the Financial Express, he said that it will not be correct to call it a U-turn; it is rather a calibration as the move demonstrated the central bank\u2019s ability to remain flexible and data-dependent amid rapidly changing conditions.",
+          "id": "p_art_9e7bb5f48e_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "Governor Malhotra explains - The Economic Times.",
+            "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn?"
+          ],
+          "stanceTitle": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains - The Economic T",
+          "type": "viewpoint2",
+          "summary": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains - The Economic Times. RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains - The Economic Times",
+          "id": "p_art_9e7bb5f48e_2",
+          "sourceName": "The Economic Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.667953+00:00",
+      "id": "art_9e7bb5f48e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra ",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133362927,width-1200,height-630,imgsize-115722,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Listen to this article in summarized format Sugar prices have increased nearly 40% over the past two months amid tightening supplies, putting pressure on consumers and prompting the world\u2019s biggest sugar consumer to turn to imports.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Also read: India tightens sugar stock limits to tame record prices The decision marks.",
+            "The move comes as sugar demand is expected to strengthen between August and November,."
+          ],
+          "stanceTitle": "India allows duty-free sugar imports as prices climb ahead of festive season",
+          "type": "viewpoint1",
+          "summary": "Listen to this article in summarized format Sugar prices have increased nearly 40% over the past two months amid tightening supplies, putting pressure on consumers and prompting the world\u2019s biggest sugar consumer to turn to imports.",
+          "id": "p_art_ba4802b71f_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "India's return to the global sugar market could support benchmark prices in London and New York",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India Allows Duty-Free Import Of 1 Million Tonnes Of Raw Sugar To Curb Record Prices",
+          "type": "viewpoint2",
+          "summary": "India Allows Duty-Free Import Of 1 Million Tonnes Of Raw Sugar To Curb Record Prices. India's return to the global sugar market could support benchmark prices in London and New York",
+          "id": "p_art_ba4802b71f_2",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -1156,74 +1027,202 @@
           "sourceDomain": "ndtvprofit.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
+      "readTimeMinutes": 2,
       "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.659249+00:00",
+      "id": "art_ba4802b71f",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "India allows duty-free sugar imports as prices climb ahead of festive season",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133380050,width-1200,height-630,imgsize-130368,overlay-economictimes/articleshow.jpg"
     },
     {
+      "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Tech & AI",
         "Verified News",
         "Trending"
       ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
-      "divergenceScore": 88,
       "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "OpenAI introduces new safety tool to protect user privacy. Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished. No OpenAI employee can view the content, and unless a company chooses to opt in, none of that data is used to train AI models.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "The generation that is most comfortable with AI might surprise you",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
-      "id": "art_23ebb56e01",
       "perspectives": [
         {
           "keyPoints": [
-            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
-            "That age group is the only one in which a majority did not say."
+            "Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished.",
+            "No OpenAI employee can view the content, and unless a company chooses to opt."
           ],
-          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
+          "stanceTitle": "OpenAI introduces new safety tool to protect user privacy",
           "type": "viewpoint1",
-          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
-          "id": "p_art_23ebb56e01_1",
-          "sourceName": "Fast Company",
+          "summary": "OpenAI introduces new safety tool to protect user privacy. Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished. No OpenAI employee can view the content, and unless a company chooses to opt in, none of that data is used to train AI models.",
+          "id": "p_art_5cb344fd54_1",
+          "sourceName": "Economic Times Tech",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
-        },
-        {
-          "keyPoints": [
-            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
-          "type": "viewpoint2",
-          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
-          "id": "p_art_23ebb56e01_2",
-          "sourceName": "MarketWatch Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "Market Analysis",
+          "biasTag": "Indian Tech & Startups",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times",
+          "type": "viewpoint2",
+          "summary": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times. OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow - The New York Times",
+          "id": "p_art_5cb344fd54_2",
+          "sourceName": "The New York Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "nytimes.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "readTimeMinutes": 2,
       "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.623352+00:00",
+      "id": "art_5cb344fd54",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "OpenAI introduces new safety tool to protect user privacy",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-97655212"
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133380728,imgsize-60914.cms"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow. Over the last two years, Cashfree reported marginal growth in revenue and no improvement in the bottom line following a year-long ban by the Reserve Bank of India on online payment aggregators from onboarding new merchants, which was lifted in late 2023.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Over the last two years, Cashfree reported marginal growth in revenue and no improvement.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow",
+          "type": "viewpoint1",
+          "summary": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow. Over the last two years, Cashfree reported marginal growth in revenue and no improvement in the bottom line following a year-long ban by the Reserve Bank of India on online payment aggregators from onboarding new merchants, which was lifted in late 2023.",
+          "id": "p_art_e31989771e_1",
+          "sourceName": "Economic Times Tech",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times",
+          "type": "viewpoint2",
+          "summary": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times. Cashfree Payments posts 52% jump in revenue in FY26, losses narrow - The Economic Times",
+          "id": "p_art_e31989771e_2",
+          "sourceName": "The Economic Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.615884+00:00",
+      "id": "art_e31989771e",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133381071,imgsize-1262368.cms"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale. Walmart expects Flipkart\u2019s Big Billion Days sales event moving from Q3 to Q4 to weigh about 100 basis points on growth next quarter. The company said India drove growth in Walmart International\u2019s operating income and advertising revenue.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Walmart expects Flipkart\u2019s Big Billion Days sales event moving from Q3 to Q4 to.",
+            "The company said India drove growth in Walmart International\u2019s operating income and advertising revenue."
+          ],
+          "stanceTitle": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale",
+          "type": "viewpoint1",
+          "summary": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale. Walmart expects Flipkart\u2019s Big Billion Days sales event moving from Q3 to Q4 to weigh about 100 basis points on growth next quarter. The company said India drove growth in Walmart International\u2019s operating income and advertising revenue.",
+          "id": "p_art_34b4cf8166_1",
+          "sourceName": "Economic Times Tech",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        },
+        {
+          "keyPoints": [
+            "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times",
+          "type": "viewpoint2",
+          "summary": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times. Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale - The Economic Times",
+          "id": "p_art_34b4cf8166_2",
+          "sourceName": "The Economic Times",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T16:38:47.573751+00:00",
+      "id": "art_34b4cf8166",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133381793,imgsize-37166.cms"
     }
   ]
 }
