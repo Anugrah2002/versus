@@ -53,10 +53,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .venv
-          key: ${{ runner.os }}-venv-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-venv-v4-${{ hashFiles('requirements.txt') }}
 
       - name: Install Python Dependencies
-        if: steps.cache-venv.outputs.cache-hit != 'true'
         run: |
           python -m venv .venv
           source .venv/bin/activate
@@ -82,6 +81,15 @@ jobs:
         run: |
           source .venv/bin/activate
           python src/main.py
+
+      - name: Deploy Static Feeds to Cloudflare Pages
+        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != ''
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiAuthenticationType: 'apiToken'
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=versus-api --branch=main
 
   # ============================================================================
   # 2. Cloudflare Edge Worker API Deployment (Runs on worker change / manual trigger)
