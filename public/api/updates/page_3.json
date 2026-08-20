@@ -5,886 +5,884 @@
   "has_more": true,
   "articles": [
     {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Peru's highest mountain confirms tropics were a major methane source before the industrial era. A new analysis of ice cores collected from the Andes in Peru has produced the first global record of historical tropical methane, filling a critical gap in our understanding of the origins of Earth's greenhouse gases.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Peru's highest mountain confirms tropics were a major methane source before the industrial era",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.510028+00:00",
-      "id": "art_b49098bbb5",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new analysis of ice cores collected from the Andes in Peru has produced.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Peru's highest mountain confirms tropics were a major methane source before the industrial era",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_b49098bbb5_1",
-          "summary": "Peru's highest mountain confirms tropics were a major methane source before the industrial era. A new analysis of ice cores collected from the Andes in Peru has produced the first global record of historical tropical methane, filling a critical gap in our understanding of the origins of Earth's greenhouse gases.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/andes-peru.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "New lipid nanoparticle delivers capped circular RNA for longer-lasting gene expression. Researchers at Nagoya University in Japan in collaboration with FUJIFILM have developed a novel way of delivering circular RNA (cirRNA) into cells, paving the way for longer-lasting mRNA-based therapeutics including cancer vaccines and GLP-1 obesity treatments. The research is published in Cell Biomaterials.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "New lipid nanoparticle delivers capped circular RNA for longer-lasting gene expression",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.503884+00:00",
-      "id": "art_71c31114df",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Researchers at Nagoya University in Japan in collaboration with FUJIFILM have developed a novel.",
-            "The research is published in Cell Biomaterials."
-          ],
-          "stanceTitle": "New lipid nanoparticle delivers capped circular RNA for longer-lasting gene expression",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_71c31114df_1",
-          "summary": "New lipid nanoparticle delivers capped circular RNA for longer-lasting gene expression. Researchers at Nagoya University in Japan in collaboration with FUJIFILM have developed a novel way of delivering circular RNA (cirRNA) into cells, paving the way for longer-lasting mRNA-based therapeutics including cancer vaccines and GLP-1 obesity treatments. The research is published in Cell Biomaterials.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/next-gen-mrna-therapeu.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "A 100-year-old mystery in the cat kidney may be linked to scent communication. Many animals obtain information about others from scent marks left in the environment, including urine. Because these marks remain after the sender has left, they allow animals to communicate across space and time. But odor molecules evaporate, degrade and change after release.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "A 100-year-old mystery in the cat kidney may be linked to scent communication",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.490021+00:00",
-      "id": "art_2a69d3f925",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Many animals obtain information about others from scent marks left in the environment, including urine.",
-            "Because these marks remain after the sender has left, they allow animals to communicate across space and time."
-          ],
-          "stanceTitle": "A 100-year-old mystery in the cat kidney may be linked to scent communication",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_2a69d3f925_1",
-          "summary": "A 100-year-old mystery in the cat kidney may be linked to scent communication. Many animals obtain information about others from scent marks left in the environment, including urine. Because these marks remain after the sender has left, they allow animals to communicate across space and time. But odor molecules evaporate, degrade and change after release.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-100-year-old-mystery.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Track defect found near derailment site - report - Published A defect was found on railway tracks in East Sussex at the site where a train derailed leaving 30 injured, a report says.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Track defect found near derailment site - report",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.463172+00:00",
-      "id": "art_0e4bb5488a",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Initial findings from the Rail Accident Investigation Branch (RAIB) found an \"irregularity\" with the.",
-            "The RAIB, which is continuing to investigate the derailment, said it had received \"several."
-          ],
-          "stanceTitle": "Track defect found near derailment site - report",
-          "type": "directReport",
-          "sourceName": "BBC Business",
-          "id": "p_art_0e4bb5488a_1",
-          "summary": "Track defect found near derailment site - report - Published A defect was found on railway tracks in East Sussex at the site where a train derailed leaving 30 injured, a report says.",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Rs 15+GST: SBI Tweaks 4-Free Transaction Limit For Basic Savings Accounts, With A Digital Catch. SBI revises BSBD rules as digital transactions will now count towards the four free monthly limit.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Rs 15+GST: SBI Tweaks 4-Free Transaction Limit For Basic Savings Accounts, With A Digital Catch",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.431394+00:00",
-      "id": "art_a19b75993d",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "SBI revises BSBD rules as digital transactions will now count towards the four free monthly limit.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Rs 15+GST: SBI Tweaks 4-Free Transaction Limit For Basic Savings Accounts, With A Digital Catch",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_a19b75993d_1",
-          "summary": "Rs 15+GST: SBI Tweaks 4-Free Transaction Limit For Basic Savings Accounts, With A Digital Catch. SBI revises BSBD rules as digital transactions will now count towards the four free monthly limit.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-01/b7beb56b_State-Bank-of-India-BKC-branch.-Photo-Vijay-Sartape-Source-NDTV-Profit-29112024.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "India, Pakistan Players Exchange Greetings, Handshakes Ahead Of Hockey World Cup 2026 Clash. India are taking on Pakistan in the FIH Hockey World Cup 2026 on Aug.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "India, Pakistan Players Exchange Greetings, Handshakes Ahead Of Hockey World Cup 2026 Clash",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.405177+00:00",
-      "id": "art_5223b136c8",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "India are taking on Pakistan in the FIH Hockey World Cup 2026 on Aug.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "India, Pakistan Players Exchange Greetings, Handshakes Ahead Of Hockey World Cup 2026 Clash",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_5223b136c8_1",
-          "summary": "India, Pakistan Players Exchange Greetings, Handshakes Ahead Of Hockey World Cup 2026 Clash. India are taking on Pakistan in the FIH Hockey World Cup 2026 on Aug.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/egfe56so_1_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Janata Tawa & Grill, Hotel Radha, 3 Others Lose Food Licence In Latest FDA Crackdown In Mumbai. Maharashtra FDA suspends food licences after inspections uncover safety violations.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Janata Tawa & Grill, Hotel Radha, 3 Others Lose Food Licence In Latest FDA Crackdown In Mumbai",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.382245+00:00",
-      "id": "art_108b090438",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Maharashtra FDA suspends food licences after inspections uncover safety violations.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Janata Tawa & Grill, Hotel Radha, 3 Others Lose Food Licence In Latest FDA Crackdown In Mumbai",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_108b090438_1",
-          "summary": "Janata Tawa & Grill, Hotel Radha, 3 Others Lose Food Licence In Latest FDA Crackdown In Mumbai. Maharashtra FDA suspends food licences after inspections uncover safety violations.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0al556b8_fda_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "US Stock Market Today: Dow Jumps Over 200 Points As Treasury Yields Fall On Debt Buyback Boost. The Dow Jones Industrial Average rose 193.69 points, or 0.36%, while the S&amp;P 500 gained 0.44%, or 33.71 points.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "US Stock Market Today: Dow Jumps Over 200 Points As Treasury Yields Fall On Debt Buyback Boost",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.349420+00:00",
-      "id": "art_3edd7ab495",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Dow Jones Industrial Average rose 193.69 points, or 0.36%, while the S&amp;P 500.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "US Stock Market Today: Dow Jumps Over 200 Points As Treasury Yields Fall On Debt Buyback Boost",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_3edd7ab495_1",
-          "summary": "US Stock Market Today: Dow Jumps Over 200 Points As Treasury Yields Fall On Debt Buyback Boost. The Dow Jones Industrial Average rose 193.69 points, or 0.36%, while the S&amp;P 500 gained 0.44%, or 33.71 points.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-01/4de09049_Wall-Street-Hero-image.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "$10 To $30: Scott Galloway Says SpaceX Stock Not Worth Current Price, Sees Up To 93% Downside. His lower estimate of $10 suggests that the SpaceX shares indicate a downside of 93%, while the upper estimate of $30 reflect mean that the shares were worth less than 78% from their current price.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "$10 To $30: Scott Galloway Says SpaceX Stock Not Worth Current Price, Sees Up To 93% Downside",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.314404+00:00",
-      "id": "art_6f6ca3bd6e",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "His lower estimate of $10 suggests that the SpaceX shares indicate a downside of.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "$10 To $30: Scott Galloway Says SpaceX Stock Not Worth Current Price, Sees Up To 93% Downside",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_6f6ca3bd6e_1",
-          "summary": "$10 To $30: Scott Galloway Says SpaceX Stock Not Worth Current Price, Sees Up To 93% Downside. His lower estimate of $10 suggests that the SpaceX shares indicate a downside of 93%, while the upper estimate of $30 reflect mean that the shares were worth less than 78% from their current price.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/7tg5r34k_spacex_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "SEBI Uncovers Potential Rs 5,667 Crore Fraud At BSE-Listed Dhenu Buildcon. SEBI flags alleged circular funding at Dhenu Buildcon before Rs 840 crore was converted into equity.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "SEBI Uncovers Potential Rs 5,667 Crore Fraud At BSE-Listed Dhenu Buildcon",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.305360+00:00",
-      "id": "art_9c0a962fef",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "SEBI flags alleged circular funding at Dhenu Buildcon before Rs 840 crore was converted into equity.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "SEBI Uncovers Potential Rs 5,667 Crore Fraud At BSE-Listed Dhenu Buildcon",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_9c0a962fef_1",
-          "summary": "SEBI Uncovers Potential Rs 5,667 Crore Fraud At BSE-Listed Dhenu Buildcon. SEBI flags alleged circular funding at Dhenu Buildcon before Rs 840 crore was converted into equity.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/j6danf6g_sebi_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Will Your Old Case Fit iPhone 18 Pro? New Otterbox Leak Points To Identical Sizing. iPhone 18 Pro cases are surfacing ahead of launch as accessory makers hint at familiar dimensions.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Will Your Old Case Fit iPhone 18 Pro? New Otterbox Leak Points To Identical Sizing",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.289873+00:00",
-      "id": "art_05971f8227",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "New Otterbox Leak Points To Identical Sizing.",
-            "iPhone 18 Pro cases are surfacing ahead of launch as accessory makers hint at familiar dimensions."
-          ],
-          "stanceTitle": "Will Your Old Case Fit iPhone 18 Pro? New Otterbox Leak Points To Identical Sizing",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_05971f8227_1",
-          "summary": "Will Your Old Case Fit iPhone 18 Pro? New Otterbox Leak Points To Identical Sizing. iPhone 18 Pro cases are surfacing ahead of launch as accessory makers hint at familiar dimensions.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/3hrnh4bk_iphone-18-pro_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "What Is A Neoantigen Cancer Vaccine? The Science Behind Moderna-Merck's Melanoma Breakthrough. Breaking down the science behind Moderna and Merck's landmark mRNA cancer vaccine for melanoma.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "What Is A Neoantigen Cancer Vaccine? The Science Behind Moderna-Merck's Melanoma Breakthrough",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.272390+00:00",
-      "id": "art_abd9c78950",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Science Behind Moderna-Merck's Melanoma Breakthrough.",
-            "Breaking down the science behind Moderna and Merck's landmark mRNA cancer vaccine for melanoma."
-          ],
-          "stanceTitle": "What Is A Neoantigen Cancer Vaccine? The Science Behind Moderna-Merck's Melanoma Breakthrough",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_abd9c78950_1",
-          "summary": "What Is A Neoantigen Cancer Vaccine? The Science Behind Moderna-Merck's Melanoma Breakthrough. Breaking down the science behind Moderna and Merck's landmark mRNA cancer vaccine for melanoma.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/9ljgtbj_vaccine-explainer-lead_625x300_19_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Batwara 1947 Box Office Collection Day 6: Sunny Deol Film's Earnings Slow Down. Bollywood actor Sunny Deol during a promotional event for Batwara 1947 in Amritsar, Punjab.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Batwara 1947 Box Office Collection Day 6: Sunny Deol Film's Earnings Slow Down",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.205164+00:00",
-      "id": "art_7cf2f70469",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Bollywood actor Sunny Deol during a promotional event for Batwara 1947 in Amritsar, Punjab.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Batwara 1947 Box Office Collection Day 6: Sunny Deol Film's Earnings Slow Down",
-          "type": "directReport",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_7cf2f70469_1",
-          "summary": "Batwara 1947 Box Office Collection Day 6: Sunny Deol Film's Earnings Slow Down. Bollywood actor Sunny Deol during a promotional event for Batwara 1947 in Amritsar, Punjab.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/rkos9ou_batwara-1947_625x300_13_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">For it&#8217;s new limited-edition Konstrunda collection, Ikea commissioned seven contemporary artists whose work can provide a jolt of color, abstract patterns, and irregular form to <a href=\"https://www.fastcompany.com/91589209/why-no-one-has-a-fun-couch-anymore\" rel=\"noreferrer noopener\" target=\"_blank\">any interior design that&#8217;s overly beige, boring, or neutral</a>.</p> <p class=\"wp-block-paragraph\">The 22-piece collection is defined by works that are minimalist, geometric, and graphic.",
       "divergenceScore": 0,
-      "summary": "Topline The northern lights could be visible on Wednesday night from some northern states, according to a forecast from the National Oceanic and Atmospheric Administration, after the Earth saw minor geomagnetic storms earlier this morning.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Northern Lights Could Be Visible From These 9 States Wednesday",
+      "title": "Ikea\u2019s new art collection is perfect for more-is-more postmodernists",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.151518+00:00",
-      "id": "art_fa42981c9c",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "publishedAt": "2026-08-20T14:11:40.115996+00:00",
+      "id": "art_19d809230c",
       "perspectives": [
         {
           "keyPoints": [
-            "Key Facts NOAA is predicting a Kp index of four out of nine on.",
-            "The agency previously issued an alert indicating the K-index reached five out of nine."
+            "It&#8217;s available to shop now on the <a href=\"https://www.ikea.com/sg/en/cat/konstrunda-collection-700708/\" rel=\"noreferrer noopener\" target=\"_blank\">company&#8217;s U.S..",
+            "website</a>.</p> <figure class=\"wp-block-image size-large\"><img alt=\"\" class=\"wp-image-91592466\" height=\"1024\" src=\"https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-91592328-IKEA-Konstrunda-05-1.jpg\" width=\"1024\" /><figcaption class=\"wp-element-caption\">[Photo: Ikea]</figcaption></figure> <p class=\"wp-block-paragraph\">The."
           ],
-          "stanceTitle": "Northern Lights Could Be Visible From These 9 States Wednesday",
+          "stanceTitle": "Ikea\u2019s new art collection is perfect for more-is-more postmodernists",
           "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_fa42981c9c_1",
-          "summary": "Topline The northern lights could be visible on Wednesday night from some northern states, according to a forecast from the National Oceanic and Atmospheric Administration, after the Earth saw minor geomagnetic storms earlier this morning.",
+          "summary": "<p class=\"wp-block-paragraph\">For it&#8217;s new limited-edition Konstrunda collection, Ikea commissioned seven contemporary artists whose work can provide a jolt of color, abstract patterns, and irregular form to <a href=\"https://www.fastcompany.com/91589209/why-no-one-has-a-fun-couch-anymore\" rel=\"noreferrer noopener\" target=\"_blank\">any interior design that&#8217;s overly beige, boring, or neutral</a>.</p> <p class=\"wp-block-paragraph\">The 22-piece collection is defined by works that are minimalist, geometric, and graphic.",
+          "id": "p_art_19d809230c_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/68d059ed8f0a7c3a4332757b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91592328-IKEA-Konstrunda-collection.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">On August 18, OpenAI <a href=\"https://www.fastcompany.com/91591392/openai-launches-chatgpt-for-teens\" rel=\"noreferrer noopener\" target=\"_blank\">announced ChatGPT for Teens</a>, a version of its chatbot with stronger safety protections, parental controls, and more age-appropriate responses.",
       "divergenceScore": 0,
-      "summary": "Topline Trump aide Natalie Harp once wrote a fawning letter to the president signed, \u201cWith all my heart, Natalie,\u201d according to The New York Times, another revelation about her extreme level of devotion to the president as the relationship became an attack line this week for a top Democrat accusing Trump of surrounding himself with.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "\u2018I Want Things To Always Be Right Between Us,\u2019 Natalie Harp Reportedly Wrote To Trump",
+      "title": "The case for ChatGPT for seniors",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.105274+00:00",
-      "id": "art_60dacd22dd",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "publishedAt": "2026-08-20T14:11:40.083055+00:00",
+      "id": "art_c2d2053a45",
       "perspectives": [
         {
           "keyPoints": [
-            "She told Trump she had been \u201cdistracted all week,\u201d forgetting to eat and only.",
-            "In Scotland, she sprinted across the golf course to keep up with his cart,."
+            "</p> <p class=\"wp-block-paragraph\">The product reflects a growing recognition that different populations may need different.",
+            "What about older adults?</p> <p class=\"wp-block-paragraph\">Indeed, despite tired stereotypes that people over 65 aren\u2019t."
           ],
-          "stanceTitle": "\u2018I Want Things To Always Be Right Between Us,\u2019 Natalie Harp Reportedly Wrote To Trump",
+          "stanceTitle": "The case for ChatGPT for seniors",
           "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_60dacd22dd_1",
-          "summary": "Topline Trump aide Natalie Harp once wrote a fawning letter to the president signed, \u201cWith all my heart, Natalie,\u201d according to The New York Times, another revelation about her extreme level of devotion to the president as the relationship became an attack line this week for a top Democrat accusing Trump of surrounding himself with.",
+          "summary": "<p class=\"wp-block-paragraph\">On August 18, OpenAI <a href=\"https://www.fastcompany.com/91591392/openai-launches-chatgpt-for-teens\" rel=\"noreferrer noopener\" target=\"_blank\">announced ChatGPT for Teens</a>, a version of its chatbot with stronger safety protections, parental controls, and more age-appropriate responses.",
+          "id": "p_art_c2d2053a45_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85b3b743b69f77322f6229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592012-why-we-need-a-chatgpt-for-boomers.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91587692/how-levis-uniqlo-using-fix-it-dont-ditch-it-sales-strategy-appeal-gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Levi\u2019s</a> just recreated one of the rarest models of its <a href=\"https://www.fastcompany.com/3058052/levis-short-doc-series-celebrates-the-work-style-and-rebellious-legacy-of-the-501\" rel=\"noreferrer noopener\" target=\"_blank\">most iconic jeans</a>, and they\u2019re a relic of a crucial moment in garment design history.</p> <p class=\"wp-block-paragraph\">The jeans, Levi\u2019s 1942 <a href=\"https://www.fastcompany.com/90712080/they-look-just-like-new-but-levis-501s-are-now-made-from-liquified-fibers-of-old-jeans?",
       "divergenceScore": 0,
-      "summary": "There\u2019s a simple lesson with far from simple implications that we can all learn if we are humble enough to listen: The world looks very different depending on where we stand. It\u2019s all a matter of perspective. A person looking out a third-floor window sees one reality.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "The View From Another\u2019s Shoes",
+      "title": "These Levi\u2019s 501s aren\u2019t just sold out everywhere. They\u2019re a snapshot of apparel history",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.103227+00:00",
-      "id": "art_19b5ec3dec",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "publishedAt": "2026-08-20T14:11:40.066137+00:00",
+      "id": "art_4703c645cc",
       "perspectives": [
         {
           "keyPoints": [
-            "It\u2019s all a matter of perspective.",
-            "A person looking out a third-floor window sees one reality."
+            "Levi\u2019s recreation was spearheaded by <a href=\"https://www.instagram.com/levis.vintage.clothing/?hl=en\" rel=\"noreferrer noopener\" target=\"_blank\">Levi&#8217;s Vintage Clothing</a> (LVC), the.",
+            "Just 800 pairs of the $295 limited-edition pants were made, and they\u2019ve already <a."
           ],
-          "stanceTitle": "The View From Another\u2019s Shoes",
+          "stanceTitle": "These Levi\u2019s 501s aren\u2019t just sold out everywhere. They\u2019re a snapshot of apparel history",
           "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_19b5ec3dec_1",
-          "summary": "There\u2019s a simple lesson with far from simple implications that we can all learn if we are humble enough to listen: The world looks very different depending on where we stand. It\u2019s all a matter of perspective. A person looking out a third-floor window sees one reality.",
+          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91587692/how-levis-uniqlo-using-fix-it-dont-ditch-it-sales-strategy-appeal-gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Levi\u2019s</a> just recreated one of the rarest models of its <a href=\"https://www.fastcompany.com/3058052/levis-short-doc-series-celebrates-the-work-style-and-rebellious-legacy-of-the-501\" rel=\"noreferrer noopener\" target=\"_blank\">most iconic jeans</a>, and they\u2019re a relic of a crucial moment in garment design history.</p> <p class=\"wp-block-paragraph\">The jeans, Levi\u2019s 1942 <a href=\"https://www.fastcompany.com/90712080/they-look-just-like-new-but-levis-501s-are-now-made-from-liquified-fibers-of-old-jeans?",
+          "id": "p_art_4703c645cc_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85b38c54f690f5d38883e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591921-levis-1942-jeans-production.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">Picture yourself popping into a mini-mart to find a refreshing drink after a long day. Scanning the shelves, you spot a new \u201cwellness\u201d product, an herbal tonic in an attractive little 2-ounce bottle. You give it a try.",
       "divergenceScore": 0,
-      "summary": "Vivobarefoot doesn\u2019t have a dedicated tennis court shoe (yet), but that hasn\u2019t stopped the brand from partnering with American tennis player Caty McNally on a sponsorship deal. How the two came together didn\u2019t start with footwear.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "An Elbow Injury Drew Caty McNally Into Footwear Brand Vivobarefoot",
+      "title": "This popular supplement could turn you into an unwitting opioid addict",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.056447+00:00",
-      "id": "art_817be43c7c",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "publishedAt": "2026-08-20T14:11:40.049203+00:00",
+      "id": "art_1d4052e940",
       "perspectives": [
         {
           "keyPoints": [
-            "How the two came together didn\u2019t start with footwear.",
-            "McNally, recovering from an elbow injury, started working with German fitness group Integralis, which."
+            "Scanning the shelves, you spot a new \u201cwellness\u201d product, an herbal tonic in an.",
+            "You give it a try."
           ],
-          "stanceTitle": "An Elbow Injury Drew Caty McNally Into Footwear Brand Vivobarefoot",
+          "stanceTitle": "This popular supplement could turn you into an unwitting opioid addict",
           "type": "directReport",
-          "sourceName": "Forbes Business",
-          "id": "p_art_817be43c7c_1",
-          "summary": "Vivobarefoot doesn\u2019t have a dedicated tennis court shoe (yet), but that hasn\u2019t stopped the brand from partnering with American tennis player Caty McNally on a sponsorship deal. How the two came together didn\u2019t start with footwear.",
+          "summary": "<p class=\"wp-block-paragraph\">Picture yourself popping into a mini-mart to find a refreshing drink after a long day. Scanning the shelves, you spot a new \u201cwellness\u201d product, an herbal tonic in an attractive little 2-ounce bottle. You give it a try.",
+          "id": "p_art_1d4052e940_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Work Culture & Innovation",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84c0811380e53c6338df1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91591514-this-popular-supplement-could-turn-you-into-an-unwitting-opioid-addict.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">An unwritten rule has long governed the business world: never let them see you sweat. Leaders are expected to operate as perfectly polished corporate avatars, keeping their personal lives at a safe, academic distance.</p> <p class=\"wp-block-paragraph\">I\u2019ve never been good at that.</p> <p class=\"wp-block-paragraph\">I was diagnosed with anorexia at 10 years old.",
       "divergenceScore": 0,
-      "summary": "Berkshire Hathaway bet big on the U.S. You probably shouldn\u2019t follow suit.. Home-builder stocks are cheap, but it\u2019s not easy to time a rebound in the depressed housing market.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn\u2019t follow suit.",
+      "title": "The business advantage of unfiltered founder vulnerability",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.020070+00:00",
-      "id": "art_d53ae5b5c5",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "publishedAt": "2026-08-20T14:11:40.046221+00:00",
+      "id": "art_d504abc196",
       "perspectives": [
         {
           "keyPoints": [
-            "You probably shouldn\u2019t follow suit..",
-            "Home-builder stocks are cheap, but it\u2019s not easy to time a rebound in the depressed housing market."
+            "Leaders are expected to operate as perfectly polished corporate avatars, keeping their personal lives.",
+            "My teenage years were defined by hospital wards, relapses, and a revolving door of."
           ],
-          "stanceTitle": "Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn\u2019t follow suit.",
+          "stanceTitle": "The business advantage of unfiltered founder vulnerability",
           "type": "directReport",
-          "sourceName": "MarketWatch Top Stories",
-          "id": "p_art_d53ae5b5c5_1",
-          "summary": "Berkshire Hathaway bet big on the U.S. You probably shouldn\u2019t follow suit.. Home-builder stocks are cheap, but it\u2019s not easy to time a rebound in the depressed housing market.",
+          "summary": "<p class=\"wp-block-paragraph\">An unwritten rule has long governed the business world: never let them see you sweat. Leaders are expected to operate as perfectly polished corporate avatars, keeping their personal lives at a safe, academic distance.</p> <p class=\"wp-block-paragraph\">I\u2019ve never been good at that.</p> <p class=\"wp-block-paragraph\">I was diagnosed with anorexia at 10 years old.",
+          "id": "p_art_d504abc196_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Market Analysis",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/1-16.png"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">Walmart has received almost $2.9 billion in federal tariff refunds.</p> <p class=\"wp-block-paragraph\">The retail chain shared the figure in Thursday\u2019s <a href=\"https://www.businesswire.com/news/home/20260819458603/en/Walmart-reports-revenue-growth-of-5.9-up-5.1-in-constant-currency-cc\">fiscal 2027 quarter two financial results</a>, crediting the refund with an increase in gross profit rate and operating income.&nbsp;</p> <p class=\"wp-block-paragraph\">Walmart\u2019s gross profit rate was up 96bps, while its operating income rose to $9.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Walmart tariff refunds update: Will customers get reimbursed directly?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.032619+00:00",
+      "id": "art_4de6e4c868",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "</p> <p class=\"wp-block-paragraph\">The company reported $187.94 billion in revenue for the quarter, beating Wall.",
+            "Walmart also saw its <a href=\"https://www.fastcompany.com/91505253/it-took-64-years-to-build-walmart-it-took-3-years-to-turn-it-into-a-1-trillion-tech-company\">e-commerce</a> sales rise by 23%.&nbsp;</p> <p class=\"wp-block-paragraph\">\u201cOur team delivered."
+          ],
+          "stanceTitle": "Walmart tariff refunds update: Will customers get reimbursed directly?",
+          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\">Walmart has received almost $2.9 billion in federal tariff refunds.</p> <p class=\"wp-block-paragraph\">The retail chain shared the figure in Thursday\u2019s <a href=\"https://www.businesswire.com/news/home/20260819458603/en/Walmart-reports-revenue-growth-of-5.9-up-5.1-in-constant-currency-cc\">fiscal 2027 quarter two financial results</a>, crediting the refund with an increase in gross profit rate and operating income.&nbsp;</p> <p class=\"wp-block-paragraph\">Walmart\u2019s gross profit rate was up 96bps, while its operating income rose to $9.",
+          "id": "p_art_4de6e4c868_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592915-walmart-tariff-refunds.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\">In the <a href=\"https://www.fastcompany.com/91485423/what-your-organization-can-learn-from-nfls-decision-to-feature-bad-bunny-super-bowl\" rel=\"noreferrer noopener\" target=\"_blank\">NFL</a>\u2019s new kickoff campaign, the league\u2019s biggest stars are wiggling their hips, shimmying their shoulders, doing the worm, and recreating Michelangelo\u2019s <em>The Creation of Adam</em>.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "The NFL\u2019s new \u2018celly\u2019 campaign is an homage to TikTok fandom",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.014118+00:00",
+      "id": "art_128b6fedb7",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It was created in partnership with the NFL\u2019s lead creative agency, <a href=\"https://www.fastcompany.com/91563730/tartan-army-united-world-cup-billboard-reactive-marketing\" rel=\"noreferrer.",
+            "Each player is shown practicing their \u201ccellys\u201d for the coming season."
+          ],
+          "stanceTitle": "The NFL\u2019s new \u2018celly\u2019 campaign is an homage to TikTok fandom",
+          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\">In the <a href=\"https://www.fastcompany.com/91485423/what-your-organization-can-learn-from-nfls-decision-to-feature-bad-bunny-super-bowl\" rel=\"noreferrer noopener\" target=\"_blank\">NFL</a>\u2019s new kickoff campaign, the league\u2019s biggest stars are wiggling their hips, shimmying their shoulders, doing the worm, and recreating Michelangelo\u2019s <em>The Creation of Adam</em>.",
+          "id": "p_art_128b6fedb7_1",
+          "sourceName": "Fast Company",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91592390-NFL-celly-studio-ad.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Win or lose, the North Carolina Tar Heels already will be in elite company when they kick off the college football season against Texas Christian University in a game played in Dublin. They will be among a small but growing number of athletic programs receiving taxpayer funding from their home states.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "You are paying for your favorite college athlete now: \u2018the next stage of the arms race\u2019",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.991564+00:00",
+      "id": "art_5543fece08",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "They will be among a small but growing number of athletic programs receiving taxpayer.",
+            "With universities competing to pay athletes millions of dollars, some states now are propping."
+          ],
+          "stanceTitle": "You are paying for your favorite college athlete now: \u2018the next stage of the arms race\u2019",
+          "type": "directReport",
+          "summary": "Win or lose, the North Carolina Tar Heels already will be in elite company when they kick off the college football season against Texas Christian University in a game played in Dublin. They will be among a small but growing number of athletic programs receiving taxpayer funding from their home states.",
+          "id": "p_art_5543fece08_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "marketwatch.com"
+          "sourceDomain": "fortune.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-54650878"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26217769795011-e1787230267926.jpg?resize=1200,600"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "lastUpgradedAt": "2026-08-19T15:54:18.526772+00:00",
+      "videoDuration": "02:45",
+      "summary": "The longtime publisher of Stars and Stripes has announced his retirement, ending a decades-long career with the military newspaper as Defense Secretary Pete Hegseth\u2019s Pentagon moves to exert editorial control and eliminate what it asserts are \u201cwoke distractions.\u201d Max D.",
+      "divergenceScore": 0,
       "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Amazon set to expand drone delivery of lightweight packages to 500 US cities. Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds of new communities, including the Chicago, Atlanta, Cleveland and Boise metro areas.",
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T15:04:47.008485+00:00",
-      "id": "art_596c4bf79c",
-      "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "title": "The military\u2019s own newspaper is too \u2018woke\u2019 for Pete Hegseth as longtime Stars and Stripes publi",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.983446+00:00",
+      "id": "art_db4edcc212",
       "perspectives": [
         {
           "keyPoints": [
-            "Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds.",
-            "The drones will primarily fly in the suburbs well away from skyscrapers and major."
+            "announced his retirement, effective at the end of September, in a memo to staff.",
+            "In the memo, seen by The Associated Press, Lederer, the second full-time civilian in."
           ],
-          "stanceTitle": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+          "stanceTitle": "The military\u2019s own newspaper is too \u2018woke\u2019 for Pete Hegseth as longtime Stars and Stripes publisher retires after decade",
           "type": "directReport",
-          "summary": "Amazon set to expand drone delivery of lightweight packages to 500 US cities. Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds of new communities, including the Chicago, Atlanta, Cleveland and Boise metro areas.",
-          "id": "p_art_596c4bf79c_1",
+          "summary": "The longtime publisher of Stars and Stripes has announced his retirement, ending a decades-long career with the military newspaper as Defense Secretary Pete Hegseth\u2019s Pentagon moves to exert editorial control and eliminate what it asserts are \u201cwoke distractions.\u201d Max D.",
+          "id": "p_art_db4edcc212_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-542417083-e1787229706913.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Champagne producers are racing to pick their grapes as the region\u2019s earliest harvest on record gets underway, after extreme heat and drought accelerated ripening, leaving growers a narrow window to preserve the quality of the region\u2019s world-famous sparkling wine. On the hillsides of Hautvillers, teams of grape pickers start work at 6:30 a.m.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "The great climate change Champagne race, as grape ripening shrinks from 100 to 80 days: \u2018We\u2019ve ",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.947553+00:00",
+      "id": "art_76981e69b3",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "On the hillsides of Hautvillers, teams of grape pickers start work at 6:30 a.m.",
+            "among rows of vines that were recognized as a UNESCO World Heritage site in 2015."
+          ],
+          "stanceTitle": "The great climate change Champagne race, as grape ripening shrinks from 100 to 80 days: \u2018We\u2019ve never seen anything like ",
+          "type": "directReport",
+          "summary": "Champagne producers are racing to pick their grapes as the region\u2019s earliest harvest on record gets underway, after extreme heat and drought accelerated ripening, leaving growers a narrow window to preserve the quality of the region\u2019s world-famous sparkling wine. On the hillsides of Hautvillers, teams of grape pickers start work at 6:30 a.m.",
+          "id": "p_art_76981e69b3_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26231307400399-e1787229756176.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Across 250 years, only three elected governors out of thousands have been Black \u2013- all Democrats and all men, including current Maryland Gov. But Moore could soon have company. With Florida Republicans nominating U.S.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Governor races present \u2018unique moment\u2019 as historic number of Black candidates climbs to 8",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.939526+00:00",
+      "id": "art_a5986aa7d0",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "But Moore could soon have company.",
+            "With Florida Republicans nominating U.S."
+          ],
+          "stanceTitle": "Governor races present \u2018unique moment\u2019 as historic number of Black candidates climbs to 8",
+          "type": "directReport",
+          "summary": "Across 250 years, only three elected governors out of thousands have been Black \u2013- all Democrats and all men, including current Maryland Gov. But Moore could soon have company. With Florida Republicans nominating U.S.",
+          "id": "p_art_a5986aa7d0_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26231059274537-e1787230342474.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "For roughly 40% of American adults living with obesity, the medical playbook has barely changed in decades: Eat less, move more, and if that fails, wait until the disease progresses far enough to justify surgery.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "\u2018Game-changer\u2019 GLP-1s could fix America\u2019s obesity crisis\u2014but 2 inequalities stand in the way",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.924076+00:00",
+      "id": "art_510d64a2b4",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "GLP-1 drugs like Ozempic, Wegovy, and Zepbound have broken that script\u2014but according to Robin.",
+            "\u201cIt\u2019s a game-changer,\u201d Wenzel told Fortune, describing how GLP-1s have shifted obesity treatment \u201cupstream\u201d\u2014from."
+          ],
+          "stanceTitle": "\u2018Game-changer\u2019 GLP-1s could fix America\u2019s obesity crisis\u2014but 2 inequalities stand in the way",
+          "type": "directReport",
+          "summary": "For roughly 40% of American adults living with obesity, the medical playbook has barely changed in decades: Eat less, move more, and if that fails, wait until the disease progresses far enough to justify surgery.",
+          "id": "p_art_510d64a2b4_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2244878684.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "As gross profits from the actual business of selling cars fall from pandemic-era highs, dealerships are trying to convince customers to return for every single oil change to help secure their bottom line.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Your next oil change is becoming a bigger part of car dealers\u2019 business as profits cool and ser",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.888508+00:00",
+      "id": "art_8fec7e38f3",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Gone are the days of a constricted car supply and weak competition that saw.",
+            "As profits fall back to Earth\u2014partly because of compressed margins caused by the car."
+          ],
+          "stanceTitle": "Your next oil change is becoming a bigger part of car dealers\u2019 business as profits cool and service departments make up ",
+          "type": "directReport",
+          "summary": "As gross profits from the actual business of selling cars fall from pandemic-era highs, dealerships are trying to convince customers to return for every single oil change to help secure their bottom line.",
+          "id": "p_art_8fec7e38f3_1",
+          "sourceName": "Fortune",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2218929741-e1787232279821.jpg?resize=1200,600"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "New Delhi: India and the 27-nation European Union (EU) have completed the legal scrubbing of the trade pact text and it will be signed this year on a mutually agreed date, an official said on Thursday.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India-EU trade pact clears legal scrub, signing likely this year",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.839586+00:00",
+      "id": "art_fe0d0d1a6a",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "On January 27, India and the European Union announced the conclusion of negotiations for.",
+            "\"The scrubbing is over,\" the official said."
+          ],
+          "stanceTitle": "India-EU trade pact clears legal scrub, signing likely this year",
+          "type": "directReport",
+          "summary": "New Delhi: India and the 27-nation European Union (EU) have completed the legal scrubbing of the trade pact text and it will be signed this year on a mutually agreed date, an official said on Thursday.",
+          "id": "p_art_fe0d0d1a6a_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133377022,width-1200,height-630,imgsize-215968,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Listen to this article in summarized format The agreements were signed during Union Petroleum and Natural Gas Minister Hardeep Puri\u2019s visit to Mauritius and include a government-to-government memorandum of understanding on oil and gas cooperation and a sales and purchase agreement with Indian Oil Corporation.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India enters 'long-term arrangement' with Mauritius to supply petrol, diesel and aviation fuel",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.823040+00:00",
+      "id": "art_05f85c27da",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Also read: India's July crude oil imports rise over 9% month-on-month The two sides.",
+            "Deal covers petrol, diesel and aviation fuel The sales and purchase agreement covers refined."
+          ],
+          "stanceTitle": "India enters 'long-term arrangement' with Mauritius to supply petrol, diesel and aviation fuel",
+          "type": "directReport",
+          "summary": "Listen to this article in summarized format The agreements were signed during Union Petroleum and Natural Gas Minister Hardeep Puri\u2019s visit to Mauritius and include a government-to-government memorandum of understanding on oil and gas cooperation and a sales and purchase agreement with Indian Oil Corporation.",
+          "id": "p_art_05f85c27da_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133378610,width-1200,height-630,imgsize-111486,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Here are some details: The Directorate General of Foreign Trade amended the Foreign Trade Policy with immediate effect, allowing export contracts, invoices and payments with non-Asian Clearing Union (ACU) countries to be denominated and settled in rupee or foreign currencies.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India eases rules for rupee export payments, seeks to widen trade settlement",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.793756+00:00",
+      "id": "art_b98a62db34",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The move removes a hurdle to rupee trade and could help commerce with countries.",
+            "Earlier, proceeds generally had to be realised in a freely convertible currency, even though."
+          ],
+          "stanceTitle": "India eases rules for rupee export payments, seeks to widen trade settlement",
+          "type": "directReport",
+          "summary": "Here are some details: The Directorate General of Foreign Trade amended the Foreign Trade Policy with immediate effect, allowing export contracts, invoices and payments with non-Asian Clearing Union (ACU) countries to be denominated and settled in rupee or foreign currencies.",
+          "id": "p_art_b98a62db34_1",
+          "sourceName": "Economic Times Economy",
+          "quoteAuthor": "",
+          "biasTag": "Corporate & Market Realism",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133379740,width-1200,height-630,imgsize-222794,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "YouTube offers creators millions to not work with Netflix. The payment would come in a couple of different forms. YouTube has discussed directly financing some programs, and it has also offered to allot a portion of major brand deals to creators.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "YouTube offers creators millions to not work with Netflix",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.752082+00:00",
+      "id": "art_8bb59f19bc",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The payment would come in a couple of different forms.",
+            "YouTube has discussed directly financing some programs, and it has also offered to allot."
+          ],
+          "stanceTitle": "YouTube offers creators millions to not work with Netflix",
+          "type": "directReport",
+          "summary": "YouTube offers creators millions to not work with Netflix. The payment would come in a couple of different forms. YouTube has discussed directly financing some programs, and it has also offered to allot a portion of major brand deals to creators.",
+          "id": "p_art_8bb59f19bc_1",
           "sourceName": "Economic Times Tech",
           "quoteAuthor": "",
           "biasTag": "Indian Tech & Startups",
-          "sourceDomain": "economictimes.indiatimes.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "economictimes.indiatimes.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/AP26230751761751.jpg"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133375575,imgsize-80632.cms"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "Work & Economy",
+        "Tech & AI",
         "Verified News",
         "Trending"
       ],
-      "lastUpgradedAt": "2026-08-19T15:54:18.628481+00:00",
+      "videoDuration": "02:45",
+      "summary": "Zomato pilots food vending machines at workplaces in new attempt at quick delivery. Zomato is piloting food vending machines in Gurugram corporate offices. This new initiative, Zomato Now, aims for rapid food delivery access. Zomato Now comes alongside sister company Blinkit\u2019s 10-minute food delivery service Bistro, which operates through its own cloud kitchens.",
+      "divergenceScore": 0,
       "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "Moderna\u2019s cancer shot: exciting for investors, inconclusive for patients. A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns",
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T15:04:46.949113+00:00",
-      "id": "art_5bdc4ff676",
-      "title": "Moderna\u2019s cancer shot: exciting for investors, inconclusive for patients",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "title": "Zomato pilots food vending machines at workplaces in new attempt at quick delivery",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.724300+00:00",
+      "id": "art_a9390cf7df",
       "perspectives": [
         {
           "keyPoints": [
-            "A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns",
-            "Key analytical takeaway and operational overview."
+            "Zomato is piloting food vending machines in Gurugram corporate offices.",
+            "This new initiative, Zomato Now, aims for rapid food delivery access."
           ],
-          "stanceTitle": "Moderna\u2019s cancer shot: exciting for investors, inconclusive for patients",
+          "stanceTitle": "Zomato pilots food vending machines at workplaces in new attempt at quick delivery",
           "type": "directReport",
-          "summary": "Moderna\u2019s cancer shot: exciting for investors, inconclusive for patients. A glimmer of hope for sufferers, a potential revenue platform for a cash-burner, and a whole heap of unknowns",
-          "id": "p_art_5bdc4ff676_1",
-          "sourceName": "Financial Times Global",
+          "summary": "Zomato pilots food vending machines at workplaces in new attempt at quick delivery. Zomato is piloting food vending machines in Gurugram corporate offices. This new initiative, Zomato Now, aims for rapid food delivery access. Zomato Now comes alongside sister company Blinkit\u2019s 10-minute food delivery service Bistro, which operates through its own cloud kitchens.",
+          "id": "p_art_a9390cf7df_1",
+          "sourceName": "Economic Times Tech",
           "quoteAuthor": "",
-          "biasTag": "Global Capital & Markets",
-          "sourceDomain": "ft.com",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592278-moderna-stock-mrna-cancer-vaccine-trial.jpg"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133377194,imgsize-60616.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "With $9.3 billion existing Dubai investment, 55,274 jobs; new MoUs seek to expand India-UAE AI and trade ties. The agreements were signed in Bengaluru between the Indian industry bodies and a delegation led by Dubai Chambers\u2019 president and chief executive officer, Mohammed Ali Rashed Lootah.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "With $9.3 billion existing Dubai investment, 55,274 jobs; new MoUs seek to expand India-UAE AI ",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.714034+00:00",
+      "id": "art_922bf1a65f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The agreements were signed in Bengaluru between the Indian industry bodies and a delegation.",
+            "The delegation held eight meetings with Indian and multinational companies and technology startups."
+          ],
+          "stanceTitle": "With $9.3 billion existing Dubai investment, 55,274 jobs; new MoUs seek to expand India-UAE AI and trade ties",
+          "type": "directReport",
+          "summary": "With $9.3 billion existing Dubai investment, 55,274 jobs; new MoUs seek to expand India-UAE AI and trade ties. The agreements were signed in Bengaluru between the Indian industry bodies and a delegation led by Dubai Chambers\u2019 president and chief executive officer, Mohammed Ali Rashed Lootah.",
+          "id": "p_art_922bf1a65f_1",
+          "sourceName": "Economic Times Tech",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133378555,imgsize-257664.cms"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Shiprocket stock jumps post-debut; ETSA 2026 Woman Ahead, Social Enterprise nominees. Shiprocket shares extended their strong listing-day gains with a 6% jump on Thursday. This and more in today\u2019s ETtech Top 5.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Shiprocket stock jumps post-debut; ETSA 2026 Woman Ahead, Social Enterprise nominees",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:39.691715+00:00",
+      "id": "art_c5f428a175",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Shiprocket shares extended their strong listing-day gains with a 6% jump on Thursday.",
+            "This and more in today\u2019s ETtech Top 5."
+          ],
+          "stanceTitle": "Shiprocket stock jumps post-debut; ETSA 2026 Woman Ahead, Social Enterprise nominees",
+          "type": "directReport",
+          "summary": "Shiprocket stock jumps post-debut; ETSA 2026 Woman Ahead, Social Enterprise nominees. Shiprocket shares extended their strong listing-day gains with a 6% jump on Thursday. This and more in today\u2019s ETtech Top 5.",
+          "id": "p_art_c5f428a175_1",
+          "sourceName": "Economic Times Tech",
+          "quoteAuthor": "",
+          "biasTag": "Indian Tech & Startups",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "economictimes.indiatimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/photo/msid-133378988,imgsize-40724.cms"
     }
   ]
 }

@@ -5,884 +5,884 @@
   "has_more": true,
   "articles": [
     {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
       "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Google has introduced a new visual indicator for its paid AI plans across Android and the web.",
+            "With the latest update, a blue gradient ring appears around the profile picture of."
+          ],
+          "stanceTitle": "Google Brings New Account Photo Design to AI and Google One Subscribers",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_44c884453b_1",
+          "summary": "Google's latest blue gradient ring resembles Gemini's icon. Google has introduced a new visual indicator for its paid AI plans across Android and the web. With the latest update, a blue gradient ring appears around the profile picture of paid Google One and Google AI subscribers.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Google Brings New Account Photo Design to AI and Google One Subscribers",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.417771+00:00",
+      "id": "art_44c884453b",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/google_dark_web_reports_1720531810071.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace.",
+            "However, the connectors missed a few basic abilities."
+          ],
+          "stanceTitle": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Connectors",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_605ce2c207_1",
+          "summary": "Claude AI can now reply to an email threads and send and forward emails in Gmail. Photo Credit: Anthropic Claude users have had the option to connect their Google Workspace apps, including Gmail, Google Calendar, and Google Drive, for a while now. However, the connectors missed a few basic abilities.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Claude Can Now Take Greater Control Over Gmail, Google Drive With Updated Google Workspace Conn",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.369108+00:00",
+      "id": "art_605ce2c207",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/claude_google_workspace_connectors_main_1787207278861.png"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week.",
+            "The group followed through on its threat of leaking more alleged GTA 6 content."
+          ],
+          "stanceTitle": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_cd05e56195_1",
+          "summary": "Two new leaked GTA 6 clips show gameplay features that could be present in the game. Photo Credit: Rockstar Games Grand Theft Auto 6 suffered a major leak this week as a malicious group targeting Rockstar Games and Take-Two shared two seemingly authentic gameplay videos from the upcoming title.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "New GTA 6 Gameplay Leaks Emerge as Group Threatens to Release More Videos",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.353338+00:00",
+      "id": "art_cd05e56195",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/Cal_Hampton_02_1_1787209015672.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
+            "As we wait for the official launch, a new leak suggests that the iPhone."
+          ],
+          "stanceTitle": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
+          "type": "directReport",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_bd0a5201f6_1",
+          "summary": "iPhone 18 Pro could feature a horizontal camera module on the rear. Photo Credit: Apple iPhone 18 Pro and iPhone 18 Pro Max are expected to go official next month.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "iPhone 18 Pro May Look Nearly Identical to iPhone 17 Pro, New Leak Claims",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.343113+00:00",
+      "id": "art_bd0a5201f6",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/apple_iphone_17_pro_1787209580130.jpg"
+    },
+    {
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Union Health Minister Nadda discharged from AIIMS after angioplasty. Nadda underwent angioplasty on August 17, following which he was under observation in the Department of Cardiology",
+      "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Union Health Minister Nadda discharged from AIIMS after angioplasty",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.297431+00:00",
-      "id": "art_084f2bbbf9",
       "perspectives": [
         {
           "keyPoints": [
-            "Nadda underwent angioplasty on August 17, following which he was under observation in the.",
+            "Thousands of students and job seekers had been seeking an overhaul of the state's.",
+            "The breakthrough came after the government cancelled 22 of these exams and ordered investigations."
+          ],
+          "stanceTitle": "Protesters call off 26-day agitation over exam irregularities in Indian state",
+          "type": "directReport",
+          "sourceName": "BBC India",
+          "id": "p_art_b64523a376_1",
+          "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state - Published Protesters in the eastern Indian state of Jharkhand have called off their 26-day agitation over alleged irregularities in government exams after the state agreed to several of their demands.",
+          "quoteAuthor": "",
+          "biasTag": "International Overview",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "bbc.co.uk"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.331479+00:00",
+      "id": "art_b64523a376",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/210d/live/e196e310-9c68-11f1-827b-69a6492daae1.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised. Health officials renew public health warnings, urging people to be cautious about the food and beverages they consume outside their homes, especially during the festival season",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Health officials renew public health warnings, urging people to be cautious about the food.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Union Health Minister Nadda discharged from AIIMS after angioplasty",
+          "stanceTitle": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised",
           "type": "directReport",
-          "summary": "Union Health Minister Nadda discharged from AIIMS after angioplasty. Nadda underwent angioplasty on August 17, following which he was under observation in the Department of Cardiology",
-          "id": "p_art_084f2bbbf9_1",
           "sourceName": "The Hindu National",
+          "id": "p_art_b07f17ea78_1",
+          "summary": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised. Health officials renew public health warnings, urging people to be cautious about the food and beverages they consume outside their homes, especially during the festival season",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.319803+00:00",
+      "id": "art_b07f17ea78",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ugd75p/article71364233.ece/alternates/LANDSCAPE_1200/PTI08_19_2026_000157B.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/swgarg/article71368231.ece/alternates/LANDSCAPE_1200/shigella.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "\u2018We don\u2019t want to leave\u2019: Why Adivasis are resisting the Ken-Betwa river link. Currently, affected villagers who were 18 years or older in February 2024 are eligible to receive Rs 12.5 lakh in compensation and Rs 5 lakh per acre of acquired land.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "\u2018We don\u2019t want to leave\u2019: Why Adivasis are resisting the Ken-Betwa river link",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.262474+00:00",
-      "id": "art_4e3a102311",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Currently, affected villagers who were 18 years or older in February 2024 are eligible.",
-            "However, the villagers say, \u2018We want a forest for our forest, land for our."
-          ],
-          "stanceTitle": "\u2018We don\u2019t want to leave\u2019: Why Adivasis are resisting the Ken-Betwa river link",
-          "type": "directReport",
-          "summary": "\u2018We don\u2019t want to leave\u2019: Why Adivasis are resisting the Ken-Betwa river link. Currently, affected villagers who were 18 years or older in February 2024 are eligible to receive Rs 12.5 lakh in compensation and Rs 5 lakh per acre of acquired land.",
-          "id": "p_art_4e3a102311_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wrwkyg/article71355668.ece/alternates/LANDSCAPE_1200/20260711342L.jpg"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "App-based cab and bike drivers\u2019 strike turns violent in Odisha\u2019s Bhubaneswar. Agitators allegedly turned violent and hurled stones at the force deployed; the cease-work protest began on August 17, pressing for the fulfilment of their seven-point charter of demands, including a fare hike, reduction in application fees, social security and other benefits",
+      "summary": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal. Here is a collection of articles from The Hindu as governments in Keralam, Puducherry, Tamil Nadu and West Bengal complete 100 days in power",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "App-based cab and bike drivers\u2019 strike turns violent in Odisha\u2019s Bhubaneswar",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.229278+00:00",
-      "id": "art_72b555e48b",
       "perspectives": [
         {
           "keyPoints": [
-            "Agitators allegedly turned violent and hurled stones at the force deployed; the cease-work protest.",
+            "Here is a collection of articles from The Hindu as governments in Keralam, Puducherry,.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "App-based cab and bike drivers\u2019 strike turns violent in Odisha\u2019s Bhubaneswar",
+          "stanceTitle": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal",
           "type": "directReport",
-          "summary": "App-based cab and bike drivers\u2019 strike turns violent in Odisha\u2019s Bhubaneswar. Agitators allegedly turned violent and hurled stones at the force deployed; the cease-work protest began on August 17, pressing for the fulfilment of their seven-point charter of demands, including a fare hike, reduction in application fees, social security and other benefits",
-          "id": "p_art_72b555e48b_1",
           "sourceName": "The Hindu National",
+          "id": "p_art_a9139045a0_1",
+          "summary": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal. Here is a collection of articles from The Hindu as governments in Keralam, Puducherry, Tamil Nadu and West Bengal complete 100 days in power",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.279298+00:00",
+      "id": "art_a9139045a0",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/33dxao/article71364303.ece/alternates/LANDSCAPE_1200/odisha%20protest.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/60tunh/article71368274.ece/alternates/LANDSCAPE_1200/20260504469L.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Staines triple murder case: Supreme Court gives ultimatum to Odisha on Dara Singh\u2019s remission plea. A Bench headed by Justice Manoj Misra cautioned the State government that procrastination would only lead to the Supreme Court taking over and deciding the life convict\u2019s remission petition",
+      "summary": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966). The RSS rose amid India\u2019s battle to overthrow the British Raj, with the aim of establishing a \u2018Hindu nation\u2019 via cultural and religious revival",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Staines triple murder case: Supreme Court gives ultimatum to Odisha on Dara Singh\u2019s remission p",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.224548+00:00",
-      "id": "art_ec5bc30325",
       "perspectives": [
         {
           "keyPoints": [
-            "A Bench headed by Justice Manoj Misra cautioned the State government that procrastination would.",
+            "The RSS rose amid India\u2019s battle to overthrow the British Raj, with the aim.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Staines triple murder case: Supreme Court gives ultimatum to Odisha on Dara Singh\u2019s remission plea",
+          "stanceTitle": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966)",
           "type": "directReport",
-          "summary": "Staines triple murder case: Supreme Court gives ultimatum to Odisha on Dara Singh\u2019s remission plea. A Bench headed by Justice Manoj Misra cautioned the State government that procrastination would only lead to the Supreme Court taking over and deciding the life convict\u2019s remission petition",
-          "id": "p_art_ec5bc30325_1",
           "sourceName": "The Hindu National",
+          "id": "p_art_be863b504f_1",
+          "summary": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966). The RSS rose amid India\u2019s battle to overthrow the British Raj, with the aim of establishing a \u2018Hindu nation\u2019 via cultural and religious revival",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966)",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.272997+00:00",
+      "id": "art_be863b504f",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/b3opht/article71364387.ece/alternates/LANDSCAPE_1200/PTI12_16_2025_000065A%204.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d4scim/article69822616.ece/alternates/LANDSCAPE_1200/RSS%20Title%20image%201.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Action against drivers without Marathi knowledge from Aug 20: Maharashtra Minister. Action will be initiated against those who do not possess the required certificate or working knowledge of Marathi.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Action against drivers without Marathi knowledge from Aug 20: Maharashtra Minister",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.223171+00:00",
-      "id": "art_3f5845a266",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Action will be initiated against those who do not possess the required certificate or.",
-            "Notices will first be issued, and if compliance is not achieved, the driver\u2019s licence."
-          ],
-          "stanceTitle": "Action against drivers without Marathi knowledge from Aug 20: Maharashtra Minister",
-          "type": "directReport",
-          "summary": "Action against drivers without Marathi knowledge from Aug 20: Maharashtra Minister. Action will be initiated against those who do not possess the required certificate or working knowledge of Marathi.",
-          "id": "p_art_3f5845a266_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/bfi6fy/article71364267.ece/alternates/LANDSCAPE_1200/11908_12_6_2026_13_26_56_3_DSC_6085.JPG"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "North Karnataka industrial ecosystem can grow by catering to electric vehicle value chain. The Hubballi-Dharwad-Belagavi region has the potential to be a major industrial and logistics hub by leveraging rapid growth of EV sector",
+      "summary": "Patna High Court goes hard on noise pollution. Expressing concern over road accidents and public inconvenience caused by pressure horns, the court directed police officials to issue challans (fines) under Section 190(2) of the Motor Vehicles Act, 1988.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "North Karnataka industrial ecosystem can grow by catering to electric vehicle value chain",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.218869+00:00",
-      "id": "art_4b5fe8d0c9",
       "perspectives": [
         {
           "keyPoints": [
-            "The Hubballi-Dharwad-Belagavi region has the potential to be a major industrial and logistics hub.",
+            "Expressing concern over road accidents and public inconvenience caused by pressure horns, the court.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "North Karnataka industrial ecosystem can grow by catering to electric vehicle value chain",
+          "stanceTitle": "Patna High Court goes hard on noise pollution",
           "type": "directReport",
-          "summary": "North Karnataka industrial ecosystem can grow by catering to electric vehicle value chain. The Hubballi-Dharwad-Belagavi region has the potential to be a major industrial and logistics hub by leveraging rapid growth of EV sector",
-          "id": "p_art_4b5fe8d0c9_1",
           "sourceName": "The Hindu National",
+          "id": "p_art_8eab514fd3_1",
+          "summary": "Patna High Court goes hard on noise pollution. Expressing concern over road accidents and public inconvenience caused by pressure horns, the court directed police officials to issue challans (fines) under Section 190(2) of the Motor Vehicles Act, 1988.",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Patna High Court goes hard on noise pollution",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.250712+00:00",
+      "id": "art_8eab514fd3",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/juqdg9/article71361593.ece/alternates/LANDSCAPE_1200/2699_18_8_2026_18_55_1_1_19HUBLIKCCIWORKSHOP.JPG"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/national/q6l9hu/article71368267.ece/alternates/LANDSCAPE_1200/iStock-1615644280.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Alleged drug kingpin in MDMA-cocaine bust worth \u20b91.5 crore arrested in Kerala. The police said questioning the four led investigators to Saleem. He allegedly brought the drugs from Bengaluru to Coimbatore in a car. He then planned to transport them to Kerala in another car using carriers. The police have seized both vehicles.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Alleged drug kingpin in MDMA-cocaine bust worth \u20b91.5 crore arrested in Kerala",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.179797+00:00",
-      "id": "art_059e266f21",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The police said questioning the four led investigators to Saleem.",
-            "He allegedly brought the drugs from Bengaluru to Coimbatore in a car."
-          ],
-          "stanceTitle": "Alleged drug kingpin in MDMA-cocaine bust worth \u20b91.5 crore arrested in Kerala",
-          "type": "directReport",
-          "summary": "Alleged drug kingpin in MDMA-cocaine bust worth \u20b91.5 crore arrested in Kerala. The police said questioning the four led investigators to Saleem. He allegedly brought the drugs from Bengaluru to Coimbatore in a car. He then planned to transport them to Kerala in another car using carriers. The police have seized both vehicles.",
-          "id": "p_art_059e266f21_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/y8v6fz/article71364238.ece/alternates/LANDSCAPE_1200/arrest%20rep%20image.jpg"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Hanur shoot-out case: Fourth man releases video on killing of three suspected poachers by Forest Department. Three persons suspected of poaching were killed in the reported incident at Cauvery Wildlife Sanctuary in Hanur taluk of Chamarajanagar district early on Saturday",
+      "summary": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education. Rajiv Gandhi\u2019s government lowered the voting age to 18, established C-DOT to develop telecom technology and introduced the National Policy on Education in 1986.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Hanur shoot-out case: Fourth man releases video on killing of three suspected poachers by Fores",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.163325+00:00",
-      "id": "art_532ca9f320",
       "perspectives": [
         {
           "keyPoints": [
-            "Three persons suspected of poaching were killed in the reported incident at Cauvery Wildlife.",
+            "Rajiv Gandhi\u2019s government lowered the voting age to 18, established C-DOT to develop telecom.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Hanur shoot-out case: Fourth man releases video on killing of three suspected poachers by Forest Department",
+          "stanceTitle": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education",
           "type": "directReport",
-          "summary": "Hanur shoot-out case: Fourth man releases video on killing of three suspected poachers by Forest Department. Three persons suspected of poaching were killed in the reported incident at Cauvery Wildlife Sanctuary in Hanur taluk of Chamarajanagar district early on Saturday",
-          "id": "p_art_532ca9f320_1",
           "sourceName": "The Hindu National",
+          "id": "p_art_291019af5f_1",
+          "summary": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education. Rajiv Gandhi\u2019s government lowered the voting age to 18, established C-DOT to develop telecom technology and introduced the National Policy on Education in 1986.",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.229683+00:00",
+      "id": "art_291019af5f",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/p9xdhq/article71361647.ece/alternates/LANDSCAPE_1200/Cauvery%20Wild%20Life%20Sanctuary_01.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/rs1ivk/article71367963.ece/alternates/LANDSCAPE_1200/image.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Actor Ravi Mohan files case against film producer over dispute related to Bro Club. Govindarajan Thilakavadi orders notice, returnable by August 25, to Shruthi Nallappa of Miracle Movies",
+      "summary": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal. Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns over Chinese military activity in the Upper Subansiri region of Arunachal Pradesh",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Actor Ravi Mohan files case against film producer over dispute related to Bro Club",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.132782+00:00",
-      "id": "art_bdd042d371",
       "perspectives": [
         {
           "keyPoints": [
-            "Govindarajan Thilakavadi orders notice, returnable by August 25, to Shruthi Nallappa of Miracle Movies",
+            "Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Actor Ravi Mohan files case against film producer over dispute related to Bro Club",
+          "stanceTitle": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal",
           "type": "directReport",
-          "summary": "Actor Ravi Mohan files case against film producer over dispute related to Bro Club. Govindarajan Thilakavadi orders notice, returnable by August 25, to Shruthi Nallappa of Miracle Movies",
-          "id": "p_art_bdd042d371_1",
           "sourceName": "The Hindu National",
+          "id": "p_art_781c5c6ad9_1",
+          "summary": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal. Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns over Chinese military activity in the Upper Subansiri region of Arunachal Pradesh",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceDomain": "thehindu.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese in",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.225360+00:00",
+      "id": "art_781c5c6ad9",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/jivi70/article71364381.ece/alternates/LANDSCAPE_1200/IMG_Siren_Jayam_Ravi_mov_2_1_H2CE91EP.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/oyhtn/article71368124.ece/alternates/LANDSCAPE_1200/20260817369L.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "In a major consolidation of administrative authority, Chief Minister Devendra Fadnavis has been granted legal power to intervene in and override decisions taken by any cabinet minister in Maharashtra, provided it is done in the larger public interest.",
+      "summary": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row. One of the protestors, Advocate Umesh Kumar, questioned the Chairman\u2019s record on lawyer welfare; he accused Mr. Mishra of spearheading \u201cpolitical agendas\u201d while staying silent on issues of lawyers",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Maharashtra Chief Minister Can Now Override Cabinet Ministers' Decisions",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.103902+00:00",
-      "id": "art_745e0553a3",
       "perspectives": [
         {
           "keyPoints": [
-            "The state government officially notified the Maharashtra Government Rules of Business, 2026, which explicitly.",
-            "Published by the General Administration Department in the State Gazette under Article 166 (2)."
+            "One of the protestors, Advocate Umesh Kumar, questioned the Chairman\u2019s record on lawyer welfare;.",
+            "Mishra of spearheading \u201cpolitical agendas\u201d while staying silent on issues of lawyers"
           ],
-          "stanceTitle": "Maharashtra Chief Minister Can Now Override Cabinet Ministers' Decisions",
+          "stanceTitle": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row",
           "type": "directReport",
-          "summary": "In a major consolidation of administrative authority, Chief Minister Devendra Fadnavis has been granted legal power to intervene in and override decisions taken by any cabinet minister in Maharashtra, provided it is done in the larger public interest.",
-          "id": "p_art_745e0553a3_1",
+          "sourceName": "The Hindu National",
+          "id": "p_art_2a209394db_1",
+          "summary": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row. One of the protestors, Advocate Umesh Kumar, questioned the Chairman\u2019s record on lawyer welfare; he accused Mr. Mishra of spearheading \u201cpolitical agendas\u201d while staying silent on issues of lawyers",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Lawyers protest outside BCI office, demand Chairman Manan Mishra\u2019s resignation amid NALSAR row",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.186886+00:00",
+      "id": "art_2a209394db",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/ioznvn/article71368167.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2012.20.41%20PM.jpeg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "India, Japan sign maritime security pact to deepen defence cooperation. Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s recent review of its defence equipment and technology transfer framework",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India, Japan sign maritime security pact to deepen defence cooperation",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_83137bf21b_1",
+          "summary": "India, Japan sign maritime security pact to deepen defence cooperation. Defence Minister Rajnath Singh, in bilateral talks with Japanese counterpart Shinjiro Koizumi, welcomed Japan\u2019s recent review of its defence equipment and technology transfer framework",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "India, Japan sign maritime security pact to deepen defence cooperation",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.173970+00:00",
+      "id": "art_83137bf21b",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/f87frn/article71368370.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000151B.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed. Applicants list to be displayed online from the evening on August 21. Objections can be raised till the evening on August 23.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Applicants list to be displayed online from the evening on August 21.",
+            "Objections can be raised till the evening on August 23."
+          ],
+          "stanceTitle": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_edd6831782_1",
+          "summary": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed. Applicants list to be displayed online from the evening on August 21. Objections can be raised till the evening on August 23.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.154500+00:00",
+      "id": "art_edd6831782",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/cities/Hyderabad/59u1ta/article71368355.ece/alternates/LANDSCAPE_1200/Application%20status.png"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat. The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The committee was formed after Odisha Human Rights Commission directed to do so.",
+            "Villagers had alleged that relocation was forcible and their consent was manufactured"
+          ],
+          "stanceTitle": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
+          "type": "directReport",
+          "sourceName": "The Hindu National",
+          "id": "p_art_df89f7a89c_1",
+          "summary": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat. The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.135454+00:00",
+      "id": "art_df89f7a89c",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/euc6si/article71368330.ece/alternates/LANDSCAPE_1200/90092_4_3_2025_16_55_27_1_DAILY_LIFE_2.JPG"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- Four family members died after their car plunged into a well in Telangana's Siddipet district - The victims were identified as Raju, his wife Bhagya, and their two young children Niyansh and Shanvika - The family was returning from a relative\u2019s death ceremony when the accident occurred near Appanapalli Four members of a family,.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The accident occurred near Appanapalli village in Dubbak Mandal late on Wednesday night.",
+            "The victims were identified as Raju (35), his wife Bhagya (22), their five-year-old son."
+          ],
+          "stanceTitle": "Couple, 2 Children Killed As Car Veers Off Road, Falls Into Well In Telangana",
+          "type": "directReport",
           "sourceName": "NDTV Top Stories",
+          "id": "p_art_acb6e21630_1",
+          "summary": "- Four family members died after their car plunged into a well in Telangana's Siddipet district - The victims were identified as Raju, his wife Bhagya, and their two young children Niyansh and Shanvika - The family was returning from a relative\u2019s death ceremony when the accident occurred near Appanapalli Four members of a family,.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Couple, 2 Children Killed As Car Veers Off Road, Falls Into Well In Telangana",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.119984+00:00",
+      "id": "art_acb6e21630",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-04/rhcap4k_cm-devendra-fadnavis-viral-letter-_625x300_26_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/h11ktktg_siddipet-accicdent-_625x300_20_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "- Omar Abdullah said Jammu and Kashmir issues must be resolved by India's central government - He said he will not raise J&K internal problems with US Ambassador Sergio Gor during their meeting today - US Ambassador Gor's visit is first to Kashmir since 2020 Galwan clashes and signals key diplomatic engagement Hours before his.",
+      "summary": "- Social media creators in Bihar can earn up to Rs 1 lakh per video on government schemes - Videos with 1 lakh views in 30 days will earn creators Rs 10,000 under the new policy - The policy was approved in a cabinet meeting chaired by Chief Minister Samrat Choudhary Social media creators and.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "\"Coming To Listen To Us\": Omar Abdullah On Meeting US Envoy In J&K",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.092908+00:00",
-      "id": "art_152a8c761e",
       "perspectives": [
         {
           "keyPoints": [
-            "The Chief Minister said that he will not raise internal problems faced by Jammu.",
-            "\"The solution to our problems will not come from Washington."
+            "Under the new policy, which was approved during a cabinet meeting chaired by Chief.",
+            "If a video receives one lakh views within 30 days, the creator will receive Rs 10,000."
           ],
-          "stanceTitle": "\"Coming To Listen To Us\": Omar Abdullah On Meeting US Envoy In J&K",
+          "stanceTitle": "Rs 1 Lakh For Video With A Lakh Views: Bihar's New Initiative For Influencers",
           "type": "directReport",
-          "summary": "- Omar Abdullah said Jammu and Kashmir issues must be resolved by India's central government - He said he will not raise J&K internal problems with US Ambassador Sergio Gor during their meeting today - US Ambassador Gor's visit is first to Kashmir since 2020 Galwan clashes and signals key diplomatic engagement Hours before his.",
-          "id": "p_art_152a8c761e_1",
           "sourceName": "NDTV Top Stories",
+          "id": "p_art_0d7b612fdc_1",
+          "summary": "- Social media creators in Bihar can earn up to Rs 1 lakh per video on government schemes - Videos with 1 lakh views in 30 days will earn creators Rs 10,000 under the new policy - The policy was approved in a cabinet meeting chaired by Chief Minister Samrat Choudhary Social media creators and.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Rs 1 Lakh For Video With A Lakh Views: Bihar's New Initiative For Influencers",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.096427+00:00",
+      "id": "art_0d7b612fdc",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lmatf268_omar-abdullah-_625x300_19_August_26.jpeg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/8n5263rc_social-media-influencers_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "- Creators earn from multiple streams like AdSense, brand deals, and merchandise sales - Income from content creation is treated as business or professional income by tax laws - Creators must file ITR by August 31 for FY 2025-26 if earning business income without audit Income Tax Return 2025-26: For many creators, the money does.",
+      "summary": "North Korea said Wednesday that a US decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "'Instagram, YouTube Earnings Not Tax-Free': Content Creators Face August 31 Deadline",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.090854+00:00",
-      "id": "art_2b5b271be4",
       "perspectives": [
         {
           "keyPoints": [
-            "A YouTuber may earn from AdSense.",
-            "An Instagram creator may get paid for a brand deal."
+            "The powerful sister of North Korean leader Kim Jong Un made the comments Wednesday.",
+            "\"We think it's not worth making comments on that and we have no interest."
           ],
-          "stanceTitle": "'Instagram, YouTube Earnings Not Tax-Free': Content Creators Face August 31 Deadline",
+          "stanceTitle": "\"Have No Interest\": North Korea On Trump's Scaled-Back Drills With South Korea",
           "type": "directReport",
-          "summary": "- Creators earn from multiple streams like AdSense, brand deals, and merchandise sales - Income from content creation is treated as business or professional income by tax laws - Creators must file ITR by August 31 for FY 2025-26 if earning business income without audit Income Tax Return 2025-26: For many creators, the money does.",
-          "id": "p_art_2b5b271be4_1",
           "sourceName": "NDTV Top Stories",
+          "id": "p_art_91295e515d_1",
+          "summary": "North Korea said Wednesday that a US decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "\"Have No Interest\": North Korea On Trump's Scaled-Back Drills With South Korea",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.093742+00:00",
+      "id": "art_91295e515d",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/n3eetff4_content-creator_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/o2rec3eo_donald-trump_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "- A 13-year-old girl planned her grandfather's murder and guided teen killers via video call - The 67-year-old victim was suffocated after being tied and beaten by four teenagers in Kerala - The girl showed no visible behavior change and claimed her grandfather was drunk and asleep A 13-year-old girl plotted the murder of her.",
+      "summary": "- A 65-year-old woman was arrested for plotting her daughter-in-law's murder in Mumbai - She paid Rs 3 lakhs to her househelp and family to carry out the crime - The victim, Sapna Ganji, was found dead with suspicious injuries in Ghatkopar A 65-year-old woman was arrested for allegedly plotting the murder of her daughter-in-law.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Kerala Teen Plots Grandfather's Murder, Watches Him Suffocate On Video Call",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.037990+00:00",
-      "id": "art_073649ba73",
       "perspectives": [
         {
           "keyPoints": [
-            "The chilling murder took place on the night of August 15 when the victim was alone at home.",
-            "A day before, the victim's younger daughter was admitted to the Government Medical College."
+            "The incident took place last week when the victim, Sapna Ganji, was found dead.",
+            "According to the police, the accused, identified as Dhanalakshmi Ganji, paid Rs 3 lakhs."
           ],
-          "stanceTitle": "Kerala Teen Plots Grandfather's Murder, Watches Him Suffocate On Video Call",
+          "stanceTitle": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
           "type": "directReport",
-          "summary": "- A 13-year-old girl planned her grandfather's murder and guided teen killers via video call - The 67-year-old victim was suffocated after being tied and beaten by four teenagers in Kerala - The girl showed no visible behavior change and claimed her grandfather was drunk and asleep A 13-year-old girl plotted the murder of her.",
-          "id": "p_art_073649ba73_1",
           "sourceName": "NDTV Top Stories",
+          "id": "p_art_ad80ccc32e_1",
+          "summary": "- A 65-year-old woman was arrested for plotting her daughter-in-law's murder in Mumbai - She paid Rs 3 lakhs to her househelp and family to carry out the crime - The victim, Sapna Ganji, was found dead with suspicious injuries in Ghatkopar A 65-year-old woman was arrested for allegedly plotting the murder of her daughter-in-law.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.063026+00:00",
+      "id": "art_ad80ccc32e",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/atae13bs_kerala-grandfather_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/0siel4_mumbai_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "The Congress, an ally in the Vijay's TVK-led Tamil Nadu government, disagrees. Specifically, its party MP Karti Chidambaram who disagrees with the state government's move that could tacitly encourage large families after the state government announced it is extending the maternity leave from 12 weeks to 365 for women giving birth to their third child.",
+      "summary": "- Kerala Excise seized 3.5 kg of MDMA, triggering a multi-state investigation - Eleven officers covered 15,000 km and tracked suspects across five states - Suspects used foreign WhatsApp numbers and Wi-Fi to evade mobile tracking When Kerala's Excise on April 23 seized nearly 3.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "\"Don't Think We Should Encourage Large Families\": Congress MP On Vijay Government's Move",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.030592+00:00",
-      "id": "art_b1c525d489",
       "perspectives": [
         {
           "keyPoints": [
-            "Specifically, its party MP Karti Chidambaram who disagrees with the state government's move that.",
-            "Presently, women working for the government get one year maternity leave for the first."
+            "Here is the thrilling story that leads to the Nigerian national still out at large.",
+            "Shafeeq PK, 36, from Malappuram, and YouTube influencer Fathima Nasreen, 20, were arrested, but."
           ],
-          "stanceTitle": "\"Don't Think We Should Encourage Large Families\": Congress MP On Vijay Government's Move",
+          "stanceTitle": "3 kg Drugs And A Modified Creta: Major Network Busted In Kerala",
           "type": "directReport",
-          "summary": "The Congress, an ally in the Vijay's TVK-led Tamil Nadu government, disagrees. Specifically, its party MP Karti Chidambaram who disagrees with the state government's move that could tacitly encourage large families after the state government announced it is extending the maternity leave from 12 weeks to 365 for women giving birth to their third child.",
-          "id": "p_art_b1c525d489_1",
           "sourceName": "NDTV Top Stories",
+          "id": "p_art_539bc3b12c_1",
+          "summary": "- Kerala Excise seized 3.5 kg of MDMA, triggering a multi-state investigation - Eleven officers covered 15,000 km and tracked suspects across five states - Suspects used foreign WhatsApp numbers and Wi-Fi to evade mobile tracking When Kerala's Excise on April 23 seized nearly 3.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/51ih0i1c_vijay-_625x300_19_August_26.jpeg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Mumbai faces land limits and rising infrastructure pressure, prompting new urban plans - Mumbai 3.0 will develop 124 villages over 323.44 sq km near Navi Mumbai Airport - Project aims to create jobs and homes with tech hubs, healthcare, and green zones Mumbai has run out of room to grow the way it once.",
-      "likesCount": 0,
-      "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Mumbai 3.0 On The Cards: All About The Proposed Rs 4,000-Crore Mega City",
+      "title": "3 kg Drugs And A Modified Creta: Major Network Busted In Kerala",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:16.998469+00:00",
-      "id": "art_d12e5b949e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "And the pressure on roads, housing and infrastructure keeps rising.",
-            "Now, Maharashtra is looking at a much bigger solution -- a new urban centre beyond Navi Mumbai."
-          ],
-          "stanceTitle": "Mumbai 3.0 On The Cards: All About The Proposed Rs 4,000-Crore Mega City",
-          "type": "directReport",
-          "summary": "- Mumbai faces land limits and rising infrastructure pressure, prompting new urban plans - Mumbai 3.0 will develop 124 villages over 323.44 sq km near Navi Mumbai Airport - Project aims to create jobs and homes with tech hubs, healthcare, and green zones Mumbai has run out of room to grow the way it once.",
-          "id": "p_art_d12e5b949e_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
+      "publishedAt": "2026-08-20T09:08:46.047113+00:00",
+      "id": "art_539bc3b12c",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ibevm6ak_mumbai-30_625x300_19_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "An Ohio couple was arrested after allegedly barging into a family's cabin on a cruise ship and attacking three people, including a 9-year-old child. The incident occurred after the drunk couple was asked to keep the noise down, police said.",
-      "likesCount": 0,
       "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Drunk US Couple Attacks Family On Cruise Over 'Keep Quiet' Request",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:16.958965+00:00",
-      "id": "art_9d4c48002d",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The incident occurred after the drunk couple was asked to keep the noise down, police said.",
-            "Gannon Jacox, 29, and his girlfriend, Brooklyn Hicks, 28, were arrested Saturday evening at."
-          ],
-          "stanceTitle": "Drunk US Couple Attacks Family On Cruise Over 'Keep Quiet' Request",
-          "type": "directReport",
-          "summary": "An Ohio couple was arrested after allegedly barging into a family's cabin on a cruise ship and attacking three people, including a 9-year-old child. The incident occurred after the drunk couple was asked to keep the noise down, police said.",
-          "id": "p_art_9d4c48002d_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/crifesf_ohio_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- US President Trump claims sovereignty over Strait of Hormuz and control of waterway - Trump states all Iranian water mines in Strait of Hormuz have been removed or detonated - Maritime data shows Iran losing grip on Hormuz as US naval blockade strengthens US President Donald Trump has posted a map showing the Strait.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Trump Claims US Control Over Hormuz. Why He Might Be Right This Time",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:16.916712+00:00",
-      "id": "art_57cb102fca",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The American leader has also claimed that all water mines -- planted by Iran.",
-            "\"There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran."
-          ],
-          "stanceTitle": "Trump Claims US Control Over Hormuz. Why He Might Be Right This Time",
-          "type": "directReport",
-          "summary": "- US President Trump claims sovereignty over Strait of Hormuz and control of waterway - Trump states all Iranian water mines in Strait of Hormuz have been removed or detonated - Maritime data shows Iran losing grip on Hormuz as US naval blockade strengthens US President Donald Trump has posted a map showing the Strait.",
-          "id": "p_art_57cb102fca_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
       "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/mgquo264_hormuz_625x300_19_August_26.jpeg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Shabana Azmi starred in two films released on August 14: Awarapan 2 and Batwara 1947 - She plays a crime lord in Awarapan 2 and an elderly widow in Batwara 1947 - Her role in Awarapan 2 is limited despite a strong entry and villainous character With a career spanning over five decades, veteran.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Wasted In Awarapan 2, How Shabana Azmi Stole The Show In Batwara 1947",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:16.866301+00:00",
-      "id": "art_d3e59dbc7c",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "And she continues to do so.",
-            "Still having a solid run at the movies, the actress had two much-anticipated films."
-          ],
-          "stanceTitle": "Wasted In Awarapan 2, How Shabana Azmi Stole The Show In Batwara 1947",
-          "type": "directReport",
-          "summary": "- Shabana Azmi starred in two films released on August 14: Awarapan 2 and Batwara 1947 - She plays a crime lord in Awarapan 2 and an elderly widow in Batwara 1947 - Her role in Awarapan 2 is limited despite a strong entry and villainous character With a career spanning over five decades, veteran.",
-          "id": "p_art_d3e59dbc7c_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
       "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/k8ug6op_shabana_625x300_19_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Salman Khan called Emraan Hashmi the most underrated actor in 2012 - Emraan Hashmi considers Salman Khan a brother and friend, not just \"bhai\" - Salman joked about a kissing scene with Emraan during the Tiger 3 event Salman Khan and Emraan Hashmi collaborated for the first time in the 2023 film Tiger 3,.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "14 Years Ago, Salman Khan Called Emraan Hashmi \"The Most Underrated Actor\"",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:16.826258+00:00",
-      "id": "art_b2867b424f",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "But long before the collaboration, Salman Khan had said that Emraan Hashmi is the most underrated actor.",
-            "After Emraan Hashmi's blockbuster success with Awarapan 2, the comment has resurfaced on social media."
-          ],
-          "stanceTitle": "14 Years Ago, Salman Khan Called Emraan Hashmi \"The Most Underrated Actor\"",
-          "type": "directReport",
-          "summary": "- Salman Khan called Emraan Hashmi the most underrated actor in 2012 - Emraan Hashmi considers Salman Khan a brother and friend, not just \"bhai\" - Salman joked about a kissing scene with Emraan during the Tiger 3 event Salman Khan and Emraan Hashmi collaborated for the first time in the 2023 film Tiger 3,.",
-          "id": "p_art_b2867b424f_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/qf8l87k4_gg_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Anupama Parameswaran revealed her controlling relationship affected her self-view and career - She felt ashamed of being an actor, confident, and having periods during the relationship - Her former partner blamed her menstrual cycle for disagreements, causing her shame Anupama Parameswaran, who spoke at length about being in a controlling relationship with an unnamed.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Anupama Parameswaran Says Ex-Boyfriend Made Her Feel Ashamed Of Periods",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:16.783454+00:00",
-      "id": "art_0b160f2fea",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "She said the relationship affected the way she viewed herself, her career and even her identity as a woman.",
-            "Speaking on Dhyan Varma's YouTube channel, Anupama got emotional recalling how her former partner."
-          ],
-          "stanceTitle": "Anupama Parameswaran Says Ex-Boyfriend Made Her Feel Ashamed Of Periods",
-          "type": "directReport",
-          "summary": "- Anupama Parameswaran revealed her controlling relationship affected her self-view and career - She felt ashamed of being an actor, confident, and having periods during the relationship - Her former partner blamed her menstrual cycle for disagreements, causing her shame Anupama Parameswaran, who spoke at length about being in a controlling relationship with an unnamed.",
-          "id": "p_art_0b160f2fea_1",
-          "sourceName": "NDTV Trending News",
-          "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/1j3a6o9_anupama_625x300_19_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/i46sn044_kerala-excise-drug-bust_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
     }
   ]
 }

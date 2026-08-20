@@ -1,220 +1,98 @@
 {
   "page": 1,
   "total_pages": 1,
-  "total_articles": 8,
+  "total_articles": 20,
   "has_more": false,
   "articles": [
     {
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "isBookmarked": false,
-      "divergenceScore": 85,
-      "summary": "- At least nine people died in a Kolkata hotel fire early Wednesday morning - All victims were Bangladeshi nationals visiting Kolkata for medical treatment - The fire may have been caused by an air-conditioner explosion, cause unconfirmed At least nine people, including a child, were killed after a massive fire broke out at a.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Bangladeshi Nationals Among 9 Dead In Kolkata Hotel Fire, AC Blast Suspected",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-19T05:05:47.094526+00:00",
-      "id": "art_e5d773e765",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The blaze erupted around 2:00 am on Free School Street near New Market, one.",
-            "According to the fire department, Bangladeshi nationals were among those who died in the blaze."
-          ],
-          "stanceTitle": "Bangladeshi Nationals Among 9 Dead In Kolkata Hotel Fire, AC Blast Suspected",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_e5d773e765_1",
-          "summary": "- At least nine people died in a Kolkata hotel fire early Wednesday morning - All victims were Bangladeshi nationals visiting Kolkata for medical treatment - The fire may have been caused by an air-conditioner explosion, cause unconfirmed At least nine people, including a child, were killed after a massive fire broke out at a.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "The blaze erupted around 2 a.m.; at least 15 others were rescued from the hotel",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Massive fire in Kolkata hotel kills nine",
-          "type": "viewpoint2",
-          "sourceName": "The Hindu National",
-          "id": "p_art_e5d773e765_2",
-          "summary": "- At least nine people died in a Kolkata hotel fire early Wednesday morning - All victims were Bangladeshi nationals visiting Kolkata for medical treatment - The fire may have been caused by an air-conditioner explosion, cause unconfirmed At least nine people, including a child, were killed after a massive fire broke out at a.",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/news/national/doi8sf/article71363202.ece/alternates/LANDSCAPE_1200/kolkata%20hotel%20fire.png"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "summary": "- The UAE issued a missile threat warning, urging residents to seek safe locations immediately - The air defence systems detected a missile threat targeting the UAE - Warning follows expiration of Iran-US Memorandum of Understanding on Middle East conflict In its first such warning in months, the UAE has warned of 'potential missile threats'.",
-      "divergenceScore": 85,
+      "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
+      "divergenceScore": 88,
       "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-18T18:50:26.598254+00:00",
-      "id": "art_3e225dbed2",
+      "title": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:40.991739+00:00",
+      "id": "art_28488eaa91",
       "perspectives": [
         {
           "keyPoints": [
-            "The National Emergency Crisis and Disaster Management Authority (NCEMA) of the country said in.",
-            "\"UAE air defence systems detected a missile threat targeting the county."
+            "</p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens,.",
+            "But over the last 24 hours, things have finally begun to turn around.</p> <p."
           ],
-          "stanceTitle": "UAE Says 2 Ballistic Missiles Launched From Iran Fell Into Territorial Waters",
+          "stanceTitle": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
           "type": "viewpoint1",
-          "summary": "- The UAE issued a missile threat warning, urging residents to seek safe locations immediately - The air defence systems detected a missile threat targeting the UAE - Warning follows expiration of Iran-US Memorandum of Understanding on Middle East conflict In its first such warning in months, the UAE has warned of 'potential missile threats'.",
-          "id": "p_art_3e225dbed2_1",
-          "sourceName": "NDTV Trending News",
+          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
+          "id": "p_art_28488eaa91_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 93,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         },
         {
           "keyPoints": [
-            "Iran targets UAE with two missiles as Gulf tensions escalate",
+            "After months of slumber, digital currencies are waking up, with bitcoin and ethereum shooting.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "UAE Accuses Iran Of Firing Two Ballistic Missiles As Gulf Tensions Re-Escalate",
+          "stanceTitle": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
           "type": "viewpoint2",
-          "summary": "- The UAE issued a missile threat warning, urging residents to seek safe locations immediately - The air defence systems detected a missile threat targeting the UAE - Warning follows expiration of Iran-US Memorandum of Understanding on Middle East conflict In its first such warning in months, the UAE has warned of 'potential missile threats'.",
-          "id": "p_art_3e225dbed2_2",
-          "sourceName": "NDTV Profit",
+          "summary": "<p class=\"wp-block-paragraph\">The prices of major cryptocurrencies, including Bitcoin, Ethereum, and XRP, are surging today. </p> <p class=\"wp-block-paragraph\">The upward movement is being cheered by investors in the digital tokens, which have, until recently, experienced a pretty horrendous 2026.",
+          "id": "p_art_28488eaa91_2",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "marketwatch.com"
         }
       ],
       "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "UAE Says 2 Ballistic Missiles Launched From Iran Fell Into Territorial Waters",
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/k0o719/article71362179.ece/alternates/LANDSCAPE_1200/iStock-1506274020.jpg"
+      "heroImageUrl": "https://images.mktw.net/im-28575996"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "summary": "- Jain spent months in jail in a money laundering case before being released on bail in 2024 - The AAP termed the move political and said Jain was in jail when the alleged irregularities occurred - Six people have been arrested, including Udit Prakash Rai, a former CEO of the Jal Board Aam Aadmi.",
-      "divergenceScore": 85,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-18T16:40:10.909805+00:00",
-      "id": "art_ef6cc0fba9",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "In a statement issued on Tuesday, the Anti-Corruption Branch in Delhi said the Directorate.",
-            "Six people were arrested after investigation, it said, including Udit Prakash Rai, a former CEO of the DJB."
-          ],
-          "stanceTitle": "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
-          "type": "viewpoint1",
-          "summary": "- Jain spent months in jail in a money laundering case before being released on bail in 2024 - The AAP termed the move political and said Jain was in jail when the alleged irregularities occurred - Six people have been arrested, including Udit Prakash Rai, a former CEO of the Jal Board Aam Aadmi.",
-          "id": "p_art_ef6cc0fba9_1",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "His party said the arrest of the former minister is politically motivated and is.",
-            "Jain, who spent 18 months in jail in connection with a money laundering case, was arrested this evening."
-          ],
-          "stanceTitle": "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
-          "type": "viewpoint2",
-          "summary": "Former Delhi Chief Minister and Aam Aadmi Party chief Arvind Kejriwal said today that the case against senior party leader Satyendar Jain \"will be proven fake\". His party said the arrest of the former minister is politically motivated and is linked to the coming assembly elections in Punjab.",
-          "id": "p_art_ef6cc0fba9_2",
-          "sourceName": "NDTV Top Stories",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "title": "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/1y0bx7/article71361973.ece/alternates/LANDSCAPE_1200/PTI08_18_2026_000598B.jpg"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
       "videoDuration": "02:45",
+      "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+      "divergenceScore": 88,
       "isBookmarked": false,
-      "divergenceScore": 85,
-      "summary": "- Security forces launched a cordon-and-search operation in Jammu's Udhampur district - Two men knocked on a resident's door in Talot village, then fled towards Khuban area - Police and CRPF conducted overnight searches in Talot and nearby forest patches Security forces launched a massive cordon-and-search operation in Jammu's Udhampur district after two suspected men.",
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "2 Men Ask For Food At Midnight, Spark Security Alert In 3 Jammu Districts",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-18T08:47:10.231440+00:00",
-      "id": "art_393f01fd6f",
+      "title": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.467099+00:00",
+      "id": "art_7bca469e57",
       "perspectives": [
         {
           "keyPoints": [
-            "Two men knocked repeatedly on the door of a local resident at midnight, asking for food.",
-            "When questioned by villagers, they remained silent, wrapped in shawls, before allegedly slipping away."
+            "This comes after plans for a possible bilateral visit this week were eventually dropped.",
+            "However, India has clarified that the government had nothing to do with the event."
           ],
-          "stanceTitle": "2 Men Ask For Food At Midnight, Spark Security Alert In 3 Jammu Districts",
+          "stanceTitle": "\"Slim\" Chances Of Bangladesh PM Visiting India Without Mutual Trust: Top Aide",
           "type": "viewpoint1",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_1",
           "sourceName": "NDTV Top Stories",
-          "id": "p_art_393f01fd6f_1",
-          "summary": "- Security forces launched a cordon-and-search operation in Jammu's Udhampur district - Two men knocked on a resident's door in Talot village, then fled towards Khuban area - Police and CRPF conducted overnight searches in Talot and nearby forest patches Security forces launched a massive cordon-and-search operation in Jammu's Udhampur district after two suspected men.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
           "fullMarkdownContent": "",
@@ -224,14 +102,14 @@
         },
         {
           "keyPoints": [
-            "Acting on the information, joint teams of the police and CRPF reached Talot village.",
+            "Mirza Fakhrul Islam Alamgir elected Bangladesh president.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Search Operations Underway In J&K's Udhampur, Reasi & Kathua After Suspected Movement Of Two Individuals",
+          "stanceTitle": "BNP's Mirza Fakhrul Elected New Bangladesh President, Trumps Jamaat-e-Islami Rival",
           "type": "viewpoint2",
+          "summary": "Bangladesh Prime Minister Tarique Rahman's visit to India could take place once an appropriate environment is created based on mutual trust, confidence, respect for sovereignty, diplomatic dialogue and a dignified invitation, his foreign affairs adviser Humayun Kabir said.",
+          "id": "p_art_7bca469e57_2",
           "sourceName": "NDTV Profit",
-          "id": "p_art_393f01fd6f_2",
-          "summary": "Search Operations Underway In J&K's Udhampur, Reasi & Kathua After Suspected Movement Of Two Individuals. Acting on the information, joint teams of the police and CRPF reached Talot village and began searching the area and adjoining locations.",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
           "fullMarkdownContent": "",
@@ -241,217 +119,162 @@
         }
       ],
       "bookmarksCount": 0,
-      "category": "Business & Policy",
+      "category": "World Affairs",
       "videoUrl": "",
       "commentsCount": 0,
       "isSinglePerspective": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ju2opihg_udhampur-security-scare-_625x300_18_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG"
     },
     {
       "tags": [
-        "Business & Policy",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Boltt Ace 5G is confirmed to sport a 6.79-inch HD+ display with a 120Hz refresh rate and 600 nits peak brightness. Photo Credit: Boltt The Boltt Ace 5G and Evo are set to launch in India later this month and will be available for purchase on Flipkart.",
-      "divergenceScore": 85,
+      "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+      "divergenceScore": 88,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "The generation that is most comfortable with AI might surprise you",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:39.218934+00:00",
+      "id": "art_23ebb56e01",
       "perspectives": [
         {
           "keyPoints": [
-            "Photo Credit: Boltt The Boltt Ace 5G and Evo are set to launch in.",
-            "Just days before the official launch, the company has detailed the display and battery."
+            "This finding comes from a <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\" rel=\"noreferrer noopener\" target=\"_blank\">new survey</a> from the nonprofit,.",
+            "That age group is the only one in which a majority did not say."
           ],
-          "stanceTitle": "Boltt Ace 5G, Evo 4G Battery, Display Details Teased Just Days Ahead of Launch",
+          "stanceTitle": "The generation that is most comfortable with AI might surprise you",
           "type": "viewpoint1",
-          "sourceName": "Gadgets 360 NDTV",
-          "id": "p_art_36a61aea6e_1",
-          "summary": "Boltt Ace 5G is confirmed to sport a 6.79-inch HD+ display with a 120Hz refresh rate and 600 nits peak brightness. Photo Credit: Boltt The Boltt Ace 5G and Evo are set to launch in India later this month and will be available for purchase on Flipkart.",
+          "summary": "<p class=\"wp-block-paragraph\">Well, this should come as no surprise to absolutely everyone: Americans, particularly younger generations like <a href=\"https://www.fastcompany.com/section/gen-z\" rel=\"noreferrer noopener\" target=\"_blank\">Gen Z</a>, are increasingly worried about <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> and its potential to take their jobs.",
+          "id": "p_art_23ebb56e01_1",
+          "sourceName": "Fast Company",
           "quoteAuthor": "",
-          "biasTag": "Consumer Hardware & Apps",
-          "sourceDomain": "gadgets360.com",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         },
         {
           "keyPoints": [
-            "Boltt is set to launch the Ace 5G and Evo 4G smartphones in India,.",
+            "As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Boltt Ace 5G And Evo: Launch Date, Expected Price, Features And Other Details",
+          "stanceTitle": "Most of Gen Z is now afraid AI will steal their jobs.",
           "type": "viewpoint2",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_36a61aea6e_2",
-          "summary": "Boltt Ace 5G And Evo: Launch Date, Expected Price, Features And Other Details. Boltt is set to launch the Ace 5G and Evo 4G smartphones in India, with 6,000mAh batteries and AI camera features.",
+          "summary": "Most of Gen Z is now afraid AI will steal their jobs.. As new college grads face elevated rates of unemployment, concern about AI\u2019s impact on jobs is spiking among young Americans.",
+          "id": "p_art_23ebb56e01_2",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "marketwatch.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-17T12:58:53.393710+00:00",
-      "id": "art_36a61aea6e",
-      "isLiked": false,
       "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "Boltt Ace 5G, Evo 4G Battery, Display Details Teased Just Days Ahead of Launch",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
+      "category": "Work & Economy",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2ibuj5tk_boltt_625x300_17_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-97655212"
     },
     {
       "tags": [
-        "Business & Policy",
+        "World Affairs",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
+      "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+      "divergenceScore": 88,
       "isBookmarked": false,
-      "divergenceScore": 85,
-      "summary": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer. Former Uttarakhand CM Tirath Singh Rawat, former Union Minister Bharti Pawar, Manpreet Singh Badal, and Tariq Mansoor also named as vice-presidents",
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.884445+00:00",
+      "id": "art_fea97f686f",
       "perspectives": [
         {
           "keyPoints": [
-            "Former Uttarakhand CM Tirath Singh Rawat, former Union Minister Bharti Pawar, Manpreet Singh Badal,.",
-            "Key analytical takeaway and operational overview."
+            "A young girl from Arunachal Pradesh has responded to a comment about her appearance.",
+            "The post was shared by Instagram user Karga Tinkle Gongo."
           ],
-          "stanceTitle": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
+          "stanceTitle": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019",
           "type": "viewpoint1",
-          "sourceName": "The Hindu National",
-          "id": "p_art_92315c81d9_1",
-          "summary": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer. Former Uttarakhand CM Tirath Singh Rawat, former Union Minister Bharti Pawar, Manpreet Singh Badal, and Tariq Mansoor also named as vice-presidents",
+          "summary": "Little girl from Arunachal Pradesh responds after being called \u2018Chinese\u2019: \u2018Humko Indian bolo\u2019 After being called \u2018Chinese\u2019 in a social media comment, a little girl from Arunachal Pradesh shared a heartfelt response. A young girl from Arunachal Pradesh has responded to a comment about her appearance with a heartfelt message about identity and being Indian.",
+          "id": "p_art_fea97f686f_1",
+          "sourceName": "Hindustan Times Trending",
           "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
         },
         {
           "keyPoints": [
-            "The fresh appointments come ahead of the five-state assembly polls in early 2027.",
-            "Key analytical takeaway and operational overview."
+            "In the heartfelt clip, the child reportedly responds to someone who questioned whether she was 'Chinese'.",
+            "She makes it clear that she is Indian and says she feels hurt and."
           ],
-          "stanceTitle": "New BJP Team: Vasundhara Raje, Ram Madhav Among New V-Ps; Smriti Irani Gets UP General Secy Charge",
+          "stanceTitle": "\"Hum Bhi India Hain\": Arunachal Girl's Reply To 'Chinese' Remark Melts Hearts",
           "type": "viewpoint2",
-          "sourceName": "NDTV Profit",
-          "id": "p_art_92315c81d9_2",
-          "summary": "New BJP Team: Vasundhara Raje, Ram Madhav Among New V-Ps; Smriti Irani Gets UP General Secy Charge. The fresh appointments come ahead of the five-state assembly polls in early 2027.",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-17T10:39:42.811786+00:00",
-      "id": "art_92315c81d9",
-      "isLiked": false,
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "title": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named tr",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/a5wmgu/article71355830.ece/alternates/LANDSCAPE_1200/DSC_6666.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 85,
-      "summary": "SpiceJet Gets Relief As NCLT Defers Orders On Eight Insolvency Petitions. NCLT to pronounce orders after SpiceJet tells tribunal it will settle matters with lessors.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "SpiceJet Gets Relief As NCLT Defers Orders On Eight Insolvency Petitions",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-17T08:53:55.405974+00:00",
-      "id": "art_43a7360bba",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "NCLT to pronounce orders after SpiceJet tells tribunal it will settle matters with lessors.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "SpiceJet Gets Relief As NCLT Defers Orders On Eight Insolvency Petitions",
-          "type": "viewpoint1",
-          "summary": "SpiceJet Gets Relief As NCLT Defers Orders On Eight Insolvency Petitions. NCLT to pronounce orders after SpiceJet tells tribunal it will settle matters with lessors.",
-          "id": "p_art_43a7360bba_1",
+          "summary": "- A young girl from Itanagar spoke out against being called Chinese due to her looks - She expressed feeling hurt and angry when her Indian nationality was questioned - The video highlighted challenges faced by people from Northeast India with stereotypes A video of a young girl from Itanagar, Arunachal Pradesh, has gone viral.",
+          "id": "p_art_fea97f686f_2",
           "sourceName": "NDTV Trending News",
           "quoteAuthor": "",
           "biasTag": "Trending & Viral",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 93,
-          "fullMarkdownContent": ""
-        },
-        {
-          "keyPoints": [
-            "NCLT to pronounce orders after SpiceJet tells tribunal it will settle matters with lessors.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "SpiceJet Gets Relief As NCLT Defers Orders On Eight Insolvency Petitions",
-          "type": "viewpoint2",
-          "summary": "SpiceJet Gets Relief As NCLT Defers Orders On Eight Insolvency Petitions. NCLT to pronounce orders after SpiceJet tells tribunal it will settle matters with lessors.",
-          "id": "p_art_43a7360bba_2",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         }
       ],
       "bookmarksCount": 0,
-      "category": "Business & Policy",
+      "category": "World Affairs",
       "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": false,
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-06/n5433678_spicejet_625x300_09_June_26.jpg"
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/2lmu7b58_arunachal-girl_625x300_20_August_26.jpeg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "Work",
-        "News",
-        "Analysis"
+        "Work & Economy",
+        "Verified News",
+        "Trending"
       ],
-      "summary": "New Delhi: India has demonstrated economic resilience through successive global and domestic challenges and will continue to be among the world's fastest-growing economies, SBI Research said in a special report marking the country's 80th Independence Day, pointing to strong growth, rising credit and deposits, robust corporate performance and an improving monsoon outlook. \"India was. India is. And India will continue to be one of the fastest-growing economies in the world,\".",
-      "divergenceScore": 85,
+      "videoDuration": "02:45",
+      "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+      "divergenceScore": 88,
       "isBookmarked": false,
-      "likesCount": 1420,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T14:11:38.733995+00:00",
+      "id": "art_160f18bf05",
       "perspectives": [
         {
           "keyPoints": [
-            "New Delhi: India has demonstrated economic resilience through successive gl.",
-            "And India will continue to be one of the fastest-growing economies in the w."
+            "The data covers nine key infrastructure sectors under the revamped Index of Core Industries.",
+            "The new series replaced the earlier 2011-12-based series."
           ],
-          "stanceTitle": "'India was, is and will be one of fastest-growing economies': SBI Research",
+          "stanceTitle": "India\u2019s infrastructure output grows 5.4% in July, down from revised 6% in June",
           "type": "viewpoint1",
-          "summary": "New Delhi: India has demonstrated economic resilience through successive global and domestic challenges and will continue to be among the world's fastest-growing economies, SBI Research said in a special report marking the country's 80th Independence Day, pointing to strong growth, rising credit and deposits, robust corporate performance and an improving monsoon outlook. \"India was. India is. And India will continue to be one of the.",
-          "id": "p_art_0fead8c5fd_1",
+          "summary": "Listen to this article in summarized format The July reading marks a 0.6 percentage-point moderation from June, when output growth was revised up from the earlier provisional estimate of 5% to 6%.",
+          "id": "p_art_160f18bf05_1",
           "sourceName": "Economic Times Economy",
           "quoteAuthor": "",
           "biasTag": "Corporate & Market Realism",
@@ -462,13 +285,13 @@
         },
         {
           "keyPoints": [
-            "Weekly economy wrap: Tax collections rise, but inflation and trade gap bite.",
-            "However, rising inflation, a wider merchandise trade deficit and elevated g."
+            "The reading marked the second of a new series, which replaces the earlier 2011-12.",
+            "The overall index rose further to 121.2 in July from 120.7 in the previous month."
           ],
-          "stanceTitle": "Weekly economy wrap: Tax collections rise, but inflation and trade gap bite",
+          "stanceTitle": "Core industries growth slows to 5.4% in July as iron ore, power ease",
           "type": "viewpoint2",
-          "summary": "Weekly economy wrap: Tax collections rise, but inflation and trade gap bite Stronger tax collections and exports offered support, but higher inflation, a widening trade deficit and elevated debt kept macroeconomic risks in focus Listen to This Article India\u2019s economy this week saw stronger tax collections and exports providing support. However, rising inflation, a wider merchandise trade deficit and elevated government debt highlighted persistent macroeconomic.",
-          "id": "p_art_0fead8c5fd_2",
+          "summary": "Core industries growth slows to 5.4% in July as iron ore, power ease Six of the nine core sectors recorded growth in July, while natural gas, crude oil and fertilisers contracted; refinery products returned to growth after three months Listen to This Article Growth in India's nine core sectors decelerated to 5.",
+          "id": "p_art_160f18bf05_2",
           "sourceName": "Business Standard Economy",
           "quoteAuthor": "",
           "biasTag": "Macroeconomic Prudence",
@@ -478,19 +301,928 @@
           "sourceDomain": "business-standard.com"
         }
       ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133376047,width-1200,height-630,imgsize-163742,overlay-economictimes/articleshow.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
-      "consensusScore": 15,
-      "publishedAt": "2026-08-16T10:46:56.130100+00:00",
-      "id": "art_0fead8c5fd",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-20T03:05:12.333005+00:00",
+      "id": "art_006f80f544",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Trending News",
+          "id": "p_art_c0ae20516a_1",
+          "summary": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000. MCX gold September futures contract rallied 2.32% or Rs 3,554 to Rs 1,56,637 per 10 grams, while the MCX silver September futures jumped 2.05% to Rs 2,37,172 per kg.",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 93,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "What's The Catalyst - NDTV Profit.",
+            "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip."
+          ],
+          "stanceTitle": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
+          "type": "viewpoint2",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_c0ae20516a_2",
+          "summary": "Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit. Rs 7,500 Surge On MCX: Gold, Silver Regain Glitter Post Intraday Blip. What's The Catalyst - NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "title": "Gold Rate Nears $4,500 As US Treasury Buyback Boosts Bullion; Silver Jumps Nearly Rs 5,000",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/toor59qg_gold_625x300_19_August_26.png"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
+      "likesCount": 0,
       "isLiked": false,
-      "bookmarksCount": 340,
+      "readTimeMinutes": 2,
+      "title": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T07:50:27.248948+00:00",
+      "id": "art_0022614d3f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mp",
+          "type": "viewpoint1",
+          "sourceName": "Fortune",
+          "id": "p_art_e16f8f482d_1",
+          "summary": "The Strip is one of Nevada\u2019s most concentrated gambling corridors. Sin City casinos there brought in roughly $8.8 billion in gaming revenue in 2025\u2014about $24 million a day\u2014and raked in roughly 56% of the state\u2019s $15.8 billion in total gaming revenue that year.",
+          "quoteAuthor": "",
+          "biasTag": "Executive Leadership",
+          "sourceDomain": "fortune.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+          "type": "viewpoint2",
+          "sourceName": "The Next Web",
+          "id": "p_art_e16f8f482d_2",
+          "summary": "Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web. Tesla asked Las Vegas for 5,000 robotaxis and Nevada granted 10 - The Next Web",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "thenextweb.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
       "category": "Work & Economy",
-      "title": "'India was, is and will be one of fastest-growing economies': SBI Research",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2220872848-e1787082939234.jpg?resize=1200,600"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "New set of international rules needed to protect health of fishing stocks, study shows. The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new research says.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-19T01:44:03.736013+00:00",
+      "id": "art_00dae34f22",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The global community should work to establish an array of new international legal rules.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "New set of international rules needed to protect health of fishing stocks, study shows",
+          "type": "viewpoint1",
+          "sourceName": "Phys.org",
+          "id": "p_art_fef2e2e0aa_1",
+          "summary": "New set of international rules needed to protect health of fishing stocks, study shows. The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new research says.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "sourceDomain": "phys.org",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "US rules out Iran truce extension as Tehran official sets new deadline - Iran International",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "US rules out Iran truce extension as Tehran official sets new deadline - Iran International",
+          "type": "viewpoint2",
+          "sourceName": "Iran International",
+          "id": "p_art_fef2e2e0aa_2",
+          "summary": "US rules out Iran truce extension as Tehran official sets new deadline - Iran International. US rules out Iran truce extension as Tehran official sets new deadline - Iran International",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "iranintl.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "New set of international rules needed to protect health of fishing stocks, study shows",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/fishery-1.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T19:33:35.419088+00:00",
+      "id": "art_00c0315c72",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Eugenio Derbez, Pedro Alonso Face Off In 'El Juicio' First-Look Trailer",
+          "type": "viewpoint1",
+          "sourceName": "Forbes Business",
+          "id": "p_art_fdf2a05b3a_1",
+          "summary": "The long-awaited dramatic thriller El Juicio (The Trial), starring Eugenio Derbez (Acapulco, Radical) and Pedro Alonso (Berl\u00edn, La Casa de Papel), is finally headed to the screen in September.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - ",
+          "type": "viewpoint2",
+          "sourceName": "Vinanet",
+          "id": "p_art_fdf2a05b3a_2",
+          "summary": "Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet. Eugenio Derbez & Pedro Alonso Face Off In Prime Video's 'El Juicio' \u2014 First Trailer Drops Ahead Of September Premiere - Post-Earnings Drift - Vinanet",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "vinanet.vn",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/66a06830498293a95d042a3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T18:50:23.628512+00:00",
+      "id": "art_00b08c0bd2",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_4159bf9062_1",
+          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "sourceDomain": "ndtvprofit.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bezos-backed consortium buys about 38% stake in Liverpool: Report - A News",
+          "type": "viewpoint2",
+          "sourceName": "A News",
+          "id": "p_art_4159bf9062_2",
+          "summary": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report. A Jeff Bezos-backed group buys a 38% stake in Liverpool, with an option to pursue control within 12 months.",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "anews.com.tr",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "title": "Jeff Bezos-Backed Consortium Buys Nearly 40% Stake In Liverpool Football Club: Report",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/r516jmt4_jeff-bezos_625x300_18_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "retirees plan to work until they die. Which is a very happy story about the evolution of retirement. The previous truths are seemingly lost on policy writer John Mac Ghlionn.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T18:50:23.147620+00:00",
+      "id": "art_00c8f05581",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Which is a very happy story about the evolution of retirement.",
+            "The previous truths are seemingly lost on policy writer John Mac Ghlionn."
+          ],
+          "stanceTitle": "65+ Americans Are Working In Record Numbers, And It\u2019s Beautiful",
+          "type": "viewpoint1",
+          "sourceName": "Forbes Business",
+          "id": "p_art_c321b45af8_1",
+          "summary": "retirees plan to work until they die. Which is a very happy story about the evolution of retirement. The previous truths are seemingly lost on policy writer John Mac Ghlionn.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "sourceDomain": "forbes.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom",
+          "type": "viewpoint2",
+          "sourceName": "AAA Newsroom",
+          "id": "p_art_c321b45af8_2",
+          "summary": "72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom. 72.2 Million Americans Expected to Travel over July 4th Week - AAA Newsroom",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "newsroom.aaa.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "65+ Americans Are Working In Record Numbers, And It\u2019s Beautiful",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a81a8b9e4f04c7d3905cf41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T15:39:18.472715+00:00",
+      "id": "art_005f4dccfe",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Home Depot posts solid 2nd quarter gains, but housing slump leaves outlook unchanged for rest o",
+          "type": "viewpoint1",
+          "sourceName": "Fast Company",
+          "id": "p_art_1ba429344a_1",
+          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
+          "quoteAuthor": "",
+          "biasTag": "Work Culture & Innovation",
+          "sourceDomain": "fastcompany.com",
+          "quote": "",
+          "sourceCredibility": 90,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Lowe's Q2 Earnings: What HD and LOW Say About the U.S.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Home Depot vs. Lowe's Q2 Earnings: What HD and LOW Say About the U.S. Consumer - TradingView",
+          "type": "viewpoint2",
+          "sourceName": "TradingView",
+          "id": "p_art_1ba429344a_2",
+          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" id=\"https://www.fastcompany.com/91444092/home-depot-earnings-third-quarter\" type=\"link\">Home Depot&#8217;s sales</a> improved during its second quarter as customers focused on <a href=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" id=\"https://www.fastcompany.com/91388140/home-depot-reports-q2-sales-up-thanks-lingering-consumer-trend\" type=\"link\">smaller projects</a> during the summer months with the <a href=\"https://www.fastcompany.com/section/housing-market\" id=\"https://www.fastcompany.com/section/housing-market\" type=\"link\">U.S.",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "tradingview.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "title": "Home Depot posts solid 2nd quarter gains, but housing slump leaves outlook unchanged for rest o",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/AP26230361999609.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Phone by Google version 234.0.9 reportedly includes a reference to the Scam Detection feature. Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid potential scams during phone calls, could soon be available in another Android smartphone brand.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T14:41:47.334111+00:00",
+      "id": "art_00f7957341",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Vivo Phones Could Get Google\u2019s Scam Detection Feature, Suggests APK Teardown",
+          "type": "viewpoint1",
+          "sourceName": "Gadgets 360 NDTV",
+          "id": "p_art_09456c14ec_1",
+          "summary": "Phone by Google version 234.0.9 reportedly includes a reference to the Scam Detection feature. Photo Credit: Google Google's Scam Detection feature, which is designed to identify and avoid potential scams during phone calls, could soon be available in another Android smartphone brand.",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "sourceDomain": "gadgets360.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
+          "type": "viewpoint2",
+          "sourceName": "GSMArena.com",
+          "id": "p_art_09456c14ec_2",
+          "summary": "Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com. Google's Scam Detection feature is headed to another Android device maker - GSMArena.com news - GSMArena.com",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "gsmarena.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "Vivo Phones Could Get Google\u2019s Scam Detection Feature, Suggests APK Teardown",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/scam_detection_google_1787057509228.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Maternity leave for third child of women government employees raised to 365 days. Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Maternity leave for third child of women government employees raised to 365 days",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T13:00:31.861759+00:00",
+      "id": "art_004b155937",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Women government employees are now granted 365 days of maternity leave for their first.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Maternity leave for third child of women government employees raised to 365 days",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu National",
+          "id": "p_art_c4a5637c16_1",
+          "summary": "Maternity leave for third child of women government employees raised to 365 days. Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
+          "type": "viewpoint2",
+          "sourceName": "NDTV",
+          "id": "p_art_c4a5637c16_2",
+          "summary": "Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV. Tamil Nadu Government Employees To Get 1 Year Maternity Leave For 3rd Child - NDTV",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 93,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/mhbmya/article71360475.ece/alternates/LANDSCAPE_1200/DSC_1606.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "BJP's Team Nitin Nabin In Place, Why Government May Now Opt For A Reshuffle",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T13:00:31.211854+00:00",
+      "id": "art_0064149e48",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "It is believed that a reshuffle could take place in view of the coming.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "BJP's Team Nitin Nabin In Place, Why Government May Now Opt For A Reshuffle",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Top Stories",
+          "id": "p_art_f7750b00e7_1",
+          "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "BJP\u2019s New Team Signals Trouble Ahead of 2027 Polls - Frontline Magazine",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "BJP\u2019s New Team Signals Trouble Ahead of 2027 Polls - Frontline Magazine",
+          "type": "viewpoint2",
+          "sourceName": "The Hindu",
+          "id": "p_art_f7750b00e7_2",
+          "summary": "As the BJP gears up for 'Mission 2029' locking down party chief Nitin Nabin's team, speculation about a reshuffle of ministers in the Union government has intensified. It is believed that a reshuffle could take place in view of the coming round of assembly elections and a need to infuse energy into the cabinet.",
+          "quoteAuthor": "",
+          "biasTag": "Independent National",
+          "sourceDomain": "frontline.thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2024-08/8tl0dqd8_north-block_625x300_07_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days. The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas\u2019s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-18T01:42:09.150265+00:00",
+      "id": "art_0087e51a1d",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The comments came as Jared Kushner and Netanyahu agreed that an American general would.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu World",
+          "id": "p_art_d097bc132d_1",
+          "summary": "Trump\u2019s envoy says Hamas disarmament could begin within 30 days. The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas\u2019s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
+          "quoteAuthor": "",
+          "biasTag": "Institutional Diplomacy",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
+          "type": "viewpoint2",
+          "sourceName": "WION",
+          "id": "p_art_d097bc132d_2",
+          "summary": "'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION. 'Within 30 days': Trump top envoy Jared Kushner gives timeline for Hamas disarmament in Gaza - WION",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "wionews.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/yydtvx/article71358085.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "What is the Retro app for and how do you use it?. Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-16T15:53:21.545015+00:00",
+      "id": "art_00e6acd592",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Let's look at how to use the Retro app, whether it's free and whether.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "What is the Retro app for and how do you use it?",
+          "type": "viewpoint1",
+          "sourceName": "Engadget",
+          "id": "p_art_915c0cc87d_1",
+          "summary": "What is the Retro app for and how do you use it?. Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
+          "quoteAuthor": "",
+          "biasTag": "Hardware & Gadgets",
+          "sourceDomain": "engadget.com",
+          "quote": "",
+          "sourceCredibility": 91,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "These are the best photo editing apps to use in 2026 - Amateur Photographer",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "These are the best photo editing apps to use in 2026 - Amateur Photographer",
+          "type": "viewpoint2",
+          "sourceName": "Amateur Photographer",
+          "id": "p_art_915c0cc87d_2",
+          "summary": "These are the best photo editing apps to use in 2026 - Amateur Photographer. These are the best photo editing apps to use in 2026 - Amateur Photographer",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "amateurphotographer.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "title": "What is the Retro app for and how do you use it?",
+      "commentsCount": 0,
+      "isSinglePerspective": false,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "What does Anthropic stand to gain and risk with its IPO | Explained. With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-16T13:58:14.929385+00:00",
+      "id": "art_00a5dece1f",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "What does Anthropic stand to gain and risk with its IPO | Explained",
+          "type": "viewpoint1",
+          "sourceName": "The Hindu Sci-Tech",
+          "id": "p_art_f7ab0f5de9_1",
+          "summary": "What does Anthropic stand to gain and risk with its IPO | Explained. With a reported goal of a $2 trillion valuation, the Claude maker\u2019s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
+          "quoteAuthor": "",
+          "biasTag": "Scientific Reporting",
+          "sourceDomain": "thehindu.com",
+          "quote": "",
+          "sourceCredibility": 95,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView",
+          "type": "viewpoint2",
+          "sourceName": "TradingView",
+          "id": "p_art_f7ab0f5de9_2",
+          "summary": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView. IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains - TradingView",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "tradingview.com",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "title": "What does Anthropic stand to gain and risk with its IPO | Explained",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/b2vhqf/article71344129.ece/alternates/LANDSCAPE_1200/2026-08-04T170005Z_1150976281_RC2LU7ATMBAY_RTRMADP_3_TECH-AI-ANTHROPIC.JPG"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "divergenceScore": 88,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-16T11:33:26.379455+00:00",
+      "id": "art_01139c281e",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "type": "viewpoint1",
+          "sourceName": "Ars Technica",
+          "id": "p_art_b90b5a987a_1",
+          "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+          "quoteAuthor": "",
+          "biasTag": "Technical Depth & Security",
+          "sourceDomain": "arstechnica.com",
+          "quote": "",
+          "sourceCredibility": 96,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
+          "type": "viewpoint2",
+          "sourceName": "PreventionWeb.net",
+          "id": "p_art_b90b5a987a_2",
+          "summary": "Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net. Wildfire smoke is now a bigger prenatal threat than human sources of air pollution - PreventionWeb.net",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "preventionweb.net",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": false,
+      "commentsCount": 0,
+      "heroImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg"
+    },
+    {
+      "videoDuration": "02:45",
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "isBookmarked": false,
+      "divergenceScore": 88,
+      "summary": "The Maharashtra Food and Drug Administration has issued a show-cause notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff for promoting pan masala through an advertisement. The actors have been directed to discontinue their participation in the campaign and remove all promotional content from their social media handles.",
+      "likesCount": 1420,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 12,
+      "publishedAt": "2026-08-16T10:39:05.698870+00:00",
+      "id": "art_00d0dd27b9",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The actors have been directed to discontinue their participation in the campaign and remove.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Maharashtra FDA Issues Show-Cause Notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff",
+          "type": "viewpoint1",
+          "sourceName": "NDTV Top Stories",
+          "id": "p_art_b4063176a2_1",
+          "summary": "The Maharashtra Food and Drug Administration has issued a show-cause notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff for promoting pan masala through an advertisement. The actors have been directed to discontinue their participation in the campaign and remove all promotional content from their social media handles.",
+          "quoteAuthor": "",
+          "biasTag": "National Headlines",
+          "sourceDomain": "ndtv.com",
+          "quote": "",
+          "sourceCredibility": 94,
+          "fullMarkdownContent": ""
+        },
+        {
+          "keyPoints": [
+            "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat",
+          "type": "viewpoint2",
+          "sourceName": "LawBeat",
+          "id": "p_art_b4063176a2_2",
+          "summary": "Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat. Vimal Elaichi Ad | Maharashtra FDA Issues Show-Cause Notices To Ajay Devgn, Shah Rukh Khan, Tiger Shroff - LawBeat",
+          "quoteAuthor": "",
+          "biasTag": "Journalistic Reporting",
+          "sourceDomain": "lawbeat.in",
+          "quote": "",
+          "sourceCredibility": 92,
+          "fullMarkdownContent": ""
+        }
+      ],
+      "bookmarksCount": 340,
+      "category": "World Affairs",
+      "title": "Maharashtra FDA Issues Show-Cause Notice to Shah Rukh Khan, Ajay Devgn, and Tiger Shroff",
       "commentsCount": 48,
       "isSinglePerspective": false,
       "sharesCount": 210,
-      "heroImageUrl": "https://img.etimg.com/thumb/msid-133258189,width-1200,height-630,imgsize-85068,overlay-economictimes/articleshow.jpg"
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/q0553l5o_shah-rukh-khan-ajay-devgn-tiger-shroff_625x300_16_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     }
   ]
 }

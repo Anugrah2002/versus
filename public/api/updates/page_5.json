@@ -5,36 +5,33 @@
   "has_more": true,
   "articles": [
     {
-      "videoDuration": "02:45",
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
+      "videoDuration": "02:45",
+      "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
       "divergenceScore": 0,
-      "summary": "ICC Test Rankings: Harry Brook Reclaims Top Spot, Travis Head Pays Price For Bangladesh Failure Harry Brook reclaimed the No. 1 spot in the ICC Men's Test Player Rankings, dethroning Australia opener Travis Head. - IANS - Updated: August 19, 2026 04:21 pm IST England batter Harry Brook reclaimed the No.",
+      "isBookmarked": false,
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Brook Reclaims Top Spot In Test Rankings, Head Pays Price For Darwin Failure",
+      "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:45.904901+00:00",
-      "id": "art_c6b0c7e3cf",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
+      "publishedAt": "2026-08-20T14:11:39.008310+00:00",
+      "id": "art_dd9ba6f0a9",
       "perspectives": [
         {
           "keyPoints": [
-            "1 spot in the ICC Men's Test Player Rankings, dethroning Australia opener Travis Head.",
-            "- IANS - Updated: August 19, 2026 04:21 pm IST England batter Harry Brook reclaimed the No."
+            "The US Commission on International Religious Freedom (USCIRF) chair Asif Mahmood said Prime Minister.",
+            "Mahmood's remarks came weeks ahead of RSS Chief Mohan Bhagwat's visit to the US."
           ],
-          "stanceTitle": "Brook Reclaims Top Spot In Test Rankings, Head Pays Price For Darwin Failure",
+          "stanceTitle": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
           "type": "directReport",
+          "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
+          "id": "p_art_dd9ba6f0a9_1",
           "sourceName": "NDTV Trending News",
-          "id": "p_art_c6b0c7e3cf_1",
-          "summary": "ICC Test Rankings: Harry Brook Reclaims Top Spot, Travis Head Pays Price For Bangladesh Failure Harry Brook reclaimed the No. 1 spot in the ICC Men's Test Player Rankings, dethroning Australia opener Travis Head. - IANS - Updated: August 19, 2026 04:21 pm IST England batter Harry Brook reclaimed the No.",
           "quoteAuthor": "",
           "biasTag": "Trending & Viral",
           "fullMarkdownContent": "",
@@ -43,10 +40,13 @@
           "sourceDomain": "ndtv.com"
         }
       ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-06/sn7i1c1o_harry-brook_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/u9v3fvbc_mohan-bhagwat_625x300_15_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900"
     },
     {
       "tags": [
@@ -55,42 +55,130 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "A senior adviser to many of Latin America\u2019s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend.",
+      "summary": "Russian influencer regrets calling \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong' The influencer showed the price of pani puri at the Dubai airport and pointed out that it cost AED 42 (around \u20b91,096).",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Russian influencer regrets calling  \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I wa",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:38.901002+00:00",
+      "id": "art_faf911a4b1",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A Russian influencer who previously expressed shock over paying \u20b960 for a plate of.",
+            "Irina Rudakova, a Russian model, actress and reality TV personality based in India, recently."
+          ],
+          "stanceTitle": "Russian influencer regrets calling  \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong'",
+          "type": "directReport",
+          "summary": "Russian influencer regrets calling \u20b960 Mumbai pani puri costly after seeing Dubai price: 'I was wrong' The influencer showed the price of pani puri at the Dubai airport and pointed out that it cost AED 42 (around \u20b91,096).",
+          "id": "p_art_faf911a4b1_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Russian_influencer__1787224865385_1787224879911_fb4480ca-8247-4c12-a51f-28188dc55ab0.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019 The man said that certain aspects of life in India become more noticeable after spending years in a less populated country.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for conve",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:38.889288+00:00",
+      "id": "art_75aeda4da0",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "An Indian man who recently moved back to India from the US has opened.",
+            "Sharing a video on Instagram, user @theabroadlab said that certain aspects of life in."
+          ],
+          "stanceTitle": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019",
+          "type": "directReport",
+          "summary": "Indian man who moved back from US highlights parking, crowding woes: 'Don\u2019t move back for convenience\u2019 The man said that certain aspects of life in India become more noticeable after spending years in a less populated country.",
+          "id": "p_art_75aeda4da0_1",
+          "sourceName": "Hindustan Times Trending",
+          "quoteAuthor": "",
+          "biasTag": "Trending News",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "hindustantimes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/Indian_man_1787229610896_1787229621348_146940a4-5ba7-42b9-83b2-cf45b9dad2ad.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Lawyer who represented Mehul Choksi charged with sexual assault in London. His assistant, Manpreet Kaur, was also arrested at the scene and has been charged with two counts of intentionally encouraging or assisting sexual assault",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The businessman and political consultant Fernando Cerimedo, 42, had been working as an adviser.",
-            "He has previously been described as Maga\u2019s man in Latin America \u2013 a reference."
+            "His assistant, Manpreet Kaur, was also arrested at the scene and has been charged.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+          "stanceTitle": "Lawyer\u00a0who represented Mehul Choksi\u00a0charged with sexual assault\u00a0in London",
           "type": "directReport",
-          "summary": "A senior adviser to many of Latin America\u2019s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend.",
-          "id": "p_art_3c31c887ce_1",
-          "sourceName": "The Guardian World",
+          "summary": "Lawyer who represented Mehul Choksi charged with sexual assault in London. His assistant, Manpreet Kaur, was also arrested at the scene and has been charged with two counts of intentionally encouraging or assisting sexual assault",
+          "id": "p_art_572c2a54ee_1",
+          "sourceName": "The Hindu World",
           "quoteAuthor": "",
-          "biasTag": "Progressive International",
+          "biasTag": "Institutional Diplomacy",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "theguardian.com"
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.179152+00:00",
-      "id": "art_3c31c887ce",
-      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+      "publishedAt": "2026-08-20T11:38:23.264282+00:00",
+      "id": "art_572c2a54ee",
+      "title": "Lawyer\u00a0who represented Mehul Choksi\u00a0charged with sexual assault\u00a0in London",
       "bookmarksCount": 0,
       "category": "World Affairs",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/2c81962a032157970d2cbd191f9c0423ba10f03c/40_0_3282_2625/master/3282.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=099916ec5621333bc3df358da602498b"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/9vflnh/article71368807.ece/alternates/LANDSCAPE_1200/22th-devesh-MehGR6F2EK7O.3.jpg.jpg"
     },
     {
       "tags": [
@@ -99,20 +187,64 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away. Astronomers have detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The study offers one of the clearest views yet of a galaxy cluster in the making.",
+      "summary": "Deliveries at Keralam\u2019s Kozhikode Government Women and Children\u2019s Hospital decline. According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Astronomers have detected an enormous cloud of gas tens of millions of degrees hot.",
-            "The study offers one of the clearest views yet of a galaxy cluster in the making."
+            "According to Health department, there were a total of 5,201 deliveries (2,729 normal and.",
+            "This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26."
           ],
-          "stanceTitle": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away",
+          "stanceTitle": "Deliveries at Keralam\u2019s Kozhikode Government Women and Children\u2019s Hospital decline",
           "type": "directReport",
-          "summary": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away. Astronomers have detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The study offers one of the clearest views yet of a galaxy cluster in the making.",
-          "id": "p_art_d98356f1d8_1",
+          "summary": "Deliveries at Keralam\u2019s Kozhikode Government Women and Children\u2019s Hospital decline. According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26.",
+          "id": "p_art_313e06026a_1",
+          "sourceName": "The Hindu Sci-Tech",
+          "quoteAuthor": "",
+          "biasTag": "Scientific Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.258041+00:00",
+      "id": "art_313e06026a",
+      "title": "Deliveries at Keralam\u2019s Kozhikode Government Women and Children\u2019s Hospital decline",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/news/national/kerala/xtbjmy/article71368384.ece/alternates/LANDSCAPE_1200/preg.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Communication style outweighs resume content in workplace first impressions, analysis finds. To make a good impression at work, it might be better to spend less time polishing your resume and more time honing your communication skills.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "To make a good impression at work, it might be better to spend less.",
+            "That's according to a large analysis of more than 200 studies showing that the."
+          ],
+          "stanceTitle": "Communication style outweighs resume content in workplace first impressions, analysis finds",
+          "type": "directReport",
+          "summary": "Communication style outweighs resume content in workplace first impressions, analysis finds. To make a good impression at work, it might be better to spend less time polishing your resume and more time honing your communication skills.",
+          "id": "p_art_102a5f6dd8_1",
           "sourceName": "Phys.org",
           "quoteAuthor": "",
           "biasTag": "Physics & Applied Tech",
@@ -125,16 +257,16 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.165467+00:00",
-      "id": "art_d98356f1d8",
-      "title": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away",
+      "publishedAt": "2026-08-20T11:38:23.250387+00:00",
+      "id": "art_102a5f6dd8",
+      "title": "Communication style outweighs resume content in workplace first impressions, analysis finds",
       "bookmarksCount": 0,
       "category": "Space & Science",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-the-4.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/handshake-1.jpg"
     },
     {
       "tags": [
@@ -143,152 +275,20 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Coral experts unite in historic effort to restore Florida's coral reef. Throughout the first week of August, 12 organizations came together in an unprecedented collaborative effort to protect the future of Florida's Coral Reef during one of nature's most elusive events: coral spawning.",
+      "summary": "New analysis reveals 'encouraging' global mangrove cover increase despite losses in key regions. Global mangrove cover\u2014vegetation vital to tackling climate change\u2014has increased over the past 40 years, despite significant losses in some key regions, according to a new analysis.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Throughout the first week of August, 12 organizations came together in an unprecedented collaborative.",
-            "Scientists across the organizations worked tirelessly to propagate and conserve the next generation of."
-          ],
-          "stanceTitle": "Coral experts unite in historic effort to restore Florida's coral reef",
-          "type": "directReport",
-          "summary": "Coral experts unite in historic effort to restore Florida's coral reef. Throughout the first week of August, 12 organizations came together in an unprecedented collaborative effort to protect the future of Florida's Coral Reef during one of nature's most elusive events: coral spawning.",
-          "id": "p_art_cfc7093555_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.163877+00:00",
-      "id": "art_cfc7093555",
-      "title": "Coral experts unite in historic effort to restore Florida's coral reef",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/floridas-leading-coral.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Study on impact of changes to information reporting on gig workers' behavior uncovers unreported income. Because of the recent rise of platform gig work, more U.S. workers are being compensated through self-employment. Their earnings are not subject to tax withholding but are generally covered by information reporting on Forms 1099.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Because of the recent rise of platform gig work, more U.S.",
-            "workers are being compensated through self-employment."
-          ],
-          "stanceTitle": "Study on impact of changes to information reporting on gig workers' behavior uncovers unreported income",
-          "type": "directReport",
-          "summary": "Study on impact of changes to information reporting on gig workers' behavior uncovers unreported income. Because of the recent rise of platform gig work, more U.S. workers are being compensated through self-employment. Their earnings are not subject to tax withholding but are generally covered by information reporting on Forms 1099.",
-          "id": "p_art_1be28df357_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.124708+00:00",
-      "id": "art_1be28df357",
-      "title": "Study on impact of changes to information reporting on gig workers' behavior uncovers unreporte",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/freelancer.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Study of behavior-related digital dieting apps finds different effects of persuasion-related features. The booming smartphone industry has spawned an enormous market in health-related mobile phone applications, with apps related to dieting making up about 12% of the market.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The booming smartphone industry has spawned an enormous market in health-related mobile phone applications,.",
-            "The apps use persuasive systems design, including direct and indirect routes that persuade users."
-          ],
-          "stanceTitle": "Study of behavior-related digital dieting apps finds different effects of persuasion-related features",
-          "type": "directReport",
-          "summary": "Study of behavior-related digital dieting apps finds different effects of persuasion-related features. The booming smartphone industry has spawned an enormous market in health-related mobile phone applications, with apps related to dieting making up about 12% of the market.",
-          "id": "p_art_6fb024fadd_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.106823+00:00",
-      "id": "art_6fb024fadd",
-      "title": "Study of behavior-related digital dieting apps finds different effects of persuasion-related fe",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-of-behavior-rela.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Are subsea oil and gas pipelines a previously unrecognized source of ocean microplastics?. Decommissioning pipelines used by the oil and gas industry could result in substantial quantities of microplastics being released into the UK's marine environment annually, a new study suggests.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Decommissioning pipelines used by the oil and gas industry could result in substantial quantities.",
+            "Global mangrove cover\u2014vegetation vital to tackling climate change\u2014has increased over the past 40 years,.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Are subsea oil and gas pipelines a previously unrecognized source of ocean microplastics?",
+          "stanceTitle": "New analysis reveals 'encouraging' global mangrove cover increase despite losses in key regions",
           "type": "directReport",
-          "summary": "Are subsea oil and gas pipelines a previously unrecognized source of ocean microplastics?. Decommissioning pipelines used by the oil and gas industry could result in substantial quantities of microplastics being released into the UK's marine environment annually, a new study suggests.",
-          "id": "p_art_3f29842f39_1",
+          "summary": "New analysis reveals 'encouraging' global mangrove cover increase despite losses in key regions. Global mangrove cover\u2014vegetation vital to tackling climate change\u2014has increased over the past 40 years, despite significant losses in some key regions, according to a new analysis.",
+          "id": "p_art_df846b84eb_1",
           "sourceName": "Phys.org",
           "quoteAuthor": "",
           "biasTag": "Physics & Applied Tech",
@@ -301,412 +301,16 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.064121+00:00",
-      "id": "art_3f29842f39",
-      "title": "Are subsea oil and gas pipelines a previously unrecognized source of ocean microplastics?",
+      "publishedAt": "2026-08-20T11:38:23.226665+00:00",
+      "id": "art_df846b84eb",
+      "title": "New analysis reveals 'encouraging' global mangrove cover increase despite losses in key regions",
       "bookmarksCount": 0,
       "category": "Space & Science",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-subsea-oil-and-gas.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims. Beneath a volcano lies a huge chamber filled with liquid magma. A series of earthquakes means an eruption is imminent. And if a \"supervolcano\" like Yellowstone were to awaken, a global catastrophe would be upon us.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Beneath a volcano lies a huge chamber filled with liquid magma.",
-            "A series of earthquakes means an eruption is imminent."
-          ],
-          "stanceTitle": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims",
-          "type": "directReport",
-          "summary": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims. Beneath a volcano lies a huge chamber filled with liquid magma. A series of earthquakes means an eruption is imminent. And if a \"supervolcano\" like Yellowstone were to awaken, a global catastrophe would be upon us.",
-          "id": "p_art_0d0aea1290_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.060852+00:00",
-      "id": "art_0d0aea1290",
-      "title": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
       "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-debunk-volc-1.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Sea cucumber breeding clues could help rebuild populations depleted by overfishing. The reproductive life of sea cucumbers has come under the microscope as University of the Sunshine Coast researchers battle overfishing of the marine creatures. Sea cucumbers\u2014which can spawn by wobbling their heads and ejecting reproductive cells\u2014are of particular interest to Center for Bioinnovation Ph.D.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The reproductive life of sea cucumbers has come under the microscope as University of.",
-            "Sea cucumbers\u2014which can spawn by wobbling their heads and ejecting reproductive cells\u2014are of particular."
-          ],
-          "stanceTitle": "Sea cucumber breeding clues could help rebuild populations depleted by overfishing",
-          "type": "directReport",
-          "summary": "Sea cucumber breeding clues could help rebuild populations depleted by overfishing. The reproductive life of sea cucumbers has come under the microscope as University of the Sunshine Coast researchers battle overfishing of the marine creatures. Sea cucumbers\u2014which can spawn by wobbling their heads and ejecting reproductive cells\u2014are of particular interest to Center for Bioinnovation Ph.D.",
-          "id": "p_art_e15794667f_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.059081+00:00",
-      "id": "art_e15794667f",
-      "title": "Sea cucumber breeding clues could help rebuild populations depleted by overfishing",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
       "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/understanding-turn-ons.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Neutron capture experiment sheds light on ancient stardust. Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical crossroads in the complex nuclear processes that forge heavy elements under the intense pressures and temperatures of dying stars.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical.",
-            "In an article published in Physical Review Letters, the n_TOF Collaboration reports the first-ever."
-          ],
-          "stanceTitle": "Neutron capture experiment sheds light on ancient stardust",
-          "type": "directReport",
-          "summary": "Neutron capture experiment sheds light on ancient stardust. Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical crossroads in the complex nuclear processes that forge heavy elements under the intense pressures and temperatures of dying stars.",
-          "id": "p_art_6ec7893cb7_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.056133+00:00",
-      "id": "art_6ec7893cb7",
-      "title": "Neutron capture experiment sheds light on ancient stardust",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/neutron-capture-experi.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "New design method stabilizes human growth factor for potential therapeutic use. A new study published in the Biophysical Journal reports on the development of a stable, biologically active version of the human fibroblast growth factor.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A new study published in the Biophysical Journal reports on the development of a.",
-            "Human fibroblast growth factor, or FGF, has potent wound-healing and antidiabetic properties that could."
-          ],
-          "stanceTitle": "New design method stabilizes human growth factor for potential therapeutic use",
-          "type": "directReport",
-          "summary": "New design method stabilizes human growth factor for potential therapeutic use. A new study published in the Biophysical Journal reports on the development of a stable, biologically active version of the human fibroblast growth factor.",
-          "id": "p_art_e66bacab42_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.041916+00:00",
-      "id": "art_e66bacab42",
-      "title": "New design method stabilizes human growth factor for potential therapeutic use",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/bandage.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring. As they build their nests, many birds are known to interweave dried grasses and other materials with green plants, such as fresh leaves, grass stems, herbs and aromatic leaves.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "As they build their nests, many birds are known to interweave dried grasses and.",
-            "While this behavior is well documented, why many bird species choose to add fresh plants has remained unclear."
-          ],
-          "stanceTitle": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring",
-          "type": "directReport",
-          "summary": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring. As they build their nests, many birds are known to interweave dried grasses and other materials with green plants, such as fresh leaves, grass stems, herbs and aromatic leaves.",
-          "id": "p_art_a9f9a32986_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:54.023314+00:00",
-      "id": "art_a9f9a32986",
-      "title": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offsp",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/review-paper-tries-to.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Quantum simulators gain quantitative error bars in 51-ion test. In the coming years, increasingly larger and more powerful quantum systems are expected to tackle problems that are difficult or impossible to solve using conventional computers. However, the more powerful quantum simulations become, the more difficult it is to independently verify their results.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "In the coming years, increasingly larger and more powerful quantum systems are expected to.",
-            "However, the more powerful quantum simulations become, the more difficult it is to independently."
-          ],
-          "stanceTitle": "Quantum simulators gain quantitative error bars in 51-ion test",
-          "type": "directReport",
-          "summary": "Quantum simulators gain quantitative error bars in 51-ion test. In the coming years, increasingly larger and more powerful quantum systems are expected to tackle problems that are difficult or impossible to solve using conventional computers. However, the more powerful quantum simulations become, the more difficult it is to independently verify their results.",
-          "id": "p_art_323821b6e2_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.990206+00:00",
-      "id": "art_323821b6e2",
-      "title": "Quantum simulators gain quantitative error bars in 51-ion test",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-simulators-get.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Reusing liquid pickle waste to produce omega-3 fatty acids. Docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) are omega-3 fatty acids known to have beneficial effects and are popular as functional foods and dietary supplements. They are polyunsaturated fatty acids (PUFAs); the primary source of these PUFAs for humans is fish oil.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) are omega-3 fatty acids known to have.",
-            "They are polyunsaturated fatty acids (PUFAs); the primary source of these PUFAs for humans is fish oil."
-          ],
-          "stanceTitle": "Reusing liquid pickle waste to produce omega-3 fatty acids",
-          "type": "directReport",
-          "summary": "Reusing liquid pickle waste to produce omega-3 fatty acids. Docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) are omega-3 fatty acids known to have beneficial effects and are popular as functional foods and dietary supplements. They are polyunsaturated fatty acids (PUFAs); the primary source of these PUFAs for humans is fish oil.",
-          "id": "p_art_5a9c312005_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.969847+00:00",
-      "id": "art_5a9c312005",
-      "title": "Reusing liquid pickle waste to produce omega-3 fatty acids",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/reusing-liquid-pickle.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Scientists give aircraft composite waste a second life. Researchers from the National University of Singapore (NUS) have developed a method to turn waste from the tough, lightweight composites used in aircraft and other high-performance structures into aerogels that could be used for thermal insulation, sound absorption and oil spill cleanup.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Researchers from the National University of Singapore (NUS) have developed a method to turn.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Scientists give aircraft composite waste a second life",
-          "type": "directReport",
-          "summary": "Scientists give aircraft composite waste a second life. Researchers from the National University of Singapore (NUS) have developed a method to turn waste from the tough, lightweight composites used in aircraft and other high-performance structures into aerogels that could be used for thermal insulation, sound absorption and oil spill cleanup.",
-          "id": "p_art_92337a4576_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.958230+00:00",
-      "id": "art_92337a4576",
-      "title": "Scientists give aircraft composite waste a second life",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-fiber-and-epoxy.jpg"
-    },
-    {
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "An echo of Einstein: An unexpected link between whale calls and special relativity. Standing on the sandy, windswept shores of Provincetown, Massachusetts, people may find themselves squinting at the horizon, waiting for a whale to make its grand entrance with a spectacular breach.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Standing on the sandy, windswept shores of Provincetown, Massachusetts, people may find themselves squinting.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "An echo of Einstein: An unexpected link between whale calls and special relativity",
-          "type": "directReport",
-          "summary": "An echo of Einstein: An unexpected link between whale calls and special relativity. Standing on the sandy, windswept shores of Provincetown, Massachusetts, people may find themselves squinting at the horizon, waiting for a whale to make its grand entrance with a spectacular breach.",
-          "id": "p_art_d99540fa6c_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.900385+00:00",
-      "id": "art_d99540fa6c",
-      "title": "An echo of Einstein: An unexpected link between whale calls and special relativity",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/humpback-whale.jpg"
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/encouraging-global-man.jpg"
     },
     {
       "tags": [
@@ -715,20 +319,20 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Hyundai India To Hike Car Prices By 1% With Effect From September. This revision in retail price points by Hyundai is due to a rise in input and commodity costs.",
+      "summary": "US Quietly Creates New Hormuz Shipping Corridor To Move Millions Of Oil Barrels: Report. US military guides oil tankers through a southern Strait of Hormuz route.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "This revision in retail price points by Hyundai is due to a rise in input and commodity costs.",
+            "US military guides oil tankers through a southern Strait of Hormuz route.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Hyundai India To Hike Car Prices By 1% With Effect From September",
+          "stanceTitle": "US Quietly Creates New Hormuz Shipping Corridor To Move Millions Of Oil Barrels: Report",
           "type": "directReport",
-          "summary": "Hyundai India To Hike Car Prices By 1% With Effect From September. This revision in retail price points by Hyundai is due to a rise in input and commodity costs.",
-          "id": "p_art_9a3ae7bd7c_1",
+          "summary": "US Quietly Creates New Hormuz Shipping Corridor To Move Millions Of Oil Barrels: Report. US military guides oil tankers through a southern Strait of Hormuz route.",
+          "id": "p_art_5f4e0b6c48_1",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -741,16 +345,16 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.830547+00:00",
-      "id": "art_9a3ae7bd7c",
-      "title": "Hyundai India To Hike Car Prices By 1% With Effect From September",
+      "publishedAt": "2026-08-20T11:38:23.183793+00:00",
+      "id": "art_5f4e0b6c48",
+      "title": "US Quietly Creates New Hormuz Shipping Corridor To Move Millions Of Oil Barrels: Report",
       "bookmarksCount": 0,
       "category": "Business & Policy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-03/fd8alc7g_hyundai-verna_625x300_09_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-04/43mcr2e_trump-hormuz_625x300_02_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
     },
     {
       "tags": [
@@ -759,109 +363,20 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "This New York Techie Had A Rs 3.3-Crore Google Salary. Here's Why He Walked Away. The financial cushion gave Naughton Jr the confidence to move from a comfortable and lucrative job at Google.",
+      "summary": "Silver ETFs Shine Up To 5% As Global Demand Soars For White Metal: Check 7 Top Performing Funds. The decline in US Treasury yields has emerged as a key catalyst for the latest rally in precious metals.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Here's Why He Walked Away.",
-            "The financial cushion gave Naughton Jr the confidence to move from a comfortable and lucrative job at Google."
-          ],
-          "stanceTitle": "This New York Techie Had A Rs 3.3-Crore Google Salary. Here's Why He Walked Away",
-          "type": "directReport",
-          "summary": "This New York Techie Had A Rs 3.3-Crore Google Salary. Here's Why He Walked Away. The financial cushion gave Naughton Jr the confidence to move from a comfortable and lucrative job at Google.",
-          "id": "p_art_462bf1c92d_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.823759+00:00",
-      "id": "art_462bf1c92d",
-      "title": "This New York Techie Had A Rs 3.3-Crore Google Salary. Here's Why He Walked Away",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/eo5t77q4_google-techie_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-19T15:04:47.223101+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 88,
-      "summary": "The risks of broad-based increase in inflation remain even as there was no evidence of overheating of inflation till June despite irregular monsoon and fresh escalation of the West Asia conflicts.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 12,
-      "publishedAt": "2026-08-19T14:09:53.816832+00:00",
-      "id": "art_fa70be3bf8",
-      "title": "MPC flags possibility of policy tightening",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\"We also need to be watchful as the risks of higher food, fuel and.",
-            "\"Any evidence of these risks materialising may need policy tightening,\" he said."
-          ],
-          "stanceTitle": "MPC flags possibility of policy tightening",
-          "type": "directReport",
-          "sourceName": "Economic Times Economy",
-          "id": "p_art_fa70be3bf8_1",
-          "summary": "The risks of broad-based increase in inflation remain even as there was no evidence of overheating of inflation till June despite irregular monsoon and fresh escalation of the West Asia conflicts.",
-          "quoteAuthor": "",
-          "biasTag": "Corporate & Market Realism",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 92,
-          "sourceDomain": "economictimes.indiatimes.com"
-        }
-      ],
-      "commentsCount": 0,
-      "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/8c0ll3vg_bb_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Nifty 50 Outlook: Abakkus Sees India Outperforming Asian Peers In H2, But Flags IPO Wave As Key Risk. Abakkus estimates that IPOs, QIPs and block deals could absorb 40% to 50% of available capital",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Abakkus estimates that IPOs, QIPs and block deals could absorb 40% to 50% of available capital",
+            "The decline in US Treasury yields has emerged as a key catalyst for the latest rally in precious metals.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Nifty 50 Outlook: Abakkus Sees India Outperforming Asian Peers In H2, But Flags IPO Wave As Key Risk",
+          "stanceTitle": "Silver ETFs Shine Up To 5% As Global Demand Soars For White Metal: Check 7 Top Performing Funds",
           "type": "directReport",
-          "summary": "Nifty 50 Outlook: Abakkus Sees India Outperforming Asian Peers In H2, But Flags IPO Wave As Key Risk. Abakkus estimates that IPOs, QIPs and block deals could absorb 40% to 50% of available capital",
-          "id": "p_art_575b423959_1",
+          "summary": "Silver ETFs Shine Up To 5% As Global Demand Soars For White Metal: Check 7 Top Performing Funds. The decline in US Treasury yields has emerged as a key catalyst for the latest rally in precious metals.",
+          "id": "p_art_3cc43b80ea_1",
           "sourceName": "NDTV Profit",
           "quoteAuthor": "",
           "biasTag": "Indian Corporate & Regulatory",
@@ -874,16 +389,500 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.801594+00:00",
-      "id": "art_575b423959",
-      "title": "Nifty 50 Outlook: Abakkus Sees India Outperforming Asian Peers In H2, But Flags IPO Wave As Key",
+      "publishedAt": "2026-08-20T11:38:23.182102+00:00",
+      "id": "art_3cc43b80ea",
+      "title": "Silver ETFs Shine Up To 5% As Global Demand Soars For White Metal: Check 7 Top Performing Funds",
       "bookmarksCount": 0,
       "category": "Business & Policy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/7takrgc8_nifty-down-79-so-far-in-2026-abakkus-says-ipo-wave-could-limit-the-recovery_625x300_19_August_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-01/ul33clcg_silver_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Fake CBI Team Raids Delhi Bizman In 'Special 26' Style Raid; Wife Refuses Entry. The incident was reportedly captured on CCTV cameras installed around the residence.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The incident was reportedly captured on CCTV cameras installed around the residence.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Fake CBI Team Raids Delhi Bizman In 'Special 26' Style Raid; Wife Refuses Entry",
+          "type": "directReport",
+          "summary": "Fake CBI Team Raids Delhi Bizman In 'Special 26' Style Raid; Wife Refuses Entry. The incident was reportedly captured on CCTV cameras installed around the residence.",
+          "id": "p_art_8bb8b391dd_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.181143+00:00",
+      "id": "art_8bb8b391dd",
+      "title": "Fake CBI Team Raids Delhi Bizman In 'Special 26' Style Raid; Wife Refuses Entry",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/52l77u0c_fake-raid_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "'Glass Piece' Found In Burger At Jimi's Burger Branch In Mumbai; FDA Complaint Filed. While eating the burger, the complainant allegedly found a piece of glass inside it.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "While eating the burger, the complainant allegedly found a piece of glass inside it.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "'Glass Piece' Found In Burger At Jimi's Burger Branch In Mumbai; FDA Complaint Filed",
+          "type": "directReport",
+          "summary": "'Glass Piece' Found In Burger At Jimi's Burger Branch In Mumbai; FDA Complaint Filed. While eating the burger, the complainant allegedly found a piece of glass inside it.",
+          "id": "p_art_c9ad4fa1de_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.169830+00:00",
+      "id": "art_c9ad4fa1de",
+      "title": "'Glass Piece' Found In Burger At Jimi's Burger Branch In Mumbai; FDA Complaint Filed",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/iif1rrvs_jimis-burger_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "FPI Ownership In NSE-Listed Companies Falls To 17-Year Low Of 15.1%; DII Extends 7-Quarter Lead. FPIs reduced their exposure to large-cap stocks even more sharply.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "FPIs reduced their exposure to large-cap stocks even more sharply.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "FPI Ownership In NSE-Listed Companies Falls To 17-Year Low Of 15.1%; DII Extends 7-Quarter Lead",
+          "type": "directReport",
+          "summary": "FPI Ownership In NSE-Listed Companies Falls To 17-Year Low Of 15.1%; DII Extends 7-Quarter Lead. FPIs reduced their exposure to large-cap stocks even more sharply.",
+          "id": "p_art_759735a85f_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.130935+00:00",
+      "id": "art_759735a85f",
+      "title": "FPI Ownership In NSE-Listed Companies Falls To 17-Year Low Of 15.1%; DII Extends 7-Quarter Lead",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/tn9cmmpk_fpi_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Good News For College Students: Google Offers One-Year Of Free AI Plus Plan \u2014 All You Need To Know. Eligible college students in India can now access Google's AI plus subscription without paying for 12 months.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Eligible college students in India can now access Google's AI plus subscription without paying for 12 months.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Good News For College Students: Google Offers One-Year Of Free AI Plus Plan \u2014 All You Need To Know",
+          "type": "directReport",
+          "summary": "Good News For College Students: Google Offers One-Year Of Free AI Plus Plan \u2014 All You Need To Know. Eligible college students in India can now access Google's AI plus subscription without paying for 12 months.",
+          "id": "p_art_d60b5acefb_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.091550+00:00",
+      "id": "art_d60b5acefb",
+      "title": "Good News For College Students: Google Offers One-Year Of Free AI Plus Plan \u2014 All You Need To K",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ilfi55k_google_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Big Setback For Shehbaz Sharif Govt: Pakistan SC Returns Plea Against Imran Khan's Hospital Transfer. The government has questioned the decision to allow Khan to receive treatment at a private hospital.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The government has questioned the decision to allow Khan to receive treatment at a private hospital.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Big Setback For Shehbaz Sharif Govt: Pakistan SC Returns Plea Against Imran Khan's Hospital Transfer",
+          "type": "directReport",
+          "summary": "Big Setback For Shehbaz Sharif Govt: Pakistan SC Returns Plea Against Imran Khan's Hospital Transfer. The government has questioned the decision to allow Khan to receive treatment at a private hospital.",
+          "id": "p_art_17efad2614_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.084867+00:00",
+      "id": "art_17efad2614",
+      "title": "Big Setback For Shehbaz Sharif Govt: Pakistan SC Returns Plea Against Imran Khan's Hospital Tra",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/9ur8c4m_imran-khan_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "DC Box Office Collection Day 13: Lokesh Kanagaraj Film Faces Another Dip On Second Wednesday. The movie was released in cinemas on August 7, 2026, in Tamil and Telugu.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The movie was released in cinemas on August 7, 2026, in Tamil and Telugu.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "DC Box Office Collection Day 13: Lokesh Kanagaraj Film Faces Another Dip On Second Wednesday",
+          "type": "directReport",
+          "summary": "DC Box Office Collection Day 13: Lokesh Kanagaraj Film Faces Another Dip On Second Wednesday. The movie was released in cinemas on August 7, 2026, in Tamil and Telugu.",
+          "id": "p_art_ba8c7997e0_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.074162+00:00",
+      "id": "art_ba8c7997e0",
+      "title": "DC Box Office Collection Day 13: Lokesh Kanagaraj Film Faces Another Dip On Second Wednesday",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/5r54t46_dctamilboxofficeday13jpg_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "India, Japan Oppose Curbs On Freedom Of Navigation In Implicit Message To Beijing. Defence Minister Rajnath Singh and his Japanese counterpart Shinjiro Koizumi expressed their strong opposition to any unilateral actions that impede freedom and safety of navigation and overflight, as well as attempts to change the status-quo by force or coercion.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Defence Minister Rajnath Singh and his Japanese counterpart Shinjiro Koizumi expressed their strong opposition.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India, Japan Oppose Curbs On Freedom Of Navigation In Implicit Message To Beijing",
+          "type": "directReport",
+          "summary": "India, Japan Oppose Curbs On Freedom Of Navigation In Implicit Message To Beijing. Defence Minister Rajnath Singh and his Japanese counterpart Shinjiro Koizumi expressed their strong opposition to any unilateral actions that impede freedom and safety of navigation and overflight, as well as attempts to change the status-quo by force or coercion.",
+          "id": "p_art_1dd393af54_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.033644+00:00",
+      "id": "art_1dd393af54",
+      "title": "India, Japan Oppose Curbs On Freedom Of Navigation In Implicit Message To Beijing",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/6okvbcjs_india-japan-_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "India-Pakistan Fighting For Same Textile Market \u2014 And Trade Deals Are Changing It | The Reason Why. Most textile products were not part of GSP in the US.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Most textile products were not part of GSP in the US.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "India-Pakistan Fighting For Same Textile Market \u2014 And Trade Deals Are Changing It | The Reason Why",
+          "type": "directReport",
+          "summary": "India-Pakistan Fighting For Same Textile Market \u2014 And Trade Deals Are Changing It | The Reason Why. Most textile products were not part of GSP in the US.",
+          "id": "p_art_f4ff9cb122_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.029386+00:00",
+      "id": "art_f4ff9cb122",
+      "title": "India-Pakistan Fighting For Same Textile Market \u2014 And Trade Deals Are Changing It | The Reason ",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/mloti7ec_textile_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "The Toronto Blue Jays made a bold bet for their rotation at the trade deadline as they sent off a pair of veterans and acquired a pair of win-now starters with future control in exchange.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Shortly after trading away Kevin Gausman to the Chicago Cubs and acquiring Jose Soriano.",
+            "The Blue Jays sent Daulton Varsho to the Houston Astros in exchange for Spencer."
+          ],
+          "stanceTitle": "Blue Jays Uncover Surprisingly Simple Fix For Injured Astros Trade Addition",
+          "type": "directReport",
+          "summary": "The Toronto Blue Jays made a bold bet for their rotation at the trade deadline as they sent off a pair of veterans and acquired a pair of win-now starters with future control in exchange.",
+          "id": "p_art_25508f2ec5_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.018611+00:00",
+      "id": "art_25508f2ec5",
+      "title": "Blue Jays Uncover Surprisingly Simple Fix For Injured Astros Trade Addition",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85b84beb528c115c1bcdc4/0x0.jpg?format=jpg&crop=685,386,x314,y4,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "On August 10, the United States, Armenia, and Azerbaijan issued a joint statement celebrating the one-year anniversary of the August 8, 2025 White House Peace Summit.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The joint statement announced that there was \u201cgreat resolve to build upon the foundation.",
+            "The joint statement concluded that the United States, Armenia, and Azerbaijan \u201creaffirm their unwavering."
+          ],
+          "stanceTitle": "U.S. And EU Welcome Peace Progress Between Armenia And Azerbaijan",
+          "type": "directReport",
+          "summary": "On August 10, the United States, Armenia, and Azerbaijan issued a joint statement celebrating the one-year anniversary of the August 8, 2025 White House Peace Summit.",
+          "id": "p_art_3339bef60e_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:23.009916+00:00",
+      "id": "art_3339bef60e",
+      "title": "U.S. And EU Welcome Peace Progress Between Armenia And Azerbaijan",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85d5b4b00d98c318a31007/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "After writing two articles where we discussed elite fantasy football players in Trey McBride and Lamar Jackson, Kyren Williams isn\u2019t quite on that level. That\u2019s not saying that Williams is a bad player, but he\u2019s not one of the best running backs in fantasy football right now.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "That\u2019s not saying that Williams is a bad player, but he\u2019s not one of.",
+            "That said, Williams had the best season of his career in year two after."
+          ],
+          "stanceTitle": "Fantasy Football Outlook For Kyren Williams In 2026",
+          "type": "directReport",
+          "summary": "After writing two articles where we discussed elite fantasy football players in Trey McBride and Lamar Jackson, Kyren Williams isn\u2019t quite on that level. That\u2019s not saying that Williams is a bad player, but he\u2019s not one of the best running backs in fantasy football right now.",
+          "id": "p_art_8da8ea5ca5_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.984389+00:00",
+      "id": "art_8da8ea5ca5",
+      "title": "Fantasy Football Outlook For Kyren Williams In 2026",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a869ba6b5ad3b71165fc4ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     }
   ]
 }

@@ -105,6 +105,27 @@ async def run_pipeline(
     active_stories = state_manager.get_active_stories()
     clusters = clusterer.cluster_articles(extracted_articles, active_stories)
 
+    # Step 3.5: Active Real-Time Search Discovery (100% Free Pure-Aggregator Engine)
+    # Actively searches for real, published competing articles to maximize authentic Dual Views
+    from src.sources.search_discovery import search_discovery
+    logger.info(f"🔎 Running Active Multi-Source Search Discovery on {len(clusters)} story clusters...")
+    enhanced_clusters = []
+    for cluster in clusters:
+        if cluster.classification == ClusterClassification.SINGLE_REPORT and len(cluster.articles) == 1:
+            primary_art = cluster.articles[0]
+            # Run search discovery on substantial articles (>= 30 words)
+            if len(primary_art.cleaned_body.split()) >= 30:
+                try:
+                    competing_arts = await search_discovery.discover_competing_articles(primary_art, max_matches=1)
+                    if competing_arts:
+                        cluster.classification = ClusterClassification.NEW_DEBATE
+                        cluster.articles.extend(competing_arts)
+                        logger.info(f"🚀 Upgraded '{primary_art.title[:45]}...' to Dual View with {competing_arts[0].feed_name}!")
+                except Exception as search_err:
+                    logger.debug(f"Search discovery skipped for '{primary_art.title[:30]}': {search_err}")
+        enhanced_clusters.append(cluster)
+    clusters = enhanced_clusters
+
     # Step 4: AI Dual-Perspective Synthesis & Immediate Streaming Publication
     def on_story_completed(art: ArticleModel, cluster: StoryCluster):
         state_manager.register_active_story(art, cluster)

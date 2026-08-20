@@ -6,47 +6,795 @@
   "articles": [
     {
       "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term. The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of tins for edible oil.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.583231+00:00",
+      "id": "art_1fb521fe06",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term",
+          "type": "directReport",
+          "summary": "'Cancer Risks': Tukaram Mundhe Bans Loose Edible Oil Sales, Warns Rs 10 Lakh Penalty, Life Term. The Maharashtra FDA chief also raised concerns over packaging practices, particularly the reuse of tins for edible oil.",
+          "id": "p_art_1fb521fe06_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/g2jmvhds_tukaram-mundhe_625x300_03_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost. Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively, while Dow Jones Industrial Average dipped 0.22% to $53,413",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "One-Day Blip? Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback B",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.576227+00:00",
+      "id": "art_124107a7de",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "One-Day Blip? Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost",
+          "type": "directReport",
+          "summary": "Three Reasons Why US Stock Market Futures Are In Red Day After Treasury Buyback Boost. Nasdaq 100 and S&amp;P 500 futures traded 0.05% lower at $29,496 and $7,724.5 respectively, while Dow Jones Industrial Average dipped 0.22% to $53,413",
+          "id": "p_art_124107a7de_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-05/9asflnt4_x_625x300_29_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay. Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.567505+00:00",
+      "id": "art_d7d62a240a",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay.",
+            "Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027."
+          ],
+          "stanceTitle": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay",
+          "type": "directReport",
+          "summary": "Apple Splits iPhone 18 Launch? Pro Likely Set For Sept 9 Launch As Base Models Face 2027 Delay. Apple may launch the iPhone 18 Pro in 2026 while delaying the standard iPhone 18 until early 2027.",
+          "id": "p_art_d7d62a240a_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-06/vj31o1nc_apple-iphone_625x300_10_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields. Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN network.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.553318+00:00",
+      "id": "art_d438ce4d91",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields",
+          "type": "directReport",
+          "summary": "Railtel Corp Shares In Focus After Rs 165 Crore Order Win From Western Coalfields. Railtel bagged an order from Western Coalfields for establishment of Multiprotocol Label Switching VPN network.",
+          "id": "p_art_d438ce4d91_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-02/d9qqon5g_railtel_625x300_02_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen. The hijacking comes amid a rise in attempted attacks on vessels in the Gulf of Aden, raising fresh concerns over maritime security.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.532597+00:00",
+      "id": "art_ff260c75c7",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The hijacking comes amid a rise in attempted attacks on vessels in the Gulf.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen",
+          "type": "directReport",
+          "summary": "West Asia Tensions: Armed Persons Hijack Tanker Near Yemen. The hijacking comes amid a rise in attempted attacks on vessels in the Gulf of Aden, raising fresh concerns over maritime security.",
+          "id": "p_art_ff260c75c7_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-05/0k7775m8_strait-of-hormuz_625x300_18_May_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore. Production of the Tiago, Tigor, Nexon and Sierra models had been affected due to the floods.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.504206+00:00",
+      "id": "art_da1760588a",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Production of the Tiago, Tigor, Nexon and Sierra models had been affected due to the floods.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore",
+          "type": "directReport",
+          "summary": "Tata Motors PV Restores Sanand Operations After Floods; Damage Estimated At Rs 35-40 Crore. Production of the Tiago, Tigor, Nexon and Sierra models had been affected due to the floods.",
+          "id": "p_art_da1760588a_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-02/irahtpv8_tata-motors_625x300_06_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge. AI-linked investment gains drove strong S&P 500 earnings as Alphabet and Amazon reported major paper profits.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.488192+00:00",
+      "id": "art_886d782a71",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "AI Stocks Drive 52% S&P 500 Earnings Surge.",
+            "AI-linked investment gains drove strong S&P 500 earnings as Alphabet and Amazon reported major paper profits."
+          ],
+          "stanceTitle": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge",
+          "type": "directReport",
+          "summary": "Paper Profits Or Real Growth? AI Stocks Drive 52% S&P 500 Earnings Surge. AI-linked investment gains drove strong S&P 500 earnings as Alphabet and Amazon reported major paper profits.",
+          "id": "p_art_886d782a71_1",
+          "sourceName": "NDTV Profit",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/50g5kt9k_ai-markets_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes. It\u2019s not the purchase price that\u2019s the biggest obstacle, but rather the continuing costs.",
+      "summary": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update. Louis Cardinals quickly re-signed a 30-year-old outfielder after a cut pushed him out of affiliated baseball.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.476183+00:00",
+      "id": "art_768ae7a13f",
       "perspectives": [
         {
           "keyPoints": [
-            "It\u2019s not the purchase price that\u2019s the biggest obstacle, but rather the continuing costs.",
+            "Louis Cardinals quickly re-signed a 30-year-old outfielder after a cut pushed him out of affiliated baseball.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes",
+          "stanceTitle": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update",
           "type": "directReport",
-          "summary": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes. It\u2019s not the purchase price that\u2019s the biggest obstacle, but rather the continuing costs.",
-          "id": "p_art_35f6f0ab7c_1",
+          "summary": "Cardinals Reunite With Outfield Veteran After Joshua Baez Update. Louis Cardinals quickly re-signed a 30-year-old outfielder after a cut pushed him out of affiliated baseball.",
+          "id": "p_art_768ae7a13f_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a864187eca3bd4ef069874f/0x0.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past. Amazon Prime Air is aiming for drone delivery to be available in 500 U.S. cities by the end of 2026 but even as it expands its service rivals threaten to fly even higher.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.468565+00:00",
+      "id": "art_9f4d65270e",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Amazon Prime Air is aiming for drone delivery to be available in 500 U.S.",
+            "cities by the end of 2026 but even as it expands its service rivals threaten to fly even higher."
+          ],
+          "stanceTitle": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past",
+          "type": "directReport",
+          "summary": "Amazon Aims High With Drones Amid Worries Rivals Could Fly Past. Amazon Prime Air is aiming for drone delivery to be available in 500 U.S. cities by the end of 2026 but even as it expands its service rivals threaten to fly even higher.",
+          "id": "p_art_9f4d65270e_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86e450c390991cf913e291/0x0.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?. Liverpool has been linked with PSG winger Bradley Barcola with the start of the 2026/27 Premier League season approaching.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.411687+00:00",
+      "id": "art_20bcfe87ef",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Liverpool has been linked with PSG winger Bradley Barcola with the start of the.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?",
+          "type": "directReport",
+          "summary": "Would Bradley Barcola Transfer Fix Liverpool\u2019s Problems?. Liverpool has been linked with PSG winger Bradley Barcola with the start of the 2026/27 Premier League season approaching.",
+          "id": "p_art_20bcfe87ef_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86e8cd8e782e29e3340946/0x0.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish. Bruno Mars debuts \"Lo Arriesgo Todo\" \u2014 the Spanish-language version of \"Risk It All\" \u2014 inside the top 10 on multiple charts in the U.K.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.388386+00:00",
+      "id": "art_ec139ce471",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Bruno Mars debuts \"Lo Arriesgo Todo\" \u2014 the Spanish-language version of \"Risk It All\".",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish",
+          "type": "directReport",
+          "summary": "Bruno Mars Scores His First Top 10 Bestsellers \u2014 In Spanish. Bruno Mars debuts \"Lo Arriesgo Todo\" \u2014 the Spanish-language version of \"Risk It All\" \u2014 inside the top 10 on multiple charts in the U.K.",
+          "id": "p_art_ec139ce471_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a11a230b7f455ed602b3f5d/0x0.jpg?width=960&precrop=2321%2C1306%2Cx0%2Cy200"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits. The policy switch could be a major boon for small businesses hoping to compete against the likes of Boeing and Raytheon, says the U.S.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.376451+00:00",
+      "id": "art_eba41d9ae2",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The policy switch could be a major boon for small businesses hoping to compete.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits",
+          "type": "directReport",
+          "summary": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits. The policy switch could be a major boon for small businesses hoping to compete against the likes of Boeing and Raytheon, says the U.S.",
+          "id": "p_art_eba41d9ae2_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a67b5920c0660be226d17ed/0x0.jpg?width=960"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Indiana Pacers Partner With DAZN As New Streaming Home For Games. The Indiana Pacers have a new broadcast partner to stream their games as they have inked a five-year deal with DAZN.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Indiana Pacers Partner With DAZN As New Streaming Home For Games",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.328522+00:00",
+      "id": "art_a747f738c5",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Indiana Pacers have a new broadcast partner to stream their games as they.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Indiana Pacers Partner With DAZN As New Streaming Home For Games",
+          "type": "directReport",
+          "summary": "Indiana Pacers Partner With DAZN As New Streaming Home For Games. The Indiana Pacers have a new broadcast partner to stream their games as they have inked a five-year deal with DAZN.",
+          "id": "p_art_a747f738c5_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86a87f1684fc1d6a7413bf/0x0.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic. A new women\u2019s apparel collection marks the latest step in the nearly century-old brand\u2019s evolution from footwear player to head-to-toe golf outfitter.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.285609+00:00",
+      "id": "art_a154ca65d6",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A new women\u2019s apparel collection marks the latest step in the nearly century-old brand\u2019s.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic",
+          "type": "directReport",
+          "summary": "Cole Haan Makes A Play For Golf\u2019s Fastest-Growing Demographic. A new women\u2019s apparel collection marks the latest step in the nearly century-old brand\u2019s evolution from footwear player to head-to-toe golf outfitter.",
+          "id": "p_art_a154ca65d6_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86f3fa957c8c5b6d8f59a5/0x0.jpg?width=960"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "When Transparency Creates Risk: How Public Records Can Become Target Lists. Public records support transparency, but when data links people to homes, wealth and routines, it can create security risks that extend far beyond disclosure.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "When Transparency Creates Risk: How Public Records Can Become Target Lists",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.266660+00:00",
+      "id": "art_2bf5beb941",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Public records support transparency, but when data links people to homes, wealth and routines,.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "When Transparency Creates Risk: How Public Records Can Become Target Lists",
+          "type": "directReport",
+          "summary": "When Transparency Creates Risk: How Public Records Can Become Target Lists. Public records support transparency, but when data links people to homes, wealth and routines, it can create security risks that extend far beyond disclosure.",
+          "id": "p_art_2bf5beb941_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84c4ebb87ae6b1847359e6/0x0.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Madonna And Kylie Minogue Soar To No. Madonna and Kylie Minogue send their collaborative \"Love Sensation\" to No. 1 on several charts in the U.K. as the previously-solo tune becomes a bestseller.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Madonna And Kylie Minogue Soar To No. 1 Together",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.217176+00:00",
+      "id": "art_5058a6eef5",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Madonna and Kylie Minogue send their collaborative \"Love Sensation\" to No.",
+            "1 on several charts in the U.K."
+          ],
+          "stanceTitle": "Madonna And Kylie Minogue Soar To No. 1 Together",
+          "type": "directReport",
+          "summary": "Madonna And Kylie Minogue Soar To No. Madonna and Kylie Minogue send their collaborative \"Love Sensation\" to No. 1 on several charts in the U.K. as the previously-solo tune becomes a bestseller.",
+          "id": "p_art_5058a6eef5_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a83b88c8e312120cc082172/0x0.jpg?width=960&precrop=2070%2C1164%2Cx0%2Cy300"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "New World Team Tennis Club Identities Revealed. New York Empire, Florida Flamingos and Toronto North blend historic World Team Tennis names and identities with the 2026 league rebirth",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "New World Team Tennis Club Identities Revealed",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.199898+00:00",
+      "id": "art_eff9534329",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "New York Empire, Florida Flamingos and Toronto North blend historic World Team Tennis names.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "New World Team Tennis Club Identities Revealed",
+          "type": "directReport",
+          "summary": "New World Team Tennis Club Identities Revealed. New York Empire, Florida Flamingos and Toronto North blend historic World Team Tennis names and identities with the 2026 league rebirth",
+          "id": "p_art_eff9534329_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a861d8482c34b6cb6943874/0x0.jpg"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.. AI, not Trump, is the big mover of the economy, this analyst says \u2014 and it\u2019s just going to get bigger.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or wor",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.170253+00:00",
+      "id": "art_ae0f667443",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Here\u2019s how it\u2019s changing lives \u2014 for better or worse..",
+            "AI, not Trump, is the big mover of the economy, this analyst says \u2014 and it\u2019s just going to get bigger."
+          ],
+          "stanceTitle": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.",
+          "type": "directReport",
+          "summary": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.. AI, not Trump, is the big mover of the economy, this analyst says \u2014 and it\u2019s just going to get bigger.",
+          "id": "p_art_ae0f667443_1",
           "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
           "biasTag": "Market Analysis",
-          "sourceDomain": "marketwatch.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "marketwatch.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.889788+00:00",
-      "id": "art_35f6f0ab7c",
-      "title": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
+      "videoUrl": "",
       "commentsCount": 0,
-      "heroImageUrl": "https://images.mktw.net/im-73305524"
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-21228371"
     },
     {
       "tags": [
@@ -55,851 +803,86 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">Information overload may have started with 24/7 news channels, but where it ends is more a matter of intervention than invention. One thing is certain: Too much of a good thing is a bad thing.",
+      "summary": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices. The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.150125+00:00",
+      "id": "art_63d8da45a9",
       "perspectives": [
         {
           "keyPoints": [
-            "One thing is certain: Too much of a good thing is a bad thing.",
-            "Drowning in facts, figures, news, opinion, and conjecture can lead to decision paralysis and."
+            "sales are hit by falling drug prices.",
+            "The supermarket chain reported comparable U.S."
           ],
-          "stanceTitle": "19 leaders on staying informed without getting overwhelmed",
+          "stanceTitle": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">Information overload may have started with 24/7 news channels, but where it ends is more a matter of intervention than invention. One thing is certain: Too much of a good thing is a bad thing.",
-          "id": "p_art_58ee7f0e66_1",
+          "summary": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices. The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
+          "id": "p_art_63d8da45a9_1",
+          "sourceName": "MarketWatch Top Stories",
+          "quoteAuthor": "",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
+        }
+      ],
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "videoUrl": "",
+      "commentsCount": 0,
+      "isSinglePerspective": true,
+      "sharesCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-26125004"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "<p class=\"wp-block-paragraph\"><em>Want more housing market stories from Lance Lambert\u2019s </em><a href=\"https://www.resiclubanalytics.com/\" rel=\"noreferrer noopener\" target=\"_blank\">ResiClub</a> <em>in your inbox? <a href=\"https://www.resiclubanalytics.com/subscribe\" rel=\"noreferrer noopener\" target=\"_blank\">Subscribe</a> to the </em>ResiClub <em><a href=\"https://www.resiclubanalytics.com/subscribe\" rel=\"noreferrer noopener\" target=\"_blank\">newsletter</a>.</em></p> <p class=\"wp-block-paragraph\">During the Pandemic Housing Boom, we saw red-hot housing demand quickly absorb much of the available slack in the housing market.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "title": "These 3 housing markets\u2014including Austin\u2014just hit \u2018significantly oversupplied\u2019 lot inventory",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T14:11:40.148747+00:00",
+      "id": "art_17c02825a9",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "<a href=\"https://www.resiclubanalytics.com/subscribe\" rel=\"noreferrer noopener\" target=\"_blank\">Subscribe</a> to the </em>ResiClub <em><a href=\"https://www.resiclubanalytics.com/subscribe\" rel=\"noreferrer noopener\" target=\"_blank\">newsletter</a>.</em></p> <p.",
+            "Back in 2021, active housing inventory for sale, unsold completed new builds, and available."
+          ],
+          "stanceTitle": "These 3 housing markets\u2014including Austin\u2014just hit \u2018significantly oversupplied\u2019 lot inventory",
+          "type": "directReport",
+          "summary": "<p class=\"wp-block-paragraph\"><em>Want more housing market stories from Lance Lambert\u2019s </em><a href=\"https://www.resiclubanalytics.com/\" rel=\"noreferrer noopener\" target=\"_blank\">ResiClub</a> <em>in your inbox? <a href=\"https://www.resiclubanalytics.com/subscribe\" rel=\"noreferrer noopener\" target=\"_blank\">Subscribe</a> to the </em>ResiClub <em><a href=\"https://www.resiclubanalytics.com/subscribe\" rel=\"noreferrer noopener\" target=\"_blank\">newsletter</a>.</em></p> <p class=\"wp-block-paragraph\">During the Pandemic Housing Boom, we saw red-hot housing demand quickly absorb much of the available slack in the housing market.",
+          "id": "p_art_17c02825a9_1",
           "sourceName": "Fast Company",
           "quoteAuthor": "",
           "biasTag": "Work Culture & Innovation",
-          "sourceDomain": "fastcompany.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 90,
-          "fullMarkdownContent": ""
+          "sourceDomain": "fastcompany.com"
         }
       ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.820941+00:00",
-      "id": "art_58ee7f0e66",
-      "title": "19 leaders on staying informed without getting overwhelmed",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/FCIC-Expert-Insights-templates-9.png"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">As the long, contentious <a href=\"https://www.fastcompany.com/section/elections\">primary season</a> nears its end, Democratic voters elevated another progressive Senate candidate <a href=\"https://www.fastcompany.com/91177425/florida-election-websites-crash-this-tech-company-takes-blame\">in Florida</a>, while President Donald Trump&#8217;s chosen candidate in <a href=\"https://www.fastcompany.com/section/florida\">his adopted home state</a>, Republican Rep.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Byron Donalds, won the nomination to be the state&#8217;s first Black governor.<br /><br />It.",
-            "Voters in Alaska, Wyoming and <a href=\"https://www.fastcompany.com/91552442/barack-obama-is-on-the-ballot-in-california-but-theres-a-twist\">California</a> were also choosing their nominees, sometimes considering."
-          ],
-          "stanceTitle": "This rising star in the GOP could succeed Florida\u2019s Gov. DeSantis, plus other takeaways from the primaries",
-          "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">As the long, contentious <a href=\"https://www.fastcompany.com/section/elections\">primary season</a> nears its end, Democratic voters elevated another progressive Senate candidate <a href=\"https://www.fastcompany.com/91177425/florida-election-websites-crash-this-tech-company-takes-blame\">in Florida</a>, while President Donald Trump&#8217;s chosen candidate in <a href=\"https://www.fastcompany.com/section/florida\">his adopted home state</a>, Republican Rep.",
-          "id": "p_art_c396ed37b3_1",
-          "sourceName": "Fast Company",
-          "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
-          "sourceDomain": "fastcompany.com",
-          "quote": "",
-          "sourceCredibility": 90,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
       "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.800742+00:00",
-      "id": "art_c396ed37b3",
-      "title": "This rising star in the GOP could succeed Florida\u2019s Gov. DeSantis, plus other takeaways from th",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
       "commentsCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592243-election-takeaways-donalds.jpg"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Kanthalloor faces serious drought, Collector gives nod to utilise funds for water distribution. The grama panchayat has been hit hard by deficient rainfall, prompting the District Collector to grant special sanction under the Disaster Management Act to utilise funds for drinking water distribution in the local body",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The grama panchayat has been hit hard by deficient rainfall, prompting the District Collector.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Kanthalloor faces serious drought, Collector gives nod to utilise funds for water distribution",
-          "type": "directReport",
-          "summary": "Kanthalloor faces serious drought, Collector gives nod to utilise funds for water distribution. The grama panchayat has been hit hard by deficient rainfall, prompting the District Collector to grant special sanction under the Disaster Management Act to utilise funds for drinking water distribution in the local body",
-          "id": "p_art_5e293f6aaa_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.767222+00:00",
-      "id": "art_5e293f6aaa",
-      "title": "Kanthalloor faces serious drought, Collector gives nod to utilise funds for water distribution",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
       "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/cyqqbm/article71365857.ece/alternates/LANDSCAPE_1200/80759_19_8_2026_17_45_19_1_KANTHA.JPG"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Treasury yields are on the march with some analysts suggesting Fed chairman Kevin Warsh is being \u201ctested\u201d by the bond market. But those who know the boomerang central banker well told Fortune that while Warsh will note market \u201cteething\u201d problems, a reaction shouldn\u2019t be expected.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "But those who know the boomerang central banker well told Fortune that while Warsh.",
-            "Yields have climbed higher as softer inflation and labor data have dampened the picture."
-          ],
-          "stanceTitle": "Bond traders are testing Kevin Warsh: The Fed chair will heed\u2014but not be ruled by\u2014them, says an economist who spent year",
-          "type": "directReport",
-          "summary": "Treasury yields are on the march with some analysts suggesting Fed chairman Kevin Warsh is being \u201ctested\u201d by the bond market. But those who know the boomerang central banker well told Fortune that while Warsh will note market \u201cteething\u201d problems, a reaction shouldn\u2019t be expected.",
-          "id": "p_art_bbd596bfed_1",
-          "sourceName": "Fortune",
-          "quoteAuthor": "",
-          "biasTag": "Executive Leadership",
-          "sourceDomain": "fortune.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.764128+00:00",
-      "id": "art_bbd596bfed",
-      "title": "Bond traders are testing Kevin Warsh: The Fed chair will heed\u2014but not be ruled by\u2014them, says an",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
       "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-94851014.jpg?resize=1200,600"
-    },
-    {
-      "tags": [
-        "Tech & AI",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Irish lawmakers summon TikTok over videos glorifying dangerous driving. Five male teenagers died in a crash on Sunday while driving on \u200bthe wrong side of a motorway, seriously injuring three women and a child in another \u200bcar who were travelling to Dublin Airport, police said.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Five male teenagers died in a crash on Sunday while driving on \u200bthe wrong.",
-            "Footage purporting to be taken from the car, and from other cars engaged in."
-          ],
-          "stanceTitle": "Irish lawmakers summon TikTok over videos glorifying dangerous driving",
-          "type": "directReport",
-          "summary": "Irish lawmakers summon TikTok over videos glorifying dangerous driving. Five male teenagers died in a crash on Sunday while driving on \u200bthe wrong side of a motorway, seriously injuring three women and a child in another \u200bcar who were travelling to Dublin Airport, police said.",
-          "id": "p_art_9f0fe6d02c_1",
-          "sourceName": "Economic Times Tech",
-          "quoteAuthor": "",
-          "biasTag": "Indian Tech & Startups",
-          "sourceDomain": "economictimes.indiatimes.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.565220+00:00",
-      "id": "art_9f0fe6d02c",
-      "title": "Irish lawmakers summon TikTok over videos glorifying dangerous driving",
-      "bookmarksCount": 0,
-      "category": "Tech & AI",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://img.etimg.com/photo/msid-133352309,imgsize-43632.cms"
-    },
-    {
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Kerala Agricultural University Agri Business Incubator honours academic achievers, award-winning entrepreneurs and FPOs. KAU V-C appreciates the significant role played by the Agri Business Incubator in supporting farmers in their transition from agricultural production to value addition, entrepreneurship and market development",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "KAU V-C appreciates the significant role played by the Agri Business Incubator in supporting.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Kerala Agricultural University Agri Business Incubator honours academic achievers, award-winning entrepreneurs and FPOs",
-          "type": "directReport",
-          "summary": "Kerala Agricultural University Agri Business Incubator honours academic achievers, award-winning entrepreneurs and FPOs. KAU V-C appreciates the significant role played by the Agri Business Incubator in supporting farmers in their transition from agricultural production to value addition, entrepreneurship and market development",
-          "id": "p_art_9608f427be_1",
-          "sourceName": "The Hindu National",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 96,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:54:17.372673+00:00",
-      "id": "art_9608f427be",
-      "title": "Kerala Agricultural University Agri Business Incubator honours academic achievers, award-winnin",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "isLiked": false,
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/f86o58/article71366103.ece/alternates/LANDSCAPE_1200/80688_19_8_2026_20_1_55_1_BUSINESS_KKN.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "- Students in Jharkhand suspended their 26-day protest on exam irregularities - They gave the state government a two-month ultimatum to resolve the issues - State cancelled 22 recruitment exams and ordered probe into 23 others since 2014 Students in Jharkhand protesting against the alleged irregularities in recruitment exams suspended their 26-day agitation today and.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Jharkhand Students Suspend 26-Day Protest, Give Government 2-Month Ultimatum",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:49.265617+00:00",
-      "id": "art_0befa883ee",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "\"We are now suspending the stir and giving a two-month ultimatum to the government.",
-            "The development comes a day after the state government issued notifications cancelling 22 recruitment."
-          ],
-          "stanceTitle": "Jharkhand Students Suspend 26-Day Protest, Give Government 2-Month Ultimatum",
-          "type": "viewpoint1",
-          "sourceName": "NDTV Top Stories",
-          "id": "p_art_0befa883ee_1",
-          "summary": "- Students in Jharkhand suspended their 26-day protest on exam irregularities - They gave the state government a two-month ultimatum to resolve the issues - State cancelled 22 recruitment exams and ordered probe into 23 others since 2014 Students in Jharkhand protesting against the alleged irregularities in recruitment exams suspended their 26-day agitation today and.",
-          "quoteAuthor": "",
-          "biasTag": "National Headlines",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "ndtv.com"
-        },
-        {
-          "keyPoints": [
-            "The inspection and seizure of medicines worth \u20b94.91 crore from the unlicenced repacking facility.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "SIT to probe inter-State network behind spurious drug racket: Khader",
-          "type": "viewpoint2",
-          "sourceName": "The Hindu National",
-          "id": "p_art_0befa883ee_2",
-          "summary": "SIT to probe inter-State network behind spurious drug racket: Khader. The inspection and seizure of medicines worth \u20b94.91 crore from the unlicenced repacking facility at a farmhouse near Bidadi has indicated that medicines were being sourced from Himachal Pradesh, Telangana and other States",
-          "quoteAuthor": "",
-          "biasTag": "Public Interest & Editorial",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 96,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/xic9c1/article71365862.ece/alternates/LANDSCAPE_1200/_JAI1913.JPG"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "World Affairs",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainland. The majority of the estimated 70,000 people who crossed into Ceuta \u2013 a Spanish territory on the coast of north Africa \u2013 on 30 July have returned to Morocco.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.878578+00:00",
-      "id": "art_67dd8556e0",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The majority of the estimated 70,000 people who crossed into Ceuta \u2013 a Spanish.",
-            "However, under Spanish law, the state has a duty of care to young, unaccompanied."
-          ],
-          "stanceTitle": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-          "type": "directReport",
-          "sourceName": "The Guardian World",
-          "id": "p_art_67dd8556e0_1",
-          "summary": "The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainland. The majority of the estimated 70,000 people who crossed into Ceuta \u2013 a Spanish territory on the coast of north Africa \u2013 on 30 July have returned to Morocco.",
-          "quoteAuthor": "",
-          "biasTag": "Progressive International",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "theguardian.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/069f8257b36e5d24f0a347c57a8c64391082621d/82_0_3328_2664/master/3328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=994ff355594b49b9ae2fa98fcf4eb2c4"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "How tech plays a role in domestic abuse. Technology, gadgets, and cyber tools are often used by domestic abusers in order to control and spy on victims",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "How tech plays a role in domestic abuse",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.856110+00:00",
-      "id": "art_3aa89418ba",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Technology, gadgets, and cyber tools are often used by domestic abusers in order to control and spy on victims",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "How tech plays a role in domestic abuse",
-          "type": "directReport",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_3aa89418ba_1",
-          "summary": "How tech plays a role in domestic abuse. Technology, gadgets, and cyber tools are often used by domestic abusers in order to control and spy on victims",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/mmdxg3/article71363354.ece/alternates/LANDSCAPE_1200/AP-CID-busts-inGMIFJ66TM.3.jpg.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Understanding the health threats to athletes from doping. Doping is banned to uphold the integrity of sports by ensuring fair play and creating a level playing field for athletes.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Understanding the health threats to athletes from doping",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.837978+00:00",
-      "id": "art_4216d22d71",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Doping is banned to uphold the integrity of sports by ensuring fair play and.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Understanding the health threats to athletes from doping",
-          "type": "directReport",
-          "sourceName": "The Hindu Sci-Tech",
-          "id": "p_art_4216d22d71_1",
-          "summary": "Understanding the health threats to athletes from doping. Doping is banned to uphold the integrity of sports by ensuring fair play and creating a level playing field for athletes.",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "thehindu.com"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d2mq82/article67909986.ece/alternates/LANDSCAPE_1200/IMG_iStock-1406536651_2_1_87ALCB3O.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Introduction Practically all modern computers, from the cheap microcontroller in your dishwasher to high-tech hardware crunching numbers for artificial intelligence systems, rely on versions of the same technology: slabs of silicon patterned with microscopic structures called transistors.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.740861+00:00",
-      "id": "art_6deaa31554",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Electronic circuits containing transistors can rapidly and reliably toggle between two states, usually labeled.",
-            "Quantum computers have the potential to process information in new and more powerful ways."
-          ],
-          "stanceTitle": "Building a Quantum Computer, One Fragile Qubit at a Time",
-          "type": "directReport",
-          "sourceName": "Quanta Magazine",
-          "id": "p_art_6deaa31554_1",
-          "summary": "Introduction Practically all modern computers, from the cheap microcontroller in your dishwasher to high-tech hardware crunching numbers for artificial intelligence systems, rely on versions of the same technology: slabs of silicon patterned with microscopic structures called transistors.",
-          "quoteAuthor": "",
-          "biasTag": "Mathematics & Fundamental Physics",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 98,
-          "sourceDomain": "quantamagazine.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://www.quantamagazine.org/wp-content/uploads/2056/08/IBMs-quantum-computer-cr-Graham-Carlow-Social.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Search in strange quark sector reveals new particle possibilities. Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Search in strange quark sector reveals new particle possibilities",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.702042+00:00",
-      "id": "art_1930c2bb90",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over.",
-            "Now, nuclear physicists at the U.S."
-          ],
-          "stanceTitle": "Search in strange quark sector reveals new particle possibilities",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_1930c2bb90_1",
-          "summary": "Search in strange quark sector reveals new particle possibilities. Despite science's best efforts to classify the vast menagerie of subatomic particles discovered over the past few decades, some exotic varieties defy explanation. Now, nuclear physicists at the U.S.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/search-in-strange-quar.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Is the laundry still damp, or just cold? Why your skin can't tell the difference. It's a cold winter afternoon, and you've just brought the laundry in. Are these clothes a bit damp?",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Is the laundry still damp, or just cold? Why your skin can't tell the difference",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.689922+00:00",
-      "id": "art_5d8e6d6b78",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Why your skin can't tell the difference.",
-            "It's a cold winter afternoon, and you've just brought the laundry in."
-          ],
-          "stanceTitle": "Is the laundry still damp, or just cold? Why your skin can't tell the difference",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_5d8e6d6b78_1",
-          "summary": "Is the laundry still damp, or just cold? Why your skin can't tell the difference. It's a cold winter afternoon, and you've just brought the laundry in. Are these clothes a bit damp?",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/drying-laundry-1.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Offloading work tasks to AI comes with a cost\u2014to our brains. Imagine your team has been tasked with delivering a high-stakes policy paper under intense time pressure. Everyone turns to generative artificial intelligence (AI), and within minutes, it delivers a full draft complete with structured arguments and authoritative-looking citations.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Offloading work tasks to AI comes with a cost\u2014to our brains",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.687196+00:00",
-      "id": "art_cb1b657a6b",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Imagine your team has been tasked with delivering a high-stakes policy paper under intense time pressure.",
-            "Everyone turns to generative artificial intelligence (AI), and within minutes, it delivers a full."
-          ],
-          "stanceTitle": "Offloading work tasks to AI comes with a cost\u2014to our brains",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_cb1b657a6b_1",
-          "summary": "Offloading work tasks to AI comes with a cost\u2014to our brains. Imagine your team has been tasked with delivering a high-stakes policy paper under intense time pressure. Everyone turns to generative artificial intelligence (AI), and within minutes, it delivers a full draft complete with structured arguments and authoritative-looking citations.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/brain-and-ai.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Turning a quantum battery's environmental sensitivity into an advantage. Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Turning a quantum battery's environmental sensitivity into an advantage",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.680510+00:00",
-      "id": "art_65dec4f630",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle,.",
-            "Despite their potential, connecting these batteries to chargers is known to create quantum correlations."
-          ],
-          "stanceTitle": "Turning a quantum battery's environmental sensitivity into an advantage",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_65dec4f630_1",
-          "summary": "Turning a quantum battery's environmental sensitivity into an advantage. Quantum batteries, devices that store energy by exploiting quantum mechanical phenomena, could, in principle, be charged faster and more efficiently than classical ones.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/turning-a-quantum-batt.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "VR supports research into spaceflight-related mental health. As humanity gets closer to the possibility of long-term interplanetary travel, psychologists have started raising concerns about astronauts' mental health.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "VR supports research into spaceflight-related mental health",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.620923+00:00",
-      "id": "art_d30c0e0b46",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "As humanity gets closer to the possibility of long-term interplanetary travel, psychologists have started.",
-            "Researchers at Texas A&amp;M University conducted research on sailors in an isolated environment to."
-          ],
-          "stanceTitle": "VR supports research into spaceflight-related mental health",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_d30c0e0b46_1",
-          "summary": "VR supports research into spaceflight-related mental health. As humanity gets closer to the possibility of long-term interplanetary travel, psychologists have started raising concerns about astronauts' mental health.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/vr-supports-research-i.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Fastest known Milky Way star offers new test of supermassive black hole's spin. Astronomers have discovered the fastest known star in our galaxy, the Milky Way, orbiting the black hole at its center.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Fastest known Milky Way star offers new test of supermassive black hole's spin",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.604447+00:00",
-      "id": "art_9ff984ac69",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Astronomers have discovered the fastest known star in our galaxy, the Milky Way, orbiting.",
-            "The star, named S301, was detected with the European Southern Observatory's Very Large Telescope."
-          ],
-          "stanceTitle": "Fastest known Milky Way star offers new test of supermassive black hole's spin",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_9ff984ac69_1",
-          "summary": "Fastest known Milky Way star offers new test of supermassive black hole's spin. Astronomers have discovered the fastest known star in our galaxy, the Milky Way, orbiting the black hole at its center.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/fastest-known-milky-wa.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Antarctica's brief rebound was caused by climate variability, not a 'new normal'. Between 2021 and 2023, Antarctica appeared to be growing. Heavy snowfall fueled by wetter weather caused parts of the continent to gain mass, leading some to question whether climate change is really causing the ice to melt.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Antarctica's brief rebound was caused by climate variability, not a 'new normal'",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.574087+00:00",
-      "id": "art_b917d3e3bd",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Between 2021 and 2023, Antarctica appeared to be growing.",
-            "Heavy snowfall fueled by wetter weather caused parts of the continent to gain mass,."
-          ],
-          "stanceTitle": "Antarctica's brief rebound was caused by climate variability, not a 'new normal'",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_b917d3e3bd_1",
-          "summary": "Antarctica's brief rebound was caused by climate variability, not a 'new normal'. Between 2021 and 2023, Antarctica appeared to be growing. Heavy snowfall fueled by wetter weather caused parts of the continent to gain mass, leading some to question whether climate change is really causing the ice to melt.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/antarcticas-brief-rebo.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Growing role of AI in youth services could put young people at risk. With AI use growing across the youth services sector, new research by Swinburne University of Technology and Youth Affairs Council Victoria (YACVic) has, for the first time, identified key risks to young people and how to address them.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Growing role of AI in youth services could put young people at risk",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T15:04:47.535674+00:00",
-      "id": "art_c23b901261",
-      "videoUrl": "",
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "With AI use growing across the youth services sector, new research by Swinburne University.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Growing role of AI in youth services could put young people at risk",
-          "type": "directReport",
-          "sourceName": "Phys.org",
-          "id": "p_art_c23b901261_1",
-          "summary": "Growing role of AI in youth services could put young people at risk. With AI use growing across the youth services sector, new research by Swinburne University of Technology and Youth Affairs Council Victoria (YACVic) has, for the first time, identified key risks to young people and how to address them.",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 94,
-          "sourceDomain": "phys.org"
-        }
-      ],
-      "sharesCount": 0,
-      "isSinglePerspective": true,
-      "commentsCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/growing-role-of-ai-in-1.jpg"
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592592-News-These-3-housing-markets\u2014including-Austin\u2014just-hit-\u2018significantly-oversupplied-lot-inventory.jpg"
     }
   ]
 }

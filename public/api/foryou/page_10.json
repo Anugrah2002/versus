@@ -5,50 +5,659 @@
   "has_more": true,
   "articles": [
     {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
       "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "What beats seeing eclipses from space? Try the northern and southern lights. Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Try the northern and southern lights.",
+            "Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space."
+          ],
+          "stanceTitle": "What beats seeing eclipses from space? Try the northern and southern lights",
+          "type": "directReport",
+          "sourceName": "Phys.org",
+          "id": "p_art_168628209d_1",
+          "summary": "What beats seeing eclipses from space? Try the northern and southern lights. Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "What beats seeing eclipses from space? Try the northern and southern lights",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.038208+00:00",
+      "id": "art_168628209d",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-beats-seeing-ecli.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Honduras places 80% of country on El Ni\u00f1o drought alert. The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Ni\u00f1o scorches harvests and causes livestock to die of thirst.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The Honduran government on Wednesday placed 80% of the country, including the capital, on.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Honduras places 80% of country on El Ni\u00f1o drought alert",
+          "type": "directReport",
+          "sourceName": "Phys.org",
+          "id": "p_art_b8740df760_1",
+          "summary": "Honduras places 80% of country on El Ni\u00f1o drought alert. The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Ni\u00f1o scorches harvests and causes livestock to die of thirst.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Honduras places 80% of country on El Ni\u00f1o drought alert",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.028054+00:00",
+      "id": "art_b8740df760",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-la-concepcion-rese.jpg"
+    },
+    {
+      "tags": [
+        "Space & Science",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Australia races to shield little penguins from H5N1 bird flu. Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Australia races to shield little penguins from H5N1 bird flu",
+          "type": "directReport",
+          "sourceName": "Phys.org",
+          "id": "p_art_54d4caf83d_1",
+          "summary": "Australia races to shield little penguins from H5N1 bird flu. Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
+          "quoteAuthor": "",
+          "biasTag": "Physics & Applied Tech",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 94,
+          "sourceDomain": "phys.org"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Australia races to shield little penguins from H5N1 bird flu",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:47.021872+00:00",
+      "id": "art_54d4caf83d",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Space & Science",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-penguins-in-aus.jpg"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Travelodge boss resigns as chain tackles security after sex assault at hotel - Published The boss of hotel chain Travelodge, Jo Boydell, is stepping down as the group addresses safety issues after a sexual assault at one of its hotels.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "A woman staying at a hotel in Maidenhead, Berkshire was sexually assaulted in December.",
+            "Kyran Smith was jailed for seven years and six months for the attack."
+          ],
+          "stanceTitle": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+          "type": "directReport",
+          "sourceName": "BBC Business",
+          "id": "p_art_9ad35cd492_1",
+          "summary": "Travelodge boss resigns as chain tackles security after sex assault at hotel - Published The boss of hotel chain Travelodge, Jo Boydell, is stepping down as the group addresses safety issues after a sexual assault at one of its hotels.",
+          "quoteAuthor": "",
+          "biasTag": "Balanced Global Reporting",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 95,
+          "sourceDomain": "bbc.co.uk"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.998650+00:00",
+      "id": "art_9ad35cd492",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abd/live/b8e96d70-9c6d-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike. The protest will be held from 11 am to 5 pm outside the offices of the Mumbai Suburban Collector and the Transport Commissioner.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The protest will be held from 11 am to 5 pm outside the offices.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_e12de729e2_1",
+          "summary": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike. The protest will be held from 11 am to 5 pm outside the offices of the Mumbai Suburban Collector and the Transport Commissioner.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "E-Challan Row: Mumbai Bus Owners Announce One-Day Hunger Strike",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.971816+00:00",
+      "id": "art_e12de729e2",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/s9059fs4_bus_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Details. According to NSE bulk deal data, Goldman Sachs India Equity Portfolio bought 40,24,040 shares of Shiprocket during Wednesday's trading session.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "According to NSE bulk deal data, Goldman Sachs India Equity Portfolio bought 40,24,040 shares.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Details",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_d80f370826_1",
+          "summary": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Details. According to NSE bulk deal data, Goldman Sachs India Equity Portfolio bought 40,24,040 shares of Shiprocket during Wednesday's trading session.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Shiprocket Share Price Surges Over 9% After Goldman Sachs Buys Over 40 Lakh Shares \u2014 Check Deta",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.969036+00:00",
+      "id": "art_d80f370826",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/65023q2c_b_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport. L&amp;T has secured a large order for an integrated Automated People Mover System as part of the long-term expansion of Dubai\u2019s Al Maktoum International Airport",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "L&amp;T has secured a large order for an integrated Automated People Mover System as.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_719dc4a8d0_1",
+          "summary": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport. L&amp;T has secured a large order for an integrated Automated People Mover System as part of the long-term expansion of Dubai\u2019s Al Maktoum International Airport",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "L&T Wins 'Large Order' For Automated People Mover At Dubai's Al Maktoum Airport",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.963231+00:00",
+      "id": "art_719dc4a8d0",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/qufcpjq_lt-wins-dubai-airport-order_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "lastUpgradedAt": "2026-08-20T11:38:20.822865+00:00",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "- Union Home Minister Amit Shah chaired the 31st Southern Zonal Council meeting in Tamil Nadu's Mahabalipuram - Tamil Nadu CM Vijay opposed NEET, urging admission to medical courses based on Class XII marks only - Vijay demanded legislative assurance against loss of parliamentary seats due to population control Tamil Nadu Chief Minister C Joseph.",
+      "likesCount": 0,
+      "isLiked": false,
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.955145+00:00",
+      "id": "art_97b3664143",
+      "title": "NEET, Delimitation, Cauvery: Vijay's Wishlist At South Meet With Amit Shah",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Addressing the 31st Southern Zonal Council meeting at Mahabalipuram, chaired by Union Home Minister.",
+            "The meeting was attended by chief ministers and ministers of the southern states, while."
+          ],
+          "stanceTitle": "NEET, Delimitation, Cauvery: Vijay's Wishlist At South Meet With Amit Shah",
+          "type": "directReport",
+          "summary": "- Union Home Minister Amit Shah chaired the 31st Southern Zonal Council meeting in Tamil Nadu's Mahabalipuram - Tamil Nadu CM Vijay opposed NEET, urging admission to medical courses based on Class XII marks only - Vijay demanded legislative assurance against loss of parliamentary seats due to population control Tamil Nadu Chief Minister C Joseph.",
+          "id": "p_art_97b3664143_1",
+          "sourceName": "NDTV Trending News",
+          "quoteAuthor": "",
+          "biasTag": "Trending & Viral",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 93,
+          "sourceDomain": "ndtv.com"
+        }
+      ],
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/6rb190m_amit-shah-and-vijay_625x300_20_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Rebound. Global cues, support around 24,000 and strength in private-sector banks helped the Nifty recover after seven straight sessions of losses.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Global cues, support around 24,000 and strength in private-sector banks helped the Nifty recover.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Rebound",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_68d6c2e4ba_1",
+          "summary": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Rebound. Global cues, support around 24,000 and strength in private-sector banks helped the Nifty recover after seven straight sessions of losses.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Nifty Ends Seven-Day Losing Streak, Sensex Rallies 500 Points \u2014 Three Reasons Behind The Reboun",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.942443+00:00",
+      "id": "art_68d6c2e4ba",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-04/l495vfa_bull-markets_625x300_01_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Aster DM Quality Care share price has been under pressure for a month now.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Aster DM Quality Care share price has been under pressure for a month now.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Here's Why",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_2682d0dcec_1",
+          "summary": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Aster DM Quality Care share price has been under pressure for a month now.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Aster DM Quality Care Share Price Tanks Nearly 4% In Trade. Here's Why",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.936265+00:00",
+      "id": "art_2682d0dcec",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-08/ch9105tc_aster-dm-share-price-slides_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Business & Policy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'. Jefferies expects Turtlemint's revenue to grow at a 38% CAGR over the next three years, with the brokerage pointing to the company's position in the point-of-sale-person insurance distribution segment as a key growth driver.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Jefferies expects Turtlemint's revenue to grow at a 38% CAGR over the next three.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'",
+          "type": "directReport",
+          "sourceName": "NDTV Profit",
+          "id": "p_art_9fb8da72cd_1",
+          "summary": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'. Jefferies expects Turtlemint's revenue to grow at a 38% CAGR over the next three years, with the brokerage pointing to the company's position in the point-of-sale-person insurance distribution segment as a key growth driver.",
+          "quoteAuthor": "",
+          "biasTag": "Indian Corporate & Regulatory",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 92,
+          "sourceDomain": "ndtvprofit.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Turtlemint Fintech Share Price Surges Over 5% After Jefferies Initiates Coverage With 'Buy'",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.925035+00:00",
+      "id": "art_9fb8da72cd",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Business & Policy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://c.ndtvimg.com/2026-07/vvc58ok4_turtlemint-fintech-solutions_625x300_20_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "Left-hander, Tarik Skubal is still getting acclimated to pitching for the World Champion Los Angeles Dodgers. Skubal, 29, was traded by the Detroit Tigers to Los Angeles one day before the August 3 Major League Baseball Trade deadline. Skubal is now pitching in a totally new environment, with a new team, in a new league.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Skubal, 29, was traded by the Detroit Tigers to Los Angeles one day before.",
+            "Skubal is now pitching in a totally new environment, with a new team, in a new league."
+          ],
+          "stanceTitle": "2 Time Cy Young Award Winner Tarik Skubal Settling In With The Dodgers",
+          "type": "directReport",
+          "sourceName": "Forbes Business",
+          "id": "p_art_9f92ee795e_1",
+          "summary": "Left-hander, Tarik Skubal is still getting acclimated to pitching for the World Champion Los Angeles Dodgers. Skubal, 29, was traded by the Detroit Tigers to Los Angeles one day before the August 3 Major League Baseball Trade deadline. Skubal is now pitching in a totally new environment, with a new team, in a new league.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "2 Time Cy Young Award Winner Tarik Skubal Settling In With The Dodgers",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.887642+00:00",
+      "id": "art_9f92ee795e",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85e5b35ff758de783ebf43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "isBookmarked": false,
+      "divergenceScore": 0,
+      "summary": "In today\u2019s column, I examine and bust or straighten out various misleading myths regarding the recently released AI text-oriented watermarking feature of Anthropic. The mainstream news and social media have been making zany and incorrect claims about what this particular technique of watermarking is and does.",
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The mainstream news and social media have been making zany and incorrect claims about.",
+            "This, in turn, has tended to create widespread confusion and undue consternation among people."
+          ],
+          "stanceTitle": "Busting Those Misleading Myths About Anthropic AI Watermarking During Proofreading Or Fixing Typos",
+          "type": "directReport",
+          "sourceName": "Forbes Business",
+          "id": "p_art_78fda35c04_1",
+          "summary": "In today\u2019s column, I examine and bust or straighten out various misleading myths regarding the recently released AI text-oriented watermarking feature of Anthropic. The mainstream news and social media have been making zany and incorrect claims about what this particular technique of watermarking is and does.",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "Busting Those Misleading Myths About Anthropic AI Watermarking During Proofreading Or Fixing Ty",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.884737+00:00",
+      "id": "art_78fda35c04",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8613b411e42db002ee209a/0x0.jpg?format=jpg&crop=1901,1425,x363,y0,safe&height=900&width=1600&fit=bounds"
+    },
+    {
       "tags": [
         "World Affairs",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Opinion | Why The Congress-SP 'Merger' Fantasy Could Be Opposition's Biggest Self-Goal Rahul Gandhi and Akhilesh Yadav do not need to become one another. They need to become better at being themselves, together. Political Delhi has a weakness for grand solutions.",
+      "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Opinion: Opinion | Why The Congress-SP 'Merger' Fantasy Could Be Opposition's Biggest Self-Goal",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:18.217297+00:00",
-      "id": "art_1369bf5642",
       "perspectives": [
         {
           "keyPoints": [
-            "They need to become better at being themselves, together.",
-            "Political Delhi has a weakness for grand solutions."
+            "The US Commission on International Religious Freedom (USCIRF) chair Asif Mahmood said Prime Minister.",
+            "Mahmood's remarks came weeks ahead of RSS Chief Mohan Bhagwat's visit to the US."
           ],
-          "stanceTitle": "Opinion: Opinion | Why The Congress-SP 'Merger' Fantasy Could Be Opposition's Biggest Self-Goal",
+          "stanceTitle": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
           "type": "viewpoint1",
-          "summary": "Opinion | Why The Congress-SP 'Merger' Fantasy Could Be Opposition's Biggest Self-Goal Rahul Gandhi and Akhilesh Yadav do not need to become one another. They need to become better at being themselves, together. Political Delhi has a weakness for grand solutions.",
-          "id": "p_art_1369bf5642_1",
           "sourceName": "NDTV Top Stories",
+          "id": "p_art_e9e3309adb_1",
+          "summary": "- USCIRF calls for sanctions on RSS and urges no diplomatic courtesies to its leaders - USCIRF chair links PM Modi to RSS, citing attacks on religious minorities by its sub-groups - RSS chief Mohan Bhagwat plans US visit amid criticism from USCIRF and advocacy groups Officials of a US advisory body on religious freedom.",
           "quoteAuthor": "",
           "biasTag": "National Headlines",
-          "sourceDomain": "ndtv.com",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 94,
-          "fullMarkdownContent": ""
+          "sourceDomain": "ndtv.com"
         },
         {
           "keyPoints": [
-            "In this fight of our tribal brothers and sisters, the Congress and I stand.",
+            "The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Congress stands with tribals staging 'satyagraha' against 'Ken-Betwa project', will pressure government: Rahul",
+          "stanceTitle": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
           "type": "viewpoint2",
-          "summary": "Congress stands with tribals staging 'satyagraha' against 'Ken-Betwa project', will pressure government: Rahul. In this fight of our tribal brothers and sisters, the Congress and I stand with them, says Congress leader Rahul Gandhi",
-          "id": "p_art_1369bf5642_2",
           "sourceName": "The Hindu National",
+          "id": "p_art_e9e3309adb_2",
+          "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+          "quoteAuthor": "",
+          "biasTag": "Public Interest & Editorial",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 96,
+          "sourceDomain": "thehindu.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.878704+00:00",
+      "id": "art_e9e3309adb",
+      "isLiked": false,
+      "bookmarksCount": 0,
+      "category": "World Affairs",
+      "videoUrl": "",
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d5tfnz/article71368120.ece/alternates/LANDSCAPE_1200/20260815313L.jpg"
+    },
+    {
+      "tags": [
+        "World Affairs",
+        "Verified News",
+        "Trending"
+      ],
+      "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
+      "divergenceScore": 0,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief.",
+            "Key analytical takeaway and operational overview."
+          ],
+          "stanceTitle": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+          "type": "viewpoint2",
+          "sourceName": "The Hindu National",
+          "id": "p_art_e9e3309adb_2",
+          "summary": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders. The remarks of the religious freedom body\u2019s chief came weeks ahead of RSS Chief Mohan Bhagwat\u2019s visit to the U.S.",
           "quoteAuthor": "",
           "biasTag": "Public Interest & Editorial",
           "sourceDomain": "thehindu.com",
@@ -57,574 +666,84 @@
           "fullMarkdownContent": ""
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.878704+00:00",
+      "id": "art_e9e3309adb_split",
       "bookmarksCount": 0,
       "category": "World Affairs",
-      "videoUrl": "",
       "commentsCount": 0,
       "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/q7yfi1/article71364264.ece/alternates/LANDSCAPE_1200/PTI08_18_2026_000408B.jpg"
+      "heroImageUrl": "https://th-i.thgim.com/public/incoming/d5tfnz/article71368120.ece/alternates/LANDSCAPE_1200/20260815313L.jpg"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "World Affairs",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "In the week before Colombia\u2019s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.880240+00:00",
-      "id": "art_eca18c1d04",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Coral held banners outside polling stations in Miami warning that the millionaire lawyer, whose.",
-            "The following morning the US secretary of state, Marco Rubio, issued a memo to."
-          ],
-          "stanceTitle": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-          "type": "directReport",
-          "summary": "In the week before Colombia\u2019s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella.",
-          "id": "p_art_eca18c1d04_1",
-          "sourceName": "The Guardian World",
-          "quoteAuthor": "",
-          "biasTag": "Progressive International",
-          "sourceDomain": "theguardian.com",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "World Affairs",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://i.guim.co.uk/img/media/8f035dc467e7763a29217ce5c9732e32b7b934ba/0_149_1198_958/master/1198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08eaaa2618cbedbe8f2d9b22bb4da138"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "Automotive & Energy",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less The same company that remanufactures motors for the Tesla Model S now caters to the more affordable Kia Niro and Hyundai Kona EVs - The first-generation Hyundai Kona and Kia Niro EVs are known for their failing drive units.",
+      "summary": "Update 08/20/26: Fortnite is down for the big Season 4 update. Read on to find out when the game is set to come back online and what to expect from the new season. See more updates at the bottom of this post.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.873579+00:00",
-      "id": "art_7e3ee22fe5",
       "perspectives": [
         {
           "keyPoints": [
-            "- Now, a German company is offering a cheaper alternative to the replacements offered by dealers.",
-            "- The same company makes plug-and-play replacements for the first-generation Tesla Model S."
+            "Read on to find out when the game is set to come back online and what to expect from the new season.",
+            "See more updates at the bottom of this post."
           ],
-          "stanceTitle": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
+          "stanceTitle": "\u2018Fortnite\u2019 Servers Down: Here\u2019s When Season 4 Goes Live And What\u2019s New In \u2018Override\u2019",
           "type": "directReport",
-          "summary": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less The same company that remanufactures motors for the Tesla Model S now caters to the more affordable Kia Niro and Hyundai Kona EVs - The first-generation Hyundai Kona and Kia Niro EVs are known for their failing drive units.",
-          "id": "p_art_7e3ee22fe5_1",
-          "sourceName": "InsideEVs",
+          "sourceName": "Forbes Business",
+          "id": "p_art_f1a1442d6e_1",
+          "summary": "Update 08/20/26: Fortnite is down for the big Season 4 update. Read on to find out when the game is set to come back online and what to expect from the new season. See more updates at the bottom of this post.",
           "quoteAuthor": "",
-          "biasTag": "EV Technology & Battery",
-          "sourceDomain": "insideevs.com",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 91,
-          "fullMarkdownContent": ""
+          "sourceDomain": "forbes.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Automotive & Energy",
+      "readTimeMinutes": 2,
+      "title": "\u2018Fortnite\u2019 Servers Down: Here\u2019s When Season 4 Goes Live And What\u2019s New In \u2018Override\u2019",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.871418+00:00",
+      "id": "art_f1a1442d6e",
       "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://cdn.motor1.com/images/mgl/Xkvj9/s1/2022-kia-niro-ev.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a860a1b5f4c65467d678bc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "Space & Science",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Why Kerala declared tidal flooding a State-specific disaster | Explained. Decision comes in response to recurrent flooding from rising sea levels, especially during full and new moons, which has resulted in loss of life and property in low-lying areas. Victims will now receive financial assistance similar to that for other natural disasters",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Why Kerala declared tidal flooding a State-specific disaster | Explained",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.861742+00:00",
-      "id": "art_a872668bd0",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Decision comes in response to recurrent flooding from rising sea levels, especially during full.",
-            "Victims will now receive financial assistance similar to that for other natural disasters"
-          ],
-          "stanceTitle": "Why Kerala declared tidal flooding a State-specific disaster | Explained",
-          "type": "directReport",
-          "summary": "Why Kerala declared tidal flooding a State-specific disaster | Explained. Decision comes in response to recurrent flooding from rising sea levels, especially during full and new moons, which has resulted in loss of life and property in low-lying areas. Victims will now receive financial assistance similar to that for other natural disasters",
-          "id": "p_art_a872668bd0_1",
-          "sourceName": "The Hindu Sci-Tech",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/b4b7x5/article70642050.ece/alternates/LANDSCAPE_1200/IMG_CCI_UDHindu_KSL_U1I6_2_1_J0AC3THI.jpg"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Can Google make its Pixel perfect in India? India can be the Google Pixel\u2019s biggest market, given that it has the potential and scale to do so, but the company needs to work on its retail presence",
+      "summary": "7 things you should always keep in your car. For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Can Google make its Pixel perfect in India? | Explained",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.838247+00:00",
-      "id": "art_e1dfb467a2",
       "perspectives": [
         {
           "keyPoints": [
-            "India can be the Google Pixel\u2019s biggest market, given that it has the potential.",
+            "For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Can Google make its Pixel perfect in India? | Explained",
+          "stanceTitle": "7 things you should always keep in your car",
           "type": "directReport",
-          "summary": "Can Google make its Pixel perfect in India? India can be the Google Pixel\u2019s biggest market, given that it has the potential and scale to do so, but the company needs to work on its retail presence",
-          "id": "p_art_e1dfb467a2_1",
-          "sourceName": "The Hindu Sci-Tech",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/sci-tech/technology/rvlxud/article71364254.ece/alternates/LANDSCAPE_1200/20260813_112901.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Working out at home is commendable. But injuries need to be avoided. Many people are training without proper guidance on exercise form, load management, nutrition, or recovery. While the motivation to stay active is a positive development, exercising without the right knowledge or supervision can sometimes do more harm than good",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Working out at home is commendable. But injuries need to be avoided. Here\u2019s how",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.833194+00:00",
-      "id": "art_14ccda80d5",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "But injuries need to be avoided.",
-            "Many people are training without proper guidance on exercise form, load management, nutrition, or recovery."
-          ],
-          "stanceTitle": "Working out at home is commendable. But injuries need to be avoided. Here\u2019s how",
-          "type": "directReport",
-          "summary": "Working out at home is commendable. But injuries need to be avoided. Many people are training without proper guidance on exercise form, load management, nutrition, or recovery. While the motivation to stay active is a positive development, exercising without the right knowledge or supervision can sometimes do more harm than good",
-          "id": "p_art_14ccda80d5_1",
-          "sourceName": "The Hindu Sci-Tech",
-          "quoteAuthor": "",
-          "biasTag": "Scientific Reporting",
-          "sourceDomain": "thehindu.com",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://th-i.thgim.com/public/incoming/3wquv/article71363439.ece/alternates/LANDSCAPE_1200/fitness%20coach.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Climate change main driver of European ocean warming: Study. Climate change is the main driver of Europe's rising marine temperatures, directly adding around 2\u00b0C of warming in the Mediterranean this summer and severely affecting ecosystems, a study said Wednesday.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Climate change main driver of European ocean warming: Study",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.812574+00:00",
-      "id": "art_776b5e6abf",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Climate change is the main driver of Europe's rising marine temperatures, directly adding around.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Climate change main driver of European ocean warming: Study",
-          "type": "directReport",
-          "summary": "Climate change main driver of European ocean warming: Study. Climate change is the main driver of Europe's rising marine temperatures, directly adding around 2\u00b0C of warming in the Mediterranean this summer and severely affecting ecosystems, a study said Wednesday.",
-          "id": "p_art_776b5e6abf_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "sourceDomain": "phys.org",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-year-90-percent-o.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Space & Science",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "UK politicians vastly overestimate public opposition to climate policies, study finds. Members of Parliament from the UK's three biggest political parties in the House of Commons significantly overestimate levels of public resistance to major policy proposals for tackling climate change, a University of Cambridge study suggests. The work is published in Communications Sustainability.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "UK politicians vastly overestimate public opposition to climate policies, study finds",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.806987+00:00",
-      "id": "art_178096be51",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Members of Parliament from the UK's three biggest political parties in the House of.",
-            "The work is published in Communications Sustainability."
-          ],
-          "stanceTitle": "UK politicians vastly overestimate public opposition to climate policies, study finds",
-          "type": "directReport",
-          "summary": "UK politicians vastly overestimate public opposition to climate policies, study finds. Members of Parliament from the UK's three biggest political parties in the House of Commons significantly overestimate levels of public resistance to major policy proposals for tackling climate change, a University of Cambridge study suggests. The work is published in Communications Sustainability.",
-          "id": "p_art_178096be51_1",
-          "sourceName": "Phys.org",
-          "quoteAuthor": "",
-          "biasTag": "Physics & Applied Tech",
-          "sourceDomain": "phys.org",
-          "quote": "",
-          "sourceCredibility": 94,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Space & Science",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-policy.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing' - Published Trainline, Virgin Atlantic and RED Driving School are being investigated by the consumer watchdog over concerns they are not showing full prices upfront to customers.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.791478+00:00",
-      "id": "art_ac098c4886",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Competition and Markets Authority (CMA) is examining whether the three companies engaged in.",
-            "If the CMA concludes that the firms have broken the law, it can fine."
-          ],
-          "stanceTitle": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-          "type": "directReport",
-          "summary": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing' - Published Trainline, Virgin Atlantic and RED Driving School are being investigated by the consumer watchdog over concerns they are not showing full prices upfront to customers.",
-          "id": "p_art_ac098c4886_1",
-          "sourceName": "BBC Business",
-          "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
-          "sourceDomain": "bbc.co.uk",
-          "quote": "",
-          "sourceCredibility": 95,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6404/live/b3e6ea00-9ba5-11f1-a4e6-dfdb59e74cb0.jpg"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Sensex Tanks Over 400 Points, Nifty 50 Slips Below 24,100 \u2014 Three Key Reasons Explained. The Sensex declined 412 points, or 0.53%, to 76,823.91, while the Nifty 50 fell 127 points, or 0.53%, to 24,027.90.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Sensex Tanks Over 400 Points, Nifty 50 Slips Below 24,100 \u2014 Three Key Reasons Explained",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.782592+00:00",
-      "id": "art_853c50a3d9",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Sensex declined 412 points, or 0.53%, to 76,823.91, while the Nifty 50 fell.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Sensex Tanks Over 400 Points, Nifty 50 Slips Below 24,100 \u2014 Three Key Reasons Explained",
-          "type": "directReport",
-          "summary": "Sensex Tanks Over 400 Points, Nifty 50 Slips Below 24,100 \u2014 Three Key Reasons Explained. The Sensex declined 412 points, or 0.53%, to 76,823.91, while the Nifty 50 fell 127 points, or 0.53%, to 24,027.90.",
-          "id": "p_art_853c50a3d9_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-03/8ojtf084_bear-market1_650x400_06_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "SEBI To Allow After-Market Orders During 3:15-3:20 PM CAS Window: Sources. CAS runs from 3:15 p.m. for stocks in the cash segment that have derivative contracts.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "SEBI To Allow After-Market Orders During 3:15-3:20 PM CAS Window: Sources",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.757511+00:00",
-      "id": "art_b09317b361",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "CAS runs from 3:15 p.m.",
-            "for stocks in the cash segment that have derivative contracts."
-          ],
-          "stanceTitle": "SEBI To Allow After-Market Orders During 3:15-3:20 PM CAS Window: Sources",
-          "type": "directReport",
-          "summary": "SEBI To Allow After-Market Orders During 3:15-3:20 PM CAS Window: Sources. CAS runs from 3:15 p.m. for stocks in the cash segment that have derivative contracts.",
-          "id": "p_art_b09317b361_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/182qmdgg_sebi_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Stock Watch: Why These 10 Stocks Tumbled and Surged Over 5% in Trade. Here is a list of top gainers and losers by midday today",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Stock Watch: Why These 10 Stocks Tumbled and Surged Over 5% in Trade",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.755272+00:00",
-      "id": "art_ec41fa39ec",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Here is a list of top gainers and losers by midday today",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Stock Watch: Why These 10 Stocks Tumbled and Surged Over 5% in Trade",
-          "type": "directReport",
-          "summary": "Stock Watch: Why These 10 Stocks Tumbled and Surged Over 5% in Trade. Here is a list of top gainers and losers by midday today",
-          "id": "p_art_ec41fa39ec_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/lol3gbco_market-movers-today_625x300_19_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Banking Alert For Utkarsh SFB Customers: Services To Remain Unavailable On These Days - Check Details. The bank said the migration to the new Core Banking System is being undertaken as part of its broader technology transformation and modernisation efforts.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Banking Alert For Utkarsh SFB Customers: Services To Remain Unavailable On These Days - Check D",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.725104+00:00",
-      "id": "art_d83218a46e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The bank said the migration to the new Core Banking System is being undertaken.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Banking Alert For Utkarsh SFB Customers: Services To Remain Unavailable On These Days - Check Details",
-          "type": "directReport",
-          "summary": "Banking Alert For Utkarsh SFB Customers: Services To Remain Unavailable On These Days - Check Details. The bank said the migration to the new Core Banking System is being undertaken as part of its broader technology transformation and modernisation efforts.",
-          "id": "p_art_d83218a46e_1",
-          "sourceName": "NDTV Profit",
-          "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
-          "quote": "",
-          "sourceCredibility": 92,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/189uip98_utkarsh-sfb-banking-alert_625x300_19_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Business & Policy",
-        "Verified News",
-        "Trending"
-      ],
-      "lastUpgradedAt": "2026-08-19T14:09:53.033131+00:00",
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback. Following a sharp selloff in recent months, the South Korean memory-chip company says current share prices don\u2019t reflect the business\u2019s \u201cintrinsic value.\u201d",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.723837+00:00",
-      "id": "art_6eb8dbe728",
-      "title": "SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Following a sharp selloff in recent months, the South Korean memory-chip company says current.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback",
-          "type": "directReport",
-          "summary": "SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback. Following a sharp selloff in recent months, the South Korean memory-chip company says current share prices don\u2019t reflect the business\u2019s \u201cintrinsic value.\u201d",
-          "id": "p_art_6eb8dbe728_1",
           "sourceName": "MarketWatch Top Stories",
+          "id": "p_art_5f44b02d6f_1",
+          "summary": "7 things you should always keep in your car. For peace of mind on the road and safety here\u2019s what will keep you prepared for almost any scenario.",
           "quoteAuthor": "",
           "biasTag": "Market Analysis",
           "fullMarkdownContent": "",
@@ -633,274 +752,151 @@
           "sourceDomain": "marketwatch.com"
         }
       ],
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "readTimeMinutes": 2,
+      "title": "7 things you should always keep in your car",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.862603+00:00",
+      "id": "art_5f44b02d6f",
+      "videoUrl": "",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/akmbej4_b_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-91856917"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
-        "Business & Policy",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
+      "videoDuration": "02:45",
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "FDA Crackdown: Bombay HC Refuses To Hear Plea Against Ban On Junk Food Sales Within 50 Metres Of Schools. The FDA's order aims at curbing the availability of unhealthy food options near educational institutions.",
+      "summary": "More SpaceX stock is about to hit the market. About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "FDA Crackdown: Bombay HC Refuses To Hear Plea Against Ban On Junk Food Sales Within 50 Metres O",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.721046+00:00",
-      "id": "art_91ef267c4d",
       "perspectives": [
         {
           "keyPoints": [
-            "The FDA's order aims at curbing the availability of unhealthy food options near educational institutions.",
+            "About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "FDA Crackdown: Bombay HC Refuses To Hear Plea Against Ban On Junk Food Sales Within 50 Metres Of Schools",
+          "stanceTitle": "More SpaceX stock is about to hit the market. Here\u2019s what to know.",
           "type": "directReport",
-          "summary": "FDA Crackdown: Bombay HC Refuses To Hear Plea Against Ban On Junk Food Sales Within 50 Metres Of Schools. The FDA's order aims at curbing the availability of unhealthy food options near educational institutions.",
-          "id": "p_art_91ef267c4d_1",
-          "sourceName": "NDTV Profit",
+          "sourceName": "MarketWatch Top Stories",
+          "id": "p_art_5adb62c220_1",
+          "summary": "More SpaceX stock is about to hit the market. About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
-          "sourceDomain": "ndtvprofit.com",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "fullMarkdownContent": ""
+          "sourceDomain": "marketwatch.com"
         }
       ],
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-07/lc7ac4jo_fda-canteen_625x300_29_July_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Women Are Becoming A More Prominent Influence In Podcasting. A USC Annenberg study reveals severe gender and racial disparities in podcasting, showing women are outnumbered 2:1 as hosts, except in true crime. In response, women are actively carving out their space.",
-      "likesCount": 0,
-      "isLiked": false,
       "readTimeMinutes": 2,
-      "title": "Women Are Becoming A More Prominent Influence In Podcasting",
+      "title": "More SpaceX stock is about to hit the market. Here\u2019s what to know.",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.696091+00:00",
-      "id": "art_93e8adb38e",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "A USC Annenberg study reveals severe gender and racial disparities in podcasting, showing women.",
-            "In response, women are actively carving out their space."
-          ],
-          "stanceTitle": "Women Are Becoming A More Prominent Influence In Podcasting",
-          "type": "directReport",
-          "summary": "Women Are Becoming A More Prominent Influence In Podcasting. A USC Annenberg study reveals severe gender and racial disparities in podcasting, showing women are outnumbered 2:1 as hosts, except in true crime. In response, women are actively carving out their space.",
-          "id": "p_art_93e8adb38e_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        }
-      ],
+      "publishedAt": "2026-08-20T09:08:46.847205+00:00",
+      "id": "art_5adb62c220",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7f430158fc3337681e278b/0x0.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-80723995"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "KiiiKiii Keeping Their 'Head In The Clouds' After Festival Debut. K-pop girl group KiiiKiii talked about their \u2018Head In The Clouds\u2019 festival debut in the U.S \u2014 their very first U.S. performance ever \u2014 on August 8 in Pasadena, CA.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "KiiiKiii Keeping Their 'Head In The Clouds' After Festival Debut",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.686902+00:00",
-      "id": "art_c26ec32adf",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "K-pop girl group KiiiKiii talked about their \u2018Head In The Clouds\u2019 festival debut in.",
-            "performance ever \u2014 on August 8 in Pasadena, CA."
-          ],
-          "stanceTitle": "KiiiKiii Keeping Their 'Head In The Clouds' After Festival Debut",
-          "type": "directReport",
-          "summary": "KiiiKiii Keeping Their 'Head In The Clouds' After Festival Debut. K-pop girl group KiiiKiii talked about their \u2018Head In The Clouds\u2019 festival debut in the U.S \u2014 their very first U.S. performance ever \u2014 on August 8 in Pasadena, CA.",
-          "id": "p_art_c26ec32adf_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85724e002dc387cbbd8fea/0x0.jpg"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "North Korea Denounces U.S.-South Korea Military Drill Ignoring Trump\u2019s Overtures To Kim. Despite Trump\u2019s move to scale back the joint military drill, North Korea described it as \u201cextremely dangerous\u201d and more so than in previous years.",
+      "summary": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million. Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "North Korea Denounces U.S.-South Korea Military Drill Ignoring Trump\u2019s Overtures To Kim",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.649776+00:00",
-      "id": "art_cafb62869b",
       "perspectives": [
         {
           "keyPoints": [
-            "Despite Trump\u2019s move to scale back the joint military drill, North Korea described it.",
+            "Decades ago, the property was used as the headquarters of an LSD operation run.",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "North Korea Denounces U.S.-South Korea Military Drill Ignoring Trump\u2019s Overtures To Kim",
+          "stanceTitle": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
           "type": "directReport",
-          "summary": "North Korea Denounces U.S.-South Korea Military Drill Ignoring Trump\u2019s Overtures To Kim. Despite Trump\u2019s move to scale back the joint military drill, North Korea described it as \u201cextremely dangerous\u201d and more so than in previous years.",
-          "id": "p_art_cafb62869b_1",
-          "sourceName": "Forbes Business",
+          "sourceName": "MarketWatch Top Stories",
+          "id": "p_art_77a8a61255_1",
+          "summary": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million. Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
+          "biasTag": "Market Analysis",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.811152+00:00",
+      "id": "art_77a8a61255",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8574d337df11c8be7b4e7b/0x0.jpg?width=960"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-28792592"
     },
     {
-      "videoDuration": "02:45",
       "tags": [
         "Work & Economy",
         "Verified News",
         "Trending"
       ],
-      "isBookmarked": false,
-      "divergenceScore": 0,
-      "summary": "Cubs Cut Ties With Former Blue Jays Pitcher After Very Short Stint. The Chicago Cubs have parted ways with a Toronto Blue Jays castoff who endured a brutal outing this season.",
-      "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Cubs Cut Ties With Former Blue Jays Pitcher After Very Short Stint",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.648003+00:00",
-      "id": "art_7d4f4b304b",
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The Chicago Cubs have parted ways with a Toronto Blue Jays castoff who endured a brutal outing this season.",
-            "Key analytical takeaway and operational overview."
-          ],
-          "stanceTitle": "Cubs Cut Ties With Former Blue Jays Pitcher After Very Short Stint",
-          "type": "directReport",
-          "summary": "Cubs Cut Ties With Former Blue Jays Pitcher After Very Short Stint. The Chicago Cubs have parted ways with a Toronto Blue Jays castoff who endured a brutal outing this season.",
-          "id": "p_art_7d4f4b304b_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
-          "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
-        }
-      ],
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/691b859f7f1be4ffd065a6c5/0x0.jpg"
-    },
-    {
       "videoDuration": "02:45",
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
       "isBookmarked": false,
       "divergenceScore": 0,
-      "summary": "Austin Mack And Keelon Russell Compete For Alabama\u2019s Quarterback Job. Austin Mack and Keelon Russell are competing for Alabama's starting quarterback job. Mack and Russell have played sparingly so far in their college careers.",
+      "summary": "<p class=\"wp-block-paragraph\">We live in a world of distraction. In the time it took me to write this sentence, I got a new email alert on my computer, two new DMs, and an alert on my phone that my Duolingo streak is in jeopardy.",
       "likesCount": 0,
-      "isLiked": false,
-      "readTimeMinutes": 2,
-      "title": "Austin Mack And Keelon Russell Compete For Alabama\u2019s Quarterback Job",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T10:37:17.646992+00:00",
-      "id": "art_432200e79c",
       "perspectives": [
         {
           "keyPoints": [
-            "Austin Mack and Keelon Russell are competing for Alabama's starting quarterback job.",
-            "Mack and Russell have played sparingly so far in their college careers."
+            "In the time it took me to write this sentence, I got a new.",
+            "With all of this outside interference, how in the world do you manage to."
           ],
-          "stanceTitle": "Austin Mack And Keelon Russell Compete For Alabama\u2019s Quarterback Job",
+          "stanceTitle": "How to get your attention span back",
           "type": "directReport",
-          "summary": "Austin Mack And Keelon Russell Compete For Alabama\u2019s Quarterback Job. Austin Mack and Keelon Russell are competing for Alabama's starting quarterback job. Mack and Russell have played sparingly so far in their college careers.",
-          "id": "p_art_432200e79c_1",
-          "sourceName": "Forbes Business",
+          "sourceName": "Fast Company",
+          "id": "p_art_430949fc44_1",
+          "summary": "<p class=\"wp-block-paragraph\">We live in a world of distraction. In the time it took me to write this sentence, I got a new email alert on my computer, two new DMs, and an alert on my phone that my Duolingo streak is in jeopardy.",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "sourceDomain": "forbes.com",
+          "biasTag": "Work Culture & Innovation",
+          "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "fullMarkdownContent": ""
+          "sourceCredibility": 90,
+          "sourceDomain": "fastcompany.com"
         }
       ],
+      "readTimeMinutes": 2,
+      "title": "How to get your attention span back",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T09:08:46.793347+00:00",
+      "id": "art_430949fc44",
+      "videoUrl": "",
       "bookmarksCount": 0,
       "category": "Work & Economy",
-      "videoUrl": "",
-      "commentsCount": 0,
-      "isSinglePerspective": true,
+      "isLiked": false,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a850a635ff758de783ebf35/0x0.jpg?width=960"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91590493-Work-Life-How-to-get-your-attention-span-back.jpg"
     }
   ]
 }

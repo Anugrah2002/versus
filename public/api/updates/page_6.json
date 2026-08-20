@@ -6,91 +6,135 @@
   "articles": [
     {
       "tags": [
-        "Business & Policy",
+        "Work & Economy",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Amazon's New Order Confirmation Emails Seen Boosting Phishing Risk. Critics say the emails can be so vague, and sometimes so far removed from the actual product, that they become less useful for telling customers what's being shipped, and more useful to scammers looking for a template to launch phishing attacks.",
+      "summary": "The Philadelphia Phillies have built one of baseball\u2019s most expensive rosters, but their recent success has also highlighted a longstanding question: Where are the impact position players developed from within the organization? That question has become increasingly difficult to ignore as former Phillies prospects have found success elsewhere.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Critics say the emails can be so vague, and sometimes so far removed from.",
+            "That question has become increasingly difficult to ignore as former Phillies prospects have found.",
+            "And few examples are more striking than Mickey Moniak, the No."
+          ],
+          "stanceTitle": "Phillies Bust, Former 1-1 Pick, Assigns Blame Amid Stunning Resurgence",
+          "type": "directReport",
+          "summary": "The Philadelphia Phillies have built one of baseball\u2019s most expensive rosters, but their recent success has also highlighted a longstanding question: Where are the impact position players developed from within the organization? That question has become increasingly difficult to ignore as former Phillies prospects have found success elsewhere.",
+          "id": "p_art_05778a1447_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.954830+00:00",
+      "id": "art_05778a1447",
+      "title": "Phillies Bust, Former 1-1 Pick, Assigns Blame Amid Stunning Resurgence",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85c01b37df11c8be7b4e81/0x0.jpg?format=jpg&crop=1320,742,x785,y69,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "F or more than 100 years, the billionaire Angelini family had been content to run a largely European business empire from their headquarters in Rome: pharmaceuticals like the Italian equivalent of Tylenol and the antidepressant trazodone, as well as a robotics business, wineries (of course) and a joint venture with Procter & Gamble to sell.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "But after former banker and law professor Sergio Marullo di Condojanni married Thea Paola.",
+            "By 2024, they\u2019d set their sights on the largest and most innovative pharmaceutical market in the world."
+          ],
+          "stanceTitle": "Italy\u2019s $10 Billion Pharma Family Makes A U.S. Power Move",
+          "type": "directReport",
+          "summary": "F or more than 100 years, the billionaire Angelini family had been content to run a largely European business empire from their headquarters in Rome: pharmaceuticals like the Italian equivalent of Tylenol and the antidepressant trazodone, as well as a robotics business, wineries (of course) and a joint venture with Procter & Gamble to sell.",
+          "id": "p_art_3066c9b506_1",
+          "sourceName": "Forbes Business",
+          "quoteAuthor": "",
+          "biasTag": "Wealth & Entrepreneurship",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "forbes.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.952772+00:00",
+      "id": "art_3066c9b506",
+      "title": "Italy\u2019s $10 Billion Pharma Family Makes A U.S. Power Move",
+      "bookmarksCount": 0,
+      "category": "Work & Economy",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a849275b59e1f05d0629363/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "tags": [
+        "Work & Economy",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. \u201cGrandma feels that she was pressured by my mother into taking out a $50,000 HELOC.\u201d",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "\u201cGrandma feels that she was pressured by my mother into taking out a $50,000 HELOC.\u201d",
             "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Amazon's New Order Confirmation Emails Seen Boosting Phishing Risk",
+          "stanceTitle": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
           "type": "directReport",
-          "summary": "Amazon's New Order Confirmation Emails Seen Boosting Phishing Risk. Critics say the emails can be so vague, and sometimes so far removed from the actual product, that they become less useful for telling customers what's being shipped, and more useful to scammers looking for a template to launch phishing attacks.",
-          "id": "p_art_3725e26957_1",
-          "sourceName": "NDTV Profit",
+          "summary": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. \u201cGrandma feels that she was pressured by my mother into taking out a $50,000 HELOC.\u201d",
+          "id": "p_art_65992e1995_1",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Indian Corporate & Regulatory",
+          "biasTag": "Market Analysis",
           "fullMarkdownContent": "",
           "quote": "",
           "sourceCredibility": 92,
-          "sourceDomain": "ndtvprofit.com"
+          "sourceDomain": "marketwatch.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.798982+00:00",
-      "id": "art_3725e26957",
-      "title": "Amazon's New Order Confirmation Emails Seen Boosting Phishing Risk",
-      "bookmarksCount": 0,
-      "category": "Business & Policy",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://c.ndtvimg.com/2026-08/5tlb8f1g_amazon_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "The New York Yankees' shortstop situation has been one of the more closely watched position battles in all of baseball this season, with Anthony Volpe, Jose Caballero and top prospect George Lombard Jr. all factoring into the conversation.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "all factoring into the conversation.",
-            "\u201cAll season, the daily narrative around the New York Yankees has been dominated by."
-          ],
-          "stanceTitle": "Yankees Suddenly Cut Ties With Shortstop After George Lombard Jr Decision",
-          "type": "directReport",
-          "summary": "The New York Yankees' shortstop situation has been one of the more closely watched position battles in all of baseball this season, with Anthony Volpe, Jose Caballero and top prospect George Lombard Jr. all factoring into the conversation.",
-          "id": "p_art_3b05a546bb_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.765725+00:00",
-      "id": "art_3b05a546bb",
-      "title": "Yankees Suddenly Cut Ties With Shortstop After George Lombard Jr Decision",
+      "publishedAt": "2026-08-20T11:38:22.939164+00:00",
+      "id": "art_65992e1995",
+      "title": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Sh",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84dd4ec37f14259d692d8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-24501821"
     },
     {
       "tags": [
@@ -99,42 +143,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "The Los Angeles Dodgers entered 2026 with another championship-caliber roster and one of baseball\u2019s most expensive new additions. Five-tool outfielder Kyle Tucker was supposed to make an already dangerous lineup even tougher to pitch to after signing a four-year, $240 million contract in the offseason.",
+      "summary": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark. AMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Five-tool outfielder Kyle Tucker was supposed to make an already dangerous lineup even tougher.",
-            "Instead, Tucker\u2019s first season in Los Angeles has become one of the more unexpected."
+            "AMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "Dodgers Veteran Calls For Kyle Tucker Roster Move As Concerns Mount",
+          "stanceTitle": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
           "type": "directReport",
-          "summary": "The Los Angeles Dodgers entered 2026 with another championship-caliber roster and one of baseball\u2019s most expensive new additions. Five-tool outfielder Kyle Tucker was supposed to make an already dangerous lineup even tougher to pitch to after signing a four-year, $240 million contract in the offseason.",
-          "id": "p_art_581b2c3c62_1",
-          "sourceName": "Forbes Business",
+          "summary": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark. AMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders.",
+          "id": "p_art_f0382e4e03_1",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Market Analysis",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.707552+00:00",
-      "id": "art_581b2c3c62",
-      "title": "Dodgers Veteran Calls For Kyle Tucker Roster Move As Concerns Mount",
+      "publishedAt": "2026-08-20T11:38:22.914665+00:00",
+      "id": "art_f0382e4e03",
+      "title": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84abd1f4a29167e11cd8b0/0x0.jpg?format=jpg&crop=3972,2235,x0,y0,safe&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-89672690"
     },
     {
       "tags": [
@@ -143,42 +187,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "The number of Americans using AI to plan their vacations is soaring, with travelers are showing growing trust in their AI travel agents, and increasingly making purchases after AI steers them to a flight, hotel, or other travel option, according to new data from Adobe released today.",
+      "summary": "Oil prices jump after Trump declares economic war on Iran. President Donald Trump said in a post on Truth Social that any country supporting Iran\u2019s economy would face \u201ctremendous economic consequences.\u201d",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "\u201cTravelers are turning to AI-powered chat services and browsers to construct nuanced itineraries, identify.",
-            "AI Traffic To Travel Sites Up 119% Travel planning is undergoing a seismic shift, according to Adobe\u2019s data."
+            "President Donald Trump said in a post on Truth Social that any country supporting.",
+            "Key analytical takeaway and operational overview."
           ],
-          "stanceTitle": "AI Is Quickly Becoming America\u2019s Favorite Travel Agent, New Data Shows",
+          "stanceTitle": "Oil prices jump after Trump declares economic war on Iran",
           "type": "directReport",
-          "summary": "The number of Americans using AI to plan their vacations is soaring, with travelers are showing growing trust in their AI travel agents, and increasingly making purchases after AI steers them to a flight, hotel, or other travel option, according to new data from Adobe released today.",
-          "id": "p_art_8f1a92fab7_1",
-          "sourceName": "Forbes Business",
+          "summary": "Oil prices jump after Trump declares economic war on Iran. President Donald Trump said in a post on Truth Social that any country supporting Iran\u2019s economy would face \u201ctremendous economic consequences.\u201d",
+          "id": "p_art_bac10ab41a_1",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Market Analysis",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.699739+00:00",
-      "id": "art_8f1a92fab7",
-      "title": "AI Is Quickly Becoming America\u2019s Favorite Travel Agent, New Data Shows",
+      "publishedAt": "2026-08-20T11:38:22.873549+00:00",
+      "id": "art_bac10ab41a",
+      "title": "Oil prices jump after Trump declares economic war on Iran",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84de0c1e24a84db1ef9337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-43202431"
     },
     {
       "tags": [
@@ -187,42 +231,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "On June 29, Governor Gavin Newsom signed Senate Bill 122, extending a $5 million annual limit on how much any single taxpayer can use in business tax credits through 2029. Entertainment unions and producers have spent the summer pressing lawmakers for a broader exemption for film and television credits.",
+      "summary": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.. Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that they see as not even needed.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Entertainment unions and producers have spent the summer pressing lawmakers for a broader exemption.",
-            "The fight assumes payroll and in-state spending still decide where a film gets made."
+            "Here\u2019s its advice for investors..",
+            "Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that."
           ],
-          "stanceTitle": "California Is Fighting Over Film Tax Credits As AI Studios Rely Less On Production Payroll",
+          "stanceTitle": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.",
           "type": "directReport",
-          "summary": "On June 29, Governor Gavin Newsom signed Senate Bill 122, extending a $5 million annual limit on how much any single taxpayer can use in business tax credits through 2029. Entertainment unions and producers have spent the summer pressing lawmakers for a broader exemption for film and television credits.",
-          "id": "p_art_86e5b55c4f_1",
-          "sourceName": "Forbes Business",
+          "summary": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.. Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that they see as not even needed.",
+          "id": "p_art_4f0c77e2ab_1",
+          "sourceName": "MarketWatch Top Stories",
           "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
+          "biasTag": "Market Analysis",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "marketwatch.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.682451+00:00",
-      "id": "art_86e5b55c4f",
-      "title": "California Is Fighting Over Film Tax Credits As AI Studios Rely Less On Production Payroll",
+      "publishedAt": "2026-08-20T11:38:22.871872+00:00",
+      "id": "art_4f0c77e2ab",
+      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advi",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a859923f7950983f6893a95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.mktw.net/im-19641233"
     },
     {
       "tags": [
@@ -231,196 +275,20 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "Ask Alexander Olesen why he founded Buckstop, and he replies: Why does a retired EV charger, still packed with several thousand dollars of recoverable metal, get valued by lenders and insurers at zero?",
+      "summary": "<p class=\"wp-block-paragraph\">In central Arizona, about 90 miles east of Phoenix, an old open-pit copper mine sits full of water.&nbsp;</p> <p class=\"wp-block-paragraph\">The mine closed in the 1980s, left to accumulate rain and groundwater.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Olesen calls that gap a \u201cprice discovery problem\u201d\u2014the reason his Washington, D.C.-based startup built.",
-            "Olesen wants to become \u201cthe Kelley Blue Book for electronics\u201d in a U.S."
+            "These \u201cpit lakes,\u201d as they\u2019re called, are monitored so that they don\u2019t contaminate the.",
+            "SiTration&#8217;s CEO, Brendan Smith, says the two-month pilot will be able to extract two."
           ],
-          "stanceTitle": "Exelon\u2019s Climate Bet: How $300K Checks Are Unlocking Half A Billion",
+          "stanceTitle": "How one startup is recovering copper from old mines that were left for dead in the 1980s",
           "type": "directReport",
-          "summary": "Ask Alexander Olesen why he founded Buckstop, and he replies: Why does a retired EV charger, still packed with several thousand dollars of recoverable metal, get valued by lenders and insurers at zero?",
-          "id": "p_art_54db00c481_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.606191+00:00",
-      "id": "art_54db00c481",
-      "title": "Exelon\u2019s Climate Bet: How $300K Checks Are Unlocking Half A Billion",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a84aa713e53ce612f03d5ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "The rise of Pete Crow-Armstrong has become one of the biggest stories surrounding the Chicago Cubs this season. The 24-year-old center fielder has developed from a promising young player into a legitimate National League MVP candidate, combining elite defense, power and speed while helping keep Chicago in contention.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "The 24-year-old center fielder has developed from a promising young player into a legitimate.",
-            "His latest heroics against the crosstown rival Chicago White Sox only strengthened that case,."
-          ],
-          "stanceTitle": "Cubs Superstar Detailed Personal Link To Hayden Panettiere Before Tragic Death",
-          "type": "directReport",
-          "summary": "The rise of Pete Crow-Armstrong has become one of the biggest stories surrounding the Chicago Cubs this season. The 24-year-old center fielder has developed from a promising young player into a legitimate National League MVP candidate, combining elite defense, power and speed while helping keep Chicago in contention.",
-          "id": "p_art_6db75764dd_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.599068+00:00",
-      "id": "art_6db75764dd",
-      "title": "Cubs Superstar Detailed Personal Link To Hayden Panettiere Before Tragic Death",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85aabd052beb3ebcb465f4/0x0.jpg?format=jpg&crop=2350,1322,x0,y0,safe&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Topline Harvard Medical School has agreed to pay $53 million to settle civil lawsuits accusing it of negligence after its former morgue manager spent four years stealing and selling body parts from cadavers donated for medical research\u2014raising questions about how one of the world's most prestigious medical institutions failed to catch the theft.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "Key Facts The $53 million will be split across two class action settlement funds.",
-            "Cedric Lodge, who managed the morgue for Harvard Medical School's Anatomical Gift Program, stole."
-          ],
-          "stanceTitle": "Harvard Will Pay $53 Million To Settle Lawsuits Over Body Parts Stolen From Morgue",
-          "type": "directReport",
-          "summary": "Topline Harvard Medical School has agreed to pay $53 million to settle civil lawsuits accusing it of negligence after its former morgue manager spent four years stealing and selling body parts from cadavers donated for medical research\u2014raising questions about how one of the world's most prestigious medical institutions failed to catch the theft.",
-          "id": "p_art_41d65e9857_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.546356+00:00",
-      "id": "art_41d65e9857",
-      "title": "Harvard Will Pay $53 Million To Settle Lawsuits Over Body Parts Stolen From Morgue",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a85ab55c56b349817c42825/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "Olivia Dean makes history yet again in the United Kingdom this week as she holds at No. 1 on the Official Singles chart. The Grammy winner sits alongside Sam Fender on the latter\u2019s \u201cRein Me In,\u201d which has become the biggest hit of all time.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "1 on the Official Singles chart.",
-            "The Grammy winner sits alongside Sam Fender on the latter\u2019s \u201cRein Me In,\u201d which."
-          ],
-          "stanceTitle": "Olivia Dean\u2019s Biggest Solo Hit Celebrates A Chart Milestone",
-          "type": "directReport",
-          "summary": "Olivia Dean makes history yet again in the United Kingdom this week as she holds at No. 1 on the Official Singles chart. The Grammy winner sits alongside Sam Fender on the latter\u2019s \u201cRein Me In,\u201d which has become the biggest hit of all time.",
-          "id": "p_art_69eb454418_1",
-          "sourceName": "Forbes Business",
-          "quoteAuthor": "",
-          "biasTag": "Wealth & Entrepreneurship",
-          "fullMarkdownContent": "",
-          "quote": "",
-          "sourceCredibility": 91,
-          "sourceDomain": "forbes.com"
-        }
-      ],
-      "readTimeMinutes": 2,
-      "videoUrl": "",
-      "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.543288+00:00",
-      "id": "art_69eb454418",
-      "title": "Olivia Dean\u2019s Biggest Solo Hit Celebrates A Chart Milestone",
-      "bookmarksCount": 0,
-      "category": "Work & Economy",
-      "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
-      "sharesCount": 0,
-      "heroImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a83c1354022d308f9330cca/0x0.jpg?format=jpg&crop=1837,1034,x1285,y490,safe&height=900&width=1600&fit=bounds"
-    },
-    {
-      "tags": [
-        "Work & Economy",
-        "Verified News",
-        "Trending"
-      ],
-      "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">Talented actors who may not have sought out fame in the pursuit of their craft often have to deal with a kind of notoriety that must feel surreal and invasive.",
-      "divergenceScore": 0,
-      "isBookmarked": false,
-      "likesCount": 0,
-      "perspectives": [
-        {
-          "keyPoints": [
-            "</p> <p class=\"wp-block-paragraph\">In a similar vein, some media outlets that been covering the heartbreaking.",
-            "</p> <p class=\"wp-block-paragraph\"><em>Fast Company</em> spoke about this development with Jenny Voisard, media manager at."
-          ],
-          "stanceTitle": "No, Big Bear\u2019s famous bald eagles are not having a tabloid moment after Jackie\u2019s death. Here\u2019s what\u2019s going on",
-          "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">Talented actors who may not have sought out fame in the pursuit of their craft often have to deal with a kind of notoriety that must feel surreal and invasive.",
-          "id": "p_art_e3a6a6b8ed_1",
+          "summary": "<p class=\"wp-block-paragraph\">In central Arizona, about 90 miles east of Phoenix, an old open-pit copper mine sits full of water.&nbsp;</p> <p class=\"wp-block-paragraph\">The mine closed in the 1980s, left to accumulate rain and groundwater.",
+          "id": "p_art_5470edb86c_1",
           "sourceName": "Fast Company",
           "quoteAuthor": "",
           "biasTag": "Work Culture & Innovation",
@@ -433,16 +301,16 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.538761+00:00",
-      "id": "art_e3a6a6b8ed",
-      "title": "No, Big Bear\u2019s famous bald eagles are not having a tabloid moment after Jackie\u2019s death. Here\u2019s ",
+      "publishedAt": "2026-08-20T11:38:22.871039+00:00",
+      "id": "art_5470edb86c",
+      "title": "How one startup is recovering copper from old mines that were left for dead in the 1980s",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91591705-big-bear-bald-eagles-tabloid-moment.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591887-SiTration.jpg"
     },
     {
       "tags": [
@@ -451,20 +319,20 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">By now, most people understand <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> requires enormous computing power and energy. data centers <a href=\"https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/\">consumed</a> about 183 TWh of electricity in 2024. That\u2019s more than 4% of total U.S.",
+      "summary": "<p class=\"wp-block-paragraph\">Never before has a ketchup bottle been designed with such precise portion control.</p> <p class=\"wp-block-paragraph\">Heinz has released its first-ever customizable lid that comes with three settings for light, medium, and heavy labeled &#8220;Like,&#8221; &#8220;Love,&#8221; and &#8220;Crazy Love&#8221; for an increasingly heavier pour.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "data centers <a href=\"https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/\">consumed</a> about 183 TWh of electricity in 2024..",
-            "That\u2019s more than 4% of total U.S."
+            "If the biggest challenge with old-school glass bottles is not knowing how much ketchup.",
+            "It works thanks to a two-part mechanism that controls the ketchup flow while creating."
           ],
-          "stanceTitle": "AI\u2019s water problems run deep",
+          "stanceTitle": "Heinz\u2019s new adjustable cap looks simple. Its design process was another story",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">By now, most people understand <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> requires enormous computing power and energy. data centers <a href=\"https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/\">consumed</a> about 183 TWh of electricity in 2024. That\u2019s more than 4% of total U.S.",
-          "id": "p_art_12b2fb9a91_1",
+          "summary": "<p class=\"wp-block-paragraph\">Never before has a ketchup bottle been designed with such precise portion control.</p> <p class=\"wp-block-paragraph\">Heinz has released its first-ever customizable lid that comes with three settings for light, medium, and heavy labeled &#8220;Like,&#8221; &#8220;Love,&#8221; and &#8220;Crazy Love&#8221; for an increasingly heavier pour.",
+          "id": "p_art_d1673d81cd_1",
           "sourceName": "Fast Company",
           "quoteAuthor": "",
           "biasTag": "Work Culture & Innovation",
@@ -477,16 +345,16 @@
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.531542+00:00",
-      "id": "art_12b2fb9a91",
-      "title": "AI\u2019s water problems run deep",
+      "publishedAt": "2026-08-20T11:38:22.859687+00:00",
+      "id": "art_d1673d81cd",
+      "title": "Heinz\u2019s new adjustable cap looks simple. Its design process was another story",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/1-12.png"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591528-heinz-adjustable-cap.jpg"
     },
     {
       "tags": [
@@ -495,42 +363,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> is changing how people discover products, compare options, and decide what to buy. In the past, search engines presented links for consumers to evaluate.",
+      "summary": "Every CEO wants to talk about AI\u2019s magic. Almost none want to talk about the boring problems standing in the way. Picture a railroad that spends billions on the fastest trains in the world, then runs them on the same aging rails. The trains aren\u2019t the constraint.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "In the past, search engines presented links for consumers to evaluate.",
-            "Now, with the help of AI, answer engines interpret a question, assess the available."
+            "Almost none want to talk about the boring problems standing in the way.",
+            "Picture a railroad that spends billions on the fastest trains in the world, then."
           ],
-          "stanceTitle": "Creators now shape AI recommendations",
+          "stanceTitle": "AI won\u2019t fix a broken company. Rewiring it will",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\"><a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> is changing how people discover products, compare options, and decide what to buy. In the past, search engines presented links for consumers to evaluate.",
-          "id": "p_art_039827c9cd_1",
-          "sourceName": "Fast Company",
+          "summary": "Every CEO wants to talk about AI\u2019s magic. Almost none want to talk about the boring problems standing in the way. Picture a railroad that spends billions on the fastest trains in the world, then runs them on the same aging rails. The trains aren\u2019t the constraint.",
+          "id": "p_art_fee10279cb_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.492770+00:00",
-      "id": "art_039827c9cd",
-      "title": "Creators now shape AI recommendations",
+      "publishedAt": "2026-08-20T11:38:22.794284+00:00",
+      "id": "art_fee10279cb",
+      "title": "AI won\u2019t fix a broken company. Rewiring it will",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/1-11.png"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/sastry-manish.png?resize=1200,600"
     },
     {
       "tags": [
@@ -539,42 +407,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">Demand for <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> skills in entry-level jobs nearly <a href=\"https://www.naceweb.org/job-market/trends-and-predictions/demand-for-ai-skills-in-entry-level-jobs-nearly-triples-since-fall-2025\">tripled</a> since last fall. High school seniors are graduating into that market now.",
+      "summary": "- In today\u2019s CEO Daily: The executive behind FarmVille shares lessons on creating and popularizing products in the AI era - The big leadership story: Who\u2019s in charge of corporate AI spending?",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "High school seniors are graduating into that market now.",
-            "Schools and states are responding by building new career pathways at a pace nobody."
+            "- The markets: A good day in Asian markets, with Korea leading the way.",
+            "Zynga founder Mark Pincus made social gaming a global habit."
           ],
-          "stanceTitle": "Career pathways are growing but evidence isn\u2019t",
+          "stanceTitle": "Zynga founder Mark Pincus: AI can get you to a B-plus, but it won\u2019t get you to an A",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">Demand for <a href=\"https://www.fastcompany.com/section/artificial-intelligence\" title=\"AI\">AI</a> skills in entry-level jobs nearly <a href=\"https://www.naceweb.org/job-market/trends-and-predictions/demand-for-ai-skills-in-entry-level-jobs-nearly-triples-since-fall-2025\">tripled</a> since last fall. High school seniors are graduating into that market now.",
-          "id": "p_art_d423afb1e9_1",
-          "sourceName": "Fast Company",
+          "summary": "- In today\u2019s CEO Daily: The executive behind FarmVille shares lessons on creating and popularizing products in the AI era - The big leadership story: Who\u2019s in charge of corporate AI spending?",
+          "id": "p_art_92e8ee5cb0_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.485754+00:00",
-      "id": "art_d423afb1e9",
-      "title": "Career pathways are growing but evidence isn\u2019t",
+      "publishedAt": "2026-08-20T11:38:22.764849+00:00",
+      "id": "art_92e8ee5cb0",
+      "title": "Zynga founder Mark Pincus: AI can get you to a B-plus, but it won\u2019t get you to an A",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/1-10.png"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2260125364-e1787214066471.jpg?resize=1200,600"
     },
     {
       "tags": [
@@ -583,42 +451,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">For most of the last 30 years, R&amp;D sat deep inside the company.</p> <p class=\"wp-block-paragraph\">A customer would ask for a new feature such as an integration needed to make the product work inside its environment. The request then moved through account teams, product managers, prioritization meetings, roadmap debates, QA, release planning, and deployment windows.",
+      "summary": "Climate change could cost London as much as \u00a336 billion ($50 billion) a year by the 2050s, the Mayor of London\u2019s office said in a report.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "The request then moved through account teams, product managers, prioritization meetings, roadmap debates, QA,.",
-            "By the time the answer came back, the customer had often built a workaround."
+            "Lost working hours, disruption to businesses and damage to infrastructure caused by extreme weather.",
+            "Businesses need to adapt to climate change, the report said, by adjusting working hours,."
           ],
-          "stanceTitle": "R&D must be on the offensive",
+          "stanceTitle": "Climate change to cost London up to \u00a336 billion a year by 2050s",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">For most of the last 30 years, R&amp;D sat deep inside the company.</p> <p class=\"wp-block-paragraph\">A customer would ask for a new feature such as an integration needed to make the product work inside its environment. The request then moved through account teams, product managers, prioritization meetings, roadmap debates, QA, release planning, and deployment windows.",
-          "id": "p_art_ce4b993055_1",
-          "sourceName": "Fast Company",
+          "summary": "Climate change could cost London as much as \u00a336 billion ($50 billion) a year by the 2050s, the Mayor of London\u2019s office said in a report.",
+          "id": "p_art_34b898eff9_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.407570+00:00",
-      "id": "art_ce4b993055",
-      "title": "R&D must be on the offensive",
+      "publishedAt": "2026-08-20T11:38:22.726531+00:00",
+      "id": "art_34b898eff9",
+      "title": "Climate change to cost London up to \u00a336 billion a year by 2050s",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/1-9-1.png"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2282584831-e1787223279425.jpg?resize=1200,600"
     },
     {
       "tags": [
@@ -627,42 +495,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">When my team consisted of 10 people, I could keep track of each team member\u2019s tasks and their capacity. I understood the limits of people&#8217;s workload and even the circumstances that might affect their work.",
+      "summary": "Eastern Time today, oil had reached $95.40 per barrel, measured using the Brent benchmark. That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier. Will oil prices go up? Oil prices are inherently unpredictable.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "I understood the limits of people&#8217;s workload and even the circumstances that might affect their work.",
-            "I hardly needed to delegate formally: if a task was difficult, I could redistribute."
+            "That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier.",
+            "Will oil prices go up?"
           ],
-          "stanceTitle": "4 management lessons for scaling your team",
+          "stanceTitle": "Current price of oil as of August 20, 2026",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">When my team consisted of 10 people, I could keep track of each team member\u2019s tasks and their capacity. I understood the limits of people&#8217;s workload and even the circumstances that might affect their work.",
-          "id": "p_art_d54c2392f4_1",
-          "sourceName": "Fast Company",
+          "summary": "Eastern Time today, oil had reached $95.40 per barrel, measured using the Brent benchmark. That\u2019s $1.80 more than it cost yesterday morning and $28.19 above its price a year earlier. Will oil prices go up? Oil prices are inherently unpredictable.",
+          "id": "p_art_0ba2e25c8d_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.370646+00:00",
-      "id": "art_d54c2392f4",
-      "title": "4 management lessons for scaling your team",
+      "publishedAt": "2026-08-20T11:38:22.703644+00:00",
+      "id": "art_0ba2e25c8d",
+      "title": "Current price of oil as of August 20, 2026",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/1-8.png"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-August-20.jpg?resize=1200,600"
     },
     {
       "tags": [
@@ -671,42 +539,42 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">When my daughter Ella turned 10, she suddenly had <em>nothing</em> to wear.</p> <p class=\"wp-block-paragraph\">The rainbow dresses and unicorn prints she&#8217;d happily worn from brands like Hanna Andersson and Tea Collection suddenly felt too childish.",
+      "summary": "What happens when large language models become commodities? Competitive advantage moves from the model itself to the balance sheet behind it. AI is now reversing 20 years of technology economics, turning what was once a software business into a capital-intensive industry.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "But when we went shopping for something more grown-up, we found ourselves at brands.",
-            "The clothes weren&#8217;t designed for her body, and many of the trends\u2014spaghetti straps, skintight."
+            "Competitive advantage moves from the model itself to the balance sheet behind it.",
+            "AI is now reversing 20 years of technology economics, turning what was once a."
           ],
-          "stanceTitle": "Maisonette bets on tweens with launch of neon rebels",
+          "stanceTitle": "AI is becoming a financial engineering business",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">When my daughter Ella turned 10, she suddenly had <em>nothing</em> to wear.</p> <p class=\"wp-block-paragraph\">The rainbow dresses and unicorn prints she&#8217;d happily worn from brands like Hanna Andersson and Tea Collection suddenly felt too childish.",
-          "id": "p_art_90735264b1_1",
-          "sourceName": "Fast Company",
+          "summary": "What happens when large language models become commodities? Competitive advantage moves from the model itself to the balance sheet behind it. AI is now reversing 20 years of technology economics, turning what was once a software business into a capital-intensive industry.",
+          "id": "p_art_082a19bc33_1",
+          "sourceName": "Fortune",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Executive Leadership",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 92,
+          "sourceDomain": "fortune.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.333514+00:00",
-      "id": "art_90735264b1",
-      "title": "Maisonette bets on tweens with launch of neon rebels",
+      "publishedAt": "2026-08-20T11:38:22.673439+00:00",
+      "id": "art_082a19bc33",
+      "title": "AI is becoming a financial engineering business",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91586133-neon-rebels.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/08/images-2.jpg?resize=1200,600"
     },
     {
       "tags": [
@@ -715,175 +583,307 @@
         "Trending"
       ],
       "videoDuration": "02:45",
-      "lastUpgradedAt": "2026-08-19T15:04:47.073021+00:00",
+      "lastUpgradedAt": "2026-08-20T14:11:40.864169+00:00",
       "isBookmarked": false,
       "divergenceScore": 88,
-      "summary": "US retail giant receives $1bn boost from tariff refunds - Published Target has revealed it has received almost $1bn (\u00a3733.9m) in tariff refunds from the US government which boosted the retailer's latest profits.",
+      "summary": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth MPD-2047 plans for a population of 32 million and shifts Delhi towards denser mixed-use growth around mass transit, land pooling and infrastructure-led urban expansion Listen to This Article The Union government on Thursday notified the Master Plan for Delhi 2047 (MPD-2047), estimating that the.",
       "likesCount": 0,
       "isLiked": false,
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 12,
-      "publishedAt": "2026-08-19T14:09:53.328304+00:00",
-      "id": "art_d52fd09569",
-      "title": "US retail giant receives $1bn boost from tariff refunds",
+      "publishedAt": "2026-08-20T11:38:22.648105+00:00",
+      "id": "art_522a06a55b",
+      "title": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth",
       "bookmarksCount": 0,
       "category": "Work & Economy",
       "perspectives": [
         {
           "keyPoints": [
-            "The American chain said it received a $994 million pre-tax reimbursement, which resulted in.",
-            "Target is the latest of many businesses both large and small being given tax."
+            "The plan seeks to meet this housing demand through redevelopment and densification of existing.",
+            "The Ministry of Housing and Urban Affairs has approved MPD-2047 as an extensive modification."
           ],
-          "stanceTitle": "US retail giant receives $1bn boost from tariff refunds",
+          "stanceTitle": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth",
           "type": "directReport",
-          "sourceName": "BBC Business",
-          "id": "p_art_d52fd09569_1",
-          "summary": "US retail giant receives $1bn boost from tariff refunds - Published Target has revealed it has received almost $1bn (\u00a3733.9m) in tariff refunds from the US government which boosted the retailer's latest profits.",
+          "summary": "Delhi Master Plan 2047 targets 4 mn flats, mixed-use transit-led growth MPD-2047 plans for a population of 32 million and shifts Delhi towards denser mixed-use growth around mass transit, land pooling and infrastructure-led urban expansion Listen to This Article The Union government on Thursday notified the Master Plan for Delhi 2047 (MPD-2047), estimating that the.",
+          "id": "p_art_522a06a55b_1",
+          "sourceName": "Business Standard Economy",
           "quoteAuthor": "",
-          "biasTag": "Balanced Global Reporting",
+          "biasTag": "Macroeconomic Prudence",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 95,
-          "sourceDomain": "bbc.co.uk"
+          "sourceCredibility": 92,
+          "sourceDomain": "business-standard.com"
         }
       ],
-      "commentsCount": 0,
+      "sharesCount": 0,
       "isSinglePerspective": false,
-      "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91592235-target-tariff-refunds.jpg"
+      "commentsCount": 0,
+      "heroImageUrl": "https://img.etimg.com/thumb/msid-133375464,width-1200,height-630,imgsize-56822,overlay-economictimes/articleshow.jpg"
     },
     {
       "tags": [
-        "Work & Economy",
+        "Tech & AI",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">A new study out of Japan, published in the journal <a href=\"https://www.aging-us.com/article/206386/text#results\"><em>Aging</em></a>, found that <a href=\"https://dairynews7x7.com/category/global/daily-yogurt-linked-to-slower#google_vignette\">biological aging slowed by 2.2%</a> among a small group of older men who ate <a href=\"https://www.fastcompany.com/91294541/people-are-paying-up-for-this-39-yogurt-that-went-viral-on-tiktok\">plain yogurt</a> every day, in addition to adhering to standard recommendations for <a href=\"https://www.fastcompany.com/91477970/healthy-food-doesnt-have-to-suck\">a healthier diet</a> and <a href=\"https://www.fastcompany.com/90626389/this-is-how-much-exercise-you-really-need-to-stay-healthy-at-40-50-and-60\">moderate exercise</a>.",
+      "summary": "Black Myth: Zhong Kui is a follow-up to Black Myth: Wukong. Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black Myth: Wukong, has received an extended gameplay trailer.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "Half of the participants consumed 100 grams of plain yogurt containing the probiotic strain.",
-            "They also received dietary counseling to reduce overeating, snacking, and sugary drinks, and were."
+            "Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black.",
+            "The trailer, shared by developer Game Science on Thursday, features a first look at."
           ],
-          "stanceTitle": "A new study says this breakfast staple can slow down how fast you age",
+          "stanceTitle": "Black Myth: Zhong Kui Gets New 15-Minute Gameplay Trailer That Shares First Look at Combat",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">A new study out of Japan, published in the journal <a href=\"https://www.aging-us.com/article/206386/text#results\"><em>Aging</em></a>, found that <a href=\"https://dairynews7x7.com/category/global/daily-yogurt-linked-to-slower#google_vignette\">biological aging slowed by 2.2%</a> among a small group of older men who ate <a href=\"https://www.fastcompany.com/91294541/people-are-paying-up-for-this-39-yogurt-that-went-viral-on-tiktok\">plain yogurt</a> every day, in addition to adhering to standard recommendations for <a href=\"https://www.fastcompany.com/91477970/healthy-food-doesnt-have-to-suck\">a healthier diet</a> and <a href=\"https://www.fastcompany.com/90626389/this-is-how-much-exercise-you-really-need-to-stay-healthy-at-40-50-and-60\">moderate exercise</a>.",
-          "id": "p_art_2eb14d5ba0_1",
-          "sourceName": "Fast Company",
+          "summary": "Black Myth: Zhong Kui is a follow-up to Black Myth: Wukong. Photo Credit: Game Science Black Myth: Zhong Kui, the follow-up to hit action-RPG Black Myth: Wukong, has received an extended gameplay trailer.",
+          "id": "p_art_5cf0a1cdf9_1",
+          "sourceName": "Gadgets 360 NDTV",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Consumer Hardware & Apps",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.322162+00:00",
-      "id": "art_2eb14d5ba0",
-      "title": "A new study says this breakfast staple can slow down how fast you age",
+      "publishedAt": "2026-08-20T11:38:22.637443+00:00",
+      "id": "art_5cf0a1cdf9",
+      "title": "Black Myth: Zhong Kui Gets New 15-Minute Gameplay Trailer That Shares First Look at Combat",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "category": "Tech & AI",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/SCIENCE-RESEARCH.webp"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/black_myth_1787217893970.png"
     },
     {
       "tags": [
-        "Work & Economy",
+        "Tech & AI",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">The classic blue color of denim has an environmental cost: Dyeing a single pair of jeans uses 20 gallons of water and requires industrial chemicals.",
+      "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "But a new approach to digital printing re-creates the same look with around 2.",
-            "</p> <p class=\"wp-block-paragraph\">Digital printing isn\u2019t new, but typically it involves printing only on the."
+            "iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone.",
+            "Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely."
           ],
-          "stanceTitle": "Denim has a water problem. Can this new digital dye solve it?",
+          "stanceTitle": "iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">The classic blue color of denim has an environmental cost: Dyeing a single pair of jeans uses 20 gallons of water and requires industrial chemicals.",
-          "id": "p_art_0dfae63f9b_1",
-          "sourceName": "Fast Company",
+          "summary": "iQOO 16 will reportedly be powered by an octa-core Snapdragon 8 Elite Gen 6 Pro chipset. iQOO 16 is expected to be launched later this year as the Vivo sub-brand's new flagship smartphone. Similarly, the tech firm might also launch its next-generation Neo series smartphone soon, namely the iQOO Neo 12.",
+          "id": "p_art_019eaf729c_1",
+          "sourceName": "Gadgets 360 NDTV",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Consumer Hardware & Apps",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.320101+00:00",
-      "id": "art_0dfae63f9b",
-      "title": "Denim has a water problem. Can this new digital dye solve it?",
+      "publishedAt": "2026-08-20T11:38:22.567324+00:00",
+      "id": "art_019eaf729c",
+      "title": "iQOO 16, iQOO Neo 12 Tipped to Get Major Display Upgrades With Up to 185Hz Refresh Rate",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "category": "Tech & AI",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591842-wtrlss-demin-digital-print-process.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/iqoo-15-rear-gadgets360_1763475278434.jpg"
     },
     {
       "tags": [
-        "Work & Economy",
+        "Tech & AI",
         "Verified News",
         "Trending"
       ],
       "videoDuration": "02:45",
-      "summary": "<p class=\"wp-block-paragraph\">In London, an <a href=\"https://www.fastcompany.com/90688975/polluting-cars-now-have-to-pay-to-drive-within-140-square-miles-of-london\">Ultra Low Emission Zone</a> requires vehicles to meet strict emissions standards or else pay a daily fee for driving through that area. </p> <p class=\"wp-block-paragraph\">It\u2019s an initiative <a href=\"https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/london-wide-ultra-low-emission-zone-one-year-report\">that has</a> reduced toxic air pollution levels and spurred drivers to adopt cleaner vehicles.",
+      "summary": "Asus Jelly75 Keyboard KD201 is priced at Rs. Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India. It features a 22mm stand and adjustable tilt. It runs on up to an AMD Ryzen 5 40 processor and features dual 2W Dirac-enhanced speakers.",
       "divergenceScore": 0,
       "isBookmarked": false,
       "likesCount": 0,
       "perspectives": [
         {
           "keyPoints": [
-            "</p> <p class=\"wp-block-paragraph\">It\u2019s an initiative <a href=\"https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/london-wide-ultra-low-emission-zone-one-year-report\">that has</a> reduced toxic air pollution levels and.",
-            "</p> <p class=\"wp-block-paragraph\">And now it&#8217;s even been linked to improved lung growth in the."
+            "Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India.",
+            "It features a 22mm stand and adjustable tilt."
           ],
-          "stanceTitle": "London\u2019s Ultra Low Emission Zone cleaned up the city\u2019s air. Then children\u2019s lungs got bigger",
+          "stanceTitle": "Asus VM240 AiO All-in-One Desktop PC Launched in India With 24-Inch Display, New Gaming Accessories Tag Along",
           "type": "directReport",
-          "summary": "<p class=\"wp-block-paragraph\">In London, an <a href=\"https://www.fastcompany.com/90688975/polluting-cars-now-have-to-pay-to-drive-within-140-square-miles-of-london\">Ultra Low Emission Zone</a> requires vehicles to meet strict emissions standards or else pay a daily fee for driving through that area. </p> <p class=\"wp-block-paragraph\">It\u2019s an initiative <a href=\"https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/london-wide-ultra-low-emission-zone-one-year-report\">that has</a> reduced toxic air pollution levels and spurred drivers to adopt cleaner vehicles.",
-          "id": "p_art_12cd283cd3_1",
-          "sourceName": "Fast Company",
+          "summary": "Asus Jelly75 Keyboard KD201 is priced at Rs. Photo Credit: Asus Asus VM240 AiO all-in-one desktop PC with a 24-inch display has been launched in India. It features a 22mm stand and adjustable tilt. It runs on up to an AMD Ryzen 5 40 processor and features dual 2W Dirac-enhanced speakers.",
+          "id": "p_art_104958c137_1",
+          "sourceName": "Gadgets 360 NDTV",
           "quoteAuthor": "",
-          "biasTag": "Work Culture & Innovation",
+          "biasTag": "Consumer Hardware & Apps",
           "fullMarkdownContent": "",
           "quote": "",
-          "sourceCredibility": 90,
-          "sourceDomain": "fastcompany.com"
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
         }
       ],
       "readTimeMinutes": 2,
       "videoUrl": "",
       "consensusScore": 100,
-      "publishedAt": "2026-08-19T14:09:53.308259+00:00",
-      "id": "art_12cd283cd3",
-      "title": "London\u2019s Ultra Low Emission Zone cleaned up the city\u2019s air. Then children\u2019s lungs got bigger",
+      "publishedAt": "2026-08-20T11:38:22.535978+00:00",
+      "id": "art_104958c137",
+      "title": "Asus VM240 AiO All-in-One Desktop PC Launched in India With 24-Inch Display, New Gaming Accesso",
       "bookmarksCount": 0,
-      "category": "Work & Economy",
+      "category": "Tech & AI",
       "isLiked": false,
-      "commentsCount": 0,
-      "isSinglePerspective": true,
       "sharesCount": 0,
-      "heroImageUrl": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591879-london-ULEZ-improved-kids-lungs.jpg"
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/asus_vm240_aio_1787214422405.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming.",
+            "The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date."
+          ],
+          "stanceTitle": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of Launch",
+          "type": "directReport",
+          "summary": "Vivo Y31T 5G will be offered in Crimson Red, Golden Mist, and Seashore colour options. Photo Credit: Vivo Vivo Y31T 5G was recently spotted on the company's website, confirming its imminent launch in India. The listing revealed everything about the upcoming smartphone, except for the pricing details and launch date.",
+          "id": "p_art_08b64e4966_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.489987+00:00",
+      "id": "art_08b64e4966",
+      "title": "Vivo Y31T 5G Price in India Tipped Days After Firm Revealed Full Specifications List Ahead of L",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/vivo_y31t_5g_vivo_main_1786950340636.png"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Infinix Hot 70 Pro 5G will be launched in Dive Blue, Mirage Green, Silk Glow Purple and Thermo Orange colours in India. Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the Transsion Holdings subsidiary announced on Thursday. The new Hot series smartphone is confirmed to be available in four colours.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the.",
+            "The new Hot series smartphone is confirmed to be available in four colours."
+          ],
+          "stanceTitle": "Infinix Hot 70 Pro 5G India Launch Confirmed for September, Design and Colours Revealed",
+          "type": "directReport",
+          "summary": "Infinix Hot 70 Pro 5G will be launched in Dive Blue, Mirage Green, Silk Glow Purple and Thermo Orange colours in India. Photo Credit: Infinix Infinix Hot 70 Pro 5G will launch in India soon, the Transsion Holdings subsidiary announced on Thursday. The new Hot series smartphone is confirmed to be available in four colours.",
+          "id": "p_art_fe93048c2c_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.421525+00:00",
+      "id": "art_fe93048c2c",
+      "title": "Infinix Hot 70 Pro 5G India Launch Confirmed for September, Design and Colours Revealed",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/infinix_hot_70_pro_5g_1787218872117.jpg"
+    },
+    {
+      "tags": [
+        "Tech & AI",
+        "Verified News",
+        "Trending"
+      ],
+      "videoDuration": "02:45",
+      "summary": "Google has not confirmed the feature or its release date, and could still change or cancel it. Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
+      "divergenceScore": 0,
+      "isBookmarked": false,
+      "likesCount": 0,
+      "perspectives": [
+        {
+          "keyPoints": [
+            "Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
+            "A new map option has reportedly been discovered in a test version of the."
+          ],
+          "stanceTitle": "Google Photos Could Soon Add a Map View to Ask Photos Search Results, Feature Spotted in APK Teardown",
+          "type": "directReport",
+          "summary": "Google has not confirmed the feature or its release date, and could still change or cancel it. Photo Credit: Google Google Photos might soon give Ask Photos a location-based way to display search results.",
+          "id": "p_art_6494d393e9_1",
+          "sourceName": "Gadgets 360 NDTV",
+          "quoteAuthor": "",
+          "biasTag": "Consumer Hardware & Apps",
+          "fullMarkdownContent": "",
+          "quote": "",
+          "sourceCredibility": 91,
+          "sourceDomain": "gadgets360.com"
+        }
+      ],
+      "readTimeMinutes": 2,
+      "videoUrl": "",
+      "consensusScore": 100,
+      "publishedAt": "2026-08-20T11:38:22.369639+00:00",
+      "id": "art_6494d393e9",
+      "title": "Google Photos Could Soon Add a Map View to Ask Photos Search Results, Feature Spotted in APK Te",
+      "bookmarksCount": 0,
+      "category": "Tech & AI",
+      "isLiked": false,
+      "sharesCount": 0,
+      "isSinglePerspective": true,
+      "commentsCount": 0,
+      "heroImageUrl": "https://i.gadgets360cdn.com/large/Google_photos_ask_map_google_1787219676791.jpg"
     }
   ]
 }
